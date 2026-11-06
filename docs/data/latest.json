@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T04:24:24.634251+00:00",
+ "generated_at": "2026-11-06T04:41:22.034479+00:00",
  "trends": [
   {
-   "term": "miami heat",
+   "term": "gsw",
    "traffic": 200
   },
   {
@@ -23,7 +23,7 @@
   },
   {
    "term": "giannis antetokounmpo",
-   "traffic": 100
+   "traffic": 200
   },
   {
    "term": "devin booker",
@@ -31,7 +31,7 @@
   },
   {
    "term": "golden state",
-   "traffic": 500
+   "traffic": 2000
   },
   {
    "term": "stranger things",
@@ -101,7 +101,7 @@
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-lanca-fones-buds-2-ultra-e-novo-carregador-sem-fio-no-brasil/",
    "published": "2026-11-05T13:00:00+00:00",
    "summary": "",
-   "score": 5.04,
+   "score": 5.02,
    "why": [
     "2 sites cobrindo"
    ],
@@ -139,7 +139,7 @@
    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
    "published": "2026-11-05T21:40:36+00:00",
    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-   "score": 4.58,
+   "score": 4.56,
    "why": [
     "Tema de alto interesse"
    ],
@@ -167,7 +167,7 @@
    "url": "https://canaltech.com.br/carros/como-o-lancamento-de-foguete-da-nasa-alterou-a-atmosfera-e-afetou-gps/",
    "published": "2026-11-05T20:00:00+00:00",
    "summary": "Se você acompanhou o lançamento da missão Artemis II em abril , deve saber que acompanhou um momento histórico — e tão intenso que seus efeitos foram identificados até na atmosfera da Terra. É o que revelou um estudo da Universidade Nacional Cheng Kung, em Taiwan , que mapeou como a passagem do foguete Space Launch System (SLS) durante a missão alterou a densidade de elétrons livres na alta atmosf",
-   "score": 4.47,
+   "score": 4.46,
    "why": [
     "Tema de alto interesse"
    ],
@@ -197,7 +197,7 @@
    "url": "https://canaltech.com.br/tv/tv-lg-mini-led-de-55-surpreende-com-preco-de-modelo-de-entrada/",
    "published": "2026-11-05T18:53:53+00:00",
    "summary": "A LG QNED70 de 55 polegadas entrou em promoção por R$ 2.572,22 no Pix no Magalu. O valor chama atenção porque, na loja oficial da LG, o mesmo modelo aparece por R$ 2.944,05 no Pix. A diferença chega a quase R$ 372. A oferta fica ainda mais interessante quando colocada ao lado de duas alternativas de 55 polegadas. A LG NANO NU850 aparece por R$ 2.454, enquanto a Philips 55PUG8100/78 custa R$ 2.423,",
-   "score": 4.41,
+   "score": 4.39,
    "why": [
     "Tema de alto interesse"
    ],
@@ -233,7 +233,7 @@
    "url": "https://tecnoblog.net/achados/galaxy-s26-fe-atinge-menor-preco-desde-o-lancamento-no-magalu/",
    "published": "2026-11-05T17:51:57+00:00",
    "summary": "Galaxy S26 FE (128 GB) tem chip de 3 nanômetros e novas funções de IA; premium acessível da Samsung sai 41% mais em conta no Pix com cupom durante a Black November 2026 Galaxy S26 FE atinge menor preço desde o lançamento no Magalu",
-   "score": 4.34,
+   "score": 4.32,
    "why": [
     "Tema de alto interesse"
    ],
@@ -270,7 +270,7 @@
    "url": "https://canaltech.com.br/apps/no-android-youtube-testa-novo-visual-com-cara-de-iphone-veja-como-sera/",
    "published": "2026-11-05T17:01:01+00:00",
    "summary": "O YouTube está testando uma nova interface para celulares Android, com uma barra de navegação inferior flutuante e translúcida . O visual lembra o efeito Liquid Glass, adotado pela Apple no iOS, e muda a aparência da parte inferior do aplicativo. A novidade ainda está em fase experimental e não está disponível para todos os usuários. A mudança substitui a barra fixa tradicional por um elemento flu",
-   "score": 4.29,
+   "score": 4.27,
    "why": [
     "Tema de alto interesse"
    ],
@@ -305,7 +305,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/pro/ceo-da-nvidia-e-chamado-ao-congresso-dos-eua-apos-alerta-sobre-possivel-espionagem-chinesa/",
    "published": "2026-11-06T01:48:28+00:00",
    "summary": "Objetivo é esclarecer a relação do executivo com uma empresária ligada a uma companhia investigada pelo governo estadunidense por suspeita de ajudar a China a obter chips de IA O post CEO da Nvidia é chamado ao Congresso dos EUA após alerta sobre possível espionagem chinesa apareceu primeiro em Olhar Digital .",
-   "score": 4.24,
+   "score": 4.22,
    "why": [
     "Tema de alto interesse"
    ],
@@ -343,7 +343,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/pro/tesla-e-spacex-perdem-r-2-49-trilhoes-apos-eleicoes-nos-eua/",
    "published": "2026-11-06T01:09:55+00:00",
    "summary": "Queda ocorreu após as eleições de meio de mandato nos Estados Unidos, que deram aos democratas o controle da Câmara dos Representantes e do Senado O post Tesla e SpaceX perdem R$ 2,49 trilhões após eleições nos EUA apareceu primeiro em Olhar Digital .",
-   "score": 4.2,
+   "score": 4.18,
    "why": [
     "Tema de alto interesse"
    ],
@@ -369,7 +369,7 @@
    "url": "https://tecnoblog.net/guias/tv-smart-boa-e-barata/",
    "published": "2026-11-04T23:23:39+00:00",
    "summary": "Selecionamos os melhores modelos de televisão com preço baixo e tamanhos de 50\", 43\" e 32\"; TVs têm recursos modernos e resolução até 4K Smart TV boa e barata: 7 modelos até R$ 2.000 antes da Black Friday 2026",
-   "score": 4.19,
+   "score": 4.17,
    "why": [
     "2 sites cobrindo"
    ],
@@ -410,7 +410,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-cria-gifs-animados-direto-no-chat-e-permite-editar-quadros/",
    "published": "2026-11-05T15:07:00+00:00",
    "summary": "O ChatGPT ganhou um recurso nativo para criar GIFs animados a partir de texto ou imagens enviadas pelos usuários. A novidade faz parte do modelo Images 2.6, lançado pela OpenAI, que está disponível globalmente no ChatGPT e no Codex para todos os usuários, incluindo versões para navegador, computador e celulares. A tecnologia também chegou à API para desenvolvedores. Com a atualização, é possível c",
-   "score": 4.17,
+   "score": 4.15,
    "why": [
     "Tema de alto interesse"
    ],
@@ -438,7 +438,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/nova-ia-da-perplexity-assume-tarefas-continuas-e-trabalha-com-outros-agentes/",
    "published": "2026-11-06T00:39:02+00:00",
    "summary": "A Perplexity anunciou o lançamento do Teammates, sistema de agentes de inteligência artificial (IA) projetado para assumir tarefas contínuas em ambientes de trabalho. A novidade permite atribuir diferentes responsabilidades a assistentes que operam simultaneamente, acompanham projetos e podem agir quando identificam mudanças — sem precisar receber nova instrução a cada etapa. O recurso foi apresen",
-   "score": 4.17,
+   "score": 4.15,
    "why": [
     "Tema de alto interesse"
    ],
@@ -463,7 +463,7 @@
    "url": "https://canaltech.com.br/games/projeto-usa-ia-para-rodar-jogos-de-nintendo-switch-a-60-fps-na-apple-tv/",
    "published": "2026-11-05T14:52:00+00:00",
    "summary": "Um novo projeto foi revelado nas redes sociais, com o objetivo de levar os jogos de Nintendo Switch e Switch 2 para o Apple TV 4K . Chamado de TVPort, ele permite rodar os principais títulos em resolução alta e com uma taxa de quadros de até 60 FPS. A ideia do hacker FloatingFalafel é se apoiar em inteligência artificial (de forma mais específica, o Claude Opus 5.5 ) para portar games como Super M",
-   "score": 4.15,
+   "score": 4.14,
    "why": [
     "Tema de alto interesse"
    ],
