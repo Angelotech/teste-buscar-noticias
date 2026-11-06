@@ -2,7 +2,7 @@ name: Coleta diária
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # 09:00 UTC = 06:00 em Brasília
+    - cron: "0 9,15,21 * * *"   # 09:00 UTC = 06:00 em Brasília
   workflow_dispatch:        # permite rodar manualmente (botão Atualizar do site, ou Actions)
 
 permissions:
