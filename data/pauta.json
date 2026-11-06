@@ -33,5 +33,33 @@
   "added": 1793995943041,
   "note": "",
   "done": false
+ },
+ {
+  "id": "chipsdanvidiaparadosaesperadeautorizacao",
+  "title": "China mantém 600 mil chips da Nvidia parados à espera de autorização",
+  "source": "Olhar Digital",
+  "url": "https://olhardigital.com.br/2026/11/06/inteligencia-artificial/china-mantem-600-mil-chips-da-nvidia-parados-a-espera-de-autorizacao/",
+  "published": "2026-11-06T18:49:29+00:00",
+  "summary": "Entenda como as restrições impostas por Pequim e Washington fizeram os preços de servidores de IA triplicarem no mercado paralelo O post China mantém 600 mil chips da Nvidia parados à espera de autorização apareceu primeiro em Olhar Digital .",
+  "score": 4.32,
+  "why": [
+   "Tema de alto interesse"
+  ],
+  "also_in": [],
+  "image": "https://olhardigital.com.br/wp-content/uploads/2025/10/ia_chip_eua_china-1024x682.jpg",
+  "text": "Cerca de 600 mil chips H200 da Nvidia estão armazenados em Hong Kong, aguardando autorização de Pequim para serem enviados à China continental. O governo chinês ainda não liberou importações em grande escala, apesar da demanda de empresas de tecnologia por processadores avançados de inteligência artificial . A resistência de Pequim reflete a preocupação com a dependência de tecnologia norte-americana. Ao mesmo tempo, empresas chinesas precisam dos chips da Nvidia para atender à crescente demanda por capacidade computacional. Os controles de exportação impostos pelos EUA desde 2022 limitam o envio de equipamentos de processamento avançado para a China. – Imagem: Quality Stock Arts/Shutterstock China libera pequenas remessas, mas mantém restrições Nos últimos meses, Pequim autorizou a entrada de algumas unidades do H200. Grandes empresas chinesas de internet receberam aproximadamente 10 mil chips cada, segundo pessoas ouvidas pela Reuters . Pequenas quantidades também chegaram ao país por meio de intermediários e rotas indiretas. O H200 não é o processador de IA mais recente da Nvidia, mas oferece capacidades que as alternativas chinesas ainda não conseguiram igualar. O chip é especialmente útil para treinar modelos de IA quando combinado com o software da fabricante. A oferta limitada está relacionada aos controles de exportação impostos pelos Estados Unidos desde 2022, que restringem o acesso chinês a chips avançados da Nvidia e aos equipamentos necessários para fabricá-los. Com menos unidades disponíveis por canais autorizados, compradores passaram a recorrer ao mercado paralelo, onde os preços subiram. No fim de outubro, servidores equipados com esses processadores eram oferecidos na China continental pelos seguintes valores: Mais de 6 milhões de yuans (aproximadamente R$ 4,94 milhões): servidor com oito placas H200, cerca de três vezes o preço de um ano antes. Mais de 20 milhões de yuans (cerca de R$ 16,45 milhões): servidor equipado com os chips Blackwell mais recentes da Nvidia, também sujeitos aos controles de exportação norte-americanos. Os valores foram informados por uma pessoa familiarizada com o assunto. No caso do H200, o preço correspondia a aproximadamente US$ 900 mil (aproximadamente R$ 4,95 milhões). Autoridades de Pequim sinalizaram que as empresas de tecnologia devem priorizar processadores chineses para a execução de modelos de IA. – Reprodução / Nvidia Disputa tecnológica entre Washington e Pequim As restrições aos chips fazem parte de uma disputa comercial mais ampla entre Estados Unidos e China. Washington havia proibido a exportação do H200 para o mercado chinês, mas o governo de Donald Trump mudou a política no ano passado e autorizou a Nvidia a vender os processadores a clientes chineses aprovados, após negociações comerciais entre os dois países. Em maio, a Reuters informou que os Estados Unidos haviam aprovado vendas a dez empresas chinesas, entre elas Alibaba , Tencent e ByteDance. Pequim, porém, estabeleceu suas próprias limitações às importações. Em julho, o site The Information informou que autoridades chinesas haviam sinalizado a empresas como Alibaba, ByteDance e DeepSeek a possibilidade de comprar quantidades limitadas de H200 para treinar modelos de IA. Segundo a publicação, o total de aprovações poderia ficar abaixo de 200 mil unidades. O governo também queria que as empresas priorizassem processadores nacionais para a inferência, etapa em que os modelos de IA executam tarefas. A busca por alternativas não impediu novas encomendas de produtos da Nvidia. Segundo reportagem da Reuters publicada em outubro, ByteDance, Alibaba e Tencent encomendaram mais de 3 milhões de placas gráficas RTX Pro 5500. O modelo é menos potente e está em conformidade com as regras de exportação dos Estados Unidos. O preço de tabela combinado dos pedidos superava US$ 35 bilhões. O post China mantém 600 mil chips da Nvidia parados à espera de autorização apareceu primeiro em Olhar Digital .",
+  "text_source": "rss",
+  "images": [
+   "https://olhardigital.com.br/wp-content/uploads/2025/10/ia_chip_eua_china-1024x682.jpg"
+  ],
+  "videos": [],
+  "keywords": [
+   "600",
+   "Nvidia"
+  ],
+  "searches": [],
+  "added": 1793995954139,
+  "note": "",
+  "done": false
  }
 ]
