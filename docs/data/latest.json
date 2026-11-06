@@ -1,6 +1,18 @@
 {
- "generated_at": "2026-11-06T04:05:15.445281+00:00",
+ "generated_at": "2026-11-06T04:24:24.634251+00:00",
  "trends": [
+  {
+   "term": "miami heat",
+   "traffic": 200
+  },
+  {
+   "term": "rogério marinho",
+   "traffic": 100
+  },
+  {
+   "term": "klay thompson",
+   "traffic": 200
+  },
   {
    "term": "davion mitchell",
    "traffic": 200
@@ -19,7 +31,7 @@
   },
   {
    "term": "golden state",
-   "traffic": 200
+   "traffic": 500
   },
   {
    "term": "stranger things",
@@ -28,18 +40,6 @@
   {
    "term": "herediano",
    "traffic": 100
-  },
-  {
-   "term": "pluto.tv",
-   "traffic": 100
-  },
-  {
-   "term": "joe fagnano",
-   "traffic": 200
-  },
-  {
-   "term": "navio de cruzeiro",
-   "traffic": 200
   }
  ],
  "usage": {
@@ -95,42 +95,13 @@
  "manual": [],
  "stories": [
   {
-   "id": "analcomlaligaitalianoebrasileiraodegraca",
-   "title": "Pluto TV ganha canal com LALIGA, Italiano e Brasileirão de graça",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/entretenimento/pluto-tv-ganha-canal-com-laliga-italiano-e-brasileirao-de-graca/",
-   "published": "2026-11-05T16:05:04+00:00",
-   "summary": "O streaming PlutoTV adicionou o canal esportivo SportyNet à grade de programação gratuita . A emissora, fundada em 2023, tem transmissões ao vivo de campeonatos nacionais e internacionais de futebol. O catálogo da SportyNet inclui partidas de LALIGA (campeonato espanhol), Bundesliga (campeonato alemão), Serie A Enilive (campeonato italiano), Brasileirão Série B e Série C, amistosos entre clubes e ",
-   "score": 9.65,
-   "why": [
-    "Em alta no Google: pluto.tv",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Entretenimento\n\n# Pluto TV ganha canal com LALIGA, Italiano e Brasileirão de graça\n\nPor André Lourenti Magalhães • Editado por Jones Oliveira \\| 05/11/2026 às 13:05\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/3c093c90-a129-406f-8128-ffe5e4a6046e.png)Divulgação/Pluto TV\n\nO streaming **PlutoTV adicionou o canal esportivo SportyNet à grade de programação gratuita**. A emissora, fundada em 2023, tem transmissões ao vivo de campeonatos nacionais e internacionais de futebol.\n\nContinua após a publicidade\n\nO catálogo da SportyNet inclui partidas de **LALIGA**(campeonato espanhol), **Bundesliga**(campeonato alemão), **Serie A Enilive** (campeonato italiano), **Brasileirão Série B e Série C,** amistosos entre clubes e partidas de ligas do México e da Grécia. Clubes europeus famosos como **Milan, Juventus, Atlético Madrid, Bayern de Munique e Borussia Dortmund** já têm transmissões confirmadas para as próximas semanas.\n\nA chegada à PlutoTV aumenta as opções de acesso ao canal de esportes. O conteúdo também está disponível via **YouTube** e por canais nas operadoras **Claro, Sky e Vivo TV**.\n\nO Canaltech está no WhatsApp!Entre no canal e acompanhe notícias e dicas de tecnologia\n\nWhatsApp\n\nContinua após a publicidade\n\n## A PlutoTV está disponível em quais plataformas?\n\nA PlutoTV pode ser acessada das seguintes formas:\n\n- Navegador\n- Aplicativo para Android e iOS\n- Windows\n- Dispositivos de streaming (Roku, Amazon Fire TV e Chromecast)\n- Smart TVs (LG, Samsung, Hisense e Google TV)\n\nContinua após a publicidade\n\nO **serviço é gratuito** mas exige a criação de uma conta para funcionar nos computadores. Além de contar com programação ao vivo, a plataforma possui uma área de **conteúdo sob demanda** (VOD). Outros canais de destaque incluem **Nickelodeon, Record News, Canal UOL e FIFA+**.\n\nConheça mais plataformas de streaming gratuitas disponíveis no Brasil.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/Idf9joDWaUtdmYD8gN1ilUpwKI8=/1200x675/smart/filters:format(webp):quality(85)/3c093c90-a129-406f-8128-ffe5e4a6046e.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/OgSO9fxOmZZe4bSaICLWSFaDL4s=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "TV",
-    "LALIGA",
-    "Italiano"
-   ],
-   "searches": []
-  },
-  {
    "id": "sbuds2ultraenovocarregadorsemfionobrasil",
    "title": "Motorola lança fones Buds 2 Ultra e novo carregador sem fio no Brasil",
    "source": "TecMundo",
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-lanca-fones-buds-2-ultra-e-novo-carregador-sem-fio-no-brasil/",
    "published": "2026-11-05T13:00:00+00:00",
    "summary": "",
-   "score": 5.06,
+   "score": 5.04,
    "why": [
     "2 sites cobrindo"
    ],
@@ -168,7 +139,7 @@
    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
    "published": "2026-11-05T21:40:36+00:00",
    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-   "score": 4.6,
+   "score": 4.58,
    "why": [
     "Tema de alto interesse"
    ],
@@ -196,7 +167,7 @@
    "url": "https://canaltech.com.br/carros/como-o-lancamento-de-foguete-da-nasa-alterou-a-atmosfera-e-afetou-gps/",
    "published": "2026-11-05T20:00:00+00:00",
    "summary": "Se você acompanhou o lançamento da missão Artemis II em abril , deve saber que acompanhou um momento histórico — e tão intenso que seus efeitos foram identificados até na atmosfera da Terra. É o que revelou um estudo da Universidade Nacional Cheng Kung, em Taiwan , que mapeou como a passagem do foguete Space Launch System (SLS) durante a missão alterou a densidade de elétrons livres na alta atmosf",
-   "score": 4.49,
+   "score": 4.47,
    "why": [
     "Tema de alto interesse"
    ],
@@ -226,7 +197,7 @@
    "url": "https://canaltech.com.br/tv/tv-lg-mini-led-de-55-surpreende-com-preco-de-modelo-de-entrada/",
    "published": "2026-11-05T18:53:53+00:00",
    "summary": "A LG QNED70 de 55 polegadas entrou em promoção por R$ 2.572,22 no Pix no Magalu. O valor chama atenção porque, na loja oficial da LG, o mesmo modelo aparece por R$ 2.944,05 no Pix. A diferença chega a quase R$ 372. A oferta fica ainda mais interessante quando colocada ao lado de duas alternativas de 55 polegadas. A LG NANO NU850 aparece por R$ 2.454, enquanto a Philips 55PUG8100/78 custa R$ 2.423,",
-   "score": 4.43,
+   "score": 4.41,
    "why": [
     "Tema de alto interesse"
    ],
@@ -262,7 +233,7 @@
    "url": "https://tecnoblog.net/achados/galaxy-s26-fe-atinge-menor-preco-desde-o-lancamento-no-magalu/",
    "published": "2026-11-05T17:51:57+00:00",
    "summary": "Galaxy S26 FE (128 GB) tem chip de 3 nanômetros e novas funções de IA; premium acessível da Samsung sai 41% mais em conta no Pix com cupom durante a Black November 2026 Galaxy S26 FE atinge menor preço desde o lançamento no Magalu",
-   "score": 4.36,
+   "score": 4.34,
    "why": [
     "Tema de alto interesse"
    ],
@@ -299,7 +270,7 @@
    "url": "https://canaltech.com.br/apps/no-android-youtube-testa-novo-visual-com-cara-de-iphone-veja-como-sera/",
    "published": "2026-11-05T17:01:01+00:00",
    "summary": "O YouTube está testando uma nova interface para celulares Android, com uma barra de navegação inferior flutuante e translúcida . O visual lembra o efeito Liquid Glass, adotado pela Apple no iOS, e muda a aparência da parte inferior do aplicativo. A novidade ainda está em fase experimental e não está disponível para todos os usuários. A mudança substitui a barra fixa tradicional por um elemento flu",
-   "score": 4.31,
+   "score": 4.29,
    "why": [
     "Tema de alto interesse"
    ],
@@ -318,7 +289,14 @@
     "Android",
     "YouTube"
    ],
-   "searches": []
+   "searches": [
+    "android youtube",
+    "android youtube without ads",
+    "android youtube download",
+    "android youtube ad blocker",
+    "android youtube adblock",
+    "android youtube channel"
+   ]
   },
   {
    "id": "aposalertasobrepossivelespionagemchinesa",
@@ -327,7 +305,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/pro/ceo-da-nvidia-e-chamado-ao-congresso-dos-eua-apos-alerta-sobre-possivel-espionagem-chinesa/",
    "published": "2026-11-06T01:48:28+00:00",
    "summary": "Objetivo é esclarecer a relação do executivo com uma empresária ligada a uma companhia investigada pelo governo estadunidense por suspeita de ajudar a China a obter chips de IA O post CEO da Nvidia é chamado ao Congresso dos EUA após alerta sobre possível espionagem chinesa apareceu primeiro em Olhar Digital .",
-   "score": 4.26,
+   "score": 4.24,
    "why": [
     "Tema de alto interesse"
    ],
@@ -365,7 +343,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/pro/tesla-e-spacex-perdem-r-2-49-trilhoes-apos-eleicoes-nos-eua/",
    "published": "2026-11-06T01:09:55+00:00",
    "summary": "Queda ocorreu após as eleições de meio de mandato nos Estados Unidos, que deram aos democratas o controle da Câmara dos Representantes e do Senado O post Tesla e SpaceX perdem R$ 2,49 trilhões após eleições nos EUA apareceu primeiro em Olhar Digital .",
-   "score": 4.22,
+   "score": 4.2,
    "why": [
     "Tema de alto interesse"
    ],
@@ -391,7 +369,7 @@
    "url": "https://tecnoblog.net/guias/tv-smart-boa-e-barata/",
    "published": "2026-11-04T23:23:39+00:00",
    "summary": "Selecionamos os melhores modelos de televisão com preço baixo e tamanhos de 50\", 43\" e 32\"; TVs têm recursos modernos e resolução até 4K Smart TV boa e barata: 7 modelos até R$ 2.000 antes da Black Friday 2026",
-   "score": 4.21,
+   "score": 4.19,
    "why": [
     "2 sites cobrindo"
    ],
@@ -432,7 +410,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-agora-cria-gifs-animados-direto-no-chat-e-permite-editar-quadros/",
    "published": "2026-11-05T15:07:00+00:00",
    "summary": "O ChatGPT ganhou um recurso nativo para criar GIFs animados a partir de texto ou imagens enviadas pelos usuários. A novidade faz parte do modelo Images 2.6, lançado pela OpenAI, que está disponível globalmente no ChatGPT e no Codex para todos os usuários, incluindo versões para navegador, computador e celulares. A tecnologia também chegou à API para desenvolvedores. Com a atualização, é possível c",
-   "score": 4.19,
+   "score": 4.17,
    "why": [
     "Tema de alto interesse"
    ],
@@ -460,7 +438,7 @@
    "url": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/nova-ia-da-perplexity-assume-tarefas-continuas-e-trabalha-com-outros-agentes/",
    "published": "2026-11-06T00:39:02+00:00",
    "summary": "A Perplexity anunciou o lançamento do Teammates, sistema de agentes de inteligência artificial (IA) projetado para assumir tarefas contínuas em ambientes de trabalho. A novidade permite atribuir diferentes responsabilidades a assistentes que operam simultaneamente, acompanham projetos e podem agir quando identificam mudanças — sem precisar receber nova instrução a cada etapa. O recurso foi apresen",
-   "score": 4.19,
+   "score": 4.17,
    "why": [
     "Tema de alto interesse"
    ],
@@ -475,6 +453,35 @@
    "keywords": [
     "IA",
     "Perplexity"
+   ],
+   "searches": []
+  },
+  {
+   "id": "odarjogosdenintendoswitcha60fpsnaappletv",
+   "title": "Projeto usa IA para rodar jogos de Nintendo Switch a 60 FPS na Apple TV",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/games/projeto-usa-ia-para-rodar-jogos-de-nintendo-switch-a-60-fps-na-apple-tv/",
+   "published": "2026-11-05T14:52:00+00:00",
+   "summary": "Um novo projeto foi revelado nas redes sociais, com o objetivo de levar os jogos de Nintendo Switch e Switch 2 para o Apple TV 4K . Chamado de TVPort, ele permite rodar os principais títulos em resolução alta e com uma taxa de quadros de até 60 FPS. A ideia do hacker FloatingFalafel é se apoiar em inteligência artificial (de forma mais específica, o Claude Opus 5.5 ) para portar games como Super M",
+   "score": 4.15,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Games Projeto usa IA para rodar jogos de Nintendo Switch a 60 FPS na Apple TV Por Diego Corumba | 05/11/2026 às 11:52\n\nPrefira o CT no Google Divulgação/Nintendo Um novo projeto foi revelado nas redes sociais, com o objetivo de levar os jogos de Nintendo Switch e Switch 2 para o Apple TV 4K . Chamado de TVPort, ele permite rodar os principais títulos em resolução alta e com uma taxa de quadros de até 60 FPS.\n\nA ideia do hacker FloatingFalafel é se apoiar em inteligência artificial (de forma mais específica, o Claude Opus 5.5 ) para portar games como Super Mario Odyssey, Animal Crossing: New Horizons e até The Legend of Zelda: Tears of the Kingdom para a plataforma — com dados salvos no Mac ou iCloud.\n\nEntre os problemas encontrados e que ainda precisam de ajustes, estão as falhas de áudio na última aventura 3D de Mario e o superaquecimento visto em Zelda: TotK. O responsável pelo projeto admite que terá de reescrever o motor gráfico para fazer o título funcionar adequadamente no dispositivo.\n\nAinda que o TVPort tenha seu código aberto (em outras palavras, está livre para qualquer pessoa baixar e testá-lo), nenhum título é disponibilizado para os fãs. Na prática, isso exige que você tenha os arquivos de algum modo para rodá-los no Apple TV 4K.\n\nWhatsApp Continua após a publicidade Porém, o hacker alerta que o sistema não é perfeito, tampouco uma solução que agradará a todos. Nas postagens, avisa que “jogos pesados como Tears of the Kingdom talvez nunca rodem em um Apple TV 4K de terceira geração”.\n\nO cenário de plataformas desbloqueadas e brechas encontradas pelas IAs é vasto e tem sido muito explorado pela comunidade. Se por um lado o projeto TVPort busca apenas mostrar a capacidade do Apple TV 4K para executar games, por outro temos um passo importante para a democratização de obras.\n\nTanto o Nintendo Switch 2 quanto o PS5 têm avançado em seus respectivos jailbreaks. Assim, os jogadores ganham acesso a lojas paralelas, a presença de softwares não habilitados e até mesmo a chegada de modificações em games — feitas pelos próprios fãs.\n\nSony e a Big N tentam barrar o crescimento deste cenário, contudo não tomaram nenhuma ação efetiva que reduza as iniciativas. A dona do PlayStation até tenta lançar atualizações constantes, com o objetivo de impedir a pirataria sobre GTA 6 , mas os hackers são velozes e conseguem reverter o bloqueio.\n\nA inteligência artificial, no entanto, também já causou baixas. Destruído pela IA, maior site de decompilação do mundo fecha as portas .",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/pbcFxn5xMZQDgVXJQrwKOQzjG3A=/1200x675/smart/filters:format(webp):quality(85)/85087bac-4c78-4964-a089-f7c57594dd1b.png",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/KusAlRywXXvvat-BA08JWOx4EKk=/640x360/smart/filters:format(webp):quality(85)/85087bac-4c78-4964-a089-f7c57594dd1b.png"
+   ],
+   "videos": [],
+   "keywords": [
+    "IA",
+    "Nintendo",
+    "Switch"
    ],
    "searches": []
   }
