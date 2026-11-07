@@ -39,6 +39,10 @@
     {
       "name": "Popsci",
       "site": "https://www.popsci.com/technology/edible-moving-soft-robot-japan/"
+    },
+    {
+      "name": "Frontiersin",
+      "site": "https://www.frontiersin.org/"
     }
   ],
   "boost_keywords": [
