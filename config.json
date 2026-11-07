@@ -9,10 +9,6 @@
   "trends_geo": "BR",
   "sources": [
     {
-      "name": "Tecnoblog",
-      "feed": "https://tecnoblog.net/feed/"
-    },
-    {
       "name": "Canaltech",
       "feed": "https://canaltech.com.br/rss/"
     },
