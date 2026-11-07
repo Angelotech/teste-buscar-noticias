@@ -132,5 +132,37 @@
   "added": 1793996003879,
   "note": "",
   "done": false
+ },
+ {
+  "id": "cessacontasbancariaseanalisaosseusgastos",
+  "title": "Claude ganha ferramenta que acessa contas bancárias e analisa os seus gastos",
+  "source": "Canaltech",
+  "url": "https://canaltech.com.br/inteligencia-artificial/claude-ganha-ferramenta-que-acessa-contas-bancarias-e-analisa-os-seus-gastos/",
+  "published": "2026-11-06T19:01:00+00:00",
+  "summary": "O Claude lançou o Personal Finance, uma ferramenta que permite conectar contas bancárias e cartões de crédito ao assistente de IA . A novidade, que está em fase beta, concentra as informações financeiras em uma conversa com a IA da Anthropic e ajuda a acompanhar despesas, consultar contas a vencer e identificar cobranças incomuns ou duplicadas. A integração funciona por meio do Plaid, serviço que ",
+  "score": 4.66,
+  "why": [
+   "Tema de alto interesse"
+  ],
+  "also_in": [],
+  "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+  "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Inteligência Artificial\n\n# Claude ganha ferramenta que acessa contas bancárias e analisa os seus gastos\n\nPor Viviane França \\| 06/11/2026 às 16:01\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png)Viviane França/Canaltech / Editada por IA/Gemini\n\nO Claude lançou o Personal Finance, uma ferramenta que permite **conectar contas bancárias e cartões de crédito ao assistente de IA**. A novidade, que está em fase beta, concentra as informações financeiras em uma conversa com a IA da Anthropic e ajuda a acompanhar despesas, consultar contas a vencer e identificar cobranças incomuns ou duplicadas.\n\nContinua após a publicidade\n\nA integração funciona por meio do Plaid, serviço que conecta instituições financeiras a aplicativos, e utiliza acesso somente para leitura. A autenticação ocorre no ambiente do próprio banco, e o **Claude não tem acesso às senhas bancárias**. Além disso, a ferramenta não consegue fazer transferências, movimentar dinheiro ou realizar investimentos.\n\nDepois da conexão, o assistente consegue **consultar o nome da instituição financeira**, o tipo de conta, os últimos quatro dígitos, saldos, limites de crédito e até dois anos de histórico de transações. Com essas informações, a IA pode categorizar despesas, comparar gastos entre meses e explicar conceitos financeiros, como taxas de juros APR. Também é possível gerar gráficos de despesas, calendários de vencimentos e painéis interativos.\n\nO usuário pode desconectar as contas bancárias a qualquer momento. A Anthropic também afirma que o Personal Finance **não exibe anúncios** ou recomendações patrocinadas de produtos financeiros, como empréstimos e cartões de crédito. Além disso, as conversas com o assistente financeiro não são usadas para treinar os modelos de IA da empresa.\n\nO Canaltech está no WhatsApp!Entre no canal e acompanhe notícias e dicas de tecnologia\n\nWhatsApp\n\nContinua após a publicidade\n\nSegundo a Anthropic, o Personal Finance foi desenvolvido para ajudar na compreensão e organização das finanças, mas **não é recomendado para aconselhamento financeiro** ou recomendações de investimentos. A empresa também alerta que o Claude pode cometer erros em cálculos e respostas. Por isso, é indicado consultar as transações e outras informações importantes com o banco.\n\nA novidade chega em meio à **expansão de recursos financeiros em assistentes de IA**. O ChatGPT já oferece conexões com serviços financeiros, e o Google integrou o Gemini ao Google Wallet. Ao mesmo tempo, instituições, como o Bank of America, alertam os clientes sobre os riscos de compartilhar senhas bancárias com ferramentas de inteligência artificial.\n\n## Quem pode usar o Personal Finance do Claude?\n\nContinua após a publicidade\n\nO Personal Finance está disponível em fase beta para assinantes dos **planos pagos Pro, Max e Ultra que estejam nos Estados Unidos**. Para acessar a ferramenta, é só abrir a opção na barra lateral do Claude, conectar pelo menos uma conta bancária por meio do Plaid e aceitar os termos de uso. Depois, o usuário já pode fazer perguntas sobre suas finanças ao assistente.\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ 12 prompts para controlar gastos e dívidas sem cair em furada”.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+  "text_source": "firecrawl",
+  "images": [
+   "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
+   "https://tl.ctcdn.com.br/XlkkFDmYSGBFWNkXE1wRPmumhKA=/1200x675/smart/filters:format(webp):quality(85)/60c53e74-9ff4-4239-b082-6c5431dd3005.png",
+   "https://canaltech.com.br/images/bf2026/black-friday.png",
+   "https://tl.ctcdn.com.br/HzAjhrasjmDUYTvzQI1C1cLXcMg=/640x360/smart/filters:format(webp"
+  ],
+  "videos": [],
+  "keywords": [
+   "Claude",
+   "ganha",
+   "ferramenta"
+  ],
+  "searches": [],
+  "added": 1794012157089,
+  "note": "",
+  "done": false
  }
 ]
