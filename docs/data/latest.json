@@ -1,6 +1,14 @@
 {
- "generated_at": "2026-11-07T03:34:45.745852+00:00",
+ "generated_at": "2026-11-07T03:58:15.719482+00:00",
  "trends": [
+  {
+   "term": "lakers x trail blazers",
+   "traffic": 2000
+  },
+  {
+   "term": "defesa civil nacional",
+   "traffic": 100
+  },
   {
    "term": "robert pattinson",
    "traffic": 100
@@ -12,10 +20,6 @@
   {
    "term": "dwayne johnson",
    "traffic": 100
-  },
-  {
-   "term": "ajay mitchell",
-   "traffic": 200
   },
   {
    "term": "zagueiro",
@@ -36,25 +40,15 @@
   {
    "term": "v. j. edgecombe",
    "traffic": 200
-  },
-  {
-   "term": "previsão do tempo porto alegre",
-   "traffic": 1000
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 27,
-  "used_today": 0,
+  "used": 30,
+  "used_today": 3,
   "daily_allowance": 32
  },
  "sources": [
-  {
-   "name": "Tecnoblog",
-   "feed": "https://tecnoblog.net/feed/",
-   "count": 25,
-   "ok": true
-  },
   {
    "name": "Canaltech",
    "feed": "https://canaltech.com.br/rss/",
@@ -88,12 +82,158 @@
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 6,
+   "count": 5,
    "ok": true
+  },
+  {
+   "name": "Popsci",
+   "feed": "https://www.popsci.com/feed/",
+   "count": 19,
+   "ok": true
+  },
+  {
+   "name": "Frontiersin",
+   "feed": "",
+   "count": 0,
+   "ok": false
+  },
+  {
+   "name": "Neuralink",
+   "feed": "",
+   "count": 0,
+   "ok": false
+  },
+  {
+   "name": "Reuters",
+   "feed": "",
+   "count": 0,
+   "ok": false
+  },
+  {
+   "name": "Wiley",
+   "feed": "",
+   "count": 0,
+   "ok": false
+  },
+  {
+   "name": "Techcrunch",
+   "feed": "https://techcrunch.com/feed/",
+   "count": 20,
+   "ok": true
+  },
+  {
+   "name": "Technologyreview",
+   "feed": "https://www.technologyreview.com/feed",
+   "count": 4,
+   "ok": true
+  },
+  {
+   "name": "Bbc",
+   "feed": "",
+   "count": 0,
+   "ok": false
   }
  ],
  "manual": [],
  "stories": [
+  {
+   "id": "9380openai125trillioninvestmentvaluation",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "published": "2026-11-06T23:46:18+00:00",
+   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+   "score": 6.44,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    }
+   ],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- AI\n\n- Business\n\n- News\n\n# OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO\n\nCEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\n\nCEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿\n\nbyStevie Bonifield\n\nNov 6, 2026, 6:46 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments1313Comments (All New)\n\nImage: The Verge\n\n[](https://www.theverge.com/authors/stevie-bonifield)\n\nStevie Bonifieldis a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\n\nOpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to _Bloomberg_. That would make it one of the world’s most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.\n\nEchoing _FT_ and _Wall Street Journal_ reports from last week, _Bloomberg_ says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much as $30 billion at a higher valuation of $1.4 trillion. That was before tech stocks dropped, and the results of the midterms showed how much public opinion has turned against AI companies and data center projects.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nOpenAI’s rival Anthropic filed its S-1 to go public last week. Earlier this year, OpenAI CEO Sam Altman said it’s holding off on its own IPO until it can make more confident claims about its models’ safety. He didn’t give a specific timeline for the IPO, but said at the time, “I think it’s also kind of bad for the world if OpenAI waits too long to go public.”\n\n13 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Stevie Bonifield\n- AI\n\n- Business\n\n- News\n\n- OpenAI\n\n## Most Popular\n\nMost Popular\n\n1. Xbox overhauls its PC, web, and cloud apps with a faster design\n\n2. Anker’s new window-mounted camera monitors the outside of your home from within it\n\n3. I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares\n\n4. After printing 40,000 whistles, this is the 3D printer I’d buy\n\n5. The Enough Phone is made by and for people fed up with big screens\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in AI\n\nAll the latest updates on AI data centers\n\nMeta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now\n\nAI is the new dating dealbreaker\n\nBig Tech lost big in the 2026 election\n\nHow Akai and Moog are embracing vibe-coded mods\n\nAmazon will let you text Alexa your shopping list\n\nAll the latest updates on AI data centers\n\nVerge Staff and Justine Calma3:02 PM EST\n\nMeta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now\n\nEmma Roth1:10 PM ESTCommentsComment Icon Bubble2\n\nAI is the new dating dealbreaker\n\nHelen Li12:00 PM ESTCommentsComment Icon Bubble42\n\nBig Tech lost big in the 2026 election\n\nDavid Pierce11:38 AM ESTCommentsComment Icon Bubble8\n\nHow Akai and Moog are embracing vibe-coded mods\n\nTerrence O'Brien11:34 AM EST\n\nAmazon will let you text Alexa your shopping list\n\nJess Weatherbed9:00 AM EST\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n12:00 PM EST\n\nAI is the new dating dealbreaker\n\n7:30 AM EST\n\nI’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares\n\n7:00 AM EST\n\nThe Enough Phone is made by and for people fed up with big screens\n\n7:00 AM EST\n\nAfter printing 40,000 whistles, this is the 3D printer I’d buy\n\n6:55 AM EST\n\nProtesters break into Microsoft data center site in Amsterdam\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268841_When_it_comes_to_dating_is_AI_the_new_politics__CVirginia.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=24.129582773458%2C0%2C59.816118759438%2C74.471659887186&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "1",
+    "25",
+    "Anthropic"
+   ],
+   "searches": []
+  },
+  {
+   "id": "wwthevergecomtech1028871metamuseaispaces",
+   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "published": "2026-11-06T20:00:43+00:00",
+   "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
+   "score": 6.2,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+    }
+   ],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Tech\n\n- AI\n\n- Apps\n\n# Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now\n\nYou can create things like a shopping hub, school dashboard, or music tracker directly within Muse.\n\nYou can create things like a shopping hub, school dashboard, or music tracker directly within Muse.\n\nbyEmma Roth\n\nNov 6, 2026, 1:10 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments22Comments (All New)\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nMeta will now allow you to build customized, app-like experiences within Muse. The new feature, called “spaces,” allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.\n\nMeta says you can create a new space by describing it. If you connect an outside app to Muse — like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with — the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements inside your spaces by checking things off, adding notes, and making edits.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nMuse (@muse) on Threads\n\nThreads\n\nmuse\n\n· Follow\n\nDescribe an idea, make a space.\n\nAlex Cornell walks through “Jolly Mall”, a space he built that turns his Instagram saves into shopping recommendations. A planner, a tracker, a dashboard: whatever you want, you can build it.\n\nDesign the Muse app, just for you.\n\n10:05 AM · Nov 6, 2026\n\n1064418\n\nView on Threads\n\n### Related\n\n- Muse has a voice mode now\n\nYou can also change the placement of your spaces in the Muse app, too, as Meta lets you keep them in the sidebar, move them into your main tab, or schedule when you see them. “For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday,” Meta says.\n\nMeta also announced that it’s bringing new “Active Memory” and “Active Focus” capabilities from its Muse Wonder AI model into the Muse app and its Meta AI chatbot. This will allow Muse to understand when past information becomes relevant during conversations, as well as make it better at working toward goals.\n\nMeta is rolling out spaces to all Muse users. The company is also looking into ways to share your spaces with other users and collaborate with them.\n\n2 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Emma Roth\n- AI\n\n- Apps\n\n- Meta\n\n- Tech\n\n## Most Popular\n\nMost Popular\n\n1. Xbox overhauls its PC, web, and cloud apps with a faster design\n\n2. Anker’s new window-mounted camera monitors the outside of your home from within it\n\n3. I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares\n\n4. After printing 40,000 whistles, this is the 3D printer I’d buy\n\n5. The Enough Phone is made by and for people fed up with big screens\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Tech\n\nAmazon is now making a Melania Trump TV series\n\nJust about anyone can rent access to White House IP addresses\n\nKobo will soon let you upload and sync your own ebooks across devices, for a price\n\nThe iPhone Duo has more than 100,000 optimized apps, Apple says\n\nHow Akai and Moog are embracing vibe-coded mods\n\nThis see-through camera lets photographers maintain eye contact with their subjects\n\nAmazon is now making a Melania Trump TV series\n\nJay Peters12:56 PM ESTCommentsComment Icon Bubble39\n\nJust about anyone can rent access to White House IP addresses\n\nEmma Roth12:40 PM ESTCommentsComment Icon Bubble6\n\nKobo will soon let you upload and sync your own ebooks across devices, for a price\n\nAndrew Liszewski12:32 PM ESTCommentsComment Icon Bubble12\n\nThe iPhone Duo has more than 100,000 optimized apps, Apple says\n\nJay Peters12:24 PM ESTCommentsComment Icon Bubble3\n\nHow Akai and Moog are embracing vibe-coded mods\n\nTerrence O'Brien11:34 AM EST\n\nThis see-through camera lets photographers maintain eye contact with their subjects\n\nAndrew Liszewski10:33 AM ESTCommentsComment Icon Bubble12\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n12:00 PM EST\n\nAI is the new dating dealbreaker\n\n7:30 AM EST\n\nI’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares\n\n7:00 AM EST\n\nThe Enough Phone is made by and for people fed up with big screens\n\n7:00 AM EST\n\nAfter printing 40,000 whistles, this is the 3D printer I’d buy\n\n6:55 AM EST\n\nProtesters break into Microsoft data center site in Amsterdam\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&strip=all&crop=9.1755530835981%2C0%2C89.724178139157%2C74.471659887186&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/801326820_18105791179973062_3535359790465254532_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GORGwy-G4agDH1NAAISE4Y--HhAxbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=Eu2vtM_ZPAoQ7kNvwEScas_&_nc_oc=Adq7aG0WGKdCeLjpBPleFNi90tvchT1bsM8nUGCZWYac-Fnrx7LCKKUNDg8qI2iNoEI&_nc_zt=24&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_gid=YSgSerBkvZcTTkiYKWpihg&_nc_ss=7b289&oh=00_AQS5NpGifJGR5Si1OmqEULE3rT8S4-NJoMmU_lJHbwmTGQ&oe=6AF42585",
+    "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303179993.jpg?quality=90&strip=all&crop=0%2C0.0062492188476426%2C100%2C99.987501562305&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kobo1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1188.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/camera1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303179993.jpg?quality=90&strip=all&crop=16.6625%2C0%2C66.675%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "Muse",
+    "AI"
+   ],
+   "searches": [
+    "muse ai",
+    "muse ai como usar",
+    "muse ai vs dots",
+    "muse ai review",
+    "muse ai tokens",
+    "muse ai agent"
+   ]
+  },
   {
    "id": "ylancaagentedeiaquetrabalha24horaspordia",
    "title": "‘Funcionário virtual’: Perplexity lança agente de IA que trabalha 24 horas por dia",
@@ -101,7 +241,7 @@
    "url": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/funcionario-virtual-perplexity-lanca-agente-de-ia-que-trabalha-24-horas-por-dia/",
    "published": "2026-11-06T16:00:00+00:00",
    "summary": "",
-   "score": 5.98,
+   "score": 5.95,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -134,13 +274,46 @@
    "searches": []
   },
   {
+   "id": "xperimentalx70aircraftisabigquestionmark",
+   "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+   "published": "2026-11-05T22:49:03+00:00",
+   "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+   "score": 5.58,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/technology/nasa-x-70-fractal-plane-reveal/"
+    }
+   ],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+   "text": "Skip to content\n\nText\nsettings\n\nStory text\n\nSizeSmallStandardLargeWidth\n\\*StandardWideLinksStandardOrange\n\n\\\\* Subscribers only\n\nLearn more\n\nMinimize to nav\n\nNASA has announced a new experimental aircraft, the X-70 Fractal, that will supposedly feature reconfigurable flight-control technology and a modular design for swapping in different payloads. But much remains unknown about the aircraft’s design and development timeline, even as NASA administrator Jared Isaacman said the X-plane could take flight within two years.\n\nThe mystery surrounding NASA’s newest X-plane was exemplified by the agency’s press release, including an apparently AI-generated image of the X-70, showing a dark silhouette vaguely resembling a military fighter jet obscured by smoke. The news was announced by Isaacman during the UP.Summit held at the agency’s Kennedy Space Center in Florida on November 4.\n\n“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” Isaacman said. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next.”\n\nNASA’s press release described the X-70 as a crewed aircraft designed to cruise at Mach 0.75 while reaching a maximum altitude of up to 45,000 feet, and having an operational range beyond 1,726 miles (2,778 kilometers). The article did not mention a specific aircraft manufacturer that might be helping the agency develop the X-plane.\n\nThe X-70 would also have a takeoff weight of 10,000 pounds (4,536 kilograms) and a design capable of accommodating up to 2,000 pounds (907 kilograms) of experimental payloads both internally and externally. Ars has reached out to NASA for more details.\n\n## Return of the Blackbird?\n\nAnother X-plane is also expected to be announced at the UP.Summit on November 6, according to Aviation Week. That would coincide with a scheduled announcement from President Donald Trump at the event.\n\nThis comes after Isaacman previously appeared in front of another smoke-shrouded silhouette image with the tagline “Rebuilding our X-plane portfolio” during the All-In Summit in Los Angeles held from September 12 to 14, according to TWZ. That silhouette appeared strikingly similar to the SR-71 Blackbird that flew Cold War reconnaissance missions at supersonic speeds in the stratosphere.\n\nRumors have circulated about a possible revival of the SR-71 in one form or another, after former NASA employees told Aviation Week they received job offers to help restore an SR-71 to operational flight capability.\n\nIn September, the publication also reported on the removal of a NASA-owned SR-71 with the tail number 844 that had stood on display at NASA’s Armstrong Flight Research Center inside Edwards Air Force Base in California.\n\n## Quiet supersonic flight testing\n\nMeanwhile, NASA recently commemorated the first flight anniversary of its supersonic X-59 Quesst, a needle-nosed aircraft designed by Lockheed Martin to reduce sonic booms to sonic thumps. Ars has previously looked at how this X-plane program is intended to support the design of future supersonic airliners that may fly overland while minimizing disturbances for buildings and people below.\n\nSince first taking to the skies on October 28, 2025, the X-59 has completed over 40 flight tests, including both low-speed flights and supersonic test runs reaching Mach 1.53, according to NASA. Such testing has taken place at NASA’s Armstrong Flight Research Center inside Edwards Air Force Base in California.\n\nThe X-59 also recently completed its first cross-country journey from California to Florida with stopovers in Texas and Alabama, accompanied by an F-15 and an F/A-18 from the agency’s research fleet that served as chase planes. It sat on the ground as a static display during the NASA Max Power airshow at Kennedy Space Center in Florida from November 7 to 8.\n\nThe supersonic aircraft will resume its test flight schedule once it returns to Armstrong Flight Research Center in California, a NASA spokesperson told Ars. Given the agency’s latest X-plane push, the X-59 may not be flying alone for many more years.\n\n[](https://arstechnica.com/author/jeremyhsu/)\n\nJeremy Hsu Tech Reporter\n\nJeremy Hsu Tech Reporter\n\nJeremy Hsu is a reporter exploring a wide range of topics across deep tech and AI. He has previously written for New Scientist, Scientific American, IEEE Spectrum, Wired, Undark Magazine and MIT Tech Review, among many other publications, about topics such as deepfakes, data centers, drones, battery tech, robotics, and GPS jamming. He also has a Master of Arts in Journalism from NYU, and a bachelor's degree from University of Pennsylvania in History and Sociology of Science, with a minor in English.\n\n52 Comments\n\nComments\n\nForum view\n\nLoading comments...\n\nPrev story\n\nNext story\n\n1. [](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/)\n\n1. Meet \\*sshole, the vulnerability that lets hackers SSH into Linux devices\n\n2. 2. No more Cybertrucks; Musk moves on from the angular metallic flop\n\n3. 3. Sony revives the original Walkman headphones, adds USB-C\n\n4. 4. Kalshi court losses pile up as judges refuse to block state gambling laws\n\n5. 5. Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost\n\nCustomize\n\n- Dashboard\n- Edit Post\n\n- Howdy, Account\n\n  - AccountEdit Profile\n  - Log Out\n\n- Connecting…\n\nSign in dialog...",
+   "text_source": "firecrawl",
+   "images": [
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-profile-picture-headshot-JPG.jpg",
+    "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-500x500.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "X-70",
+    "AI-generated"
+   ],
+   "searches": []
+  },
+  {
    "id": "rinaoftimeparapromoverdonaldtrumpentenda",
    "title": "Casa Branca usa Zelda Ocarina of Time para promover Donald Trump; entenda",
    "source": "TecMundo",
    "url": "https://www.estadao.com.br/tecmundo/voxel/casa-branca-usa-zelda-ocarina-of-time-para-promover-donald-trump-entenda/",
    "published": "2026-11-06T15:45:00+00:00",
    "summary": "",
-   "score": 5.26,
+   "score": 5.24,
    "why": [
     "2 sites cobrindo"
    ],
@@ -180,7 +353,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/novo-gpt-6-cyber-encontra-falhas-de-seguranca-mais-rapido-que-qualquer-hacker/",
    "published": "2026-11-06T21:03:00+00:00",
    "summary": "A OpenAI anunciou o GPT-6 Cyber , um modelo de inteligência artificial desenvolvido para pesquisas avançadas em cibersegurança. A ferramenta foi treinada para identificar vulnerabilidades, testar formas de exploração e sugerir correções de código. Segundo a empresa, o modelo supera o GPT-5.6 Cyber e consegue encontrar falhas críticas antes que invasores tenham a oportunidade de explorá-las. Durant",
-   "score": 4.59,
+   "score": 4.57,
    "why": [
     "Tema de alto interesse"
    ],
@@ -213,7 +386,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/whatsapp-comeca-a-usar-ia-para-completar-fotos-e-evitar-bordas-pretas-em-tela-cheia/",
    "published": "2026-11-06T20:06:00+00:00",
    "summary": "O WhatsApp começou a liberar uma ferramenta de inteligência artificial que expande fotos para preencher a tela inteira , sem deixar bordas pretas na parte superior e inferior. O recurso utiliza a Meta AI para gerar novos elementos ao redor da imagem original e adaptá-la ao formato 9:16, usado nos Status e em outros conteúdos em tela cheia. A novidade fica disponível no editor de imagens do aplicat",
-   "score": 4.53,
+   "score": 4.51,
    "why": [
     "Tema de alto interesse"
    ],
@@ -231,14 +404,7 @@
    "keywords": [
     "IA"
    ],
-   "searches": [
-    "ia",
-    "ia ia ô",
-    "ian neves",
-    "iang cast",
-    "iaiao",
-    "iae break"
-   ]
+   "searches": []
   },
   {
    "id": "cessacontasbancariaseanalisaosseusgastos",
@@ -247,7 +413,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/claude-ganha-ferramenta-que-acessa-contas-bancarias-e-analisa-os-seus-gastos/",
    "published": "2026-11-06T19:01:00+00:00",
    "summary": "O Claude lançou o Personal Finance, uma ferramenta que permite conectar contas bancárias e cartões de crédito ao assistente de IA . A novidade, que está em fase beta, concentra as informações financeiras em uma conversa com a IA da Anthropic e ajuda a acompanhar despesas, consultar contas a vencer e identificar cobranças incomuns ou duplicadas. A integração funciona por meio do Plaid, serviço que ",
-   "score": 4.46,
+   "score": 4.44,
    "why": [
     "Tema de alto interesse"
    ],
@@ -276,7 +442,7 @@
    "url": "https://canaltech.com.br/notebook/novos-notebooks-dell-pro-sao-fabricados-no-brasil-e-prometem-ate-22-horas-de-bateria/",
    "published": "2026-11-06T18:05:00+00:00",
    "summary": "A Dell anunciou a renovação da linha de notebooks corporativos Pro nesta quinta-feira (5), durante a feira Dell Technologies Fórum 2026, que aconteceu em São Paulo. Entre os destaques, os modelos chegam com NPU integrada, produção nacional, arquitetura modular e o retorno das nomenclaturas numéricas. A linha Dell Pro chega ao Brasil em janeiro de 2027 na faixa de preço de R$ 10 mil , enquanto novi",
-   "score": 4.41,
+   "score": 4.38,
    "why": [
     "Tema de alto interesse"
    ],
@@ -302,13 +468,40 @@
    "searches": []
   },
   {
+   "id": "troubledwyomingdatacenterprojecttogoogle",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "source": "Techcrunch",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "published": "2026-11-07T01:40:28+00:00",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "score": 4.26,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "Buy One Founder Summit Ticket, Get a Second for Free. Register now.\n\nFounder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE.\n\nTechCrunch Desktop Logo TechCrunch Mobile Logo Latest Startups Venture Apple Security AI Apps Disrupt 2026 Events Podcasts Newsletters Search Submit Site Search Toggle Mega Menu Toggle Topics Latest\n\nCrusoe sells troubled Wyoming data center project to Google Marina Temkin 5:40 PM PST · November 6, 2026 Crusoe, an eight-year-old, Denver-based data center developer recently valued at $30.9 billion , confirmed Friday it has sold an unfinished data center project in southeastern Wyoming to Google.\n\nGoogle, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management.\n\nCrusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity.\n\nGoogle did not disclose how much it paid Crusoe for the unfinished project, bu it announced plans to invest $17 billion to develop the data center campus.\n\nThe deal highlights how difficult it can be for independent data center developers to deliver massive projects on time and within budget, given the challenges of securing equipment and power. Growing opposition from local communities can further complicate development.\n\nDespite taking over the Wyoming facility, Google hasn’t walked away from working with Crusoe entirely. Crusoe is developing another data center for Google near Amarillo, Texas.\n\nThe deal to sell the site to Google was first reported by Bloomberg in June, but the Wyoming setback didn’t stop Crusoe from raising a $3.9 billion round in September.\n\nCrusoe makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference.\n\nCrusoe’s largest projects serve some of the biggest names in AI. Its campus in Abilene, Texas, is being built in phases for Oracle and OpenAI, and the company is also constructing a separate 900-megawatt campus next door for Microsoft, with its first building expected to come online in mid-2027. Meta is also a customer, and Bloomberg reported that the trading firm Jane Street signed a $13 billion , five-year cloud deal with Crusoe.\n\nCrusoe was founded by Chase Lochmiller, now its CEO, and Cully Cavness, who started it as a cryptocurrency-mining business powered by natural gas that would otherwise have been burned off. In September, alongside its $3.9 billion funding round, the company added three board members , including JB Straubel, the Redwood Materials founder and Tesla board member who invested in Crusoe in 2021. Crusoe later became the first customer of Straubel’s energy-storage business.\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nMarina Temkin is a venture capital and startups reporter at TechCrunch. Prior to joining TechCrunch, she wrote about VC for PitchBook and Venture Capital Journal. Earlier in her career, Marina was a financial analyst and earned a CFA charterholder designation.\n\nYou can contact or verify outreach from Marina by emailing [email protected] or via encrypted message at +1 347-683-3909 on Signal.\n\nNovember 4 Boston Buy One Pass, Get a Second Free Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free Book before the BOGO deal expires\n\nTesla will stop making the Cybertruck in 2027 Sean O'Kane\n\nClaude can now analyze your spending with its new Personal Finance tool Aisha Malik\n\nData centers are turning to old jet engines as the wait for power grows Aditya Mehta\n\nNew York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech Zack Whittaker\n\nAnthropic warns that it’s very close to RSI capability, aka self-building AI Julie Bort\n\nNew York Times and other outlets sue web browser Brave over alleged content scraping Rebecca Bellan\n\nNinja’s first-ever microwave just replaced two of my kitchen appliances at once Lauren Forristal\n\nX LinkedIn Facebook Instagram youTube Mastodon Threads Bluesky TechCrunch Staff Contact Us Advertise Site Map Terms of Service Privacy Policy RSS Terms of Use Code of Conduct Voice AI Anthropic Flock Startup Battlefield Disrupt 2026 Tech Layoffs ChatGPT © 2026 TechCrunch Media LLC.",
+   "text_source": "basic",
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+    "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?w=1024",
+    "https://techcrunch.com/wp-content/uploads/2025/08/IMG_0758.jpg?w=150"
+   ],
+   "videos": [],
+   "keywords": [
+    "Wyoming",
+    "Google"
+   ],
+   "searches": []
+  },
+  {
    "id": "mtech1029338nvidiaceojensenhuangchinaspy",
    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
    "source": "The Verge",
    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
    "published": "2026-11-06T23:00:44+00:00",
    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-   "score": 4.11,
+   "score": 4.09,
    "why": [
     "Tema de alto interesse"
    ],
@@ -328,133 +521,28 @@
    "searches": []
   },
   {
-   "id": "elocacafalhassemdesobedecerpesquisadores",
-   "title": "OpenAI lança GPT-6 Cyber e afirma que modelo caça falhas sem desobedecer pesquisadores",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/openai-lanca-gpt-6-cyber-e-afirma-que-modelo-caca-falhas-sem-desobedecer-pesquisadores/",
-   "published": "2026-11-06T21:15:00+00:00",
-   "summary": "",
-   "score": 4.0,
+   "id": "oadhumanoidrobotcleanersamsungaichipboom",
+   "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+   "source": "Technologyreview",
+   "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+   "published": "2026-11-06T13:10:00+00:00",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+   "score": 4.07,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/FAYTKBRGNFAJZJL6M7XPWQIJPE.png?quality=80&auth=cc7dc029a25e0f60a6fd3ed5858825b15915ce038db49bc1a589b93a0fa66b7a&width=710",
-   "text": "A OpenAI apresentou, nesta quinta-feira (5), o GPT-6 Cyber , um modelo de inteligência artificial (IA) voltado para a segurança digital que supera versões anteriores na identificação de vulnerabilidades em sistemas de computadores . A ferramenta foi classificada como “crítica” para a segurança cibernética devido ao alto potencial técnico. Segundo a big tech, o modelo alcançou, em testes práticos realizados em ambientes controlados, um índice de acerto de quase 50% na exploração de falhas remotas, o que superou os 32,1% registrados pelo antecessor (o GPT-5.6 Cyber ). A tecnologia também apresentou maior precisão para respeitar as regras estabelecidas pelos pesquisadores. OpenAI lança GPT-6 Cyber e afirma que modelo caça falhas sem desobedecer pesquisadores Foto: Reprodução/ChatG “Essa melhoria no alinhamento reflete o treinamento dedicado para permanecer dentro do escopo autorizado, respeitar as restrições e relatar os resultados com precisão”, completou a OpenAI , em comunicado oficial . Descobertas durante o período de testagem Durante os testes de validação, os analistas aplicaram o sistema no código do kernel Linux . O modelo reproduziu milhares de falhas conhecidas e gerou códigos de exploração funcionais para centenas delas. A partir dessa ação, a empresa relatou que centenas de problemas críticos foram enviados aos mantenedores do software acompanhados de propostas de correção. Paralelamente, o sistema atuou no navegador Firefox , no qual documentou dezenas de falhas inéditas classificadas como “de alta gravidade”. A Mozilla , a organização responsável pelo desenvolvimento do navegador, iniciou a liberação de atualizações de segurança para corrigir os problemas identificados pela IA. Esquema explicativo do funcionamento do novo modelo de inteligência artificial GPT-6 Cyber Foto: Reprodução/OpenAI Para evitar usos indevidos, a OpenAI explicou ter implementado salvaguardas que monitoram as ações do modelo e bloqueiam tentativas de comprometer controles industriais e infraestruturas essenciais. O desenvolvimento dessas proteções contou com a colaboração da empresa de segurança cibernética Dragos, que testou os modelos em laboratório e publicou os resultados em uma análise técnica . A companhia frisou que o acesso ao novo modelo está restrito a clientes selecionados e aprovados que participam do programa voltado para testes autorizados e pesquisas avançadas de segurança Siga o TecMundo no X , Instagram , Facebook e YouTube e assine a nossa newsletter para receber as principais notícias e análises diretamente no seu e-mail.",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840",
+   "text": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed up for the waitlist. I wanted my apartment to feel like The Jetsons , even if just for an hour. The device that arrived at my building belongs to Tau Robotics, a local startup. Its long-term goal is to make autonomous cleaning robots a reality, but the technology isn’t quite there yet. For now, humans pilot the robots remotely, watching them work through onboard cameras. There were some unexpected challenges along the way, but also moments that felt like a glimpse of the future. Find out how well the machine cleaned my home—and how close we are to truly autonomous domestic robots . A visit to Samsung’s massive new semiconductor hub Generative AI models depend on stacks of specialized memory chips. To meet soaring demand, Samsung is building a vast new semiconductor manufacturing campus in Pyeongtaek, South Korea. I visited the sprawling campus south of Seoul, where three fabs already operate around the clock, a fourth is coming online, and thousands of workers are racing to build a fifth. Step inside the vast chipmaking complex powering the AI boom . —Michelle Kim This story is from the Impossible edition of our print magazine. Subscribe now to get every issue as soon as it lands. The must-reads I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology. 1 Almost $2.5 trillion has been wiped off tech stocks The Nasdaq suffered its worst day since April 2025 amid fears of an AI slowdown. ( CNN ) + The Magnificent Seven lost over $1 trillion. ( WSJ $) + Tesla and SpaceX lost over $420 billion combined. ( CNBC ) + Wall Street’s AI sell-off has spread to Asia and Europe. ( WP $) + The AI stock bubble may finally be bursting. ( FT $) + What even is the AI bubble? ( MIT Technology Review ) 2 Emboldened Democrats are lining up to rein in Big Tech They’re preparing to haul tech CEOs before Congress. ( Verge ) + Bernie Sanders wants a national data center moratorium. ( Quartz ) + Yassamin Ansari plans to pause advanced AI development. ( CNBC ) + The backlash could delay Anthropic’s IPO. ( Reuters $) + No one wants a data center in their backyard. ( MIT Technology Review ) 3 The US has warned of an “ongoing cyber threat” to fridges A spate of hacks has hit commercial freezers. ( Reuters $) + Russia has denied claims it’s behind the attacks. ( Politico ) 4 AI is helping Anthropic’s models improve nearly twice as fast Researchers say Claude is speeding up its successors.( Information $) + But recursive self-improvement will take time. ( MIT Technology Review ) 5 Scientists have new evidence of active volcanoes on Mars They may boost chances of finding life on the planet. ( BBC ) 6 Covid vaccines’ economic benefits may be double what we thought New analysis places their value at up to $64 trillion. ( New Scientist $) 7 The Great Pacific Garbage Patch is changing the ocean’s color The infamous debris has brightened the water. ( Scientific American ) 8 NASA has unveiled a mysterious new experimental aircraft The X-70 is expected to take flight within two years. ( Ars Technica ) 9 Elon Musk has signaled the end for the Cybertruck Tesla is winding down production in Texas next year. ( FT $) + It was one of last year’s biggest tech flops. ( MIT Technology Review ) 10 Three-hour movies have sent viewers rushing to a pee break app 7,000 RunPee users signed up for You Can See Everything . ( WSJ $) Quote of the day “The steamroller showed up today.” —Jim Carroll, a senior wealth adviser at Ballast Rock Private Wealth, tells Reuters how investors feel as the AI trade unravels and $2.5 trillion is wiped off tech stocks. One more thing EMILY NAJERA How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI models, and decades of alpine-life experience to deliver the best predictions out there. The app proved especially vital last winter, one of the weirdest on record. It even made microcelebrities of its forecasters, who sift through reams of data to write “Daily Snow” reports for locations around the world. We headed to the Tahoe mountains to hear how two broke skiers created the best weather app on the slopes . —Rachel Levin We can still have nice things A place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line .) + The US has a new national park: Arizona’s otherworldly Chiricahua . + Fancy living in a flying saucer? A rare 1960s Futuro house is on the market. + Don’t Cook That collects real recipes from old cookbooks that you should absolutely not make. + Backpack, who rode on his mum’s back as a cub, has been crowned Fat Bear Week champion .",
    "text_source": "rss",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/FAYTKBRGNFAJZJL6M7XPWQIJPE.png?quality=80&auth=cc7dc029a25e0f60a6fd3ed5858825b15915ce038db49bc1a589b93a0fa66b7a&width=710",
-    "https://www.estadao.com.br/resizer/v2/UWGMIEP47ZBYRLZ6M4SVMVPNLM.png?quality=80&auth=cb7c09b6d83598861773b1fe1f26f1304704b367beb0a5a65f1d4f1091d586cf&width=710"
+    "https://wp.technologyreview.com/wp-content/uploads/2026/03/2026_BA_Reno_15.jpg?w=840"
    ],
    "videos": [],
    "keywords": [
-    "GPT-6",
-    "Cyber"
-   ],
-   "searches": []
-  },
-  {
-   "id": "odeunirosbotoesdeacaoedecameranoiphone19",
-   "title": "Apple pode unir os botões de ação e de câmera no iPhone 19",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-pode-unir-os-botoes-de-acao-e-de-camera-no-iphone-19/",
-   "published": "2026-11-06T20:00:00+00:00",
-   "summary": "",
-   "score": 3.93,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/WIWC62EL7REO5OZPZFDFPJ75KI.jpg?quality=80&auth=16f6c61195619d8914fcafe67314a4f5d78a1626e5e4266bb6520d5befac7733&width=710",
-   "text": "A Apple está preparando uma mudança no visual da próxima geração do iPhone. De acordo com o especialista em vazamentos Instant Digital, um dos botões físicos do smartphone da empresa será abandonado nos modelos de 2027. O rumor publicado na rede social chinesa Weibo afirma que o Botão de Ação dos dispositivos será removido, com a função sendo incorporada no Botão de Câmera também já presente nos aparelhos. Se a informação for verdadeira, o recurso do Botão de Ação será transferido para um toque longo no Botão de Câmera, enquanto um movimento mais rápido abriria os controles já existentes para captura de fotografia e vídeo. Alteração é “culpa” da Siri Essa movimentação pode acontecer por uma mudança promovida pela própria Apple no iPhone. O toque longo do Botão de Câmera atualmente abre a Visual Intelligence , mas essa funcionalidade foi integrada diretamente no software de captura do aparelho desde o iOS 27 como parte da nova Siri . O iPhone 18 Pro ainda traz a configuração atual de botões físicos do celular. Foto: Apple/Divulgação O próprio iPhone Duo , que é a versão dobrável do celular da marca, já não traz o Botão de Ação e pode ser um teste para a incorporação dos recursos na geração seguinte. O Botão de Ação foi apresentado no iPhone 15 Pro e pode ser configurado para reunir várias funções extras do usuário como atalhos; Já o Botão de Câmera, que permite fazer fotos e vídeos a partir de comandos físicos, apareceu pela primeira vez no iPhone 16 . A mudança nos botões físicos do iPhone estaria programada para acontecer nos smartphones lançados pela marca no segundo semestre do ano que vem — possivelmente composta do iPhone 19 Pro e a edição comemorativa de duas décadas do aparelho. Até agora, a Apple não se pronunciou sobre o caso e não costuma comentar especulações da indústria. Compre o seu iPhone Confira alguns modelos de celulares Apple em oferta atualmente: Smartphone Apple iPhone iPhone 17e de 256GB a partir de R$ 4.049,10 Smartphone Apple iPhone iPhone 17 de 256GB a partir de R$ 5.699,00 Smartphone Apple iPhone iPhone 17 Pro Max de 256GB a partir de R$ 10.169,10 Smartphone Apple iPhone iPhone 18 Pro de 256GB a partir de R$ 10.799,10 Smartphone Apple iPhone iPhone 18 Pro Max de 256GB a partir de R$ 11.699,10 Smartphone Apple iPhone iPhone Duo de 256GB a partir de R$ 21.999,00 Quais as mudanças esperadas para o iPhone 18e, próximo celular mais acessível da marca? Confira nesta matéria ! Com informações de MacRumors . Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.",
-   "text_source": "rss",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/WIWC62EL7REO5OZPZFDFPJ75KI.jpg?quality=80&auth=16f6c61195619d8914fcafe67314a4f5d78a1626e5e4266bb6520d5befac7733&width=710"
-   ],
-   "videos": [],
-   "keywords": [
-    "19"
-   ],
-   "searches": []
-  },
-  {
-   "id": "atisfimdesemanapayday3007firstlightemais",
-   "title": "Payday 3, 007 First Light e mais jogos grátis deste fim de semana",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/jogos-gratis-fim-de-semana-pay-day-3-007-first-light-e-mais/",
-   "published": "2026-11-06T18:33:00+00:00",
-   "summary": "Com a chegada do fim de semana , todos já sabem que vem junto uma enxurrada de jogos grátis para curtir durante os dias de sossego. Neste não é diferente, mas há um diferencial: a presença de vários games de peso e queridinhos pela comunidade. Entre esta sexta-feira (6) e domingo (8), o jogo grátis de maior destaque é PAYDAY 3 . Disponível sem custos em todas as plataformas ( PlayStation 5 , XBOX ",
-   "score": 3.84,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Artigos Tudo sobre Games Payday 3, 007 First Light e mais jogos grátis deste fim de semana Por Diego Corumba • Editado por Jones Oliveira | 06/11/2026 às 15:33\n\nPrefira o CT no Google Reprodução/Canaltech Com a chegada do fim de semana , todos já sabem que vem junto uma enxurrada de jogos grátis para curtir durante os dias de sossego. Neste não é diferente, mas há um diferencial: a presença de vários games de peso e queridinhos pela comunidade.\n\nEntre esta sexta-feira (6) e domingo (8), o jogo grátis de maior destaque é PAYDAY 3 . Disponível sem custos em todas as plataformas ( PlayStation 5 , XBOX Series e no Steam ), você pode ter em mãos a experiência completa — tanto offline quanto online.\n\nA produtora Starbreeze garante que todo o conteúdo produzido nos últimos três anos está liberado, inclusive os DLCs pagos. Na prática, os jogadores poderão contar com absolutamente tudo do título no seu console ou computador.\n\nAlém disso, a companhia trouxe novidades a PAYDAY 3. O servidor CRIME.NET retornou, já que agora não será mais exigida uma conta Starbreeze Nebula para acessar o jogo. É um passo dado para agilizar a experiência e também a diversão.\n\nWhatsApp Continua após a publicidade Caso queira continuar a aventura após o período gratuito, o título está com promoções no PS5, XBOX Series e Steam, o que facilita a aquisição definitiva. Porém, é bom já se programar, já que todas encerrarão em breve.\n\nVale notar a ascensão do título, que foi lançado com críticas extremamente negativas e reclamações e hoje coleciona elogios e uma aceitação da comunidade. Se você largou de mão, pode ser bom voltar. Se nunca quis pelas reações, é a oportunidade de testar e ver por conta própria.\n\nPorém, ele não é o único sucesso na lista de jogos grátis do fim de semana. Confira quais outros games podem ser jogados sem custo nos próximos dias.\n\nLançado originalmente no Nintendo Wii, Disney Epic Mickey: Rebrushed é uma versão remasterizada e disponibilizada em todas as plataformas. Contudo, poderá jogá-lo de graça no Luna Gaming .\n\nEssa versão não é para resgatar, mas sim para acessar via nuvem da Amazon. Logo, é bom aproveitar enquanto a obra está no catálogo — já que traz uma jornada bem diferente do icônico rato, assim como reapresenta Oswald, o Coelho aos fãs.\n\nContinua após a publicidade 4. Age of Wonders 4 Um dos grandes games de estratégia 4X da atualidade, Age of Wonders 4 permite que você crie e administre um verdadeiro império. Porém, desta vez, o jogador tem de defender seu povo de feiticeiros que desejam atuar como deuses sobre os mortais.\n\nVocê pode buscar o jogo grátis deste fim de semana no Steam , mas é importante se atentar às exigências para executar o game no PC. Ele não roda em qualquer máquina, já que a recomendação é de ter 16 GB de memória RAM e processadores mais robustos. Os assinantes do Game Pass também podem jogar a experiência.\n\nContinua após a publicidade 3. Ball x Pit Lançado pela Devolver Digital em 2025, o viciante Ball x Pit agora está liberado para você desfrutar diretamente de seu XBOX. No roguelite , você terá uma esfera e um exército crescente de inimigos que segue em sua direção.\n\nCom mecânicas de gerenciamento, combinações diferentes de habilidades e personagens e muita diversão, um detalhe importante é que será necessário ser assinante do Game Pass para curti-lo.\n\nContinua após a publicidade 2. Kingdom Come: Deliverance II Forte candidato ao GOTY de 2025 , Kingdom Come: Deliverance II é um RPG de ação ambientado no Século XV. A aventura, focada em narrativa, te levará a desafiar vários inimigos e a própria realidade para se tornar digno de castelos.\n\nDa humildade à realeza, um dos grandes destaques da experiência é o seu pé no realismo — o que torna o jogo grátis deste fim de semana quase um simulador repleto de mecânicas. Você pode jogá-lo no catálogo do Luna Gaming .\n\nContinua após a publicidade 1. 007 First Light Recém-lançado, 007 First Light é o primeiro game de James Bond em muito tempo e traz uma história inédita: o caminho de origem do soldado que se tornou o espião mais charmoso e carismático de todos os tempos.\n\nO game está disponível de graça para os assinantes da PS Plus Deluxe , dentro dos testes de jogos do serviço. Contudo, a Sony e a IO Interactive “economizaram” e permitem que tenha acesso a apenas 1 hora da experiência.\n\nContinua após a publicidade Uma tonelada de jogos grátis Se nenhum desses jogos te chamou a atenção, não tem problema. Há vários games disponíveis gratuitamente nos próximos dias. A Epic Games Store , por exemplo, disponibilizou Flotsam e um pacote de Idle Champions of the Forgotten Realms .\n\nNo catálogo do Luna Gaming, também encontrará EA Sports Madden NFL 27 , NBA The Run , Mixtape e Police Simulator: Patrol Officers . Já para o resgate vitalício, as novidades são Squirrel with a Gun e WRC Generations .\n\nSe você assina o XBOX Game Pass , poderá acessar Nowhere Prophet , Deceive Inc. e IXION. Se não é o seu caso, não tem problema: dá para curtir Anno 117: Pax Romana e Crime Boss: Rockay City entre os jogos grátis de fim de semana no XBOX.\n\nJá quem assina a PS Plus pode resgatar Dead Island 2, Tomb Raider IV-VI Remastered e Monster Train 2 . Eles permanecerão em sua conta enquanto pagar pelo serviço da Sony, então é bom aproveitar o quanto antes.\n\nApesar de a Nintendo não apresentar nada essa semana (até por conta do lançamento de The Legend of Zelda: Ocarina of Time ), um projeto usa IA para rodar jogos de Switch a 60 FPS na Apple TV . Confira.",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/0pX10LR8MqUK03MDSPAtsibl36g=/1200x675/smart/filters:format(webp):quality(85)/4a9b02c9-18be-4361-9317-647dbd0f67b3.jpg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/Z2BrXPN9Z3zKdQ-Sc0bPjm7eQCk=/640x360/smart/filters:format(webp):quality(85)/4a9b02c9-18be-4361-9317-647dbd0f67b3.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "3",
-    "007",
-    "First"
-   ],
-   "searches": []
-  },
-  {
-   "id": "imulaosprimeiros2bilhoesdeanosdouniverso",
-   "title": "Supercomputador simula os primeiros 2 bilhões de anos do Universo",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/ciencia-e-espaco/supercomputador-simula-os-primeiros-2-bilhoes-de-anos-do-universo/",
-   "published": "2026-11-06T18:00:05+00:00",
-   "summary": "E se você pudesse observar o fim da era da escuridão (em termos astronômicos, vale lembrar), marcada pela formação das primeiras estrelas e galáxias ? Pois é o que mostra uma nova simulação dos primeiros dois bilhões de anos do cosmos em supercomputadores , desenvolvida por uma equipe internacional de astrofísicos liderada por cientistas de Harvard e do MIT . Chamada Lumina , a simulação modela co",
-   "score": 3.8,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Ciência e Espaço Supercomputador simula os primeiros 2 bilhões de anos do Universo Por Danielle Cassita | 06/11/2026 às 15:00\n\nPrefira o CT no Google Oliver Zier, Center for Astrophysics/Lumina Collaboration E se você pudesse observar o fim da era da escuridão (em termos astronômicos, vale lembrar), marcada pela formação das primeiras estrelas e galáxias ? Pois é o que mostra uma nova simulação dos primeiros dois bilhões de anos do cosmos em supercomputadores , desenvolvida por uma equipe internacional de astrofísicos liderada por cientistas de Harvard e do MIT .\n\nChamada Lumina , a simulação modela com precisão inédita o fim da chamada \"era das trevas\" e o início da época da reionização , representando os processos ocorridos na escala colossal de 1,6 bilhão de anos-luz. Ao estudar esta transição, os pesquisadores podem entender melhor como o universo evoluiu até chegar ao que vemos hoje.\n\nO trabalho integra física de radiação, gás e matéria escura , e o resultado é um universo virtual habitado por mais de 200 milhões de galáxias . Além do espetáculo visual, a ferramenta permite que os cientistas acompanhem o crescimento simultâneo de buracos negros e a transformação do hidrogênio interestelar em plasma aquecido.\n\nWhatsApp Continua após a publicidade Simulação do universo Com a Lumina, os pesquisadores descobriram que as previsões para o gás entre as galáxias correspondem às observações do telescópio espacial James Webb , o mais potente observatório já feito. Curiosamente, o Webb tem flagrado galáxias mais massivas que aquelas produzidas pela simulação .\n\n“Para mim, uma das partes mais empolgantes desse trabalho é o que acontece quando as simulações e as observações discordam entre si : as simulações transformam nossa compreensão da física em previsão, e comparar essas previsões com o universo real nos ajuda a ver onde nossos modelos funcionam e onde algo pode ter passado”, explicou Oliver Zier, astrônomo do Centro de Astrofísica de Harvard .\n\nEm um futuro nada distante, os cientistas vão poder contar com mais um ótimo aliado para explorar o cosmos. O telescópio Nancy Grace Roman avança rumo à sua órbita final , que vai permitir estudar uma área ampla do universo primordial — e, quem sabe, revele finalmente quantas destas galáxias massivas e brilhantes devem, de fato, existir.\n\nOs resultados foram publicados na revista científica Monthly Notices of the Royal Astronomical Society .",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/kKxOXdEBo2cbCVUA1VoI-0GZdtk=/1200x675/smart/filters:format(webp):quality(85)/0603a218-af2b-4a6d-b2ff-4ddb9ba472cf.png",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/vyoKMd1J2iq37qNCN4Y07sjXquY=/640x360/smart/filters:format(webp):quality(85)/0603a218-af2b-4a6d-b2ff-4ddb9ba472cf.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "2",
-    "Universo"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ummilhaodeimagensdoespacofeitaspeloswift",
-   "title": "NASA divulga mosaico formado por um milhão de imagens do espaço feitas pelo Swift",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/06/ciencia-e-espaco/nasa-divulga-mosaico-formado-por-um-milhao-de-imagens-do-espaco-feitas-pelo-swift/",
-   "published": "2026-11-07T00:24:33+00:00",
-   "summary": "Registro reúne pequena amostra da imensa quantidade de dados produzidos pelo equipamento ao longo de quase 22 anos de operação O post NASA divulga mosaico formado por um milhão de imagens do espaço feitas pelo Swift apareceu primeiro em Olhar Digital .",
-   "score": 3.5,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Swift_Millionth_Image_Mosaic-1024x730.jpg",
-   "text": "A NASA divulgou um mosaico formado por cerca de um milhão de imagens capturadas pelo observatório espacial Neil Gehrels Swift. O registro reúne pequena amostra da imensa quantidade de dados produzidos pelo equipamento ao longo de quase 22 anos de operação e oferece retrato visual de seu trabalho investigando alguns dos fenômenos mais energéticos do Universo . A imagem foi escolhida pela agência estadunidense para a edição desta sexta (6) do Astronomy Picture of the Day (Imagem Astronômica do Dia). O mosaico foi produzido em 2018, utilizando algumas das primeiras fotografias registradas pelo Telescópio Ultravioleta/Óptico do Swift. Mais do que uma composição visual, o material representa parte do legado de um observatório que ajudou astrônomos a estudar explosões de raios gama, supernovas, buracos negros e outros eventos cósmicos. A divulgação também ganhou significado especial porque o Swift encerrou sua missão na quarta-feira (4), quando reentrou na atmosfera terrestre após quase 22 anos no espaço. O mosaico foi construído a partir de registros do telescópio ultravioleta/óptico do observatório. Esse instrumento permitia observar objetos celestes em diferentes comprimentos de onda, complementando as observações realizadas pelos outros equipamentos da missão. A composição reúne quantidade expressiva de fotografias produzidas durante os primeiros anos de funcionamento do Swift. Cada registro contribui para formar um panorama da atividade científica do observatório, que investigou diferentes regiões do céu e acompanhou fenômenos astronômicos de curta duração. O telescópio tinha função especialmente importante na observação de explosões de raios gama, eventos extremamente energéticos que podem durar de frações de segundo a vários minutos. Essas explosões estão entre os fenômenos mais intensos conhecidos pela astronomia. Por isso, conseguir identificar rapidamente sua ocorrência e observar o que acontece depois é fundamental para compreender suas origens e consequências. Mais do que uma composição visual, o material representa parte do legado de um observatório que ajudou astrônomos a estudar explosões de raios gama, supernovas, buracos negros e outros eventos cósmicos – Imagem: NASA/Swift/AndreaMosaic Leia mais: Depois do Webb e do Roman, NASA prepara novo telescópio espacial NASA desenvolve telescópio para observar ondas no espaço-tempo Como um telescópio em praça pública pode combater a desinformação e democratizar a ciência Observatório acumulou quase 22 anos de descobertas Lançado em 20 de novembro de 2004, o Swift foi projetado inicialmente para missão de dois anos. Entretanto, superou amplamente essa expectativa e permaneceu em operação por quase 22 anos; Durante esse período, observou mais de duas mil explosões de raios gama e estudou mais de 1,4 mil supernovas. Também acompanhou galáxias ativas, estrelas afetadas por buracos negros, cometas e asteroides; Um dos diferenciais do observatório era a capacidade de reagir rapidamente a eventos cósmicos. Depois de detectar uma explosão de raios gama, o equipamento conseguia reposicionar seus telescópios em aproximadamente um minuto, permitindo acompanhar fenômenos que poderiam desaparecer rapidamente; Ao longo da missão, as observações do Swift contribuíram para aproximadamente sete mil artigos científicos. Seu arquivo reúne milhões de imagens e quase duas décadas de informações sobre diferentes fenômenos astronômicos. Despedida do Swift aconteceu em novembro A divulgação do mosaico coincidiu com o encerramento da missão. Na quarta-feira, o observatório reentrou na atmosfera terrestre sobre a região de Sumatra do Norte, na Indonésia, às 9h39 (horário de Brasília). A reentrada foi consequência da perda gradual de altitude, acelerada pelo aumento da atividade solar. O aquecimento da atmosfera superior fez com que ela se expandisse, aumentando o arrasto sobre o satélite. A NASA chegou a tentar prolongar a missão por meio de operação de resgate com a empresa Katalyst Space. O plano previa o envio de uma espaçonave robótica para capturar o observatório e impulsioná-lo para uma órbita mais elevada, mas problemas no sistema de orientação impediram a conclusão da operação. Mesmo fora de atividade, o Swift continuará contribuindo para a ciência. Seus dados permanecem disponíveis para pesquisadores, que poderão explorar o material acumulado durante quase 22 anos em busca de novas descobertas. O mosaico divulgado pela NASA funciona, assim, como uma homenagem visual a essa trajetória: um conjunto de imagens que representa parte do trabalho de um observatório dedicado a observar os acontecimentos mais extremos do Universo. O post NASA divulga mosaico formado por um milhão de imagens do espaço feitas pelo Swift apareceu primeiro em Olhar Digital .",
-   "text_source": "rss",
-   "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/Swift_Millionth_Image_Mosaic-1024x730.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Swift"
+    "Download",
+    "Samsung",
+    "AI"
    ],
    "searches": []
   }
