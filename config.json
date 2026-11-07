@@ -8,18 +8,66 @@
   "text_char_limit": 15000,
   "trends_geo": "BR",
   "sources": [
-    {"name": "Tecnoblog", "feed": "https://tecnoblog.net/feed/"},
-    {"name": "Canaltech", "feed": "https://canaltech.com.br/rss/"},
-    {"name": "Olhar Digital", "feed": "https://olhardigital.com.br/feed/"},
-    {"name": "TecMundo", "feed": "https://rss.tecmundo.com.br/feed"},
-    {"name": "The Verge", "feed": "https://www.theverge.com/rss/index.xml"},
-    {"name": "Ars Technica", "feed": "https://feeds.arstechnica.com/arstechnica/index"},
-    {"name": "ScienceDaily", "feed": "https://www.sciencedaily.com/rss/top/technology.xml"}
+    {
+      "name": "Tecnoblog",
+      "feed": "https://tecnoblog.net/feed/"
+    },
+    {
+      "name": "Canaltech",
+      "feed": "https://canaltech.com.br/rss/"
+    },
+    {
+      "name": "Olhar Digital",
+      "feed": "https://olhardigital.com.br/feed/"
+    },
+    {
+      "name": "TecMundo",
+      "feed": "https://rss.tecmundo.com.br/feed"
+    },
+    {
+      "name": "The Verge",
+      "feed": "https://www.theverge.com/rss/index.xml"
+    },
+    {
+      "name": "Ars Technica",
+      "feed": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "name": "ScienceDaily",
+      "feed": "https://www.sciencedaily.com/rss/top/technology.xml"
+    },
+    {
+      "name": "Popsci",
+      "site": "https://www.popsci.com/technology/edible-moving-soft-robot-japan/"
+    }
   ],
   "boost_keywords": [
-    "inteligencia artificial", "ia", "chatgpt", "openai", "gemini", "nasa", "spacex",
-    "robo", "chip", "apple", "iphone", "samsung", "google", "tesla", "nvidia",
-    "quantico", "fusao", "bateria", "descoberta", "cientistas", "pesquisadores",
-    "artificial intelligence", "ai", "robot", "quantum", "breakthrough", "scientists"
+    "inteligencia artificial",
+    "ia",
+    "chatgpt",
+    "openai",
+    "gemini",
+    "nasa",
+    "spacex",
+    "robo",
+    "chip",
+    "apple",
+    "iphone",
+    "samsung",
+    "google",
+    "tesla",
+    "nvidia",
+    "quantico",
+    "fusao",
+    "bateria",
+    "descoberta",
+    "cientistas",
+    "pesquisadores",
+    "artificial intelligence",
+    "ai",
+    "robot",
+    "quantum",
+    "breakthrough",
+    "scientists"
   ]
 }
