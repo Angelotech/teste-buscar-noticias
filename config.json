@@ -59,6 +59,10 @@
     {
       "name": "Techcrunch",
       "site": "https://techcrunch.com/"
+    },
+    {
+      "name": "Technologyreview",
+      "site": "https://www.technologyreview.com/"
     }
   ],
   "boost_keywords": [
