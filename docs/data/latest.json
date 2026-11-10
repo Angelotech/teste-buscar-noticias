@@ -1,17 +1,37 @@
 {
- "generated_at": "2026-11-10T03:04:35.552586+00:00",
+ "generated_at": "2026-11-10T03:56:17.549415+00:00",
  "trends": [
+  {
+   "term": "a clínica maxwell",
+   "traffic": 2000
+  },
+  {
+   "term": "sepultura",
+   "traffic": 100
+  },
+  {
+   "term": "cooper flagg",
+   "traffic": 200
+  },
+  {
+   "term": "fernanda lima",
+   "traffic": 100
+  },
+  {
+   "term": "gta6",
+   "traffic": 100
+  },
+  {
+   "term": "bills",
+   "traffic": 1000
+  },
   {
    "term": "resumo novela quem ama cuida",
    "traffic": 200
   },
   {
-   "term": "lakers",
-   "traffic": 1000
-  },
-  {
    "term": "fenajufe",
-   "traffic": 100
+   "traffic": 200
   },
   {
    "term": "c. j. mccollum",
@@ -19,26 +39,6 @@
   },
   {
    "term": "aaron wiggins",
-   "traffic": 200
-  },
-  {
-   "term": "caixa seguridade",
-   "traffic": 200
-  },
-  {
-   "term": "the last of us",
-   "traffic": 100
-  },
-  {
-   "term": "warriors x pelicans",
-   "traffic": 2000
-  },
-  {
-   "term": "johnny depp",
-   "traffic": 200
-  },
-  {
-   "term": "nickeil alexander-walker",
    "traffic": 200
   }
  ],
@@ -82,13 +82,13 @@
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 7,
+   "count": 6,
    "ok": true
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 12,
+   "count": 13,
    "ok": true
   },
   {
@@ -143,7 +143,7 @@
    "url": "https://olhardigital.com.br/2026/11/09/pro/nvidia-e-jensen-huang-sao-processados-por-caso-envolvendo-suposta-espia-chinesa/",
    "published": "2026-11-10T00:15:11+00:00",
    "summary": "Ação foi apresentada em um tribunal federal de San Jose, na Califórnia (EUA) O post Nvidia e Jensen Huang são processados por caso envolvendo suposta espiã chinesa apareceu primeiro em Olhar Digital .",
-   "score": 12.52,
+   "score": 12.47,
    "why": [
     "4 sites cobrindo",
     "Tema de alto interesse"
@@ -217,7 +217,7 @@
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/anthropic-lanca-claude-mythos-52-e-fable-52-novas-versoes-de-sua-ia-superpoderosa/",
    "published": "2026-11-09T21:30:00+00:00",
    "summary": "",
-   "score": 9.35,
+   "score": 9.3,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
@@ -259,50 +259,13 @@
    ]
   },
   {
-   "id": "centersmightreallyjustbeaboutelectricity",
-   "title": "The backlash about data centers might really just be about electricity",
-   "source": "Technologyreview",
-   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-   "published": "2026-11-09T19:35:33+00:00",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
-   "score": 9.23,
-   "why": [
-    "Em alta no Google: the last of us",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "Skip to Content\n\n_This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,_ _sign up here_ _._\n\nAs voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where the backlash now sweeping the country arguably first began taking shape.\n\nDriving through it is surreal. Concrete monolithic buildings loom along every major road, with names like Skybox and CloudHQ.\n\nIt’s accepted wisdom in Big Tech that the war against data centers must be about something bigger than just data centers themselves. Two days after the midterms, OpenAI’s chief global affairs officer, Chris Lehane, wrote that data centers “have become a proxy for public unease about affordability, corporate power, and people losing control over their futures.” It’s a culture war, in other words.\n\ncontent frame\n\n**An error has occurred**\n\n🚨Cyber sale: Save 50% for a limited time! Subscribe at our best rate, plus get 4 in-depth research reports.\n\nBut spending a few days in Data Center Alley left me wondering if it’s really the proxy that Lehane describes. I came away convinced that the data center backlash is more about electricity than Big Tech admits. The industry can improve its image, but it can’t escape the physical consequences of its enormous appetite for electricity.\n\nHere’s why. There are two ways to power the sort of data center that AI companies want: connecting to the grid, or generating electricity onsite. In Virginia’s Loudoun County, where data centers are ubiquitous but have been built at a steadier pace than the breakneck expansion now underway elsewhere in the country, most are connected to the existing grid.\n\nOne facility I went inside, operated by Equinix, has massive diesel generators onsite for backup but gets its power from the local utility, Dominion Energy. Much of Dominion’s electricity is generated by natural gas (which is cleaner than coal or oil, but worse than renewables).\n\nThe average data center operating in this part of Virginia today has a power capacity of 54 megawatts. That’s more than the power draw of the Denver International Airport.\n\nElena Schlossberg, a prominent activist against data centers in Virginia, told me she’s “always banging my head against the wall” when the industry paints the fight as a culture war. “It was always about power,” she says—that is, electricity.\n\nSome Virginia protesters appear more animated by a broader anti-tech populism than Schlossberg, to be fair. But it’s the particular consequences of drawing so much power from the grid that have done the most to shape how the backlash has played out.\n\nRecent protests have led to new rules from the state that data centers must pay fully for the cost of new transmission lines to the grid and make sure they’re not spread among everyone else. Data center developers told me they’re preparing for new rules that would cut them off from grid power during peak demand. Schlossberg also worries about the downstream effects of a strained grid—for example, that data centers will run more diesel generators or that Dominion Energy will expand fossil fuel inputs rather than renewables to meet demand.\n\nThe overwhelming majority of AI data centers being built elsewhere in the country are not designed this way. The scale desired is so massive that companies are setting up in rural areas where there is virtually no grid infrastructure to connect to. Building there means bringing your own power (so-called “behind the meter” power), in the form of natural-gas-powered turbines. Companies also build diesel generators for backup. Anthropic, for example, has reportedly agreed to pay $3.4 billion for gas turbines in what’s described as the largest power generation purchase by an AI company.\n\nEven if grids were nearby, they’d be unlikely to serve the amount of power demanded. The smallest data centers attractive for AI training are 300 megawatts. It’s a lot of power for one industrial site, but not unprecedented: One data center developer told me he’s eyeing a former steel mill already equipped to draw that much electricity from the grid.\n\nBut the ideal facilities are more like 6,000 megawatts. That’s the estimated draw of the city of Chicago, which is powered by more than 20 power plants within the city alone (and dozens farther out).\n\ncontent frame\n\n**An error has occurred**\n\n[](https://www.technologyreview.com/subscribe/?itm_source=in-article&itm_medium=onsite&itm_campaign=InArticle-2026_CYBER_REPORTS&utm_content=CYBER26_REPORTS_WEBUNITS&_ptid=%7Bkpdx%7DAAAAwGp3zrzzgwoKV1VPQ05TVWdwdRIQbXc5dXB4OXByaHlnZGgzdhoMRVhHRUk2ODdZME85IiUxODA4OHUwMGRvLTAwMDAzOGUyZnFiZmtua2NmNnBnMGJldjdrKhpzaG93VGVtcGxhdGVLRlRaTVZCNFYyU1I0OTABOgxPVDFVS0dHWURBQkdCDU9UVkQ1VlkzWVUyOFdSEnYthADwGHQ2ZDZ3MGhsbloNMTk1LjY0LjExNS40OGIDZGxjaPa9ztcGcDJ4BA)\n\n**Cyber sale**\n\n**Best offer: Save 50%**\n\nSubscribe for award-winning, expert tech reporting that keeps you informed and ahead. Plus, get 4 bonus AI research reports.\n\nCLAIM 50% OFF\n\nThe notion of data center companies’ bringing their own power might seem attractive at first, because they wouldn’t be straining the grid. But generating electricity at this scale inevitably affects surrounding communities, and when public utilities build infrastructure of this magnitude, communities have traditionally expected a say in where it goes. Now, private companies are undertaking projects on a similar scale.\n\nNatural-gas turbines of any scale release air pollutants. When diesel generators are used, it’s even worse. And in the unprecedented rush to get these facilities operating, companies have become horrible neighbors (recall that Elon Musk violated air quality laws when he set up dozens of turbines to power a data center in Memphis, according to the Environmental Protection Agency).\n\nBig Tech’s tendency to chalk the backlash up to a culture war obfuscates one simple fact: There’s only so pleasant you can make a small city of computers to live around. Sure, companies can pursue better deals that raise tax revenues, hire local workers, and get more community involvement, as the protests are leading them to do. But if a small town is asked to welcome a Walt Disney World, an international airport, a steel plant, and the power plants to run them all, should we be surprised by its trepidation?\n\nAgain, that’s not to say this is the sole reason for opposition to data centers. Fears of job losses, existential risks, and concentrated corporate power all fuel the backlash, as does misinformation (most facilities use far less water than many people think). Nor is consuming enormous amounts of electricity inherently bad: Many of the advances that have improved modern life have required just that.\n\nBut as one developer recently told me, industry insiders see their ambitions as constrained less by public opposition than by a lack of electricity. That should tell us something.\n\nSo what happens next? It’s possible that newly elected politicians’ actual stances on data centers won’t be as negative as the ones they campaigned on. But what seems true regardless is that if new data centers need their own power generated onsite, they’ll go where there are the fewest people able to resist them. That might mean the Permian Basin, where a network of natural-gas lines can be easy for developers to connect to and populations are sparse. Companies might also try their chances abroad; Google, in fact, announced the day after the elections that it will spend $15 billion on data center projects in Malaysia.\n\nBut there’s one place where Big Tech may find virtually no limits at all, as Elon Musk posted just hours after the midterms results came rolling in: “Data centers in space looking pretty appealing right now.”\n\nhide\n\n### Deep Dive\n\n### Artificial intelligence\n\n\\\\\n**Don’t be fooled—LLMs don’t reason**\n\nTen years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible.\n\nBy\n\n- Thore Graepelarchive page\n\n\\\\\n**“We were looking at it wrong”: The explosive claim that’s upended the AI world**\n\nAn exclusive interview with Nick Cammarata, the researcher whose 26,000-word viral blog post has AI safety folks celebrating.\n\nBy\n\n- Will Douglas Heavenarchive page\n\n\\\\\n**Don’t be fooled by this summer of AI hype**\n\nBreathless claims about AGI and new capabilities fall apart pretty quickly under scrutiny.\n\nBy\n\n- Timnit Gebruarchive page\n- Emily M. Benderarchive page\n\n\\\\\n**The agentic web is here**\n\nWith the rise of personal AI assistants, the internet isn't just for humans anymore.\n\nBy\n\n- Grace Huckinsarchive page\n\n### Stay connected\n\nIllustration by Rose Wong\n\n## Get the latest updates from  MIT Technology Review\n\nDiscover special offers, top stories,\nupcoming events, and more.\n\nEnter your email\n\nPrivacy Policy\n\nThank you for submitting your email!\n\nExplore more newsletters\n\nIt looks like something went wrong.\n\nWe’re having trouble saving your preferences.\nTry refreshing this page and updating them one\nmore time. If you continue to get this message,\nreach out to us at\ncustomer-service@technologyreview.com with a list of newsletters you’d like to receive.\n\ncontent frame\n\n**An error has occurred**\n\n# This is your first complimentary story\n\nExplore emerging technology with an MIT Technology Review subscription.\n\nSUBSCRIBE & SAVE 50%\nSign in\n\ncontent frame\n\n**An error has occurred**\n\nDon't leave yet!\n\nSave 50% for a limited time\n\nSubscribe for access to expert news on AI, climate, and biotech, plus 4 in-depth research reports.\n\nCLAIM 50% OFF\n\ncontent frame\n\n# An error has occurred\n\n— Logout\n\n# Subscribe Now!\n\nChoose from one of the options below\n\n# Pick a subscription that's right for you.\n\n|     |     |\n| --- | --- |\n| ## Zero<br>for | Subscribe now |\n\nAlready purchased?Log in to your account\n\n|     |     |\n| --- | --- |\n| Did you receive a voucher? | Redeem |\n\ncontent frame\n\n**An error has occurred**\n\nCYBER SALE 🚨\n\nSave 50% on annual access\n\nSubscribe to lock in our absolute best savings, plus get a year’s worth of AI research reports.\n\nCLAIM 50% OFF",
-   "text_source": "firecrawl",
-   "images": [
-    "https://wp.technologyreview.com/wp-content/uploads/2026/11/AP23200525499640.jpg?resize=1200,600",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_LLMsNotcomplicated_V2.jpg",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg",
-    "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN-top.jpg",
-    "https://vx-piano.technologyreview.com/ml/cropped_WUOCNSUgpu_1_r5pgaj.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "backlash",
-    "data",
-    "centers"
-   ],
-   "searches": [
-    "data centers backlash",
-    "backlash growing against ai data centers",
-    "growing backlash to data centers",
-    "backlash against data centers"
-   ]
-  },
-  {
    "id": "traicaovivolancainternetviastarlinkemais",
    "title": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
    "source": "TecMundo",
    "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
    "published": "2026-11-09T22:04:00+00:00",
    "summary": "",
-   "score": 6.39,
+   "score": 6.33,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -352,7 +315,7 @@
    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
    "published": "2026-11-09T21:13:16+00:00",
    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
-   "score": 6.33,
+   "score": 6.28,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -401,7 +364,7 @@
    "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
    "published": "2026-11-09T21:55:35+00:00",
    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-   "score": 5.68,
+   "score": 5.62,
    "why": [
     "2 sites cobrindo"
    ],
@@ -444,7 +407,7 @@
    "url": "https://www.estadao.com.br/tecmundo/voxel/download-de-gta-6-e-liberado-e-arquivos-revelam-pistas-sobre-multiplayer-e-ps5-pro/",
    "published": "2026-11-09T19:15:00+00:00",
    "summary": "",
-   "score": 5.51,
+   "score": 5.46,
    "why": [
     "2 sites cobrindo"
    ],
@@ -475,7 +438,14 @@
     "6",
     "PS5"
    ],
-   "searches": []
+   "searches": [
+    "gta 6 ps5",
+    "gta 6 ps5 pro",
+    "gta 6 ps5 controller",
+    "gta 6 ps5 vs ps5 pro",
+    "gta 6 ps5 base",
+    "gta 6 ps5 slim"
+   ]
   },
   {
    "id": "ngsfilesexposethousandsofsecretsongithub",
@@ -484,7 +454,7 @@
    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
    "published": "2026-11-09T17:24:26+00:00",
    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-   "score": 5.4,
+   "score": 5.34,
    "why": [
     "2 sites cobrindo"
    ],
@@ -517,7 +487,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
    "published": "2026-11-09T22:04:00+00:00",
    "summary": "A Samsung está desenvolvendo um novo aplicativo de inteligência artificial chamado Memory, que promete organizar capturas de tela, links, textos e notas de voz em um único lugar. A novidade foi identificada pelo site especializado SamMobile em telas de configuração e na interface de uma atualização do sistema Galaxy. O aplicativo usa o Galaxy AI para organizar automaticamente os conteúdos salvos. ",
-   "score": 4.69,
+   "score": 4.63,
    "why": [
     "Tema de alto interesse"
    ],
@@ -545,7 +515,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/meta-vai-usar-ia-para-identificar-adolescentes-no-instagram-mesmo-com-idade-falsa/",
    "published": "2026-11-09T20:09:00+00:00",
    "summary": "A Meta está expandindo globalmente uma tecnologia de inteligência artificial que identifica adolescentes no Instagram mesmo quando eles informam uma data de nascimento falsa. O sistema já está em funcionamento na rede social e será ampliado gradualmente para o Facebook. A previsão da empresa é levar o recurso ao Threads ainda este ano. A tecnologia analisa sinais das contas e padrões de comportame",
-   "score": 4.57,
+   "score": 4.51,
    "why": [
     "Tema de alto interesse"
    ],
@@ -574,7 +544,7 @@
    "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
    "published": "2026-11-09T19:33:24+00:00",
    "summary": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dis",
-   "score": 4.53,
+   "score": 4.48,
    "why": [
     "Tema de alto interesse"
    ],
@@ -603,7 +573,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/one-ui-95-usara-ia-para-gravar-reunioes-criar-lembretes-e-resumir-quem-falou-o-que/",
    "published": "2026-11-09T18:06:00+00:00",
    "summary": "A Samsung prepara novos recursos de inteligência artificial para a interface One UI 9.5. Segundo informações do site especializado SamMobile, o aplicativo Gravador de Voz receberá ferramentas para organizar gravações por assunto, resumir a participação de cada pessoa e identificar tarefas que precisam de acompanhamento. Uma das novidades será o resumo por tópicos (Topical outline), que organiza os",
-   "score": 4.44,
+   "score": 4.39,
    "why": [
     "Tema de alto interesse"
    ],
@@ -622,6 +592,36 @@
     "UI",
     "9",
     "5"
+   ],
+   "searches": []
+  },
+  {
+   "id": "asemanamodelosavancadosdoplanomaisbarato",
+   "title": "Adeus ao Gemini Pro: Google corta nesta semana modelos avançados do plano mais barato",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/inteligencia-artificial/adeus-ao-gemini-pro-google-corta-nesta-semana-modelos-avancados-do-plano-mais-barato/",
+   "published": "2026-11-09T17:11:00+00:00",
+   "summary": "Quem assina o plano Google AI Plus vai perder acesso à variante Pro dos modelos de IA do Gemini a partir desta sexta-feira (13) . Dessa forma, o plano mais barato da empresa vai garantir acesso apenas às variantes Flash e Flash-Lite, voltadas para respostas rápidas. A mudança foi anunciada pela empresa no mês passado e já vale para novas assinaturas. No entanto, a Gigante de Mountain View estendeu",
+   "score": 4.33,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/knPhcA9t95V4pGcrABCyX-FJVpw=/0x0/filters:format(webp):quality(85)/74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Inteligência Artificial Adeus ao Gemini Pro: Google corta nesta semana modelos avançados do plano mais barato Por André Lourenti Magalhães • Editado por Jones Oliveira | 09/11/2026 às 14:11\n\nPrefira o CT no Google Viviane França/Canaltech Quem assina o plano Google AI Plus vai perder acesso à variante Pro dos modelos de IA do Gemini a partir desta sexta-feira (13) . Dessa forma, o plano mais barato da empresa vai garantir acesso apenas às variantes Flash e Flash-Lite, voltadas para respostas rápidas.\n\nA mudança foi anunciada pela empresa no mês passado e já vale para novas assinaturas. No entanto, a Gigante de Mountain View estendeu o prazo para aplicar os ajustes em novembro para assinantes ativos e comunicou a decisão por e-mail.\n\nNa prática, o acesso aos modelos mais poderosos do Gemini fica limitado a assinantes dos planos AI Pro e AI Ultra , oferecidos a partir de R$ 96,99 e R$ 779,90 por mês, respectivamente.\n\nWhatsApp Continua após a publicidade A variante Pro é considerada a versão mais inteligente de um modelo de IA do Gemini . Normalmente é usada para tarefas complexas e maiores , que exigem um nível de raciocínio mais intenso, com destaque para as áreas de lógica e programação.\n\nO Google ainda pode destrinchar uma família de modelos com as variantes Flash e Flash-Lite: nesse caso, a IA tem menor latência e consegue ser mais rápida nas respostas, mesmo perdendo “poder de fogo” para prompts mais elaborados. De acordo com a empresa, a maioria dos comandos é direcionada para a versão Flash-Lite.\n\nA Big Tech não detalha os motivos da mudança, mas a principal hipótese é cobrir os altos custos computacionais do uso de agentes de IA e dos modelos mais poderosos.\n\nGemini 4 Argon e Gemini 4 Carbon são modelos capazes de lidar com tarefas muito extensas, mas isso também exige maior realocação de recursos da nuvem para rodar as ações com estabilidade. O ajuste limita o acesso aos LLMs mais avançados e ainda pode aumentar a base de usuários dos planos mais caros.\n\nConfira o guia do Canaltech para descobrir qual versão do Gemini usar no dia a dia .",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/knPhcA9t95V4pGcrABCyX-FJVpw=/0x0/filters:format(webp):quality(85)/74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg",
+    "https://tl.ctcdn.com.br/vkE0kMN0JXENDoD8QseyuUlw99M=/1200x675/smart/filters:format(webp):quality(85)/5e76d40e-8c82-48fe-8bca-c85b83f51fa3.jpeg",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/Yg2A6uHdvGgERo1b1Nx7I8kRdA4=/640x360/smart/filters:format(webp):quality(85)/5e76d40e-8c82-48fe-8bca-c85b83f51fa3.jpeg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Gemini",
+    "Pro",
+    "Google"
    ],
    "searches": []
   }
