@@ -67,6 +67,10 @@
     {
       "name": "Spaceflightnow",
       "site": "https://spaceflightnow.com/"
+    },
+    {
+      "name": "Reuters",
+      "site": "https://www.reuters.com/"
     }
   ],
   "boost_keywords": [
