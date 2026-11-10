@@ -63,6 +63,10 @@
     {
       "name": "Bbc",
       "site": "https://www.bbc.com/storyworks/the-human-component/augmental"
+    },
+    {
+      "name": "Cnnbrasil",
+      "site": "https://www.cnnbrasil.com.br/ia/"
     }
   ],
   "boost_keywords": [
