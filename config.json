@@ -63,6 +63,10 @@
     {
       "name": "Cnnbrasil",
       "site": "https://www.cnnbrasil.com.br/ia/"
+    },
+    {
+      "name": "Exame",
+      "site": "https://exame.com/tecnologia/"
     }
   ],
   "boost_keywords": [
