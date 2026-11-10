@@ -59,6 +59,10 @@
     {
       "name": "Exame",
       "site": "https://exame.com/tecnologia/"
+    },
+    {
+      "name": "Forbes",
+      "site": "https://forbes.com.br/noticias-sobre/robos-humanoides/"
     }
   ],
   "boost_keywords": [
