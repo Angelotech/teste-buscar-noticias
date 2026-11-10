@@ -1,13 +1,21 @@
 {
- "generated_at": "2026-11-10T04:14:27.630639+00:00",
+ "generated_at": "2026-11-10T04:55:25.777233+00:00",
  "trends": [
+  {
+   "term": "gsw",
+   "traffic": 200
+  },
+  {
+   "term": "golden state warriors",
+   "traffic": 500
+  },
+  {
+   "term": "gui santos",
+   "traffic": 100
+  },
   {
    "term": "virginia fonseca",
    "traffic": 2000
-  },
-  {
-   "term": "warriors",
-   "traffic": 200
   },
   {
    "term": "victor wembanyama",
@@ -18,27 +26,19 @@
    "traffic": 2000
   },
   {
-   "term": "carson wentz",
-   "traffic": 1000
-  },
-  {
    "term": "sepultura",
    "traffic": 100
   },
   {
-   "term": "cooper flagg",
-   "traffic": 200
+   "term": "houston rockets",
+   "traffic": 100
   },
   {
    "term": "gta6",
-   "traffic": 100
+   "traffic": 200
   },
   {
    "term": "fernanda lima",
-   "traffic": 100
-  },
-  {
-   "term": "resumo novela quem ama cuida",
    "traffic": 200
   }
  ],
@@ -132,6 +132,18 @@
    "feed": "https://forbes.com.br/feed/",
    "count": 25,
    "ok": true
+  },
+  {
+   "name": "Spaceflightnow",
+   "feed": "https://spaceflightnow.com/feed/",
+   "count": 0,
+   "ok": true
+  },
+  {
+   "name": "Reuters",
+   "feed": "",
+   "count": 0,
+   "ok": false
   }
  ],
  "manual": [],
@@ -143,7 +155,7 @@
    "url": "https://olhardigital.com.br/2026/11/09/pro/nvidia-e-jensen-huang-sao-processados-por-caso-envolvendo-suposta-espia-chinesa/",
    "published": "2026-11-10T00:15:11+00:00",
    "summary": "Ação foi apresentada em um tribunal federal de San Jose, na Califórnia (EUA) O post Nvidia e Jensen Huang são processados por caso envolvendo suposta espiã chinesa apareceu primeiro em Olhar Digital .",
-   "score": 15.45,
+   "score": 15.41,
    "why": [
     "5 sites cobrindo",
     "Tema de alto interesse"
@@ -164,6 +176,10 @@
     {
      "source": "The Verge",
      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
     },
     {
      "source": "Techcrunch",
@@ -221,7 +237,7 @@
    "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
    "published": "2026-11-09T22:04:00+00:00",
    "summary": "",
-   "score": 9.31,
+   "score": 9.27,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
@@ -275,7 +291,7 @@
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/anthropic-lanca-claude-mythos-52-e-fable-52-novas-versoes-de-sua-ia-superpoderosa/",
    "published": "2026-11-09T21:30:00+00:00",
    "summary": "",
-   "score": 9.28,
+   "score": 9.24,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
@@ -323,7 +339,7 @@
    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
    "published": "2026-11-09T21:13:16+00:00",
    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
-   "score": 6.26,
+   "score": 6.22,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -372,7 +388,7 @@
    "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
    "published": "2026-11-09T21:55:35+00:00",
    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-   "score": 5.61,
+   "score": 5.56,
    "why": [
     "2 sites cobrindo"
    ],
@@ -415,7 +431,7 @@
    "url": "https://www.estadao.com.br/tecmundo/voxel/download-de-gta-6-e-liberado-e-arquivos-revelam-pistas-sobre-multiplayer-e-ps5-pro/",
    "published": "2026-11-09T19:15:00+00:00",
    "summary": "",
-   "score": 5.44,
+   "score": 5.4,
    "why": [
     "2 sites cobrindo"
    ],
@@ -462,7 +478,7 @@
    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
    "published": "2026-11-09T17:24:26+00:00",
    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-   "score": 5.32,
+   "score": 5.28,
    "why": [
     "2 sites cobrindo"
    ],
@@ -495,7 +511,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
    "published": "2026-11-09T22:04:00+00:00",
    "summary": "A Samsung está desenvolvendo um novo aplicativo de inteligência artificial chamado Memory, que promete organizar capturas de tela, links, textos e notas de voz em um único lugar. A novidade foi identificada pelo site especializado SamMobile em telas de configuração e na interface de uma atualização do sistema Galaxy. O aplicativo usa o Galaxy AI para organizar automaticamente os conteúdos salvos. ",
-   "score": 4.61,
+   "score": 4.57,
    "why": [
     "Tema de alto interesse"
    ],
@@ -523,7 +539,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/meta-vai-usar-ia-para-identificar-adolescentes-no-instagram-mesmo-com-idade-falsa/",
    "published": "2026-11-09T20:09:00+00:00",
    "summary": "A Meta está expandindo globalmente uma tecnologia de inteligência artificial que identifica adolescentes no Instagram mesmo quando eles informam uma data de nascimento falsa. O sistema já está em funcionamento na rede social e será ampliado gradualmente para o Facebook. A previsão da empresa é levar o recurso ao Threads ainda este ano. A tecnologia analisa sinais das contas e padrões de comportame",
-   "score": 4.49,
+   "score": 4.45,
    "why": [
     "Tema de alto interesse"
    ],
@@ -552,7 +568,7 @@
    "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
    "published": "2026-11-09T19:33:24+00:00",
    "summary": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dis",
-   "score": 4.46,
+   "score": 4.41,
    "why": [
     "Tema de alto interesse"
    ],
@@ -581,7 +597,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/one-ui-95-usara-ia-para-gravar-reunioes-criar-lembretes-e-resumir-quem-falou-o-que/",
    "published": "2026-11-09T18:06:00+00:00",
    "summary": "A Samsung prepara novos recursos de inteligência artificial para a interface One UI 9.5. Segundo informações do site especializado SamMobile, o aplicativo Gravador de Voz receberá ferramentas para organizar gravações por assunto, resumir a participação de cada pessoa e identificar tarefas que precisam de acompanhamento. Uma das novidades será o resumo por tópicos (Topical outline), que organiza os",
-   "score": 4.37,
+   "score": 4.32,
    "why": [
     "Tema de alto interesse"
    ],
@@ -610,7 +626,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/adeus-ao-gemini-pro-google-corta-nesta-semana-modelos-avancados-do-plano-mais-barato/",
    "published": "2026-11-09T17:11:00+00:00",
    "summary": "Quem assina o plano Google AI Plus vai perder acesso à variante Pro dos modelos de IA do Gemini a partir desta sexta-feira (13) . Dessa forma, o plano mais barato da empresa vai garantir acesso apenas às variantes Flash e Flash-Lite, voltadas para respostas rápidas. A mudança foi anunciada pela empresa no mês passado e já vale para novas assinaturas. No entanto, a Gigante de Mountain View estendeu",
-   "score": 4.31,
+   "score": 4.27,
    "why": [
     "Tema de alto interesse"
    ],
