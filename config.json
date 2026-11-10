@@ -63,6 +63,10 @@
     {
       "name": "Forbes",
       "site": "https://forbes.com.br/noticias-sobre/robos-humanoides/"
+    },
+    {
+      "name": "Spaceflightnow",
+      "site": "https://spaceflightnow.com/"
     }
   ],
   "boost_keywords": [
