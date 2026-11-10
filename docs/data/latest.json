@@ -1,9 +1,25 @@
 {
- "generated_at": "2026-11-10T03:56:17.549415+00:00",
+ "generated_at": "2026-11-10T04:14:27.630639+00:00",
  "trends": [
+  {
+   "term": "virginia fonseca",
+   "traffic": 2000
+  },
+  {
+   "term": "warriors",
+   "traffic": 200
+  },
+  {
+   "term": "victor wembanyama",
+   "traffic": 100
+  },
   {
    "term": "a clínica maxwell",
    "traffic": 2000
+  },
+  {
+   "term": "carson wentz",
+   "traffic": 1000
   },
   {
    "term": "sepultura",
@@ -14,31 +30,15 @@
    "traffic": 200
   },
   {
-   "term": "fernanda lima",
-   "traffic": 100
-  },
-  {
    "term": "gta6",
    "traffic": 100
   },
   {
-   "term": "bills",
-   "traffic": 1000
-  },
-  {
-   "term": "resumo novela quem ama cuida",
-   "traffic": 200
-  },
-  {
-   "term": "fenajufe",
-   "traffic": 200
-  },
-  {
-   "term": "c. j. mccollum",
+   "term": "fernanda lima",
    "traffic": 100
   },
   {
-   "term": "aaron wiggins",
+   "term": "resumo novela quem ama cuida",
    "traffic": 200
   }
  ],
@@ -98,18 +98,6 @@
    "ok": false
   },
   {
-   "name": "Neuralink",
-   "feed": "",
-   "count": 0,
-   "ok": false
-  },
-  {
-   "name": "Reuters",
-   "feed": "",
-   "count": 0,
-   "ok": false
-  },
-  {
    "name": "Wiley",
    "feed": "",
    "count": 0,
@@ -128,10 +116,22 @@
    "ok": true
   },
   {
-   "name": "Bbc",
+   "name": "Cnnbrasil",
    "feed": "",
    "count": 0,
    "ok": false
+  },
+  {
+   "name": "Exame",
+   "feed": "",
+   "count": 0,
+   "ok": false
+  },
+  {
+   "name": "Forbes",
+   "feed": "https://forbes.com.br/feed/",
+   "count": 25,
+   "ok": true
   }
  ],
  "manual": [],
@@ -143,9 +143,9 @@
    "url": "https://olhardigital.com.br/2026/11/09/pro/nvidia-e-jensen-huang-sao-processados-por-caso-envolvendo-suposta-espia-chinesa/",
    "published": "2026-11-10T00:15:11+00:00",
    "summary": "Ação foi apresentada em um tribunal federal de San Jose, na Califórnia (EUA) O post Nvidia e Jensen Huang são processados por caso envolvendo suposta espiã chinesa apareceu primeiro em Olhar Digital .",
-   "score": 12.47,
+   "score": 15.45,
    "why": [
-    "4 sites cobrindo",
+    "5 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
@@ -176,6 +176,10 @@
     {
      "source": "Techcrunch",
      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-money/2026/11/jensen-huang-nvidia-investigacao-espia-chinesa/"
     }
    ],
    "image": "https://olhardigital.com.br/wp-content/uploads/2026/01/jensen-huang-nvidia-1024x576.jpg",
@@ -211,13 +215,67 @@
    ]
   },
   {
+   "id": "traicaovivolancainternetviastarlinkemais",
+   "title": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
+   "published": "2026-11-09T22:04:00+00:00",
+   "summary": "",
+   "score": 9.31,
+   "why": [
+    "3 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/hardware/ceo-da-nvidia-admite-traicao-em-meio-a-escandalo-de-espionagem-chinesa/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/ceo-da-nvidia-vira-meme-apos-confessar-traicao-veja-memes-e-reacoes-da-internet/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/big-techs/a-bolha-de-ia-pode-estourar-com-o-caso-de-infidelidade-do-ceo-da-nvidia/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/ceo-da-nvidia-e-alvo-de-investigacao-interna-apos-suspeita-de-espionagem-chinesa/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPUBLICIDADE\n\nPor Amanda Fleure\n\n09/11/2026 \\| 19h04\n\nNotícia de presente\n\nO Hoje no TecMundo desta segunda-feira (9) chega com uma história que mistura tecnologia, espionagem e polêmica: Jensen Huang, CEO da Nvidia, admitiu um caso extraconjugal em meio a uma investigação sobre possíveis operações de inteligência chinesa. O executivo recebeu apoio do presidente Donald Trump, enquanto a empresa conduz uma apuração independente.\n\nE tem mais: a Vivo começou a oferecer conexão via satélite da Starlink para celulares compatíveis, a Perplexity lançou agentes de inteligência artificial que trabalham 24 horas por dia e a Microsoft prepara uma das maiores atualizações do Windows 11. Quer saber o que mais aconteceu no mundo da tecnologia? Então prepara o cafezinho e vem comigo para mais um Hoje no TecMundo!\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Resumo do Dia\n\nTOPSHOT - This screengrab from video footage by CTI obtained via AFPTV on November 9, 2026 shows Alice Huang (R), a Chinese executive linked to the data centre company called Megaspeed, attending a dinner hosted by Nvidia's chief executive and co-founder Jensen Huang (L in black back facing camera) at a restaurant in Taipei on May 22, 2025, during Computex, the island's top tech expo. Chip giant Nvidia's board announced on November 8, 2026 it opened a probe into Huang after he acknowledged an affair with a woman US officials say was working for Chinese intelligence. The executive, Alice Huang -- also known as Huang Le, and no relation to 63-year-old Taiwanese-born Jensen Huang -- developed a close relationship with the Nvidia boss, the Times said. (Photo by various sources / AFP) / - Taiwan OUT / RESTRICTED TO EDITORIAL USE - MANDATORY CREDIT \"AFP PHOTO / CTI via AFPTV- NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS Foto: -/-\n\n- **Jensen Huang admite caso extraconjugal e recebe apoio de Donald Trump:** O CEO da Nvidia admitiu ter sido infiel à esposa em um relacionamento com uma mulher chinesa que seria ex-executiva de uma empresa parceira. O caso ganhou repercussão em meio a uma investigação sobre suspeitas de espionagem estrangeira. Trump declarou apoio à permanência de Huang no comando da companhia.\n- **Homem processa OpenAI após ex-esposa supostamente usar ChatGPT para planejar envenenamento:** O programador americano James Gates acusa a OpenAI de ter ajudado sua ex-esposa a planejar uma tentativa de envenenamento. Segundo o processo, ela teria consultado a IA sobre substâncias tóxicas e formas de disfarçar seu gosto. A investigação policial foi arquivada por falta de provas concretas.\n- **DXOMARK atualiza ranking e aponta os celulares com as melhores câmeras de 2026:** O Huawei Pura 80 Ultra lidera a lista, com 175 pontos. O Motorola Signature 27 aparece em segundo, superando o iPhone 18 Pro, que ficou em terceiro. Já o Galaxy S26 Ultra aparece apenas na 23ª posição.\n\nCasa Branca usa Zelda Ocarina of Time para promover Donald Trump. Foto: Casa Branca\n\n- **Usuários relatam problemas de Wi-Fi e 5G após atualização One UI 9 da Samsung:** Donos de celulares Galaxy estão reclamando de desconexões, falhas no acesso à internet e dificuldades para reconhecer o chip SIM depois da atualização. A Samsung ainda não reconheceu oficialmente os problemas.\n- **iPhone Duo de luxo inspirado nos signos pode custar mais de R$ 380 mil:** A grife Caviar lançou uma coleção especial para o celular dobrável da Apple, com opções de personalização que incluem ouro, diamantes e fragmentos de meteoritos. As configurações mais caras podem ultrapassar US$ 70 mil, aproximadamente R$ 380 mil.\n- **Casa Branca volta a usar Zelda para promover Donald Trump:** Um vídeo publicado no perfil oficial do governo americano utiliza imagens e músicas de The Legend of Zelda: Ocarina of Time para promover o presidente. Essa é a segunda vez que a administração Trump utiliza o mesmo material.\n\nCâmera com abertura variável do iPhone 18 Pro. Foto: Lucas Ghitelar\n\n- **Windows 11 27H2 pode ser uma das maiores atualizações do sistema:** A Microsoft estaria preparando uma grande reformulação do Windows 11, com melhorias de desempenho, eficiência e mudanças visuais. Parte das novidades pode começar a aparecer em janeiro de 2027, mas a empresa ainda não confirmou os planos.\n- **Apple pode juntar Botão de Ação e Botão de Câmera no iPhone 19:** Um rumor indica que a empresa pode integrar as funções dos dois botões em um único componente. A ideia seria permitir que um toque longo no botão de câmera ative os atalhos personalizáveis do Botão de Ação.\n\nA rede Vivo Satélite não exige antena da Starlink para a conexão. Foto: Vivo/Divulgação\n\n- **Shopee e Nubank oferecem cupons de até 50% no 11.11:** A parceria prevê descontos exclusivos para clientes do Nubank durante a campanha de compras do dia 11 de novembro. O benefício terá limite de R$ 20 por compra e exigirá pagamento com cartão da fintech.\n- **Vivo Satélite permite usar conexão da Starlink em celulares compatíveis:** O serviço utiliza a rede de satélites da Starlink para manter celulares conectados em locais sem cobertura convencional. É possível enviar SMS, trocar mensagens, fazer chamadas pelo WhatsApp e acessar aplicativos de mapas. A conexão exige um aparelho compatível e pode ser ativada automaticamente em áreas abertas, com boa visibilidade do céu.\n- **Perplexity lança agentes de IA que trabalham 24 horas por dia:** Os Teammates funcionam como funcionários virtuais capazes de assumir tarefas profissionais continuamente, como gerenciar campanhas publicitárias, analisar códigos e monitorar servidores. A ferramenta está disponível na versão web para assinantes do plano Max.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nPUBLICIDADE\n\nE no Aconteceu na História, hoje, 9 de novembro de 2004, a Mozilla lançou oficialmente o Firefox 1.0, navegador que se tornou uma importante alternativa ao Internet Explorer.\n\nE esse foi o Hoje no TecMundo de hoje! Se você curte **Spotify** e **Apple Podcasts**, também pode ouvir por lá o Hoje no TecMundo, o Sem Manual e o TecInverso. Acompanhe nossas notícias no site, siga nossas redes sociais e me acompanhe também! Até amanhã!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- big techs\n\n### Ofertas\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nAnthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’ 2.\\\\\n\\\\\nPolícia Civil de São Paulo sofre suposto ataque cibernético e vazamento de dados 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nCEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet 5.\\\\\n\\\\\nCupom Black Friday: lista dos melhores cupons e ofertas de 2026\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710",
+    "https://www.estadao.com.br/resizer/v2/H7F6IAQ4WVEWZBIJOHJ3BXIFEI.png?quality=80&auth=bfd8153462912ebbef613923e63f26f26e1c4d1dc0202a88a5baa80d61a0e2d7&width=1200&height=630&focal=1437,485",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/3YA45EDP5BM55DS2EEJFS7Q2GA.png?quality=80&auth=eccf00f56ec7177c41109ae3da8780b3b7f82356a648366c206483a03c931e75&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=1200",
+    "https://www.estadao.com.br/resizer/v2/NG3ADPDZ6RFHRPSI5RKZQ77NCU.jpg?quality=80&auth=d2c2aeb37a90c091314085787e417a76d88b762742e641156445c32fa151b2dc&width=1200",
+    "https://www.estadao.com.br/resizer/v2/IFRJUIZO7RH4ZHY7KLEXUC6KOU.png?quality=80&auth=ff8f2967ff662ede81211b6a55714d6865c0d2b20bf15823a05975df400683b9&width=1200",
+    "https://www.estadao.com.br/resizer/v2/HNHVUVPP25COTKFV6GF5FVCSAY.jpg?quality=80&auth=5d438b7a1cfe626acc4eb67d15ef4f8316147d302185b26a426734a7fb738eee&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/2OS26R63UFPFHOX4ZG5E3WVQJU.jpg?quality=80&auth=03e4228327e6c844d7168cb62baafb4d5da277374fafb4f43ba8017377926a73&width=1200"
+   ],
+   "videos": [],
+   "keywords": [
+    "TecMundo",
+    "9",
+    "CEO"
+   ],
+   "searches": []
+  },
+  {
    "id": "efable52novasversoesdesuaiasuperpoderosa",
    "title": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
    "source": "TecMundo",
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/anthropic-lanca-claude-mythos-52-e-fable-52-novas-versoes-de-sua-ia-superpoderosa/",
    "published": "2026-11-09T21:30:00+00:00",
    "summary": "",
-   "score": 9.3,
+   "score": 9.28,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
@@ -259,63 +317,13 @@
    ]
   },
   {
-   "id": "traicaovivolancainternetviastarlinkemais",
-   "title": "Hoje no TecMundo (9): CEO da Nvidia admite traição, Vivo lança internet via Starlink e mais",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-9-ceo-da-nvidia-admite-traicao-vivo-lanca-internet-via-starlink-e-mais/",
-   "published": "2026-11-09T22:04:00+00:00",
-   "summary": "",
-   "score": 6.33,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/hardware/ceo-da-nvidia-admite-traicao-em-meio-a-escandalo-de-espionagem-chinesa/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/ceo-da-nvidia-vira-meme-apos-confessar-traicao-veja-memes-e-reacoes-da-internet/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/big-techs/a-bolha-de-ia-pode-estourar-com-o-caso-de-infidelidade-do-ceo-da-nvidia/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPUBLICIDADE\n\nPor Amanda Fleure\n\n09/11/2026 \\| 19h04\n\nNotícia de presente\n\nO Hoje no TecMundo desta segunda-feira (9) chega com uma história que mistura tecnologia, espionagem e polêmica: Jensen Huang, CEO da Nvidia, admitiu um caso extraconjugal em meio a uma investigação sobre possíveis operações de inteligência chinesa. O executivo recebeu apoio do presidente Donald Trump, enquanto a empresa conduz uma apuração independente.\n\nE tem mais: a Vivo começou a oferecer conexão via satélite da Starlink para celulares compatíveis, a Perplexity lançou agentes de inteligência artificial que trabalham 24 horas por dia e a Microsoft prepara uma das maiores atualizações do Windows 11. Quer saber o que mais aconteceu no mundo da tecnologia? Então prepara o cafezinho e vem comigo para mais um Hoje no TecMundo!\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Resumo do Dia\n\nTOPSHOT - This screengrab from video footage by CTI obtained via AFPTV on November 9, 2026 shows Alice Huang (R), a Chinese executive linked to the data centre company called Megaspeed, attending a dinner hosted by Nvidia's chief executive and co-founder Jensen Huang (L in black back facing camera) at a restaurant in Taipei on May 22, 2025, during Computex, the island's top tech expo. Chip giant Nvidia's board announced on November 8, 2026 it opened a probe into Huang after he acknowledged an affair with a woman US officials say was working for Chinese intelligence. The executive, Alice Huang -- also known as Huang Le, and no relation to 63-year-old Taiwanese-born Jensen Huang -- developed a close relationship with the Nvidia boss, the Times said. (Photo by various sources / AFP) / - Taiwan OUT / RESTRICTED TO EDITORIAL USE - MANDATORY CREDIT \"AFP PHOTO / CTI via AFPTV- NO MARKETING NO ADVERTISING CAMPAIGNS - DISTRIBUTED AS A SERVICE TO CLIENTS Foto: -/-\n\n- **Jensen Huang admite caso extraconjugal e recebe apoio de Donald Trump:** O CEO da Nvidia admitiu ter sido infiel à esposa em um relacionamento com uma mulher chinesa que seria ex-executiva de uma empresa parceira. O caso ganhou repercussão em meio a uma investigação sobre suspeitas de espionagem estrangeira. Trump declarou apoio à permanência de Huang no comando da companhia.\n- **Homem processa OpenAI após ex-esposa supostamente usar ChatGPT para planejar envenenamento:** O programador americano James Gates acusa a OpenAI de ter ajudado sua ex-esposa a planejar uma tentativa de envenenamento. Segundo o processo, ela teria consultado a IA sobre substâncias tóxicas e formas de disfarçar seu gosto. A investigação policial foi arquivada por falta de provas concretas.\n- **DXOMARK atualiza ranking e aponta os celulares com as melhores câmeras de 2026:** O Huawei Pura 80 Ultra lidera a lista, com 175 pontos. O Motorola Signature 27 aparece em segundo, superando o iPhone 18 Pro, que ficou em terceiro. Já o Galaxy S26 Ultra aparece apenas na 23ª posição.\n\nCasa Branca usa Zelda Ocarina of Time para promover Donald Trump. Foto: Casa Branca\n\n- **Usuários relatam problemas de Wi-Fi e 5G após atualização One UI 9 da Samsung:** Donos de celulares Galaxy estão reclamando de desconexões, falhas no acesso à internet e dificuldades para reconhecer o chip SIM depois da atualização. A Samsung ainda não reconheceu oficialmente os problemas.\n- **iPhone Duo de luxo inspirado nos signos pode custar mais de R$ 380 mil:** A grife Caviar lançou uma coleção especial para o celular dobrável da Apple, com opções de personalização que incluem ouro, diamantes e fragmentos de meteoritos. As configurações mais caras podem ultrapassar US$ 70 mil, aproximadamente R$ 380 mil.\n- **Casa Branca volta a usar Zelda para promover Donald Trump:** Um vídeo publicado no perfil oficial do governo americano utiliza imagens e músicas de The Legend of Zelda: Ocarina of Time para promover o presidente. Essa é a segunda vez que a administração Trump utiliza o mesmo material.\n\nCâmera com abertura variável do iPhone 18 Pro. Foto: Lucas Ghitelar\n\n- **Windows 11 27H2 pode ser uma das maiores atualizações do sistema:** A Microsoft estaria preparando uma grande reformulação do Windows 11, com melhorias de desempenho, eficiência e mudanças visuais. Parte das novidades pode começar a aparecer em janeiro de 2027, mas a empresa ainda não confirmou os planos.\n- **Apple pode juntar Botão de Ação e Botão de Câmera no iPhone 19:** Um rumor indica que a empresa pode integrar as funções dos dois botões em um único componente. A ideia seria permitir que um toque longo no botão de câmera ative os atalhos personalizáveis do Botão de Ação.\n\nA rede Vivo Satélite não exige antena da Starlink para a conexão. Foto: Vivo/Divulgação\n\n- **Shopee e Nubank oferecem cupons de até 50% no 11.11:** A parceria prevê descontos exclusivos para clientes do Nubank durante a campanha de compras do dia 11 de novembro. O benefício terá limite de R$ 20 por compra e exigirá pagamento com cartão da fintech.\n- **Vivo Satélite permite usar conexão da Starlink em celulares compatíveis:** O serviço utiliza a rede de satélites da Starlink para manter celulares conectados em locais sem cobertura convencional. É possível enviar SMS, trocar mensagens, fazer chamadas pelo WhatsApp e acessar aplicativos de mapas. A conexão exige um aparelho compatível e pode ser ativada automaticamente em áreas abertas, com boa visibilidade do céu.\n- **Perplexity lança agentes de IA que trabalham 24 horas por dia:** Os Teammates funcionam como funcionários virtuais capazes de assumir tarefas profissionais continuamente, como gerenciar campanhas publicitárias, analisar códigos e monitorar servidores. A ferramenta está disponível na versão web para assinantes do plano Max.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nPUBLICIDADE\n\nE no Aconteceu na História, hoje, 9 de novembro de 2004, a Mozilla lançou oficialmente o Firefox 1.0, navegador que se tornou uma importante alternativa ao Internet Explorer.\n\nE esse foi o Hoje no TecMundo de hoje! Se você curte **Spotify** e **Apple Podcasts**, também pode ouvir por lá o Hoje no TecMundo, o Sem Manual e o TecInverso. Acompanhe nossas notícias no site, siga nossas redes sociais e me acompanhe também! Até amanhã!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- big techs\n\n### Ofertas\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nAnthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’ 2.\\\\\n\\\\\nPolícia Civil de São Paulo sofre suposto ataque cibernético e vazamento de dados 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nCEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet 5.\\\\\n\\\\\nCupom Black Friday: lista dos melhores cupons e ofertas de 2026\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
-   "text_source": "firecrawl",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=710",
-    "https://www.estadao.com.br/resizer/v2/H7F6IAQ4WVEWZBIJOHJ3BXIFEI.png?quality=80&auth=bfd8153462912ebbef613923e63f26f26e1c4d1dc0202a88a5baa80d61a0e2d7&width=1200&height=630&focal=1437,485",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/3YA45EDP5BM55DS2EEJFS7Q2GA.png?quality=80&auth=eccf00f56ec7177c41109ae3da8780b3b7f82356a648366c206483a03c931e75&width=60&height=60&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/DTS72AKJ5ZDGBE2Y5I64AY4FYM.jpg?quality=80&auth=f87085be9570332e5106b789224ad2553456e03be0e2072ba6395b1d59527a62&width=1200",
-    "https://www.estadao.com.br/resizer/v2/NG3ADPDZ6RFHRPSI5RKZQ77NCU.jpg?quality=80&auth=d2c2aeb37a90c091314085787e417a76d88b762742e641156445c32fa151b2dc&width=1200",
-    "https://www.estadao.com.br/resizer/v2/IFRJUIZO7RH4ZHY7KLEXUC6KOU.png?quality=80&auth=ff8f2967ff662ede81211b6a55714d6865c0d2b20bf15823a05975df400683b9&width=1200",
-    "https://www.estadao.com.br/resizer/v2/HNHVUVPP25COTKFV6GF5FVCSAY.jpg?quality=80&auth=5d438b7a1cfe626acc4eb67d15ef4f8316147d302185b26a426734a7fb738eee&width=1200",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/2OS26R63UFPFHOX4ZG5E3WVQJU.jpg?quality=80&auth=03e4228327e6c844d7168cb62baafb4d5da277374fafb4f43ba8017377926a73&width=1200"
-   ],
-   "videos": [],
-   "keywords": [
-    "TecMundo",
-    "9",
-    "CEO"
-   ],
-   "searches": []
-  },
-  {
    "id": "atacenterclimatepledgeunitednationscop31",
    "title": "The global pledge to use AI for climate good is a cruel joke",
    "source": "The Verge",
    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
    "published": "2026-11-09T21:13:16+00:00",
    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a […]",
-   "score": 6.28,
+   "score": 6.26,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -364,7 +372,7 @@
    "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
    "published": "2026-11-09T21:55:35+00:00",
    "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-   "score": 5.62,
+   "score": 5.61,
    "why": [
     "2 sites cobrindo"
    ],
@@ -407,7 +415,7 @@
    "url": "https://www.estadao.com.br/tecmundo/voxel/download-de-gta-6-e-liberado-e-arquivos-revelam-pistas-sobre-multiplayer-e-ps5-pro/",
    "published": "2026-11-09T19:15:00+00:00",
    "summary": "",
-   "score": 5.46,
+   "score": 5.44,
    "why": [
     "2 sites cobrindo"
    ],
@@ -454,7 +462,7 @@
    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
    "published": "2026-11-09T17:24:26+00:00",
    "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-   "score": 5.34,
+   "score": 5.32,
    "why": [
     "2 sites cobrindo"
    ],
@@ -487,7 +495,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/samsung-cria-novo-app-de-ia-para-organizar-prints-e-links-perdidos/",
    "published": "2026-11-09T22:04:00+00:00",
    "summary": "A Samsung está desenvolvendo um novo aplicativo de inteligência artificial chamado Memory, que promete organizar capturas de tela, links, textos e notas de voz em um único lugar. A novidade foi identificada pelo site especializado SamMobile em telas de configuração e na interface de uma atualização do sistema Galaxy. O aplicativo usa o Galaxy AI para organizar automaticamente os conteúdos salvos. ",
-   "score": 4.63,
+   "score": 4.61,
    "why": [
     "Tema de alto interesse"
    ],
@@ -515,7 +523,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/meta-vai-usar-ia-para-identificar-adolescentes-no-instagram-mesmo-com-idade-falsa/",
    "published": "2026-11-09T20:09:00+00:00",
    "summary": "A Meta está expandindo globalmente uma tecnologia de inteligência artificial que identifica adolescentes no Instagram mesmo quando eles informam uma data de nascimento falsa. O sistema já está em funcionamento na rede social e será ampliado gradualmente para o Facebook. A previsão da empresa é levar o recurso ao Threads ainda este ano. A tecnologia analisa sinais das contas e padrões de comportame",
-   "score": 4.51,
+   "score": 4.49,
    "why": [
     "Tema de alto interesse"
    ],
@@ -544,7 +552,7 @@
    "url": "https://canaltech.com.br/smartphone/iphone-duo-da-motorola-tem-nome-revelado-antes-da-hora-veja-o-que-ja-sabemos/",
    "published": "2026-11-09T19:33:24+00:00",
    "summary": "A Motorola deu mais um sinal de que o lançamento do seu novo celular dobrável está chegando, e agora revelou antecipadamente o nome do aparelho. O “iPhone Duo” da marca apareceu em uma página oficial de suporte como motorola Razr Flex, além de uma indicação de que chegará às lojas em 2027. A página não traz imagens nem confirma a ficha técnica , mas representa uma referência oficial ao nome do dis",
-   "score": 4.48,
+   "score": 4.46,
    "why": [
     "Tema de alto interesse"
    ],
@@ -573,7 +581,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/one-ui-95-usara-ia-para-gravar-reunioes-criar-lembretes-e-resumir-quem-falou-o-que/",
    "published": "2026-11-09T18:06:00+00:00",
    "summary": "A Samsung prepara novos recursos de inteligência artificial para a interface One UI 9.5. Segundo informações do site especializado SamMobile, o aplicativo Gravador de Voz receberá ferramentas para organizar gravações por assunto, resumir a participação de cada pessoa e identificar tarefas que precisam de acompanhamento. Uma das novidades será o resumo por tópicos (Topical outline), que organiza os",
-   "score": 4.39,
+   "score": 4.37,
    "why": [
     "Tema de alto interesse"
    ],
@@ -602,7 +610,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/adeus-ao-gemini-pro-google-corta-nesta-semana-modelos-avancados-do-plano-mais-barato/",
    "published": "2026-11-09T17:11:00+00:00",
    "summary": "Quem assina o plano Google AI Plus vai perder acesso à variante Pro dos modelos de IA do Gemini a partir desta sexta-feira (13) . Dessa forma, o plano mais barato da empresa vai garantir acesso apenas às variantes Flash e Flash-Lite, voltadas para respostas rápidas. A mudança foi anunciada pela empresa no mês passado e já vale para novas assinaturas. No entanto, a Gigante de Mountain View estendeu",
-   "score": 4.33,
+   "score": 4.31,
    "why": [
     "Tema de alto interesse"
    ],
