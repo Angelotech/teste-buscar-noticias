@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-17T03:19:26.542736+00:00",
+ "generated_at": "2026-11-17T18:00:06.003970+00:00",
  "trends": [
   {
-   "term": "bancos eua",
-   "traffic": 100
+   "term": "covid vacinação",
+   "traffic": 2000
   },
   {
-   "term": "michael porter jr.",
-   "traffic": 100
+   "term": "marco buzzi",
+   "traffic": 2000
   },
   {
-   "term": "julius randle",
-   "traffic": 100
+   "term": "avião amado batista",
+   "traffic": 20000
   },
   {
-   "term": "zendaya",
+   "term": "iphone 20",
+   "traffic": 200
+  },
+  {
+   "term": "br-158",
    "traffic": 500
   },
   {
-   "term": "the economist 2027",
-   "traffic": 200
+   "term": "moeda",
+   "traffic": 2000
   },
   {
-   "term": "deborah blando hoje",
-   "traffic": 200
-  },
-  {
-   "term": "metsul meteorologia",
-   "traffic": 50000
-  },
-  {
-   "term": "saddiq bey",
+   "term": "game of the year",
    "traffic": 500
   },
   {
-   "term": "alane dias",
+   "term": "cbs",
    "traffic": 200
   },
   {
-   "term": "rivais",
+   "term": "manni l. perez",
    "traffic": 1000
+  },
+  {
+   "term": "mirra andreeva",
+   "traffic": 500
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 170,
-  "used_today": 7,
+  "used": 178,
+  "used_today": 15,
   "daily_allowance": 45
  },
  "sources": [
@@ -76,19 +76,19 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 15,
+   "count": 19,
    "ok": true
   },
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 6,
+   "count": 10,
    "ok": true
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 13,
+   "count": 15,
    "ok": true
   },
   {
@@ -112,7 +112,7 @@
   {
    "name": "Technologyreview",
    "feed": "https://www.technologyreview.com/feed",
-   "count": 4,
+   "count": 6,
    "ok": true
   },
   {
@@ -149,456 +149,500 @@
  "manual": [],
  "stories": [
   {
-   "id": "paraatvparatentaralcancaryoutubeespotify",
-   "title": "Atrasada na festa, Apple leva podcasts em vídeo para a TV para tentar alcançar YouTube e Spotify",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/apps/atrasada-na-festa-apple-leva-podcasts-em-video-para-a-tv-para-tentar-alcancar-youtube-e-spotify/",
-   "published": "2026-11-16T20:10:02+00:00",
-   "summary": "O aplicativo Apple TV vai ganhar uma seção de podcasts em vídeo no catálogo. A novidade foi liberada em testes a partir desta segunda-feira (16) na versão Beta e deve chegar ao público nos próximos meses. A Apple confirmou ao jornal The New York Times que os videocasts serão gratuitos no streaming e poderão ser acessados até por quem não tem uma assinatura do serviço. Além disso, o conteúdo estará",
-   "score": 9.75,
-   "why": [
-    "Em alta no Google: rivais",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/iOnmrMwpEVQ-H2J4pxkYXDgIal4=/0x0/filters:format(webp):quality(85)/448dc86a-944c-49c2-a672-62fd8d9653bf.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Atrasada na festa, Apple leva podcasts em vídeo para a TV para tentar alcançar YouTube e Spotify\n\nPor André Lourenti Magalhães • Editado por Jones Oliveira \\| 16/11/2026 às 17:10\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/17fcb512-7a97-4d30-a748-515348be3140.webp)Divulgação/Apple\n\nO aplicativo Apple TV vai ganhar uma seção de **podcasts em vídeo** no catálogo. A novidade foi liberada em testes a partir desta segunda-feira (16) na versão Beta e deve chegar ao público nos próximos meses.\n\nContinua após a publicidade\n\nA Apple confirmou ao jornal The New York Times que os _videocasts_ serão **gratuitos no streaming** e poderão ser acessados até por quem não tem uma assinatura do serviço. Além disso, o conteúdo estará disponível em diferentes plataformas, incluindo aplicativo para TVs e aparelhos como Roku.\n\nDe acordo com o site MacRumors, a nova seção já apareceu no Beta 2 do iOS 27.3. O lançamento geral deve acontecer com a publicação da versão estável, prevista para dezembro deste ano.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Apple tenta se recuperar na corrida dos podcasts\n\nA Maçã é uma das grandes responsáveis pela popularização dos podcasts, mas **ficou atrás da concorrência com os episódios em vídeo**. O formato se destacou no YouTube e posteriormente no Spotify, enquanto a Apple não tinha uma resposta para bater de frente com as concorrentes.\n\nOs videocasts chamam a atenção pelo potencial para transformar um único capítulo em dezenas de cortes prontos para as redes sociais, o que atrai celebridades para o setor.\n\nContinua após a publicidade\n\nA Apple trouxe o formato de vídeo para o aplicativo Podcasts no começo deste ano e aponta que houve um crescimento de até 20% no consumo dos programas que aderiram à novidade. Com a chegada ao Apple TV, a empresa pretende ampliar ainda mais o alcance e se aproximar das rivais do mercado.\n\nConfira 5 apps alternativos para ouvir podcasts no dia a dia.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/iOnmrMwpEVQ-H2J4pxkYXDgIal4=/0x0/filters:format(webp):quality(85)/448dc86a-944c-49c2-a672-62fd8d9653bf.jpg",
-    "https://tl.ctcdn.com.br/AoPepA6xlCK0QvpErQxRPO-lhHA=/1200x675/smart/filters:format(webp):quality(85)/17fcb512-7a97-4d30-a748-515348be3140.webp",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/oHX-5FkuZoYd_OCablC4CETVTuY=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Apple",
-    "TV",
-    "YouTube"
-   ],
-   "searches": [
-    "apple tv youtube",
-    "apple tv youtube music",
-    "apple tv youtube app",
-    "apple tv youtube not working",
-    "apple tv youtube adblock",
-    "apple tv youtube 去广告"
-   ]
-  },
-  {
-   "id": "osprimeiroscarroshibridosflexdagmnomundo",
-   "title": "Chevrolet vai lançar no Brasil os primeiros carros híbridos flex da GM no mundo",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/carros/chevrolet-vai-lancar-no-brasil-os-primeiros-carros-hibridos-flex-da-gm-no-mundo/",
-   "published": "2026-11-16T16:00:00+00:00",
-   "summary": "A Chevrolet planeja estrear no Brasil, em 2027, os primeiros carros híbridos flex da General Motors no mundo . A confirmação veio de Fábio Rua, vice-presidente da GM para a América do Sul, e mostra que a marca quer antecipar até mesmo o cronograma da montadora nos Estados Unidos enquanto coloca em prática a revisão estratégica da fabricante diante da desaceleração global na adoção de veículos tota",
-   "score": 8.79,
-   "why": [
-    "Em alta no Google: rivais"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/MnHxzcIaVlnaENAW1bPG4FgG4Z0=/0x0/filters:format(webp):quality(85)/5354bf1b-0d70-4128-ac72-5c1fd9e8facc.png",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Carros\n\n# Chevrolet vai lançar no Brasil os primeiros carros híbridos flex da GM no mundo\n\nPor Danielle Cassita \\| 16/11/2026 às 13:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Auto\n\n:quality(85)/f5012588-4583-498c-8eb7-1b01762ad35b.png)Chevrolet/Divulgação\n\nA **Chevrolet planeja estrear no Brasil, em 2027, os primeiros carros híbridos flex da General Motors no mundo**. A confirmação veio de Fábio Rua, vice-presidente da GM para a América do Sul, e mostra que a marca quer antecipar até mesmo o cronograma da montadora nos Estados Unidos enquanto coloca em prática a revisão estratégica da fabricante diante da desaceleração global na adoção de veículos totalmente elétricos.\n\nContinua após a publicidade\n\nO que acontece é que, diferentemente do que a GM tinha imaginado, os elétricos não caíram totalmente no gosto dos motoristas. Como os híbridos devem ocupar um espaço importante no mercado, a expectativa é que o **inédito Chevrolet Sonic 2028 lidere a novidade no mercado nacional**.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nNa sequência, vêm o **SUV Tracker e a picape Montana**, que devem ser os próximos a receber a tecnologia; todos já estão em fase de testes nas ruas brasileiras. A ofensiva integra o ciclo de modernização das fábricas paulistas da empresa, que recebeu um **aporte extra de R$ 3,5 bilhões em junho de 2026**, elevando o investimento total para R$ 10,5 bilhões até 2028 para enfrentar rivais diretos e marcas chinesas.\n\n## Como vai ser o sistema híbrido da Chevrolet\n\nSem exigir grandes mudanças visuais na carroceria da linha 2028, a **eletrificação deve mirar na tecnologia híbrida leve (MHEV), associada aos atuais motores 1.0 turbo flex e 1.2 turbo flex**. O conjunto oferece assistência elétrica direta ao motor a combustão, o que permite reduzir as emissões, o consumo de combustível e dispensa a recarga externa na tomada.\n\nO principal diferencial técnico da GM frente a concorrentes como Fiat Pulse e Jeep Avenger está na arquitetura elétrica. Enquanto os modelos da Stellantis utilizam um sistema mais simples de 12 volts, os **novos Chevrolet adotarão uma rede dedicada de 48 volts**, assegurando um nível superior de assistência dinâmica ao motorista.\n\nContinua após a publicidade\n\nEnquanto a montadora avança nos projetos por aqui, confira nossa matéria sobre a data para a estreia do Tracker e Montana em versões híbridas!\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/MnHxzcIaVlnaENAW1bPG4FgG4Z0=/0x0/filters:format(webp):quality(85)/5354bf1b-0d70-4128-ac72-5c1fd9e8facc.png",
-    "https://tl.ctcdn.com.br/IHZN1BzlevPsvpUvPjZfXrnR0M8=/1200x675/smart/filters:format(webp):quality(85)/f5012588-4583-498c-8eb7-1b01762ad35b.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/77SSTossCJV-f5wyCwS35mR_hgA=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Brasil",
-    "GM"
-   ],
-   "searches": [
-    "gmod brasil",
-    "gm brasil play shox",
-    "gmt brasil",
-    "gm brasil roleplay",
-    "gmc brasil",
-    "gm brasil"
-   ]
-  },
-  {
-   "id": "adoparaiphoneduoefranquiadeusoparasiriai",
-   "title": "iOS 23.3 Beta 2 traz ‘Face ID’ capado para iPhone Duo e franquia de uso para Siri AI",
+   "id": "eitandovoltadejensenhuangcomoceodanvidia",
+   "title": "Conselho da Nvidia estaria rejeitando volta de Jensen Huang como CEO da Nvidia",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/ios-233-beta-2-traz-face-id-capado-para-iphone-duo-e-franquia-de-uso-para-siri-ai/",
-   "published": "2026-11-16T23:00:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/conselho-da-nvidia-estaria-rejeitando-volta-de-jensen-huang-como-ceo-da-nvidia/",
+   "published": "2026-11-17T13:30:00+00:00",
    "summary": "",
-   "score": 7.13,
+   "score": 18.42,
    "why": [
-    "2 sites cobrindo",
+    "6 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+    },
+    {
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
+    },
     {
      "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/ON5VHV4OZJA6BHQ3HAXNAYZTKQ.png?quality=80&auth=86971f7f56eb0aec8c4d44156c0eeb14068ad848d11038bb4440931b7df74ae0&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Produto e Review\n\nPUBLICIDADE\n\nPor Igor Almenara Carneiro\n\n16/11/2026 \\| 20h00\n\nNotícia de presente\n\niPhone Duo: UNBOXING e PRIMEIRAS IMPRESSÕES!\n\nO primeiro smartphone dobrável da Apple chegou! Vem com a gente conferir o que vem com o iPhone Duo na caixa, além de conferir alguns acessórios oficiais como c. Crédito: Thayna Cruz/Estadão/TecMundo\n\nO iOS 27.3 Beta 2 começou a ser liberado para desenvolvedores nesta segunda-feira (16). A atualização enfim adiciona uma espécie de “Face ID” para o iPhone Duo e introduz um limite de uso diário para funções de processamento remoto da Siri AI.\n\n**A atualização é distribuída exclusivamente para desenvolvedores**, mas não deve demorar muito para ser liberada para mais usuários. Além do update para iPhones, as compilações iPadOS 27.3 Beta 2 e macOS 27.3 Beta 2 também foram liberadas nesta segunda-feira.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### “Face ID” do iPhone Duo\n\nO iPhone Duo foi lançado sem o hardware necessário para o Face ID convencional, mas a Apple adicionou uma versão mais simples de autenticação por reconhecimento facial ao dobrável. A opção de segurança está disponível para desbloquear a tela do celular, servindo como alternativa ao PIN e ao Touch ID.\n\nO iPhone Duo agora tem reconhecimento facial próprio, mas ele não é igual ao Face ID. Foto: Lucas Ghitelar/TecMundo/Estadão\n\nPUBLICIDADE\n\nContudo, o **reconhecimento facial do iPhone Duo é mais limitado do que o Face ID de iPhones convencionais**. Para fazer compras e usar credenciais salvas no aparelho, por exemplo, ainda é necessário confirmar a própria identidade via Touch ID.\n\n**Além disso, após 45 minutos com o celular bloqueado, não é possível desbloquear o aparelho com o reconhecimento facial**. Nesse caso, é necessário fornecer o PIN ou autenticar-se via Touch ID para reativar o desbloqueio pela câmera.\n\nAinda sobre segurança, a Apple adicionou a opção de bloquear o iPhone Duo automaticamente ao fechar a tela interna, em vez de realocar o conteúdo para o display externo. Essa opção está disponível na seção “Tela e brilho” do aplicativo Ajustes.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Limite de uso para a Siri AI\n\nO iOS 27 deu vida à Siri AI, versão repaginada da assistente virtual da Apple, que também terá um limite de uso diário para ferramentas de IA. No iOS 27.3 Beta 2, **a marca começou a testar o controle de franquias para o processamento remoto dessas funcionalidades**.\n\nPUBLICIDADE\n\nAs interações do Siri AI e outras ferramentas do Apple Intelligence estão sujeitas ao limite de uso da conta. Foto: Apple/Reprodução\n\n**Segundo a página de suporte da Apple, os limites de uso entram em vigor em 2027**. As funções do Apple Intelligence continuam gratuitas para todos os usuários de dispositivos compatíveis, mas o uso estará sujeito a uma franquia diária.\n\nAs ferramentas sujeitas ao limite diário incluem:\n\n- Siri AI;\n- Edição inteligente de fotos e imagens, com ferramentas como Clean Up, Extend, Image Playground e Spatial Reframing;\n- Fluxos de trabalho e automações, como as ferramentas associadas ao app Atalhos;\n- Apps de terceiros que utilizem os Apple Foundation Models (AFM) no ambiente Private Cloud Compute.\n\nSegundo a Apple, **o limite de uso diário associado à Siri AI é “bem generoso”. Ao atingir o limite de interações, o sistema notificará o usuário**. Mesmo com a franquia esgotada, ainda será possível fazer solicitações simples à Siri, como “Configure um timer de 3 minutos” ou “Envie uma mensagem à Mark sobre a festa de Annika”.\n\nPUBLICIDADE\n\n**As interações mais complexas com a assistente voltarão a ficar disponíveis automaticamente quando a franquia for renovada no dia seguinte** ou se o usuário fizer o upgrade para um plano elegível do iCloud+. As tarefas mais complexas, segundo a Apple, incluem solicitações de ações com múltiplas etapas, como pedir à assistente para gerar um resumo de anotações pessoais do app Notas e incluí-lo no conteúdo de um e-mail.\n\nNem todo plano do iCloud+ oferece uma franquia maior do Apple Intelligence, porém. O plano com 50 GB de armazenamento em nuvem não garante um limite adicional. Abaixo, confira o comparativo:\n\n- **iCloud+ com 200 GB:** até 2 vezes a franquia de uso padrão por dispositivo;\n- **iCloud+ com 2 TB:** até 5 vezes a franquia de uso padrão por dispositivo;\n- **iCloud+ com 6 TB:** até 10 vezes a franquia de uso padrão por dispositivo;\n- **iCloud+ com 12 TB:** até 20 vezes a franquia de uso padrão por dispositivo.\n\nPUBLICIDADE\n\n**No Brasil, o plano iCloud+ de 200 GB custa R$ 19,90 por mês**. A versão mais cara, de 12 TB, custa R$ 399,90 por mês.\n\nPor padrão, **as interações consomem primeiro a franquia de uso gratuito e, se ela acabar, passam a consumir o limite adicional oferecido pela assinatura**. Nos planos familiares, a franquia extra é compartilhada entre os dispositivos e consumida por ordem de utilização.\n\nA Apple pode aproveitar esse período de testes para observar os padrões de consumo dos usuários e evitar que o público esgote as franquias muito rapidamente durante atividades cotidianas. Naturalmente, os limites de cada plano ainda podem mudar.\n\nQuer ficar por dentro das novidades do mundo da tecnologia? Acesse o **TecMundo** e acompanhe as últimas notícias sobre Apple, iOS e inteligência artificial.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Apple\n- [ios \\[sistema operacional\\]](https://www.estadao.com.br/tudo-sobre/ios-sistema-operacional/)\n- iPhone\n\n0 Comentário\n\n27 debatedores online27 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nJensen Huang discute retorno como CEO da Nvidia e líderes tech lançam abaixo-assinado 2.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nPane na Microsoft derrubou 80% dos servidores; empresa explica o que aconteceu 5.\\\\\n\\\\\nNova regra dos EUA para exportação de chips de IA afeta o Brasil; entenda\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
-   "text_source": "firecrawl",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/ON5VHV4OZJA6BHQ3HAXNAYZTKQ.png?quality=80&auth=86971f7f56eb0aec8c4d44156c0eeb14068ad848d11038bb4440931b7df74ae0&width=710",
-    "https://www.estadao.com.br/resizer/v2/ON5VHV4OZJA6BHQ3HAXNAYZTKQ.png?quality=80&auth=86971f7f56eb0aec8c4d44156c0eeb14068ad848d11038bb4440931b7df74ae0&width=1200&height=630&focal=946,499",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FAVL5JOHB3RBTDGIV6FNC75RSKA.png?quality=80&auth=a68eb1761da759718287bfdf84264b455685fb787423ca289c0d3a9197a77b33&width=60&height=60&smart=true",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F10-21-2026%2Ft_de915c82ee374728b26959d32bf510ee_name_WhatsApp_Image_2026_10_21_at_15_28_53.jpeg?quality=80&auth=2950437fd733b6bac0f6815863af3c1eaa6628635ee31d54d23b8f34feba4f2a&width=520&height=292&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/ON5VHV4OZJA6BHQ3HAXNAYZTKQ.png?quality=80&auth=86971f7f56eb0aec8c4d44156c0eeb14068ad848d11038bb4440931b7df74ae0&width=1200",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/7TS77INTKNLE5K4ROVYZTOOV2M.png?quality=80&auth=401bb23942cedf3acbe8c72d51a1a5425a6efd176ae2a30abf93d54afb98069f&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/8049cc1874642511d8db5ab56b424f9c9d73aac40f521f5bc100d20dbf5181e5.jpg",
-    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "23",
-    "3",
-    "Beta"
-   ],
-   "searches": [
-    "ios 23 beta 3"
-   ]
-  },
-  {
-   "id": "034815californiaopenaihuggingfacelawsuit",
-   "title": "California sues OpenAI over rogue AI hacking incidents",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-   "published": "2026-11-16T23:04:02+00:00",
-   "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
-   "score": 7.13,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
-    }
-   ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- AI\n\n- News\n\n- Policy\n\n# California sues OpenAI over rogue AI hacking incidents\n\nOpenAI lost control of its AI agents more than 80 times during testing, California’s AG claims.\n\nOpenAI lost control of its AI agents more than 80 times during testing, California’s AG claims.\n\nbyEmma Roth\n\nNov 16, 2026, 3:46 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments33Comments (All New)\n\nImage: Cath Virginia / The Verge\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nCalifornia is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a “dangerous product without proper oversight,” as reported earlier by _Reuters_.\n\nThe lawsuit claims the cyberattack on Hugging Face “was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model development over safety and accountability.” It alleges that OpenAI recently told the attorney general’s office that it “lost control” of its AI agents more than 80 times during testing.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nAfter revealing the rogue AI attack on Hugging Face in July, news of several other similar incidents emerged, including attacks on an Australian government website, a German wiki site, and the software package manager RubyGems. OpenAI’s agents also tried to “bruteforce” a United Nations website.\n\n“OpenAI’s actions escalated real-world cybersecurity risks, threatening the safety, health, and well-being of society,” Bonta says in the press release. “The company knowingly tested a dangerous product without proper oversight or safety procedures and misled the public about it — this disregard for public safety violated California law.”\n\n### Related\n\n- OpenAI says its new cybersecurity model is better at not hacking other companies\n- Eight states sue OpenAI, saying ChatGPT isn’t safe for kids\n\nOpenAI released its new cybersecurity AI model earlier this month, saying that it’s less likely to go rogue and attack other platforms.\n\nSubscribe to The Vergeto continue reading.\n\n## Most Popular\n\nMost Popular\n\n1. Vulcan rocket fails, destroying 40 Amazon Leo satellites\n\n2. The Nvidia scandal isn’t slowing down\n\n3. America’s air traffic control system couldn’t handle a single bad router\n\n4. Google Maps can now create trip itineraries for you\n\n5. Robert Pattinson is Amazon’s first James Bond\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in AI\n\nSam Altman says he wants everyone ‘to have a lot of RAM’\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nUS data centers now burn more electricity than a midsized country\n\nApple is testing daily usage limits for more complex Siri AI interactions\n\nOpenAI wants to stop deepfakes from overwhelming child abuse tiplines\n\nNvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\n\nSam Altman says he wants everyone ‘to have a lot of RAM’\n\nStevie Bonifield3:41 PM ESTCommentsComment Icon Bubble19\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nEllen Thomas3:29 PM ESTCommentsComment Icon Bubble5\n\nUS data centers now burn more electricity than a midsized country\n\nJustine Calma3:27 PM ESTCommentsComment Icon Bubble8\n\nApple is testing daily usage limits for more complex Siri AI interactions\n\nAndrew Liszewski2:24 PM ESTCommentsComment Icon Bubble13\n\nOpenAI wants to stop deepfakes from overwhelming child abuse tiplines\n\nLauren Feiner2:23 PM EST\n\nNvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\n\nEmma Roth1:43 PM ESTCommentsComment Icon Bubble10\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n9:43 AM EST\n\nAmerica’s air traffic control system couldn’t handle a single bad router\n\n8:00 AM EST\n\nThe Nvidia scandal isn’t slowing down\n\n4:41 PM EST\n\nIn Get Huge, the manosphere is here to make friends — with deadly consequences\n\n3:29 PM EST\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nNov 14\n\nThe OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs﻿Video\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nContinue reading with a Verge subscriptionUnlock unlimited access to The Verge for just $2.\n\nSTART YOUR TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
-   "text_source": "firecrawl",
-   "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C2.4154589371981%2C100%2C95.169082125604&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0.0048828125%2C0%2C99.990234375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=14.97461928934%2C0%2C70.05076142132%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=16.669921875%2C0%2C66.66015625%2C100&w=2400"
-   ],
-   "videos": [],
-   "keywords": [
-    "OpenAI",
-    "AI"
-   ],
-   "searches": [
-    "openai ai",
-    "openai ai agents",
-    "openai ai attack",
-    "openai ai agent builder",
-    "openai ai agent",
-    "openai ai engineer"
-   ]
-  },
-  {
-   "id": "exportacaodechipsdeiaafetaobrasilentenda",
-   "title": "Nova regra dos EUA para exportação de chips de IA afeta o Brasil; entenda",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/nova-regra-dos-eua-para-exportacao-de-chips-de-ia-afeta-o-brasil-entenda/",
-   "published": "2026-11-16T17:15:00+00:00",
-   "summary": "",
-   "score": 6.07,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/eua-vao-restringir-acesso-da-china-a-chips-de-ia-medida-inclui-brasil/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/KE267DQKKZOSPIE727SQNBW6PI.jpg?quality=80&auth=1dc41a297651165cafbe83195287f33cc25f1cdf8d1c0be56b6c1713b219d17f&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPUBLICIDADE\n\nPor André Luiz Dias Gonçalves\n\n16/11/2026 \\| 14h15\n\nAtualização: 16/11/2026 \\| 22h07\n\nNotícia de presente\n\nCaso Nvidia: Segurança nacional e inteligência artificial versus tesão natural\n\n1:59\n\nO colunista da Eldorado, Caio Blinder, comenta sobre o caso do CEO da Nvidia, que renunciou ao cargo após revelações de casos extraconjugais. Crédito: Edição: Jefferson Perleberg\n\nUma nova regra divulgada pelo governo dos Estados Unidos nesta segunda-feira (16) atualiza as restrições às exportações de chips avançados para data centers de inteligência artificial instalados no exterior, o que deve dificultar o acesso de empresas chinesas a tais componentes. **A medida afeta o envio dos semicondutores para vários países, entre os quais o Brasil**.\n\n- Atualização: Nota do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) à Broadcast.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPUBLICIDADE\n\n_“Importante destacar que não se trata de proibição de exportações de semicondutores avançados para o Brasil nem para os demais países citados no comunicado, mas sim de necessidade de autorização para que as operações se concretizem, motivo pelo qual não é possível avaliar, no momento, o efeito concreto da medida sobre as importações brasileiras desses insumos”_\n\nA mudança acontece em meio aos rumores de que o Departamento de Comércio dos EUA estaria **falhando na repressão ao contrabando dos processadores para a China**. Na semana passada, uma investigação da _Reuters_ mostrou como uma universidade do país asiático conseguiu driblar as restrições e adquirir componentes como os chips H200 fabricados pela Nvidia.\n\n### Novas exigências para exportar chips avançados\n\nDe acordo com a norma atualizada, a exportação de determinados processadores, essenciais para data centers, **exigirá a autorização do governo de Donald Trump**. O objetivo é ampliar o controle sobre o uso e o destino de tais componentes.\n\n- Com a medida, empresas de países como **Singapura, Malásia, Tailândia, Indonésia e Brasil** agora passam a ter que solicitar licenças de envio ao comprar os chips da Nvidia;\n- **Esses países** **não estão proibidos de adquirir e usar a tecnologia**, como ressalta o órgão, mas terão que passar por uma análise mais rigorosa, o que incluirá o fornecimento de detalhes sobre a operação dos centros de dados;\n- Na prática, a regra objetiva **evitar que laboratórios de IA chineses contornem as restrições aplicadas pela Casa Branca**;\n- Uma das maneiras de driblar a proibição é contratando capacidade computacional de data centers em outros países, possibilitando o treinamento de modelos de IA chineses.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nOs EUA acreditam que a regra mais rigorosa dificultará a estratégia adotada por empresas chinesas para usar os chips avançados em data centers de terceiros. Foto: quantic69/Getty Images\n\n“A regra visa garantir que as restrições existentes ao acesso à tecnologia sensível americana não possam ser contornadas por meio de acordos de computação remota que envolvam centros de dados em países terceiros”, afirmou o Departamento de Comércio dos EUA, como reportado pela _Reuters_.\n\nPUBLICIDADE\n\nO anúncio também antecede a viagem de Trump ao país asiático, esta semana, onde participará da cúpula do Fórum de Cooperação Econômica Ásia-Pacífico. A agenda prevê um novo encontro entre ele e o presidente da China, Xi Jinping, com a **IA devendo fazer parte do debate**.\n\nA alteração na regra pode ter sido influenciada, ainda, pelo caso Nvidia, que inclui o envolvimento do ex-CEO da companhia, Jensen Huang, com uma suposta espiã chinesa. Saiba, nesta matéria, como foram os últimos dias do executivo no cargo.\n\nCom informações de _Reuters_.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- [China \\[Ásia\\]](https://www.estadao.com.br/tudo-sobre/china-asia/)\n- inteligência artificial\n- chip\n- NVIDIA\n- [Estados Unidos \\[América do Norte\\]](https://www.estadao.com.br/tudo-sobre/estados-unidos-america-do-norte/)\n\n### Ofertas\n\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nPane na Microsoft derrubou 80% dos servidores; empresa explica o que aconteceu 2.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 3.\\\\\n\\\\\nNovo ataque cibernético sequestra redes móveis para enganar vítima via mensagens 4.\\\\\n\\\\\nJensen Huang discute retorno como CEO da Nvidia e líderes tech lançam abaixo-assinado 5.\\\\\n\\\\\nGuia de Cursos: como está o mercado de administração no cenário brasileiro?\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
-   "text_source": "firecrawl",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/KE267DQKKZOSPIE727SQNBW6PI.jpg?quality=80&auth=1dc41a297651165cafbe83195287f33cc25f1cdf8d1c0be56b6c1713b219d17f&width=710",
-    "https://www.estadao.com.br/resizer/v2/KE267DQKKZOSPIE727SQNBW6PI.jpg?quality=80&auth=1dc41a297651165cafbe83195287f33cc25f1cdf8d1c0be56b6c1713b219d17f&width=1200&height=630&focal=400,233",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FUEXZ4KUAO5FGNLP4MV7EF2GHYI.png?quality=80&auth=fd23adfe9245fb8376aeb2b8e0626809beda900f1711bdd1703675ab2f447060&width=60&height=60&smart=true",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-13-2026%2Ft_9f7d55305c594dad8a85760bdd957173_name_image_AP_3d140c1e51e645ffa0470d1c866eb443_0a1aza3c0_0.jpg?quality=80&auth=eadbddd6518e6517cac6ae02022f9da58d8c78024f27a1f433f2393dc447af18&height=400",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/KE267DQKKZOSPIE727SQNBW6PI.jpg?quality=80&auth=1dc41a297651165cafbe83195287f33cc25f1cdf8d1c0be56b6c1713b219d17f&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/cfe08223d333ce12c04866d03dd32bbe01641bf717417dca9e5109aea870d6a4.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/332d001dd6f88db8be0db3a69d3cf520d7edbc70e42666458231cc8ad5776ed8.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/8049cc1874642511d8db5ab56b424f9c9d73aac40f521f5bc100d20dbf5181e5.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "EUA",
-    "IA",
-    "Brasil"
-   ],
-   "searches": [
-    "eua brasileiros",
-    "eua na real"
-   ]
-  },
-  {
-   "id": "poiampedidoderetornodejensenhuanganvidia",
-   "title": "Líderes do Vale do Silício apoiam pedido de retorno de Jensen Huang à Nvidia",
-   "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-tech/2026/11/lideres-do-vale-do-silicio-apoiam-pedido-de-retorno-de-jensen-huang-a-nvidia/",
-   "published": "2026-11-16T15:17:35+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Mais de 8.800 assinaturas são de pessoas que se identificaram como funcionários atuais da empresa e mais de 94 mil como acionistas O post Líderes do Vale do Silício apoiam pedido de retorno de Jensen Huang à Nvidia apareceu primeiro em Forbes Brasil .",
-   "score": 5.95,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/mercado/reviravolta-jensen-huang-articula-retorno-a-nvidia-com-apoio-de-elon-musk-e-tim-sweeney/"
-    }
-   ],
-   "image": "",
-   "text": "Widget Tape de Cotações\n\n\\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.423,9R\\\\\n\\\\\n+5,9(+0,08%) \\\\\n\\\\\nBitcoinMercado aberto\\\\\n\\\\\n64.751R\\\\\n\\\\\n−71(−0,11%) \\\\\n\\\\\nEthereumMercado aberto\\\\\n\\\\\n1.826,7R\\\\\n\\\\\n+7,2(+0,40%) \\\\\n\\\\\nDólar x RealMercado aberto\\\\\n\\\\\n5,7840R\\\\\n\\\\\n+0,0007(+0,01%) \\\\\n\\\\\nDólar x EuroMercado aberto\\\\\n\\\\\n0,9084R\\\\\n\\\\\n−0,0007(−0,08%)\n\n\\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.423,9R\\\\\n\\\\\n+5,9(+0,08%) \\\\\n\\\\\nBitcoinMercado aberto\\\\\n\\\\\n64.751R\\\\\n\\\\\n−71(−0,11%) \\\\\n\\\\\nEthereumMercado aberto\\\\\n\\\\\n1.826,7R\\\\\n\\\\\n+7,2(+0,40%) \\\\\n\\\\\nDólar x RealMercado aberto\\\\\n\\\\\n5,7840R\\\\\n\\\\\n+0,0007(+0,01%) \\\\\n\\\\\nDólar x EuroMercado aberto\\\\\n\\\\\n0,9084R\\\\\n\\\\\n−0,0007(−0,08%) \\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.423,9R\\\\\n\\\\\n+5,9(+0,08%)\n\nVisite o TradingView — plataforma de gráficos financeiros e comunidade de negociação\n\n1. Início\n/3. Forbes Tech\n/5. Líderes do Vale do Silício apoiam pedido de retorno de Jensen Huang à Nvidia\n\nGetty ImagesEntre os signatários listados está Elon Musk, CEO da SpaceX e a Tesla, Amjad Masad, CEO da Replit, e Tim Sweeney, CEO da Epic Games\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nUma petição que pede a reintegração de Jensen Huang como presidente-executivo da Nvidia já reuniu mais de 180.200 assinaturas, incluindo figuras proeminentes do Vale do Silício, quatro dias após ele ter renunciado na sequência de revelações sobre casos extraconjugais dele, incluindo um envolvendo uma suposta espiã chinesa.\n\nO presidente dos Estados Unidos, Donald Trump, também afirmou que não se importaria de ver Huang retornar ao comando da Nvidia. “Acho que ele aprendeu uma grande lição”, disse Trump.\n\nO site da campanha mostra que mais de 8.800 assinaturas são de pessoas que se identificaram como funcionários atuais da Nvidia e mais de 94 mil como acionistas. As assinaturas não foram verificadas de forma independente.\n\n“Somos funcionários atuais e ex-funcionários, parceiros, acionistas e apoiadores da Nvidia. Escrevemos com gratidão a Jensen Huang e com uma exigência clara ao conselho de administração: tragam Jensen de volta enquanto uma investigação independente apura os fatos”, diz uma carta aberta no site.\n\nNesta tarde, a CNBC, citando uma fonte, afirmou que o conselho de administração da fabricante de chips não considerar trazer Huang de volta à presidência-executiva da companhia.\n\nAlguns investidores importante pediram que o conselho da Nvidia a não se apresse em substituir Huang, que cofundou a empresa há mais de três décadas. Gavin Baker, da Atreides Management, e Brad Gerstner, presidente-executivo da Altimeter Capital Management, afirmaram em uma carta aberta que o colegiado da companhia deveria aguardar até que todos os fatos sejam esclarecidos.\n\nHuang renunciou na quinta-feira (12) após relatos de supostos casos amorosos com funcionárias, incluindo uma que se reportava diretamente a ele, mergulhando a gigante dos chips de IA em crise e causando um choque em um setor que ele ajudou a financiar.\n\nConselhos de administração já haviam demitido presidentes-executivos por causa de relacionamentos com funcionárias. O McDonald’s demitiu Steve Easterbrook em 2019 por causa de um relacionamento consensual com uma funcionária que violava a política da empresa, enquanto o presidente-executivo da Intel, Brian Krzanich, renunciou em 2018 após uma violação de política semelhante.\n\nMas o caso de Huang ressalta o desafio que os conselhos de administração podem enfrentar ao destituiírem executivos de alto escalão que contam com forte apoio de funcionários e investidores. A OpenAI reintegrou Sam Altman como presidente-executivo em novembro de 2023, dias depois que sua destituição provocou uma revolta dos funcionários e oposição dos investidores.\n\n## De Taiwan a Washington\n\nNascido em Tainan, a capital histórica de Taiwan, antes de se mudar para os Estados Unidos ainda criança, Huang gradualmente ganhou status de celebridade na ilha, onde a onda de admiração em torno dele foi apelidada de “Jensanity”.\n\nO apoio a Huang cresceu desde a saída do executivo da companhia. O arranha-céu mais alto de Taiwan, o Taipé 101, exibia mensagens nesta segunda-feira (16) como “Taiwan ama Jensen”.\n\nPara muitos taiuaneses, a saída de Huang marca a perda de um campeão carismático que ajudou a colocar a ilha no centro do boom global da inteligência artificial, com sua influência se estendendo muito além do setor de tecnologia.\n\nA turbulência ocorre no momento em que a Nvidia assume crescente importância estratégica em Washington e consolida sua posição no centro da indústria global de IA, mesmo com o aumento das preocupações em relação a negócios circulares e a uma possível bolha so setor.\n\n“Os investidores prefeririam o máximo de visibilidade possível. Eles vão querer visibilidade sobre o processo de substituição do Sr. Huang, de preferência com um cronograma”, disse Gil Luria, analista da D.A. Davidson. “Os investidores não gostam de incertezas, e a possibilidade de o Sr. Huang retornar acrescenta uma incerteza considerável neste momento.”\n\nTransações de Trump divulgadas este ano sugerem que ele detinha entre US$13 milhões e US$62 milhões em ações da Nvidia até o final de agosto, informou o Washington Post nesta segunda-feira (16), citando uma análise de suas declarações financeiras.\n\nO governo Trump também planeja designar a Nvidia e mais de duas dúzias de outras empresas de IA como “campeãs nacionais”, publicou o Wall Street Journal no domingo (15).\n\nO secretário do Tesouro dos Estados Unidos, Scott Bessent, pediu que a Nvidia nomeie alguém de fora como seu próximo presidente-executivo, afirmando que a empresa precisa de uma “reestruturação drástica” após a saída de Huang.\n\nA Nvidia deve divulgar resultados financeiros de terceiro trimestre após o fechamento do mercado na terça-feira.\n\nSiga o canal da Forbes Money no WhatsApp e receba as principais notícias de economia e mercado financeiro.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- CEO\n- Elon Musk\n- Jensen Huang\n- Nvidia\n- Vale do Silício\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**PagBank Registra Lucro Líquido Ajustado de R$ 611 Milhões no 3T26, Crescimento de 7% na Comparação Anual**\n- \\\\\n\\\\\n**Dólar Sobe 2,13% e Fecha a R$ 5,77, Maior Valor desde Abril de 2025**\n- \\\\\n\\\\\n**MIT Processa Microsoft por Violação de Patente Relacionada À Tecnologia de Data Centers**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOLAYLAERIC CLAPTON",
-   "text_source": "firecrawl",
-   "images": [
-    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-16T121604.508-1200x675.png",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-16T121604.508-860x484.png",
-    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
-    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/05/1T26_Sede-PagBank.jpg-1-300x200.jpeg",
-    "https://forbes.com.br/wp-content/uploads/2026/02/2-1-1-300x200.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-16T173149.244-300x200.png",
-    "https://forbes.com.br/wp-content/uploads/2026/10/146_CAPA_miniatura-225x300.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/09/145_CAPA-miniatura-225x300.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/capa-revista-edicao-144-225x300.jpeg",
-    "https://forbes.com.br/wp-content/uploads/2026/07/143_CAPA_miniatura-225x300.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "Vale",
-    "Silício",
-    "Jensen"
-   ],
-   "searches": []
-  },
-  {
-   "id": "galliesbuildawarroomtogethimbackatnvidia",
-   "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-   "published": "2026-11-16T14:06:16+00:00",
-   "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-   "score": 5.87,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
+     "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/"
+    },
     {
      "source": "Technologyreview",
      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/carreira/2026/11/quem-e-lisa-su-prima-de-jensen-huang-e-ceo-da-amd-que-ameaca-o-imperio-da-nvidia/"
     }
    ],
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-   "text": "Skip to content\n\nText\nsettings\n\nStory text\n\nSizeSmallStandardLargeWidth\n\\*StandardWideLinksStandardOrange\n\n\\\\* Subscribers only\n\nLearn more\n\nMinimize to nav\n\nJensen Huang is considering a comeback as Nvidia’s chief executive, as allies in Silicon Valley pressure the company’s board to reinstate him days after the tech executive resigned over reports he had affairs with a suspected Chinese spy and a subordinate.\n\nHuang has discussed with confidants the possibility of returning, according to multiple people familiar with the matter—even as an independent probe by Nvidia’s board investigates the conduct that led to a spectacular leadership crisis at the $4 trillion chip company this week.\n\nOne Huang ally told the FT they were putting together a “war room” of Silicon Valley executives to lobby for the former Nvidia chief’s return and would try to garner support from the White House.\n\n“Everyone that matters in tech outside the frontier labs loves Jensen,” they said. The efforts had Huang’s support, they added.\n\nA public campaign to reinstate Huang has gathered steam over the weekend. Tesla and SpaceX chief Elon Musk and Epic Games chief executive Tim Sweeney were among executives backing a public letter demanding that its board “Bring Jensen Back.”\n\nHuang continues to command fierce loyalty from some employees, several of whom have gone public in calling for his return in the days since he resigned and have signed the open letter.\n\nThe effort to reinstate Huang is likely to face pushback from key policymakers in Washington, with Treasury Secretary Scott Bessent on Sunday calling for a “dramatic shake-up” in leadership at the company after Huang’s departure.\n\nHuang, who lacked the controlling shareholding of other founder-CEOs and was therefore unable to overule any board decision, also faces a board and a management team now led by interim chief executive Colette Kress that is aiming to steady the company ahead of quarterly results on Tuesday.\n\nHuang’s affair with Alice Huang, an executive at Singapore-based Megaspeed, has triggered deepening scrutiny of Nvidia’s compliance measures when selling its AI chips to customers in Asia who have potential links to China.\n\nEven allies were unsure how to rehabilitate Huang’s reputation. “Having an affair with a subordinate is a fireable offense,” acknowledged one person involved in efforts to reinstate Huang.\n\nThe FT reported on Friday that Arm chief Rene Haas has been approached by Nvidia’s board as a potential successor. Nvidia’s board said no “formal” process had been initiated.\n\nAltimeter Capital founder Brad Gerstner and Atreides Management boss Gavin Baker—who are Nvidia shareholders—published an open letter to the board on Friday urging them to leave “all options on the table, including the potential return of Jensen Huang.”\n\nThe pair, both large investors in the company, cited “the extraordinary success of Jensen Huang’s leadership over a long period of time and given the massive uncertainty associated with recent events surrounding his departure” as reasons for clemency.\n\n_© 2026 The Financial Times Ltd. All rights reserved. Not to be redistributed, copied, or modified in any way._\n\nFinancial Times\n\nFinancial Times\n\n255 Comments\n\nComments\n\nForum view\n\nLoading comments...\n\nPrev story\n\nNext story\n\n1. [](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)\n\n1. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors\n\n2. 2. With Starship catch, SpaceX still shows it can dazzle the world\n\n3. 3. US now \"comfortable\" with children dying of measles as death toll hits 10\n\n4. 4. Jensen Huang allies build a \"war room\" to get him back at Nvidia\n\n5. 5. FAA expands AI advice to manage air traffic congestion across entire US airspace\n\nCustomize\n\n- Dashboard\n- Edit Post\n\n- Howdy, Account\n\n  - AccountEdit Profile\n  - Log Out\n\n- Connecting…\n\nSign in dialog...",
+   "image": "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Nilton Kleina\n\n17/11/2026 \\| 10h30\n\nNotícia de presente\n\nAmante espiã: entenda o que levou à renúncia do CEO da Nvidia\n\nFofoca envolvendo traição, espionagem e as duas maiores superpotências do mundo é prato cheio para o 'Guia Do Adulto Premium'. Crédito: Roteiro e Apresentação: Larissa Burchard / Produção: Sara Helen / Edição de Vídeo: Felipe Pahor\n\nO conselho de diretores da Nvidia **não está considerando oficialmente recolocar Jensen Huang no cargo de CEO**. A informação não é oficial, mas teria sido confirmada por fontes ligadas à empresa a veículos como _CNBC_ e _The Wall Street Journal_.\n\nEspeculações sobre uma possível tentativa de Huang de voltar à empresa após a renúncia na última quinta-feira (12) circularam e citavam uma vontade do próprio executivo, além de uma pressão exercida por apoiadores para restituir o antigo gerente à posição.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n- Chats internos da Nvidia acumularam nos últimos dias uma série de mensagens de colaboradores pedindo a volta do CEO;\n- Um abaixo-assinado digital foi criado e ultrapassou as 175 mil assinaturas em um dia, reunindo apoios de figuras como Elon Musk, da SpaceX, e Tim Sweeney, CEO da Epic Games;\n- O presidente dos Estados Unidos, Donald Trump, tem uma boa relação com Huang e chegou concordar que trazê-lo de volta seria uma boa ideia.\n\nAo mesmo tempo, **a companhia já teria iniciado a busca por uma pessoa para substituir o cofundador** da empresa, que ficou mais de três décadas no cargo.\n\nEnquanto o cargo é ocupado interinamente por Colette Kress, atual vice-presidente executiva e diretora financeira, o CEO da rival Arm teria sido consultado sobre uma possível contratação.\n\n### Conselho seguirá com investigações\n\nDe acordo com as fontes, que permaneceram anônimas devido ao sigilo da situação, o conselho da Nvidia está totalmente focado em seguir com as investigações envolvendo os relacionamentos extraconjugais do CEO.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nO primeiro dos casos revelados é o que mais pesa contra o retorno do empresário: Alice Huang é acusada de ser uma espiã chinesa, além de estar diretamente envolvida na negociação de chips da Nvidia inclusive com empresas do país asiático.\n\nPUBLICIDADE\n\nHuang deixou a Nvidia após três décadas após confessar casos extraconjugais em carta aos funcionários. Foto: Patrick T. Fallon/PATRICK T. FALLON\n\nOficialmente, Huang não se manifestou sobre o caso, mas teria ficado abatido com as revelações concordou em prestar um depoimento ao Congresso dos Estados Unidos para explicar a relação com Alice e os possíveis conflitos de interesse envolvendo a política externa do país.\n\nExecutivos confiam mais em uma IA do que no próprio julgamento atualmente? Entenda mais sobre o tema nesta matéria! / _Com informações de CNBC e WSJ._\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- NVIDIA\n- Jensen Huang\n\n0 Comentário\n\n68 debatedores online68 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\niFood caiu? App fica instável durante o almoço desta terça-feira (17); ‘iFood Entregador’ afetado; ‘iFood Entregador’ afetado\") 2.\\\\\n\\\\\nPane na Microsoft derrubou 80% dos servidores; empresa explica o que aconteceu 3.\\\\\n\\\\\nTestamos: Google Maps agora monta roteiros de viagens com inteligência artificial 4.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 5.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-500x500.jpg"
+    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=710",
+    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=1200&height=630&focal=2806,1027",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FSXUG4BP3BFB33AQ6LXZMRNCC4U.png?quality=80&auth=06cdd00e00d0082a1d7b1d0a626c18883bb4560f28ecfedabe3e6b49b9a2b77f&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-15-2026%2Ft_0ea8c71c227a47328cd47a20834e2aa2_name_Captura_de_tela_2026_11_15_163101.png?quality=80&auth=95a1fc49e411f761afd3b6548151352d6d314e91259236667c6cf920331f7398&height=292",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg",
+    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7",
+    "https://e-afiliacao.estadao.com.br/storage/products/611cee85b4675490a773b39d2856ddba7de76d4fa48df1bc817bf4d40bf15ffe.jpg",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Nvidia",
+    "Jensen",
+    "Huang"
+   ],
+   "searches": [
+    "nvidia jensen huang",
+    "nvidia jensen huang presentation",
+    "nvidia jensen huang ai",
+    "nvidia jensen huang radiology",
+    "nvidia jensen huang stanford",
+    "nvidia jensen huang interview"
+   ]
+  },
+  {
+   "id": "meerrosedizqueaceitariavoltarparaanvidia",
+   "title": "Jensen Huang assume erros e diz que aceitaria voltar para a Nvidia",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-assume-erros-e-diz-que-aceitaria-voltar-para-a-nvidia/",
+   "published": "2026-11-17T17:40:00+00:00",
+   "summary": "",
+   "score": 9.68,
+   "why": [
+    "3 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Olhar Digital",
+     "url": "https://olhardigital.com.br/2026/11/17/pro/jensen-huang-admite-erros-pede-desculpas-e-sinaliza-possivel-retorno-a-nvidia/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-money/2026/11/honrado-apos-escandalo-jensen-huang-quebra-o-silencio-e-fala-em-voltar-a-nvidia/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/nvidia-descarta-retorno-de-huang-conforme-cresce-campanha-por-seu-retorno/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Nilton Kleina\n\n17/11/2026 \\| 14h40\n\nNotícia de presente\n\nO empresário Jensen Huang se manifestou publicamente pela primeira vez depois de renunciar na última quinta-feira (12) ao cargo de CEO da Nvidia. Em uma publicação nas redes sociais, ele comenta o caso e deixa portas abertas para um retorno.\n\nNa mensagem, o cofundador da Nvidia agradece o “ **amor e apoio**” que recebeu de amigos, colegas do setor e desconhecidos, além de reconhecer os erros que o levaram a saída da companhia.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPUBLICIDADE\n\n“Não atendi aos padrões esperados de todos na Nvidia e **cometi erros graves na minha vida pessoal**. Causei problemas ao conselho de administração, algo que lamento profundamente. **Assumo integralmente meus erros e estou comprometido em cooperar com a investigação** independente do conselho”, escreve o agora ex-CEO.\n\nApós relembrar que se tornar cidadão dos Estados Unidos foi “um dos maiores presentes e um dos momentos de maior orgulho” da vida e usar a quantidade de pedidos que tem recebido como argumento, Huang sugere que, **caso requisitado oficialmente, assumiria novamente o cargo**.\n\n“Se o conselho decidir que meu retorno é do melhor interesse dos nossos acionistas, dos nossos funcionários, da empresa e dos EUA, **será uma honra atender a esses pedidos e retornar como CEO**”, diz.\n\n### Caso ainda passa por investigação\n\nOs pedidos para que Huang seja reconduzido ao cargo na Nvidia parte de ao menos três frentes:\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n- Ffuncionários da própria companhia, que estão se manifestando em chats internos pedindo o retorno do empresário e demonstrando apoio a ele;\n- Integrantes do Vale do Silício, incluindo grandes investidores e empresários, como Elon Musk e Tim Sweeney;\n- E o próprio governo dos EUA, representado pelo presidente Donald Trump, ele mesmo um admirador de Huang.\n\nPUBLICIDADE\n\nO conselho diretor da Nvidia, por enquanto, rejeita a ideia de trazer Huang de volta com efeito imediato e em uma decisão de curto prazo.\n\nSegundo reportagens que ouviram fontes ligadas ao grupo, **a prioridade agora é terminar as investigações** que vão determinar a gravidade das ações de Huang em relação à própria empresa.\n\nA saída do empresário ocorreu após a revelação de dois casos extraconjugais mantidos por Huang: um deles com uma diretora da própria Nvidia e outro com Alice Huang, acusada de ser uma espiã chinesa e intermediária na negociação de chips com o país asiático, burlando atuais bloqueios dos EUA.\n\nHuang manifestou pela primeira vez desejo de voltar ao cargo do qual saiu. Foto: Roberto Schmidt/ROBERTO SCHMIDT\n\nA investigação vai determinar ainda **o dano das ações de Huang para a segurança nacional e o mercado de exportação** da empresa — o impacto das revelações e da saída do executivo foi grande nas ações da companhia e na Ásia como um todo nos últimos dias.\n\nPor fim, Huang ainda finaliza com um recado para os parentes, inclusive a atual esposa, Lori. “À minha família: **eu amo vocês e passarei o resto da minha vida sendo digno do amor de vocês**”, conclui a carta.\n\nQue outros CEOs da tecnologia já foram expostos por casos extraconjugais? Confira a lista!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- NVIDIA\n- Jensen Huang\n\n### Ofertas\n\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 2.\\\\\n\\\\\nBTG caiu? App sofre com instabilidade que dificulta operações nesta terça-feira (17)\") 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira 5.\\\\\n\\\\\niFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17) \")\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=710",
+    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=1200&height=630&focal=2105,1353",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FSXUG4BP3BFB33AQ6LXZMRNCC4U.png?quality=80&auth=06cdd00e00d0082a1d7b1d0a626c18883bb4560f28ecfedabe3e6b49b9a2b77f&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7"
    ],
    "videos": [],
    "keywords": [
     "Huang",
     "Nvidia"
    ],
-   "searches": []
+   "searches": [
+    "huang nvidia",
+    "huang nvidia china",
+    "jensen huang nvidia rtx spark",
+    "nvidia huang jen hsun",
+    "jensen huang nvidia",
+    "jensen huang nvidia conference"
+   ]
   },
   {
-   "id": "selectricityclimatepollutionstudyharvard",
-   "title": "US data centers now burn more electricity than a midsized country",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-   "published": "2026-11-16T20:27:58+00:00",
-   "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the […]",
-   "score": 5.57,
+   "id": "teirosdeviagenscominteligenciaartificial",
+   "title": "Testamos: Google Maps agora monta roteiros de viagens com inteligência artificial",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/testamos-google-maps-agora-monta-roteiros-de-viagens-com-inteligencia-artificial/",
+   "published": "2026-11-16T22:00:00+00:00",
+   "summary": "",
+   "score": 9.15,
    "why": [
-    "2 sites cobrindo"
+    "3 sites cobrindo",
+    "Tema de alto interesse"
    ],
    "also_in": [
     {
-     "source": "Ars Technica",
-     "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/"
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-ia-que-monta-roteiros-de-viagem-busca-em-listas-e-agenda-servicos/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/google-maps-agora-cria-roteiros-de-viagens-com-inteligencia-artificial/"
     }
    ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- AI\n\n- Science\n\n- Climate\n\n# US data centers now burn more electricity than a midsized country\n\nThe latest numbers are in on how much energy hyperscale data centers use and the carbon pollution they create.\n\nThe latest numbers are in on how much energy hyperscale data centers use and the carbon pollution they create.\n\nbyJustine Calma\n\nNov 16, 2026, 3:27 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments66Comments (All New)\n\nImage: Cath Virginia / The Verge, Getty Images\n\nPart Of\\\\\n\\\\\nAll the latest updates on AI data centers\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/justine-calma)\n\nJustine Calmais a senior science reporter covering energy and the environment with more than a decade of experience. She is also the host of **Hell or High Water: When Disaster Hits Home**, a podcast from Vox Media and Audible Originals.\n\nFossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal _Nature Sustainability_ shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions.\n\nThe study homes in on hyperscale facilities — the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the findings show that there’s a lot of work left to do to cut down pollution stemming from AI’s reliance on fossil fuels.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n“We tend to discuss AI’s environmental footprint as though it were some fixed property of the technology, when in reality the same computing infrastructure can have dramatically different consequences depending on the electricity system supporting it,” Gianluca Guidi, lead author of the new study and a postdoctoral fellow in the Department of Biostatistics at Harvard T.H. Chan School of Public Health, says in an email to _The Verge._ “I actually find that encouraging, because it means these impacts aren’t inevitable. We have choices about where we build and how we power this infrastructure.”\n\n“The same computing infrastructure can have dramatically different consequences depending on the electricity system supporting it.”\n\nGuidi and his team used satellite imagery to identify 403 hyperscale data centers in the US, estimating each facility’s power consumption based on its electrical capacity.\n\nSubscribe to The Vergeto continue reading.\n\n## More in: All the latest updates on AI data centers\n\nData center development drives a Loudoun County resident to run for local office.\n\nLauren Feiner4:59 PM ESTCommentsComment Icon Bubble1\n\nData center critics are gearing up to hold politicians to their campaign promises.\n\nLauren FeinerNov 11CommentsComment Icon Bubble1\n\nThe global pledge to use AI for climate good is a cruel joke\n\nJustine CalmaNov 9CommentsComment Icon Bubble11\n\n## Most Popular\n\nMost Popular\n\n1. Vulcan rocket fails, destroying 40 Amazon Leo satellites\n\n2. The Nvidia scandal isn’t slowing down\n\n3. America’s air traffic control system couldn’t handle a single bad router\n\n4. Google Maps can now create trip itineraries for you\n\n5. Robert Pattinson is Amazon’s first James Bond\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in AI\n\nCalifornia sues OpenAI over rogue AI hacking incidents\n\nSam Altman says he wants everyone ‘to have a lot of RAM’\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nApple is testing daily usage limits for more complex Siri AI interactions\n\nOpenAI wants to stop deepfakes from overwhelming child abuse tiplines\n\nNvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\n\nCalifornia sues OpenAI over rogue AI hacking incidents\n\nEmma Roth3:46 PM ESTCommentsComment Icon Bubble3\n\nSam Altman says he wants everyone ‘to have a lot of RAM’\n\nStevie Bonifield3:41 PM ESTCommentsComment Icon Bubble19\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nEllen Thomas3:29 PM ESTCommentsComment Icon Bubble4\n\nApple is testing daily usage limits for more complex Siri AI interactions\n\nAndrew Liszewski2:24 PM ESTCommentsComment Icon Bubble13\n\nOpenAI wants to stop deepfakes from overwhelming child abuse tiplines\n\nLauren Feiner2:23 PM EST\n\nNvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back\n\nEmma Roth1:43 PM ESTCommentsComment Icon Bubble9\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n9:43 AM EST\n\nAmerica’s air traffic control system couldn’t handle a single bad router\n\n8:00 AM EST\n\nThe Nvidia scandal isn’t slowing down\n\n4:41 PM EST\n\nIn Get Huge, the manosphere is here to make friends — with deadly consequences\n\n3:29 PM EST\n\nBig Nuclear isn’t worried about the Democrats stopping data centers\n\nNov 14\n\nThe OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs﻿Video\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nContinue reading with a Verge subscriptionUnlock unlimited access to The Verge for just $2.\n\nSTART YOUR TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
+   "image": "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Produto e Review\n\nPor Igor Almenara Carneiro\n\n16/11/2026 \\| 19h00\n\nNotícia de presente\n\nO Google Maps agora pode criar itinerários de viagens inteiros usando inteligência artificial (IA). A atualização, liberada gradativamente nesta segunda-feira (16), está disponível para usuários do app com acesso ao “Pergunte ao Maps”.\n\nPUBLICIDADE\n\nQuando disponível, **a opção de criar um itinerário aparece como sugestão na interface de chat do “Pergunte ao Maps”**, mas o usuário pode solicitar um roteiro para o destino que quiser, de acordo com suas preferências.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPara acionar a ferramenta, **basta inserir o comando “Faça um roteiro de viagem para \\[destino\\]” na conversa com a IA do Maps**. Quanto mais informações forem fornecidas logo de cara (data da viagem, quantidade de dias, tipos de lugares que pretende visitar), mais personalizada será a primeira versão do cronograma.\n\nOs itinerários são compostos por pontos de parada separados para cada dia do passeio. Foto: Igor Almenara/TecMundo/Estadão\n\nNa resposta, **o Google Maps apresenta um cronograma de viagem e uma lista completa de paradas, cada uma delas acompanhada por uma breve descrição e fotos do lugar**. Todos os locais recomendados no roteiro aparecem no mapa, que também fica disponível em uma versão filtrada somente com os destinos selecionados.\n\n**A nova capacidade do Google Maps não é exatamente inédita para chatbots de IA** — praticamente qualquer um dos assistentes modernos é capaz de montar esse tipo de roteiro. A diferença está na integração com os dados do mapa e na disponibilidade da ferramenta diretamente no Maps, também utilizado para conhecer destinos de viagens.\n\nEntão, quando a viagem estiver prestes a acontecer, **basta abrir novamente o “Pergunte ao Maps”, acessar o histórico de conversas e conferir o itinerário interativo**. Cada ponto de parada é acompanhado por um botão para abrir o modo de navegação e conferir rotas e opções de deslocamento.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Eficiência da ferramenta depende do destino\n\nO **TecMundo** experimentou a ferramenta na versão web e no app para celular, mas o recurso só funcionou corretamente no PC — possivelmente por causa da distribuição gradual. No computador, o roteiro montado pelo Maps foi exatamente como descrito pelo Google, com pontos de parada, descrições e horários de funcionamento. Ao final, também estão disponíveis os botões para exportar o itinerário para o Google Docs ou compartilhá-lo com outras pessoas.\n\nPUBLICIDADE\n\nEmbora não pudesse ser feito direto pelo celular, os itinerários solicitados no PC estavam acessíveis no app. Foto: Igor Almenara/TecMundo/Estadão\n\nVale ressaltar que, mesmo incluindo a frase “Faça um roteiro de viagem para \\[destino\\]”, o Google Maps não acionou a ferramenta todas as vezes. Quando o recurso não é acionado devidamente, o itinerário interativo não aparece disponível, embora o “Pergunte ao Maps” responda com uma lista preliminar.\n\n**A qualidade e a precisão do itinerário variam conforme o conteúdo disponível no Google Maps**. Portanto, os cronogramas de passeios por locais cujas informações no mapa estão desatualizadas podem não ser tão confiáveis.\n\nNos testes, **os itinerários de cidades turísticas ou com informações mais detalhadas no Maps apresentaram melhor qualidade**. Apesar disso, toda inteligência artificial pode cometer erros. Portanto, o ideal é usar as sugestões do “Pergunte ao Maps” como base para pesquisas posteriores, em vez de confiar integralmente no roteiro gerado pela IA.\n\nQuer ficar por dentro das novidades do mundo da tecnologia? Acesse o **TecMundo** e acompanhe as últimas notícias sobre Google Maps, inteligência artificial e aplicativos.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Google\n- inteligência artificial\n\n0 Comentário\n\n12 debatedores online12 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 2.\\\\\n\\\\\nJensen Huang discute retorno como CEO da Nvidia e líderes tech lançam abaixo-assinado 3.\\\\\n\\\\\nUsuários e até site pornô publicam tutoriais para acessar conteúdos para maiores 4.\\\\\n\\\\\nSony Ericsson: relembre celulares icônicos da marca 5.\\\\\n\\\\\nInstagram agora permite adicionar links afiliados em posts no Reels\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/Justine_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C0.011761938367442%2C100%2C99.976476123265&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C2.4154589371981%2C100%2C95.169082125604&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2227026671.jpg?quality=90&strip=all&crop=0.0048828125%2C0%2C99.990234375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&strip=all&crop=10.869565217391%2C0%2C78.260869565217%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=16.658823529412%2C0%2C66.682352941176%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=14.97461928934%2C0%2C70.05076142132%2C100&w=2400"
+    "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=710",
+    "https://www.estadao.com.br/resizer/v2/Y5FDSLJNFZDTZCKAAL5WN6BR5Y.jpeg?quality=80&auth=23b69706f97ee6ef8dc9829c488c78a71f3c86e86f93ef8012d7a0e5cef84463&width=1200&height=630&focal=2908,1946",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FAVL5JOHB3RBTDGIV6FNC75RSKA.png?quality=80&auth=a68eb1761da759718287bfdf84264b455685fb787423ca289c0d3a9197a77b33&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/ZEOUVXOFBBGEJAAGCHOWCQSWBM.jpg?quality=80&auth=e8b85ced077c582f291fcc7b1b958054b5a5fa2ad51dd25233f48601f3c67a1c&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg",
+    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
-    "US",
-    "data",
-    "centers"
+    "Google",
+    "Maps"
    ],
-   "searches": []
+   "searches": [
+    "google maps",
+    "google maps gemini",
+    "google maps offline",
+    "google maps apple watch",
+    "google maps backrooms",
+    "google maps não funciona"
+   ]
   },
   {
-   "id": "ladetalhesdoagentegalaxyclawedanovabixby",
-   "title": "One UI 9.5: vazamento revela detalhes do agente Galaxy Claw e da nova Bixby",
+   "id": "indicadosapremiacaoconfiraalistacompleta",
+   "title": "The Game Awards 2026 anuncia indicados à premiação! Confira a lista completa",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/one-ui-95-vazamento-revela-detalhes-do-agente-galaxy-claw-e-da-nova-bixby/",
-   "published": "2026-11-16T20:00:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anuncia-indicados-a-premiacao-confira-a-lista-completa/",
+   "published": "2026-11-17T17:13:00+00:00",
    "summary": "",
-   "score": 5.54,
+   "score": 5.95,
    "why": [
     "2 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/inteligencia-artificial/nova-vida-nos-galaxy-vazamento-revela-bixby-50-com-memoria-de-ia-e-tarefas-automaticas/"
+     "url": "https://canaltech.com.br/games/the-game-awards-2026-gta-6-e-zelda-disputam-o-goty-veja-os-indicados/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/PMJ5IFGFF5L2RO46KDY67W4XPI.jpg?quality=80&auth=898be1bbb47397abffec2a97a811b272a33376203c29f36bd506645885bddc51&width=710",
-   "text": "Embora a One UI 9 ainda esteja em distribuição para celulares Samsung, a One UI 9.5 está no centro de diferentes rumores . Em mais uma leva de informações antecipadas, o site Android Authority destrinchou uma versão de testes do Galaxy AI para saber mais sobre o Galaxy Claw, agente de inteligência artificial nativo, e a nova experiência de uso da Bixby. A One UI 9.5 é apontada como a próxima grande atualização da plataforma da Samsung . A data de lançamento do update ainda não foi divulgada oficialmente, mas a expectativa é que ele seja apresentado junto da linha Galaxy S27 no começo de 2027. Entre as principais novidades previstas para o pacote estão novos recursos de inteligência artificial do Galaxy AI — alguns deles, inclusive, podem ser pagos. Uma das funções exclusivas para assinantes deve ser o Galaxy Claw, que teve parte do código encontrada no componente Samsung Personal Agent Core. O Galaxy Claw seria o componente agêntico do Galaxy AI exclusivo para assinantes. Foto: Samsung/Divulgação Galaxy Claw deve ser o agente de IA da Samsung As strings encontradas no código do componente da One UI indicam que o Galaxy Claw será uma espécie de agente de IA , capaz de executar tarefas em nome do usuário. “O Personal Agent Core ajuda o Galaxy AI a realizar tarefas para você, interagindo com aplicativos e ferramentas em todo o seu dispositivo e em serviços conectados”. Outra linha faz referência a conectores que permitem ao assistente interagir com diferentes aplicativos. Entre as integrações encontradas no código estão: Calendário; Contatos; Galeria; Gmail; Mensagens; Perplexity; Telefone; Gravador de voz; Notificações (componente do celular). A descrição associada a cada conector sugere que o assistente poderá não só puxar informações desses aplicativos, como também executar ações dentro deles . Na integração com e-mail, por exemplo, é mencionada a possibilidade de enviar mensagens; na integração com o Perplexity, seria possível fazer pesquisas na web. Além de ter maior autonomia, o Galaxy Claw também poderá executar tarefas recorrentes por conta própria , sugerem outras strings. Algumas linhas de código orientam o usuário a descrever atividades que devem ser executadas rotineiramente, permitindo definir a frequência (a cada determinado número de horas, diariamente, semanalmente, mensalmente ou em intervalos personalizados) e o passo a passo das instruções. Uma das linhas do aplicativo menciona a possibilidade de configurar atividades recorrentes para processamento local , sem depender de internet. Nessa modalidade, a execução da tarefa pode ser adiada caso o celular esteja no modo de economia de bateria. Nova experiência com a Bixby Quanto à Bixby, também dá para esperar boas novidades. Os recursos vazados foram encontrados na versão 5.0 do aplicativo , ainda não lançada para o público geral e destrinchada pelo Android Authority . A experiência de uso da Bixby será mais parecida com a de um chatbot de IA moderno. Foto: Android Authority/Reprodução As mudanças estão principalmente na experiência geral de uso da assistente , que enfim assume uma roupagem mais próxima à de um chatbot de IA moderno. O usuário poderá interagir com ela por texto (digitado ou transcrito), solicitar ações específicas (limpar o armazenamento interno, resumir mensagens não lidas ou habilitar recursos no menu de configurações) ou programar atividades recorrentes. Outro ponto importante encontrado no aplicativo é a memória. A função possibilitará que a assistente guarde informações que o usuário considere importantes para futuras interações , como preferências alimentares, dados do próprio perfil ou instruções sobre como responder. As lembranças serão reunidas em uma seção dedicada no app. Não está claro como a Bixby vai interagir com o agente de IA do Galaxy AI — se serão experiências distintas ou intimamente relacionadas. Nada foi confirmado até agora, mas mais detalhes devem surgir à medida que o lançamento da One UI 9.5 se aproxima. Quer ficar por dentro das novidades do mundo da tecnologia? Acesse o TecMundo e acompanhe as últimas notícias sobre Samsung, One UI e inteligência artificial. /Com informações de Android Authority ( 1 , 2 )",
-   "text_source": "rss",
+   "image": "https://www.estadao.com.br/resizer/v2/PN6K6VLXZJBVLMCHUGP6P4S6JA.jpg?quality=80&auth=281cbc50c159d472fc0b2ed6c93e2e3765390263fb43486ad7371beeb8d87b3c&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Voxl\n\nPor Valdecir Emboava\n\n17/11/2026 \\| 14h13\n\nAtualização: 17/11/2026 \\| 14h33\n\nNotícia de presente\n\nO The Game Awards 2026 revelou nesta terça-feira (17) os indicados de todas as categorias da premiação, incluindo Jogo do Ano. A lista foi apresentada durante uma transmissão especial comandada por Geoff Keighley, que começou às 14h (horário de Brasília).\n\nO anúncio aconteceu dois dias antes do lançamento de _GTA 6_, um dos jogos mais aguardados de todos os tempos — e, certamente, um dos grandes destaques da disputa. Após a apresentação, o público também pode conferir os concorrentes e votar em seus favoritos pelo **site oficial** do evento.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nThe Game Awards 2026 acontece no dia 10 de dezembro, às 21h30 (BRT). Foto: The Game Awards/Divulgação\n\n### Confira a lista de categorias e indicados ao The Game Awards 2026\n\nPUBLICIDADE\n\nComo era de se esperar, entre os principais destaques da edição estão _GTA 6_ e o remake de _The Legend of Zelda: Ocarina of Time_, que aparecem entre os concorrentes da premiação. _Phantom Blade Zero_ também marca presença na disputa, ao lado de outros títulos que concorrem em diferentes categorias.\n\nA edição deste ano reúne 29 categorias, que contemplam desde os principais prêmios da indústria até jogos independentes, produções mobile e esports. Confira abaixo a **lista completa de categorias e seus respectivos indicados ao The Game Awards 2026**:\n\n### Melhor Jogo do Ano\n\n- 007 First Light\n- Control Resonant\n- GTA 6\n- Phantom Blade Zero\n- Resident Evil Requiem\n- The Legend of Zelda: Ocarina of Time\n\n### Melhor Direção de Jogo\n\n- Control Resonant\n- GTA 6\n- Phantom Blade Zero\n- Pragmata\n- Resident Evil Requiem\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Melhor Narrativa\n\n- 007 First Light\n- Control Resonant\n- GTA 6\n- Resident Evil Requiem\n- The Blood of Dawnwalker\n\nPUBLICIDADE\n\n### Melhor Direção de Arte\n\n- Control Resonant\n- GTA 6\n- Mouse P.I. for Hire\n- Phantom Blade Zero\n- The Legend of Zelda: Ocarina of Time\n\n### Melhor Trilha Sonora e Música\n\n- Ace Combat 8: Wings of Theve\n- GTA 6\n- Mixtape\n- Phantom Blade Zero\n- The Legend of Zelda: Ocarina of Time\n\n### Melhor Design de Áudio\n\n- Ace Combat 8: Wings of Theve\n- Control Resonant\n- GTA 6\n- Resident Evil Requiem\n- Star Wars Galactic Racer\n\n### Melhor Performance\n\n- Angela Sant’Albano (Resident Evil Requiem)\n- Liam McIntyre (Marvel’s Wolverine)\n- Manni L. Perez (GTA 6)\n- Patrick Gibson (007 First Light)\n- Rahul Kohli (Saros)\n\n### Inovação em Acessibilidade\n\nPUBLICIDADE\n\n- Assassin’s Creed Black Flag Resynced\n- Forza Horizon 6\n- Gears of War: E-Day\n- Marvel’s Wolverine\n- Rhythm Heaven Groove\n\n### Games for Impact\n\n- Big Walk\n- Cairn\n- Forever Ago\n- Life is Strange: Reunion\n- Lily’s World XD\n- Mixtape\n\n### Melhor Jogo em Andamento\n\nPUBLICIDADE\n\n- ARC Raiders\n- Final Fantasy XIV\n- Fortnite\n- No Man’s Sky\n- The Witcher 3: Wild Hunt\n\n### Melhor Suporte à Comunidade\n\n- Crimson Desert Enhanced\n- Helldivers 2\n- No Man’s Sky\n- The Witcher 3: Wild Hunt\n- Warframe\n\n### Melhor Jogo Independente\n\n\\\\\n\\\\\nTodos os códigos de GTA 5 para PS4, PS5, Xbox e PC \\\\\n\\\\\nDesenvolvedor de GTA 6 fala sobre como foi se infiltrar em gangues reais para pesquisa\n\n- Big Walk\n- Cairn\n- Denshattack!\n- Mewgenics\n- Mina the Hollower\n\n### Melhor Jogo Indie de Estreia\n\n- Dressmaker\n- Esoteric Ebb\n- Orbitals\n- Replaced\n- Silver Pines\n\n### Melhor Jogo Mobile\n\n- Arknights Endfield\n- Monster Hunter Outlanders\n- Neverness to Everness\n- Pokémon Champions\n- Where Winds Meet\n\n### Melhor Jogo VR/AR\n\n- Forefront\n- Into the Radius 2\n- Little Nightmares VR: Altered Echoes\n- Teenage Mutant Ninja Turtles: Empire City\n- Thief VR: Legacy of Shadow\n\nPUBLICIDADE\n\n### Melhor Jogo de Ação\n\n- Ace Combat 8: Wings of Theve\n- Gears of War: E-Day\n- Onimusha: Way of the Sword\n- Phantom Blade Zero\n- Saros\n\n### Melhor Ação/Aventura\n\n- 007 First Light\n- Control Resonant\n- GTA 6\n- Pragmata\n- Resident Evil Requiem\n- The Legend of Zelda: Ocarina of Time\n\n### Melhor RPG\n\n- Final Fantasy Resonance\n- Fire Emblem Fortune’s Weave\n- Monster Hunter Stories 3: Twisted Reflection\n- The Blood of Dawnwalker\n- Trails in the Sky 2nd Chapter\n\n### Melhor Jogo de Luta\n\n- 2XKO\n- Avatar Legends: The Fighting Game\n- Invincible VS\n- Marvel Tōkon: Fighting Souls\n- My Hero Academia: All’s Justice\n\n### Melhor Jogo para a Família\n\n- Big Walk\n- Lego Batman: Legacy of the Dark Knight\n- Nintendo Switch Sports Resort\n- Pokémon Pokopia\n- Yoshi and the Mysterious Book\n\n### Melhor Jogo de Simulação/Estratégia\n\n- Mewgenics\n- Planet Zoo 2\n- Pokémon Pokopia\n- Slay the Spire 2\n- Star Wars Zero Company\n\n### Melhor Jogo de Esportes/Corrida\n\n- EA Sports FC 27\n- Forza Horizon 6\n- Nintendo Switch Sports Resort\n- Screamer\n- Star Wars: Galactic Racer\n\nPUBLICIDADE\n\n### Melhor Multiplayer\n\n- Big Walk\n- Call of Duty: Modern Warfare 4\n- Gears of War: E-Day\n- Marathon\n- Meccha Chameleon\n- Orbitals\n\n### Melhor Adaptação\n\n- Cyberpunk: Edgerunners II\n- Fallout\n- Mortal Kombat II\n- Resident Evil\n- Super Mario Galaxy: O Filme\n\n### Jogo Mais Aguardado\n\n- Fable\n- Final Fantasy VII Revelation\n- God of War Laufey\n- Resident Evil Veronica\n- The Witcher 4\n\n### Criador de Conteúdo do Ano\n\n- Cellbit\n- iShowSpeed\n- LilSimsie\n- OhnePixel\n\n### Melhor Jogo de Esports\n\n- Counter-Strike 2\n- DOTA 2\n- League of Legends\n- Mobile Legends: Bang Bang\n- Valorant\n\n### Melhor Atleta de Esports\n\n- Chovy - Gen.G\n- Donk - Team Spirit\n- Erde - LOUD\n- Yatoro - Team Spirit\n- ZywOo - Team Vitality\n\n### Melhor Time de Esports\n\n- Gen.G - League of Legends\n- LOUD - Valorant\n- Team Falcons - Counter-Strike 2\n- Team Falcons - Rocket League\n- Team Spirit - DOTA 2\n- Team Vitality - Counter-Strike 2\n\nPUBLICIDADE\n\n### Melhor criação de usuário\n\n- A Dream of Silence: Revamped (lizardphunk de Baldur’s Gate 3)\n- Create Aeronautics (Simulated Team de Minecraft)\n- Nopixel V (Nopixel Studios de GTA Online)\n- Star Wars Droid Tycoon (FOAD de Fortnite)\n- TTK Testing (Sable Digital de Roblox)\n\n### Onde assistir ao The Game Awards 2026\n\nLembrando que o The Game Awards 2026 acontece no dia 10 de dezembro, às 21h30 (horário de Brasília) — ocasião que os vencedores de cada categoria serão revelados. A transmissão estará disponível em diversas plataformas oficiais, além do Disney+ e também do _Roblox_.\n\n- **YouTube**\n- **Twitch**\n- **Instagram**\n- **Facebook**\n- **X (antigo Twitter)**\n- **TikTok**\n\n“Estamos muito, muito animados este ano por termos vários novos parceiros importantes”, afirmou Geoff Keighley, idealizador do evento. Segundo o produtor, a proposta é disponibilizar a cerimônia no maior número possível de plataformas para alcançar jogadores em diferentes regiões e dispositivos.\n\nPara quem vai a sua torcida do GOTY no The Game Awards 2026? Conte pra gente nas redes sociais do **VOXL**!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo Sobre\n\n- PlayStation\n- Xbox\n- Nintendo\n- Steam\n\n### Ofertas\n\n- \\\\\n\\\\\nMouse Gamer Alienware Pro sem fio\\\\\n\\\\\nR$ 1.149,01\\\\\n\\\\\nGamer · Dell Technologies Brazil\n- \\\\\n\\\\\nJBL Quantum 400, Headset Gamer, Preto\\\\\n\\\\\nPreço anterior ~~R$ 599,00~~ Preço R$ 299,00-50%\\\\\n\\\\\nGamer · Loja iPlace\n- \\\\\n\\\\\nMicrofone Gamer Condensador Fifine SuperFrame Edition\\\\\n\\\\\nR$ 111,75\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nPlaca de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB\\\\\n\\\\\nR$ 941,16\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nHeadset Gamer Fifine AmpliGame H16\\\\\n\\\\\nR$ 256,30 no PixPreço R$ 284,08\\\\\n\\\\\nÁudio · Shopee\n- \\\\\n\\\\\nPack de jogos LEGO DC vs Marvel\\\\\n\\\\\nR$ 54,00\\\\\n\\\\\nGamer · Green Man Gaming\n- \\\\\n\\\\\nJogo Frostpunk para PC\\\\\n\\\\\nR$ 13,35\\\\\n\\\\\nGamer · Hype Games\n- \\\\\n\\\\\nMonitor Gamer AOC Série B30 21.5'', 120hz\\\\\n\\\\\nR$ 364,80\\\\\n\\\\\nMonitores e projetores · Mercado Livre\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nMais lidas\n\n1.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 2.\\\\\n\\\\\nBTG caiu? App sofre com instabilidade que dificulta operações nesta terça-feira (17)\") 3.\\\\\n\\\\\niFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17) \") 4.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 5.\\\\\n\\\\\nAviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando?\n\nPUBLICIDADE\n\nPUBLICIDADE\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/PMJ5IFGFF5L2RO46KDY67W4XPI.jpg?quality=80&auth=898be1bbb47397abffec2a97a811b272a33376203c29f36bd506645885bddc51&width=710",
-    "https://www.estadao.com.br/resizer/v2/6WKWYGFA7NGXLEVHSDXIBULHTQ.jpg?quality=80&auth=149b9e11347f5aa4ca0fba5c02558e869263584c5885f88d2e9149ba57b5cdff&width=710"
+    "https://www.estadao.com.br/resizer/v2/PN6K6VLXZJBVLMCHUGP6P4S6JA.jpg?quality=80&auth=281cbc50c159d472fc0b2ed6c93e2e3765390263fb43486ad7371beeb8d87b3c&width=710",
+    "https://www.estadao.com.br/resizer/v2/PN6K6VLXZJBVLMCHUGP6P4S6JA.jpg?quality=80&auth=281cbc50c159d472fc0b2ed6c93e2e3765390263fb43486ad7371beeb8d87b3c&width=1200&height=630&focal=1003,392",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/TPVLOMTIUJJRJMZOQBTMVWDAME.jpg?quality=80&auth=65660330bb7783dd22aa56b521d53672c771c8446d9731c0eccc25efcaf739d6&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/PN6K6VLXZJBVLMCHUGP6P4S6JA.jpg?quality=80&auth=281cbc50c159d472fc0b2ed6c93e2e3765390263fb43486ad7371beeb8d87b3c&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/D2IAGZ5AOFPWTESNBHV4AV7V3A.jpg?quality=80&auth=5b7537454107e85fe63d29cf64dddb4deea4cf93c2494d39131926b737d5b6af&width=90&height=90&smart=true",
+    "https://www.estadao.com.br/resizer/v2/LQAQJKK5MBF2XECQONZBXB7W2A.jpg?quality=80&auth=7b8d4569b498d0b56793f333005d82ab52dd25f911ab283e8a0241d9f512b83b&width=90&height=90&focal=927,485",
+    "https://e-afiliacao.estadao.com.br/storage/products/c726cf61a9a6559506f0223a81194a2b58d3d8c520f003b8aec26bc663bc6568.png",
+    "https://e-afiliacao.estadao.com.br/storage/products/5f4df9a1db40c4c5d53fa124c1756f517177c79cffb41a2ff6c43f2a2562cee1.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/6c8231bf4368fdee6c768778711584987e4e88e448d956e636a79407fbd98f4e.webp",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg"
    ],
    "videos": [],
    "keywords": [
-    "UI",
-    "9",
-    "5"
+    "Game",
+    "Awards",
+    "2026"
    ],
-   "searches": []
+   "searches": [
+    "game awards 2026",
+    "game awards 2026 nominees",
+    "game awards 2026 trailers",
+    "game awards 2026 cuphead",
+    "game awards 2026 predictions",
+    "game awards 2026 goty"
+   ]
   },
   {
-   "id": "202611meetthenewjamesbondrobertpattinson",
-   "title": "Meet the new James Bond: Robert Pattinson",
-   "source": "Ars Technica",
-   "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-   "published": "2026-11-16T19:36:25+00:00",
-   "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-   "score": 5.52,
+   "id": "ereviewxiaomi18prolancamentoglobalbrasil",
+   "title": "Xiaomi 18 Pro estreia no mercado global e será lançado no Brasil em 2027",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/xiaomi-18-pro-lancamento-global-brasil/",
+   "published": "2026-11-17T16:30:00+00:00",
+   "summary": "",
+   "score": 5.91,
    "why": [
     "2 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/entretenimento/acabou-o-misterio-robert-pattinson-e-oficialmente-o-novo-james-bond/"
+     "url": "https://canaltech.com.br/smartphone/xiaomi-18-pro-max-e-oficial-veja-o-que-muda-no-novo-top-de-linha/"
     }
    ],
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
-   "text": "The Internet has been abuzz for months about which actor would replace Daniel Craig as British agent 007 James Bond in the franchise. We finally have the answer: Robert Pattinson , who built on his 2005 role as the doomed Cedric Diggory in Harry Potter and the Goblet of Fire into an illustrious career mixing roles in franchises and Hollywood blockbusters with daring arthouse fare. “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime,” Pattinson said in a statement . “To say this role is a dream come true is an understatement. I couldn’t be more excited about this partnership and the work ahead with this fantastic team.” The choice will reunite Pattinson with Denis Villeneuve, who recently worked with him on the forthcoming Dune: Part III and will direct the next (as yet untitled) Bond installment. “I want to express my deep gratitude to the remarkable actors who joined us on this journey,\" Villeneuve said in a statement . We were surrounded by extraordinary talent, but there can only be one 007. I am overjoyed to welcome Robert Pattinson as our new James Bond. He has the timeless soul of 007 and brings a spirit that is completely new. I cannot wait to begin.” Read full article Comments",
-   "text_source": "rss",
+   "image": "https://www.estadao.com.br/resizer/v2/IVFCQ5RAD5B4DE62L7AZYXUYWQ.jpg?quality=80&auth=140e2663b5b044839811b35564ab6e2d3b5c5eca8ee522b4ae71cc360f5d4804&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Produto e Review\n\nPor Felipe Vitor Vidal Neri\n\n17/11/2026 \\| 13h30\n\nNotícia de presente\n\nA Xiaomi anunciou, nesta terça-feira (17), que venderá a linha de smartphones Xiaomi 18 Pro no mercado global. **O Brasil será um dos países que receberá o lançamento**. Essa família de celulares contempla os modelos 18 Pro e 18 Pro Max, ambos originalmente lançados na China em setembro com uma função de tela de privacidade embutida.\n\nPUBLICIDADE\n\nO grande destaque dessa geração é uma tecnologia chamada de SuperPixel 2.0 integrada no display OLED. Basicamente, a fabricante chinesa reajustou a disposição dos subpixels para criar um filtro de privacidade nativo, dispensando o uso daquelas películas de escuras inseridas nos aparelhos.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nNa prática, **o recurso é uma** **versão própria da Tela de Privacidade**, introduzida pela Samsung no Galaxy S26 Ultra no início do ano. Quando ativada, a tecnologia faz com que a emissão de luz para a lateral do produto caia para cerca de 1% em ângulos de 60 graus, mas ela continua normal para quem olha a tela de frente.\n\nEsse tipo de integração é altamente customizável, então o usuário não precisa ficar preso a uma única forma de uso. Há possibilidade de habilitar a SuperPixel 2.0 para a tela inteira ou somente áreas específicas, como notificações e janelas flutuantes. No uso de multitarefa, é possível esconder um aplicativo aberto e deixar os outros visíveis.\n\nPor falar no display, a fabricante equipou os Xiaomi 18 Pro com telas na resolução 2K (2.436 x 1.120 pixels), pico de brilho de 4.000 nits e **taxa de atualização variável LTPO de 1 a 120 Hz**. Já a respeito das dimensões, o modelo Pro opera com um display de 6,4 polegadas, enquanto o Pro Max chega a 6,9 polegadas.\n\nLinha do Xiaomi 18 Pro mantém visual similar ao da geração passada  Foto: Xiaomi/Divulgação\n\n### Snapdragon Extreme e câmeras de 200 MP\n\nAlém da tela diferenciada, a linha Xiaomi 18 Pro mostra bastante robustez nas especificações mais internas. O modelo Pro Max chega com **o poderoso** **chip Snapdragon 8 Elite Extreme Gen 6**, considerado o chip para smartphones mais potente da atualidade. Já o 18 Pro acompanha o Snapdragon 8 Elite Gen 6 regular.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nPara as câmeras, o módulo traseiro conta com um **sensor principal bem arrojado de 200 megapixels**, somado a uma lente periscópio com a mesma resolução e zoom óptico de 3,2x. Também há uma câmera ultrawide de 50 MP na traseira e uma de 50 MP para a frontal. Vale notar que a Xiaomi manteve a parceria com a Leica para montar esse sistema.\n\nPUBLICIDADE\n\n- O hardware dos modelos é pareado com 12 GB ou 16 GB de memória RAM e opções de armazenamento de 256 GB, 512 GB e 1 TB;\n- Esses aparelhos chegam rodando o sistema operacional HyperOS 4 mais recente, baseado no Android 17 de fábrica;\n- Nas baterias, o modelo Pro Max conta com um componente parrudo de 8.500 mAh, enquanto o Pro tem 7.000 mAh;\n- Ambos os aparelhos suportam carregamento rápido de 100W por cabo e 50W sem fio.\n\n### Preço e disponibilidade\n\nA Xiaomi confirmou os preços dos novos Xiaomi 18 Pro para o mercado global, especificamente para a Europa. Inclusive, a companhia já publicou nas redes sociais que essa linha chegará ao Brasil em janeiro de 2027, mas não forneceu detalhes adicionais. Confira os preços:\n\n- **Xiaomi 18 Pro (12 GB + 256 GB):** 1.399 euros (R$ 8.900 em conversão direta);\n- **Xiaomi 18 Pro (12 GB + 512 GB):** 1.599 euros (R$ 10.100);\n- **Xiaomi 18 Pro Max (12 GB + 256 GB):** 1.599 euros (R$ 10.100);\n- **Xiaomi 18 Pro Max (12 GB + 512 GB):** 1.799 euros (R$ 11.400);\n- **Xiaomi 18 Pro Max (16 GB + 1 TB):** 2.099 euros (R$ 13.300).\n\nPor falar em celulares, a atualização iOS 23.2 Beta 2 traz uma versão do Face ID para o iPhone Duo e franquia de uso para a Siri AI. Não esqueça de continuar ligado no **TecMundo** para acompanhar outros artigos como esse e não perder as principais informações da indústria de games e tecnologia.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Xiaomi\n- smartphone\n\n0 Comentário\n\n40 debatedores online40 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 2.\\\\\n\\\\\nBTG caiu? App sofre com instabilidade que dificulta operações nesta terça-feira (17)\") 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira 5.\\\\\n\\\\\niFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17) \")\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
    "images": [
-    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg"
+    "https://www.estadao.com.br/resizer/v2/IVFCQ5RAD5B4DE62L7AZYXUYWQ.jpg?quality=80&auth=140e2663b5b044839811b35564ab6e2d3b5c5eca8ee522b4ae71cc360f5d4804&width=710",
+    "https://www.estadao.com.br/resizer/v2/5G2ZPD2UPZAKFLYH4VQEREK5DM.webp?quality=80&auth=a98fe1c690d61b8ed2c9f305e9f0c5f11b2917559be88b1d5d2f6d765b04a130&width=1200&height=630&focal=1220,477",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/LPJF5US4QBI4JHMRNKVQAVQF4M.png?quality=80&auth=e19ab1e0f82003727d62ef395e08f7592ebc72b6c7f50b824de1988a8d0ae647&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/IVFCQ5RAD5B4DE62L7AZYXUYWQ.jpg?quality=80&auth=140e2663b5b044839811b35564ab6e2d3b5c5eca8ee522b4ae71cc360f5d4804&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/332d001dd6f88db8be0db3a69d3cf520d7edbc70e42666458231cc8ad5776ed8.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/8049cc1874642511d8db5ab56b424f9c9d73aac40f521f5bc100d20dbf5181e5.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/cfe08223d333ce12c04866d03dd32bbe01641bf717417dca9e5109aea870d6a4.jpg"
    ],
-   "videos": [
-    "https://www.youtube.com/watch?v=K3elJwmxsRA"
-   ],
+   "videos": [],
    "keywords": [
-    "James",
-    "Bond",
-    "Robert"
+    "18",
+    "Pro",
+    "Brasil"
    ],
-   "searches": []
+   "searches": [
+    "18 pro brasil",
+    "iphone 18 pro brasil",
+    "18 pro max brasil",
+    "xiaomi 18 pro brasil",
+    "iphone 18 pro max brasil",
+    "xiaomi 18 pro max brasil"
+   ]
   },
   {
-   "id": "etsquedevemdespencardepreconablackfriday",
-   "title": "7 tablets que devem despencar de preço na Black Friday",
+   "id": "odestatercafeira17ifoodentregadorafetado",
+   "title": "iFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17)",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/ifood-caiu-app-fica-instavel-durante-o-almoco-desta-terca-feira-17-ifood-entregador-afetado/",
+   "published": "2026-11-17T14:41:00+00:00",
+   "summary": "",
+   "score": 5.79,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/apps/app-para-entregadores-do-ifood-passa-por-instabilidade-nesta-terca-feira-17/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/btg-caiu-app-sofre-com-instabilidade-que-dificulta-operacoes-nesta-terca-feira-17/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/5XZLNCDV5RBRLF2UJIJ7A6UAUU.jpg?quality=80&auth=4e77811e8c3afde20d36fdce8862778f6a1a0a0afdbc9ad69f148b68b072b499&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Redação TecMundo\n\n17/11/2026 \\| 11h41\n\nAtualização: 17/11/2026 \\| 13h59\n\nNotícia de presente\n\nDo Disk Cook à IA: a história completa do iFood que você NÃO conhecia!\n\nSubtitle Settings\n\nFontDefaultMono SansMono SerifSansSerifComicFancySmall Caps\n\nFont SizeDefaultX-SmallSmallMediumLargeX-LargeXX-Large\n\nFont EdgeDefaultOutline DarkOutline LightOutline Dark BoldOutline Light BoldShadow DarkShadow LightShadow Dark BoldShadow Light Bold\n\nFont ColorDefaultBlackSilverGrayWhiteMaroonRedPurpleFuchsiaGreenLimeOliveYellowNavyBlueTealAquaOrangeDefault100%75%50%25%0%\n\nBackgroundDefaultBlackSilverGrayWhiteMaroonRedPurpleFuchsiaGreenLimeOliveYellowNavyBlueTealAquaOrangeDefault100%75%50%25%0%\n\nPular anúncio\n\nVocê sabia que o iFood começou como uma central telefônica nos anos 90? Contamos a história completa de uma das empresas de tecnologia mais poderosas do Brasil.\n\nO aplicativo iFood para Entregadores registra instabilidade nesta terça-feira (17). De acordo com o site DownDetector, são mais de 1,3 mil reclamações às 11h20. Segundo relatos de usuários no X, o problema estaria no “iFood Entregador”.\n\nEm testes internos realizados pelo TecMundo, o aplicativo do iFood para os clientes opera normalmente, o que pode condizer com os relatos de que somente os entregadores foram os afetados.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nQueda no iFood Foto: tecmundo\n\nUsuários e entregadores reclamam nas redes sociais sobre a instabilidade e cobram ação do iFood:\n\nUsuários reclamam Foto: tecmundo\n\nO TecMundo entrou em contato com o iFood para mais informações sobre o caso. Em nota, a empresa pontuou que o app dos entregadores já foi normalizado.\n\nO Down Detector confirmou a estabilização, mostrando uma queda vertiginosa de reclamações por volta das 13h, indicando um retorno à normalidade.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- iFood\n\n0 Comentário\n\n40 debatedores online40 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nBTG caiu? App sofre com instabilidade que dificulta operações nesta terça-feira (17)\") 2.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 3.\\\\\n\\\\\niFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17) \") 4.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 5.\\\\\n\\\\\nAviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando?\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/5XZLNCDV5RBRLF2UJIJ7A6UAUU.jpg?quality=80&auth=4e77811e8c3afde20d36fdce8862778f6a1a0a0afdbc9ad69f148b68b072b499&width=710",
+    "https://www.estadao.com.br/resizer/v2/V4YLL5KCBFNCZIUQJT5RFRXXOQ.jpg?quality=80&auth=cd5f2839a60e41cfe789cb34d12bb60137ab7fd96fe2006450218f16e5dcd6be&width=1200&height=630&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F10-23-2026%2Ft_15efb53784424d4f9594c315f3fef5d9_name_IMRUBmFzptIV0.png?quality=80&auth=c18bd0c29933d4cbd8b8858c79706f16b11162da96c1dc7b1309b67c85c06f41&width=520&height=292&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/5XZLNCDV5RBRLF2UJIJ7A6UAUU.jpg?quality=80&auth=4e77811e8c3afde20d36fdce8862778f6a1a0a0afdbc9ad69f148b68b072b499&width=1200",
+    "https://www.estadao.com.br/resizer/v2/VDADVWJBZBAR5BFVBICOT63PT4.jpg?quality=80&auth=4e3b447c994d7ebaa23e99b71c8b36e7d6f9ba52c17c9ef702bbdb9283d668dd&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/332d001dd6f88db8be0db3a69d3cf520d7edbc70e42666458231cc8ad5776ed8.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/cfe08223d333ce12c04866d03dd32bbe01641bf717417dca9e5109aea870d6a4.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/8049cc1874642511d8db5ab56b424f9c9d73aac40f521f5bc100d20dbf5181e5.jpg",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Entregadores",
+    "App",
+    "17"
+   ],
+   "searches": [
+    "entregadores ifood"
+   ]
+  },
+  {
+   "id": "diarionanovasirieexigeassinaturadoicloud",
+   "title": "Apple impõe limite de uso diário na nova Siri e exige assinatura do iCloud+",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/tablet/7-tablets-que-devem-despencar-de-preco-na-black-friday/",
-   "published": "2026-11-16T19:51:03+00:00",
-   "summary": "Quem precisa de um dispositivo para aumentar a produtividade nos estudos e no trabalho, ou simplesmente ter uma tela maior para aproveitar filmes e séries, pode encontrar nos tablets uma boa alternativa. E a Black Friday é uma data interessante para aproveitar descontos e levar para casa um modelo ideal para a rotina sem comprometer tanto o orçamento . O mercado oferece opções para diferentes nece",
-   "score": 4.53,
+   "url": "https://canaltech.com.br/apps/apple-impoe-limite-de-uso-diario-na-nova-siri-e-exige-assinatura-do-icloud/",
+   "published": "2026-11-17T17:12:00+00:00",
+   "summary": "A Apple vai colocar limites diários para o uso gratuito de recursos da Siri AI e do Apple Intelligence . O acesso ampliado às ferramentas só será possível a partir de assinaturas pagas do serviço iCloud+ , que já garante maior armazenamento em nuvem nas contas da empresa. O site MacRumors informa que os limites começaram a aparecer na versão Beta do iOS 27.3 . A versão estável da atualização está ",
+   "score": 4.95,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/eOrYhS6T18yDiyHy1T2Z97oEYA0=/0x0/filters:format(webp):quality(85)/90dd281f-9359-4d07-867e-141da870e69f.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Listas Tudo sobre Tablet 7 tablets que devem despencar de preço na Black Friday Por João Melo • Editado por Léo Müller | 16/11/2026 às 16:51\n\nPrefira o CT no Google Imagem gerada por IA/Gemini Quem precisa de um dispositivo para aumentar a produtividade nos estudos e no trabalho, ou simplesmente ter uma tela maior para aproveitar filmes e séries, pode encontrar nos tablets uma boa alternativa. E a Black Friday é uma data interessante para aproveitar descontos e levar para casa um modelo ideal para a rotina sem comprometer tanto o orçamento .\n\nO mercado oferece opções para diferentes necessidades, desde aparelhos básicos para leitura e navegação até modelos avançados que podem substituir um notebook em algumas tarefas . Entre algumas das fabricantes com produtos que merecem atenção estão Samsung, Apple e Huawei.\n\n📱 Veja as melhores promoções de tablets no WhatsApp do CT Ofertas\n\nPara ajudar na escolha, o Canaltech reuniu sete tablets com potencial de aparecer em boas ofertas durante a Black Friday 2026. A seleção considera o histórico de preços e também as expectativas de redução no preço durante o período promocional:\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Samsung Galaxy Tab S10 Lite (Wi-Fi e 5G);\n\nO Galaxy Tab S10 Lite é uma alternativa intermediária para quem procura um tablet versátil sem precisar investir em um modelo mais avançado. Sua tela LCD de 10,9 polegadas tem resolução de 1920 x 1200 pixels e taxa de atualização de 90 Hz , combinação que favorece a leitura de documentos, a navegação e o consumo de vídeos.\n\nO aparelho utiliza o processador Exynos 1380 , acompanhado de 6 GB de RAM e opções de 128 GB ou 256 GB de armazenamento. A bateria de 8.000 mAh também ajuda a manter o dispositivo longe da tomada por mais tempo, enquanto o suporte a cartão microSD permite ampliar o espaço para arquivos e aplicativos.\n\nOutro diferencial está nos acessórios incluídos na caixa, como a S Pen e a capa protetora. A caneta facilita anotações durante aulas, reuniões e leituras de PDFs, enquanto a versão com 5G permite acessar a internet móvel sem depender de uma rede Wi-Fi.\n\nAs ofertas recentes da versão Wi-Fi com 128 GB apareceram principalmente na faixa de R$ 1.600 a R$ 1.700 , e a expectativa é de que as promoções da Black Friday derrubem o preço até essa faixa. Já a versão com configuração com 5G se torna um bom negócio caso apareça por aproximadamente R$ 1.900 .\n\nPara quem procura um tablet capaz de assumir tarefas mais exigentes, o Galaxy Tab S11 Ultra é uma das opções mais completas da seleção. O aparelho traz uma grande tela Dynamic AMOLED 2X de 14,6 polegadas , com taxa de atualização de 120 Hz e brilho máximo de 1.600 nits , conjunto que favorece tanto a produtividade quanto o entretenimento.\n\nO desempenho fica por conta do processador Dimensity 9400+ , acompanhado de 12 GB de RAM e 512 GB de armazenamento interno. A bateria de 11.600 mAh promete até 23 horas de reprodução de vídeos, enquanto o suporte ao Samsung DeX permite utilizar uma interface semelhante à de um computador, com várias janelas abertas e possibilidade de conexão com monitores externos.\n\nO pacote vendido no Brasil também inclui a S Pen e uma capa teclado , dois acessórios que ampliam as possibilidades de uso. Com eles, o tablet pode funcionar como uma estação portátil para escrever documentos, fazer anotações, participar de reuniões e até trabalhar com aplicativos de criação.\n\nO Galaxy Tab S11 Ultra costumava aparecer entre R$ 6.500 e R$ 6.750 , mas registrou uma queda importante durante o 11.11. O dispositivo chegou a R$ 6.201 diante de promoções agressivas, seu menor preço até então, e a expectativa é que consiga repetir essa marca durante a Black Friday.\n\nO Galaxy Tab S10 FE é outra opção intermediária que merece atenção, principalmente para quem pretende utilizar o tablet como ferramenta de estudos ou produtividade. Sua tela LCD de 10,9 polegadas tem resolução de 2304 x 1440 pixels e taxa de atualização de 90 Hz, o que proporciona boa definição para visualizar textos, documentos e conteúdos multimídia.\n\nO modelo utiliza o processador Exynos 1580 , com 8 GB de RAM e 128 GB de armazenamento interno na versão vendida no Brasil. Além disso, a bateria de 8.000 mAh favorece o uso prolongado, enquanto a S Pen e a capa protetora incluídas no kit permitem fazer anotações diretamente na tela e proteger o dispositivo durante o transporte.\n\nEm comparação com o S10 Lite, o modelo FE concentra suas vantagens no processamento e na maior resolução do display. Por isso, pode ser uma escolha mais interessante para quem pretende alternar entre diferentes aplicativos ou executar atividades um pouco mais exigentes .\n\nAo longo de 2026, as ofertas do Galaxy Tab S10 FE ficaram concentradas entre R$ 2.148 e R$ 2.260, e o modelo apareceu poucas vezes nessa faixa após o aumento da memória RAM. Para a Black Friday deste ano, uma faixa entre R$ 2.100 e R$ 2.200 é uma boa referência de compra.\n\nQuem prefere uma tela maior para estudar, trabalhar ou assistir a vídeos pode encontrar no Galaxy Tab S10 FE+ uma alternativa interessante. O tablet tem um display IPS LCD de 13,1 polegadas , com taxa de atualização de 90 Hz, que oferece mais espaço para visualizar documentos e utilizar dois aplicativos simultaneamente.\n\nO conjunto técnico inclui o processador Exynos 1580, 8 GB de RAM e 128 GB de armazenamento interno. A bateria de 10.090 mAh também é um diferencial, enquanto o já citado Samsung DeX permite transformar a interface em um ambiente semelhante ao de um computador.\n\nA S Pen acompanha o dispositivo e pode ser aproveitada para anotações, desenhos e atividades de edição. Já a capa protetora incluída não tem teclado integrado, um detalhe importante para quem pretende utilizar o tablet como substituto de um notebook.\n\nO Galaxy Tab S10 FE+ apareceu menos vezes em ofertas durante 2026, mas os preços monitorados ficaram próximos aos da versão convencional. O modelo Plus chegou a R$ 2.459, na Black Friday passada, e encontrar essa versão por aproximadamente R$ 2.400 neste ano ainda é considerado um bom valor.\n\nO Huawei MatePad SE 11 é uma opção para quem procura um tablet mais acessível, principalmente para atividades de entretenimento, leitura e navegação. O modelo tem uma tela de 11 polegadas com resolução de 1920 x 1200 pixels e brilho de 400 nits , além de certificação TÜV Rheinland para reduzir a emissão de luz azul e proporcionar mais conforto visual durante o uso prolongado.\n\nA bateria de 7.700 mAh promete até dez horas de reprodução contínua de vídeos, segundo a fabricante, e conta com carregamento de 22,5 W. O aparelho também tem apenas 6,9 mm de espessura e pesa 475 gramas , características que facilitam o transporte na mochila e o uso em diferentes ambientes.\n\nO tablet roda HarmonyOS , sistema operacional próprio da Huawei, e aparece em configurações com 4 GB ou 6 GB de RAM e 128 GB de armazenamento. A fabricante também oferece o recurso Kids Corner , que permite configurar um ambiente de controle parental para limitar e acompanhar o uso do dispositivo pelas crianças.\n\nPara a Black Friday, a expectativa é encontrar a versão com 6 GB de RAM por até R$ 800 , enquanto a variante com 4 GB pode valer a pena caso apareça em uma faixa entre R$ 600 e R$ 700 .\n\nO iPad 11 é uma boa alternativa pra quem deseja entrar no ecossistema da Apple sem precisar investir em um modelo mais avançado da linha. A tela de 11 polegadas oferece uma área confortável para leitura, navegação e consumo de vídeos, enquanto o chip A16 garante desempenho para alternar entre aplicativos, executar jogos e trabalhar com ferramentas de edição.\n\nO tablet oferece opções de 128 GB, 256 GB e 512 GB de armazenamento, além de contar com uma câmera traseira de 12 MP . O iPadOS também oferece acesso a uma ampla variedade de aplicativos otimizados, além de compatibilidade com acessórios como teclados, mouses e Apple Pencil , vendido separadamente.\n\nNa Black Friday deste ano, a expectativa é encontrar ofertas entre R$ 2.200 e R$ 2.500 , faixa que pode tornar o modelo competitivo diante de tablets intermediários de outras fabricantes.\n\nO Galaxy Tab A11+ é uma alternativa para quem não precisa de um tablet voltado a tarefas pesadas, mas deseja uma tela maior para estudar, ler documentos e acompanhar serviços de streaming. O modelo tem painel TFT LCD de 11 polegadas e taxa de atualização de 90 Hz , características que ajudam na navegação e deixam a movimentação entre telas mais fluida.\n\nO processamento fica por conta do MediaTek Dimensity 7300 , acompanhado de 6 GB de RAM e 128 GB de armazenamento interno . O tablet também oferece suporte a cartão de memória, opção com conectividade 5G e modo DeX.\n\nApesar da versatilidade, há algumas limitações importantes para considerar antes da compra. O modelo não oferece suporte à S Pen e sua bateria de 7.040 mAh apresentou autonomia inferior a sete horas nos testes do Canaltech , o que pode pesar para quem pretende assistir a vídeos durante longos períodos longe da tomada.\n\nO Galaxy Tab A11+ apareceu com mais frequência em ofertas ao longo de 2026 do que a versão convencional. Para a Black Friday, uma boa referência é encontrar o modelo por preços entre R$ 1.100 e R$ 1.200.\n\nAnotou as dicas e vai também dar uma olhada nas promoções da Black Friday nos EUA? Então vale conferir como comprar e quanto custa trazer os dispositivos do exterior.",
+   "image": "https://tl.ctcdn.com.br/oxZuagG9LmM6D624mwcc0fSv6d0=/0x0/filters:format(webp):quality(85)/9dbf7239-4505-4064-8dce-2fb07486b0a6.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Apple impõe limite de uso diário na nova Siri e exige assinatura do iCloud+\n\nPor André Lourenti Magalhães • Editado por Jones Oliveira \\| 17/11/2026 às 14:12\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/2885ec9b-b950-4330-bd55-3828efbdaef5.jpg)Léo Müller/Canaltech\n\nA Apple vai colocar **limites diários para o uso gratuito de recursos da Siri AI e do Apple Intelligence**. O acesso ampliado às ferramentas só será possível a partir de **assinaturas pagas do serviço iCloud+**, que já garante maior armazenamento em nuvem nas contas da empresa.\n\nContinua após a publicidade\n\nO site MacRumors informa que os limites começaram a aparecer na versão **Beta do iOS 27.3**. A versão estável da atualização está prevista para dezembro deste ano e já deve incluir os novos termos.\n\nA expectativa é de que o limite gratuito coloque **restrições em muitos serviços do Apple Intelligence**, mas não deve remover completamente o acesso às ferramentas. A Siri AI, por exemplo, ainda seria capaz de responder a comandos básicos.\n\n## Quais serviços são impactados pelo limite de uso?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nOs limites são aplicados para ferramentas que dependem de modelos hospedados nos servidores da Apple, ou seja, que não rodam localmente ou offline nos aparelhos. De acordo com o Mac Rumors, os seguintes recursos serão afetados com o novo teto:\n\n- Uso da **Siri AI** para tarefas que exigem múltiplas etapas e contexto pessoal, como descobrir a hora ideal para sair de casa a um compromisso\n\n- **Geração e edição de imagens** no Image Playground e no aplicativo Fotos\n\n- **Automações** e atalhos ambientadas no AFM Cloud ou AFM Cloud\n\n- Aplicativos de terceiros que usam os Modelos Fundacionais da Apple no **Private Cloud Compute**\n\nInicialmente, a Maçã **não deve mudar os valores do iCloud+** e cada nível de assinatura vai receber um limite próprio. Confira:\n\n|     |     |\n| --- | --- |\n| Plano | Limite |\n| 50 GB | Igual ao da versão gratuita |\n| 200 GB | Até duas vezes maior do que a versão gratuita |\n| 2 TB | Até cinco vezes maior |\n| 6 TB | Até 10 vezes maior |\n| 12 TB | Até 20 vezes maior |\n\nContinua após a publicidade\n\nNo Brasil, o iCloud+ é oferecido a partir de R$ 5,90 por mês no plano de 50 GB e chega a até R$ 399,90 por mês no plano de 12 TB.\n\n### Mudança segue padrão do mercado\n\nA barreira de preços não deve deixar muitos consumidores felizes, mas é o reflexo de um **padrão observado no mercado para restringir o uso de recursos de IA**. Plataformas populares como Claude, Gemini e ChatGPT já possuem versões gratuitas com limites de uso baixo e forçam assinaturas pagas para ampliar o acesso.\n\nContinua após a publicidade\n\nAlém de uso mais frequente no dia a dia, tarefas automatizadas podem gastar mais poder computacional do que um prompt simples, então as empresas de IA estabeleceram **condições mais restritivas para usar os modelos.**\n\nA própria Apple, inclusive, menciona no site do iCloud+ que alguns modelos estão sujeitos a limites diários de uso e **“um acesso ampliado estará disponível mediante pagamento no futuro”**. Por enquanto, a descrição dos planos pagos ainda não menciona o uso de IA — é provável que o ajuste seja feito após o lançamento do iOS 27.3.\n\nContinua após a publicidade\n\nA rival Samsung também desenvolve um novo nível pago com acesso ampliado às funções do Galaxy AI.\n\n### Fonte\n\nMacRumors\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/oxZuagG9LmM6D624mwcc0fSv6d0=/0x0/filters:format(webp):quality(85)/9dbf7239-4505-4064-8dce-2fb07486b0a6.png",
+    "https://tl.ctcdn.com.br/Z1hcC9cTGEzG6E2ttbhwYL9Zz9M=/1200x675/smart/filters:format(webp):quality(85)/2885ec9b-b950-4330-bd55-3828efbdaef5.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/-qkT--yIDzwPsVbsOSdw3NJcxNg=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Siri"
+   ],
+   "searches": []
+  },
+  {
+   "id": "trainingingeminiwithoutlosingyourhistory",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "published": "2026-11-17T16:50:10+00:00",
+   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+   "score": 4.93,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+   "text": "Skip to content\n\nText\nsettings\n\nStory text\n\nSizeSmallStandardLargeWidth\n\\*StandardWideLinksStandardOrange\n\n\\\\* Subscribers only\n\nLearn more\n\nMinimize to nav\n\nIt can be hard to use Google products—or even the Internet itself—without coming into contact with Gemini AI. That is, of course, by design. The more you use Gemini, the more data Google collects to train and improve its generative AI chatbot. The options to limit training on your data have been scant, but Google is finally adding more controls to the Gemini app.\n\nThe change currently rolling out to Gemini will separate your chat history from training, which allows you to retain basic AI functionality without handing Google quite so much control over your data. Prior to this change, the only way to opt out of contributing your chat contents (including attachments) for training was to turn off your history. That made it impossible to go back and pick up a chat down the road.\n\nAs the new settings roll out, users will see separate toggles for model training and chat history. The history setting will continue to support an adjustable limit, but you will no longer have to change it to stop Google from training on your Gemini usage. Meanwhile, AI training will be an opt-out situation. You’ll need to find the toggle to block Google from using your chats for AI training. It’s under Activity in the Gemini settings. You can also access the menu from your Google account under Data and Privacy > My Activity > Other activity > Gemini Apps Activity.\n\nImportantly, this only applies to future interactions with Gemini. If you have previously fed any data into Google’s AI, that’s already part of the training data. That can include your inputs, Gemini’s responses, uploaded files, tool calls, your location, and data from connected apps. Google says it may retain this data for up to three years to improve its models. The company has previously noted it attempts to filter personal information out of the Gemini activity history, but that isn’t a guarantee.\n\nThe current Gemini Activity page is an all or nothing affair.\n\nCredit:\nGoogle\n\nThe current Gemini Activity page is an all or nothing affair.\n\nCredit:\n\nGoogle\n\nRegardless of your chosen activity settings, you can always manually remove anything you don’t want saved on the same page with the history and training toggles. However, reviewed chats that are already part of the training data won’t be retroactively deleted. Opting out of training doesn’t mean Google won’t have your data, either. Google may use this data in _other_ ways for up to three years—it just won’t add it to AI-training data sets.\n\nIf you want to use Gemini and not retain any data, your options are actually a bit more limited now. Currently, if you disable history, Google still retains that data for 72 hours (and 24 hours for the user). Once the updated page is live, this duration will change to two months. So you can access that data for longer, but so can Google. The company says this is to “respond to you, process your feedback, and protect Google, its users, and the public.” Essentially, Google will be more able to identify nefarious AI usage even if someone disables history.\n\nEven with the longer chat retention, the ability to control AI training is still a welcome privacy improvement. Google says the change is rolling out globally, but it may take a few weeks to show up for everyone.\n\n[](https://arstechnica.com/author/ryanwhitwam/)\n\nRyan Whitwam Senior Technology Reporter\n\nRyan Whitwam Senior Technology Reporter\n\nRyan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can follow him on Bluesky, where you will see photos of his dozens of mechanical keyboards.\n\n7 Comments\n\nComments\n\nForum view\n\nLoading comments...\n\nPrev story\n\n1. [](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/)\n\n1. Three small failures combined to take down Microsoft 365\n\n2. 2. Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day\n\n3. 3. US now \"comfortable\" with children dying of measles as death toll hits 10\n\n4. 4. Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case\n\n5. 5. Vulcan rocket fails during launch, dealing major blow to SpaceX competitors\n\nCustomize\n\n- Dashboard\n- Edit Post\n\n- Howdy, Account\n\n  - AccountEdit Profile\n  - Log Out\n\n- Connecting…\n\nSign in dialog...",
+   "text_source": "firecrawl",
+   "images": [
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+    "https://cdn.arstechnica.net/wp-content/uploads/2026/11/2026-11-17-10_26_12-.png",
+    "https://cdn.arstechnica.net/wp-content/uploads/2025/02/AV4.jpg",
+    "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage-500x500.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Gemini",
+    "AI"
+   ],
+   "searches": []
+  },
+  {
+   "id": "bolsoqueleseusemailsecriaroteirossozinho",
+   "title": "Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/apps/samsung-prepara-agente-de-viagem-de-bolso-que-le-seus-e-mails-e-cria-roteiros-sozinho/",
+   "published": "2026-11-17T15:15:06+00:00",
+   "summary": "A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do Galaxy Claw, conjunto de agentes de IA automatizados para o ecossistema do Galaxy AI em celulares e tablets. Informações sobre o recurso foram encontradas pelo site Android Authority, mas ainda não é possível ver a ferrament",
+   "score": 4.83,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Apps Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho Por André Lourenti Magalhães • Editado por Jones Oliveira | 17/11/2026 às 12:15\n\nPrefira o CT no Google Ivo Meneghel Junior/Canaltech A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do Galaxy Claw, conjunto de agentes de IA automatizados para o ecossistema do Galaxy AI em celulares e tablets.\n\nInformações sobre o recurso foram encontradas pelo site Android Authority, mas ainda não é possível ver a ferramenta em ação. As linhas de código sugerem que a IA vai conseguir criar um itinerário rápido : é provável que registros como a reserva do hotel e as passagens de voo sejam considerados na hora de montar a programação.\n\nA novidade deve fazer parte de um novo pacote de ferramentas de IA previstas para a One UI 9.5 na linha Galaxy S27. Rumores indicam que a fabricante sul-coreana aposta em funções de agentes para automatizar diferentes tarefas nos celulares.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade\n\nOs vazamentos de novos recursos de IA são associados a uma experiência chamada Galaxy Claw , em que a One UI será capaz de fazer uma série de tarefas autônomas com agentes e conectores integrados aos aplicativos.\n\nAinda não é possível confirmar se esse será o nome usado pela empresa no lançamento, mas informações encontradas no código da One UI 9.5 usam o título. Alguns dos recursos incluem o organizador de viagens, uma ferramenta para limpar o aparelho e um Daily Brief para trazer resumos de mensagens e notificações durante o dia.\n\nEnquanto a versão padrão do Galaxy AI traz recursos que usam IA generativa no processo, o Galaxy Claw permitiria deixar o assistente trabalhando em segundo plano, sem a necessidade de exigir tantas intervenções do usuário. Não há confirmação ainda, mas vazamentos indicam que o pacote pode fazer parte de uma assinatura paga do Galaxy AI para garantir mais limites de uso .\n\nA atualização 9.5 deve ser lançada no primeiro trimestre de 2027, acompanhada do lançamento da linha Galaxy S27. Saiba quais celulares e tablets podem receber a próxima versão da One UI .",
    "text_source": "basic",
    "images": [
-    "https://tl.ctcdn.com.br/eOrYhS6T18yDiyHy1T2Z97oEYA0=/0x0/filters:format(webp):quality(85)/90dd281f-9359-4d07-867e-141da870e69f.png",
-    "https://tl.ctcdn.com.br/JeFdxxAbDXNxYec0bbeuDkMpj94=/1200x675/smart/filters:format(webp):quality(85)/ddb100a4-382f-42a9-91ec-d7bdd92a0fb9.jpg",
+    "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
+    "https://tl.ctcdn.com.br/QXcSXVS3Fg4OXVN6dzeUTuTdR4s=/1200x675/smart/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
     "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/2wXOYr6pqqqJK3MkYYWlypiJaI0=/640x360/smart/filters:format(webp):quality(85)/ddb100a4-382f-42a9-91ec-d7bdd92a0fb9.jpg"
+    "https://tl.ctcdn.com.br/h70AYmSXMCk3ZeEh34zP6PoS8Rw=/640x360/smart/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg"
    ],
    "videos": [],
    "keywords": [
-    "Black",
-    "Friday"
+    "Samsung",
+    "prepara",
+    "agente"
    ],
    "searches": []
   },
   {
-   "id": "emsilencioabsolutoebaterecordedeprecisao",
-   "title": "Cientistas criam IA que lê lábios em silêncio absoluto e bate recorde de precisão",
+   "id": "voltarecursodecameraesquecidonogalaxys28",
+   "title": "Samsung pode trazer de volta recurso de câmera esquecido no Galaxy S28",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-que-le-labios-em-silencio-absoluto-e-bate-recorde-de-precisao/",
-   "published": "2026-11-16T19:04:00+00:00",
-   "summary": "Os pesquisadores do Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST) desenvolveram uma inteligência artificial que consegue identificar palavras a partir dos movimentos dos lábios em vídeos sem áudio . Batizado de DLLM-VSR, o sistema alcançou um novo recorde de precisão em testes de leitura labial por IA. A tecnologia ainda está em fase de desenvolvimento e não chegou ao público ou ao ",
-   "score": 4.48,
+   "url": "https://canaltech.com.br/smartphone/samsung-pode-trazer-de-volta-recurso-de-camera-esquecido-no-galaxy-s28/",
+   "published": "2026-11-17T15:11:29+00:00",
+   "summary": "A chegada da abertura variável aos iPhone 18 Pro pode ter reacendido o interesse da Samsung por um recurso que a própria fabricante já utilizou no passado. A prova disso é que essa tecnologia estaria sendo considerada para os futuros Galaxy S28 Pro e S28 Ultra , com lançamento esperado para 2028. A informação foi compartilhada pelo leaker Yogesh Brar em uma publicação no X (antigo Twitter), que me",
+   "score": 4.82,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/9v1u67ne6INmdroVxGU900leCv4=/0x0/filters:format(webp):quality(85)/1df87bb2-d2bd-4a61-91b7-28b8b4d18ac6.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Inteligência Artificial\n\n# Cientistas criam IA que lê lábios em silêncio absoluto e bate recorde de precisão\n\nPor Viviane França \\| 16/11/2026 às 16:04\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/fc36d83f-3244-4481-966f-f44e4aaf82cd.jpg)Selma DA SILVA/Unsplash\n\nOs pesquisadores do Instituto Avançado de Ciência e Tecnologia da Coreia (KAIST) desenvolveram uma inteligência artificial que consegue **identificar palavras a partir dos movimentos dos lábios em vídeos sem áudio**. Batizado de DLLM-VSR, o sistema alcançou um novo recorde de precisão em testes de leitura labial por IA. A tecnologia ainda está em fase de desenvolvimento e não chegou ao público ou ao mercado.\n\nContinua após a publicidade\n\nO principal desafio desse tipo de ferramenta é **diferenciar palavras que produzem movimentos labiais muito parecidos**. É o caso das consoantes “p”, “b” e “m”, que podem ter aparências praticamente idênticas durante a fala. Para lidar com essa limitação, o DLLM-VSR utiliza um modelo de linguagem baseado em difusão (DLLM), que adota uma abordagem diferente das IAs tradicionais.\n\nOs sistemas convencionais interpretam as palavras em sequência, da esquerda para a direita, o que pode influenciar o que vem depois. O DLLM-VSR segue outro caminho: identifica primeiro os termos sobre os quais tem maior confiança e usa essas palavras como referência para preencher as lacunas com informações **das partes anteriores e posteriores da frase**. O sistema também estima diferentes comprimentos possíveis para a frase com base na duração do vídeo, gera uma transcrição para cada opção e seleciona a versão mais plausível.\n\nNos testes, o DLLM-VSR registrou **uma taxa de erro de palavras (WER) de 19,4% no benchmark LRS3**, com treinamento baseado em 433 horas de vídeos rotulados. O resultado representa o melhor desempenho registrado entre os métodos treinados com o mesmo conjunto de dados. A métrica contabiliza palavras reconhecidas incorretamente, omitidas ou adicionadas durante a transcrição, mas não representa a porcentagem de conversas completas compreendidas corretamente.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## IA pode ser útil para melhorar a acessibilidade\n\nA leitura labial automatizada pode abrir caminho para novos **recursos de acessibilidade** destinados a pessoas surdas ou com deficiência auditiva. Com a tecnologia, dispositivos poderiam converter conversas em texto a partir de imagens, mesmo quando não há gravação de áudio.\n\nA ferramenta também pode ser útil em **ambientes industriais e situações cotidianas** com muito ruído, como restaurantes barulhentos ou locais com música alta, nos quais a comunicação por voz fica prejudicada.\n\nContinua após a publicidade\n\nO DLLM-VSR ainda precisa de ajustes antes de chegar ao mercado, principalmente para reduzir o consumo de processamento e **funcionar em tempo real**, sem conexão com a internet, em robôs e dispositivos vestíveis. A precisão também varia conforme os dados usados nos testes. Já a capacidade de interpretar conversas a partir de gravações de vídeo sem áudio levanta preocupações legítimas sobre a privacidade.\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ 8 IAs gratuitas para criar voz”.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
+   "image": "https://tl.ctcdn.com.br/JCslXY3GDy4Vyyrft7kWWfmM0b4=/0x0/filters:format(webp):quality(85)/225d28e6-73ba-47ce-8b51-b0d6a59ec8dc.jpg",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Smartphone Samsung pode trazer de volta recurso de câmera esquecido no Galaxy S28 Por João Melo | 17/11/2026 às 12:11\n\nPrefira o CT no Google Gabriel Furlan Batista/Canaltech A chegada da abertura variável aos iPhone 18 Pro pode ter reacendido o interesse da Samsung por um recurso que a própria fabricante já utilizou no passado. A prova disso é que essa tecnologia estaria sendo considerada para os futuros Galaxy S28 Pro e S28 Ultra , com lançamento esperado para 2028.\n\nA informação foi compartilhada pelo leaker Yogesh Brar em uma publicação no X (antigo Twitter), que mencionou a possibilidade de a abertura variável retornar aos modelos mais avançados da linha. O próprio informante, no entanto, foi cauteloso ao dizer que o recurso poderia estar mesmo voltando , sem confirmar qualquer decisão da fabricante.\n\nAté agora, não existem detalhes sobre a faixa de abertura que seria utilizada ou sobre possíveis mudanças nos sensores das câmeras. Também não há indicação de que a novidade chegaria ao Galaxy S28 convencional.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Samsung já teve abertura variável no Galaxy S9 A ideia não seria exatamente uma novidade para a Samsung, que implementou um sistema de abertura dupla no Galaxy S9 e no S9+ em 2018. Na época, a câmera principal alternava entre as aberturas f/1.5 e f/2.4, solução que também apareceu em modelos da linha Galaxy S10 antes de ser abandonada pela empresa.\n\nNa prática, a abertura variável permite ajustar a quantidade de luz que chega ao sensor e interfere no resultado das fotografias. Uma abertura maior favorece registros em ambientes escuros e pode gerar um fundo mais desfocado, enquanto uma abertura menor ajuda a controlar a profundidade de campo e a obter imagens mais nítidas em diferentes condições de iluminação.\n\nNo caso dos iPhone 18 Pro, a Apple oferece quatro posições de abertura, entre f/1.48 e f/4.0 , na câmera principal. A possibilidade de fazer ajustes físicos na lente também oferece um controle que não depende exclusivamente do processamento de imagem por software.\n\nA Samsung, contudo, já teria reconsiderado a volta da tecnologia em gerações anteriores. Rumores sobre o recurso circularam antes dos Galaxy S26 Ultra e S27, mas um relato publicado em agosto indicou que a fabricante teria deixado a ideia de lado na linha S27 por causa dos custos de produção e da espessura adicional exigida pelo mecanismo.\n\nPor enquanto, não há como saber se a abertura variável realmente estará nos próximos tops de linha da marca. A série Galaxy S27 nem sequer foi apresentada oficialmente, então ainda existe bastante tempo para mudanças nos planos da Samsung.\n\nAinda em relação à linha S27, rumores indicam que a versão Ultra do aparelho pode perder câmera e decepcionar fãs dos dispositivos premium da fabricante sul-coreana.",
+   "text_source": "basic",
    "images": [
-    "https://tl.ctcdn.com.br/9v1u67ne6INmdroVxGU900leCv4=/0x0/filters:format(webp):quality(85)/1df87bb2-d2bd-4a61-91b7-28b8b4d18ac6.jpg",
-    "https://tl.ctcdn.com.br/pTCvWg2FkJvCJOp0AMhqdVWPRzc=/1200x675/smart/filters:format(webp):quality(85)/fc36d83f-3244-4481-966f-f44e4aaf82cd.jpg",
+    "https://tl.ctcdn.com.br/JCslXY3GDy4Vyyrft7kWWfmM0b4=/0x0/filters:format(webp):quality(85)/225d28e6-73ba-47ce-8b51-b0d6a59ec8dc.jpg",
+    "https://tl.ctcdn.com.br/dH946r-EQ2Z_1_RTKyNWXSeS8sg=/1200x675/smart/filters:format(webp):quality(85)/c7a91c8d-82fc-4f4c-8dd9-c254e9941cc8.png",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/M1fNqIlVCXqRAtHQkYBa2w0P71M=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/8wL5sJiZtwyvzmxGRuFQb6wNHdg=/640x360/smart/filters:format(webp):quality(85)/c7a91c8d-82fc-4f4c-8dd9-c254e9941cc8.png"
    ],
    "videos": [],
    "keywords": [
-    "IA"
+    "Galaxy",
+    "S28"
+   ],
+   "searches": []
+  },
+  {
+   "id": "quasesembordasparafuturoscelularesgalaxy",
+   "title": "Samsung prepara tela quase sem bordas para futuros celulares Galaxy",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/smartphone/samsung-prepara-tela-quase-sem-bordas-para-futuros-celulares-galaxy/",
+   "published": "2026-11-17T14:30:26+00:00",
+   "summary": "A Samsung está desenvolvendo uma tela com bordas quase invisíveis para uma futura geração de celulares Galaxy . A informação surgiu em uma publicação de um blog sul-coreano na plataforma Naver, mas ainda não há confirmação sobre qual aparelho receberia a novidade, nem uma previsão de lançamento. O principal mistério envolve o formato que a fabricante pretende adotar. Uma possibilidade é desenvolve",
+   "score": 4.78,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Smartphone Samsung prepara tela quase sem bordas para futuros celulares Galaxy Por Nathan Vieira | 17/11/2026 às 11:30\n\nPrefira o CT no Google Matheus Soares de Melo A Samsung está desenvolvendo uma tela com bordas quase invisíveis para uma futura geração de celulares Galaxy . A informação surgiu em uma publicação de um blog sul-coreano na plataforma Naver, mas ainda não há confirmação sobre qual aparelho receberia a novidade, nem uma previsão de lançamento.\n\nO principal mistério envolve o formato que a fabricante pretende adotar. Uma possibilidade é desenvolver uma tela plana com bordas extremamente finas , deixando a parte frontal do celular praticamente toda dedicada à exibição de imagens.\n\nA outra alternativa seria apostar em uma tela curva nos quatro lados. Nesse modelo, o painel ultrapassaria as laterais do aparelho e também avançaria um pouco sobre as extremidades superior e inferior.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Esse segundo caminho lembra os antigos celulares Galaxy Edge, que tinham laterais curvas. A diferença é que o novo formato levaria a curvatura para todas as extremidades da tela.\n\nPor enquanto, não existem informações sobre especificações, funcionamento ou limitações desse painel. O vazamento indica apenas que a Samsung está avaliando a possibilidade de levar o visual para alguns de seus próximos celulares mais caros.\n\nQuem espera encontrar uma tela praticamente sem bordas no próximo lançamento da Samsung provavelmente terá que aguardar mais um pouco.\n\nAs informações disponíveis apontam que a tecnologia não deve chegar à família Galaxy S27 . Os vazamentos sobre a próxima geração de celulares indicam que a empresa trabalha em um visual mais próximo do que já conhecemos, sem uma mudança tão radical na parte frontal.\n\nModelos posteriores, como a linha Galaxy S28 ou algum futuro celular dobrável, aparecem como possibilidades mais prováveis. Ainda assim, não existe confirmação de que qualquer um desses aparelhos receberá o novo painel.\n\nA Samsung também não apresentou um cronograma para transformar o projeto em um produto comercial.\n\nA ideia de criar celulares com a parte frontal praticamente toda ocupada pela tela não é exatamente nova para a fabricante. A Samsung já mostrou protótipos de telas OLED com bordas muito reduzidas em eventos do setor.\n\nA Samsung não seria a única interessada nesse tipo de design. A Apple também estaria estudando uma tela com curvatura nas quatro extremidades para um futuro iPhone.\n\nAs duas empresas já têm uma relação comercial nesse segmento: a Samsung Display fornece painéis OLED para celulares da Apple. Por isso, os avanços da fabricante sul-coreana podem ter impacto em aparelhos de outras marcas.\n\nPor enquanto, a ideia segue no campo dos rumores. Mas vale observar que a Apple e Samsung vão compartilhar tecnologia de tela dobrável .",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+    "https://tl.ctcdn.com.br/GoMEel2nFA_ZhfUpQosvb3WNYSY=/1200x675/smart/filters:format(webp):quality(85)/eebad7db-4224-4948-a694-b54cebb183e4.jpg",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/3p6bgv6JZjUcwaPlkodqo_shmNs=/640x360/smart/filters:format(webp):quality(85)/eebad7db-4224-4948-a694-b54cebb183e4.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Galaxy"
+   ],
+   "searches": []
+  },
+  {
+   "id": "gionaisemportuguesnogeminivejacomoativar",
+   "title": "Google libera novos sotaques regionais em português no Gemini; veja como ativar",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-novos-sotaques-regionais-em-portugues-no-gemini-veja-como-ativar/",
+   "published": "2026-11-17T14:07:00+00:00",
+   "summary": "O Google começou a liberar 66 novas opções de vozes regionais para o Gemini em celulares Android e iPhone (iOS). A atualização traz sete variantes de idiomas, entre elas o português do Brasil, inglês (Estados Unidos, Reino Unido e Índia), híndi, indonésio e coreano. Anunciada durante o Google I/O, em maio, a novidade busca deixar a fala da inteligência artificial mais natural e próxima dos diferen",
+   "score": 4.76,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/Iq0TxY2olV9Ti6q87p13w3NjFk8=/0x0/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Inteligência Artificial Google libera novos sotaques regionais em português no Gemini; veja como ativar Por Viviane França | 17/11/2026 às 11:07\n\nPrefira o CT no Google André Magalhães/Canaltech O Google começou a liberar 66 novas opções de vozes regionais para o Gemini em celulares Android e iPhone (iOS). A atualização traz sete variantes de idiomas, entre elas o português do Brasil, inglês (Estados Unidos, Reino Unido e Índia), híndi, indonésio e coreano.\n\nAnunciada durante o Google I/O, em maio, a novidade busca deixar a fala da inteligência artificial mais natural e próxima dos diferentes públicos . Para desenvolver as vozes, a empresa trabalhou com falantes nativos e ajustou pronúncia, entonação e ritmo de fala. Segundo o Google, as opções foram criadas para ter cadência natural e clareza no dia a dia, sem exagerar nas diferenças regionais.\n\nAs opções funcionam tanto nas conversas por voz do Gemini Live quanto na leitura em voz alta das respostas nos chats tradicionais, acionada pelo ícone de áudio. O Google também cita o uso do recurso para fazer brainstorming em voz alta no Gemini Live e praticar um idioma. A escolha fica unificada em todo o aplicativo , então não é necessário configurar uma voz para cada função.\n\nDe acordo com Neel Joshi, diretor de gerenciamento de produtos do Gemini Live, a proposta é tornar as conversas mais pessoais e familiares . O Reino Unido, por exemplo, recebeu mais de 10 sotaques regionais. O menu não identifica as vozes pelo nome da região, e perguntar ao próprio Gemini qual sotaque está em uso também não ajuda. Por isso, é necessário ouvir as prévias para escolher a opção desejada.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Como ativar as novas vozes do Gemini? A troca pode ser feita pelo aplicativo do Gemini para Android e iOS. Existem dois caminhos para acessar as opções:\n\nPara alterar pelo Gemini Live, os passos são os seguintes:\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ 5 formas de usar o Gemini Live para acompanhar notícias no seu ritmo ”.",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/Iq0TxY2olV9Ti6q87p13w3NjFk8=/0x0/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+    "https://tl.ctcdn.com.br/p6iHRcqv07t89YYadvQJ3dVBwSM=/1200x675/smart/filters:format(webp):quality(85)/78cc2fde-62de-421c-8c3f-92488593dfc6.jpeg",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/POHMNJ8XC1lijBEGjBchBlHFH7c=/640x360/smart/filters:format(webp):quality(85)/78cc2fde-62de-421c-8c3f-92488593dfc6.jpeg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Gemini"
    ],
    "searches": []
   }
