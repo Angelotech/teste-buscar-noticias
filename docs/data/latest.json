@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-17T18:00:06.003970+00:00",
+ "generated_at": "2026-11-18T02:40:42.743944+00:00",
  "trends": [
   {
-   "term": "covid vacinação",
-   "traffic": 2000
-  },
-  {
-   "term": "marco buzzi",
-   "traffic": 2000
-  },
-  {
-   "term": "avião amado batista",
-   "traffic": 20000
-  },
-  {
-   "term": "iphone 20",
+   "term": "instituto nacional de meteorologia",
    "traffic": 200
   },
   {
-   "term": "br-158",
-   "traffic": 500
+   "term": "alanzoka",
+   "traffic": 100
   },
   {
-   "term": "moeda",
-   "traffic": 2000
-  },
-  {
-   "term": "game of the year",
-   "traffic": 500
-  },
-  {
-   "term": "cbs",
+   "term": "nicolas cage",
    "traffic": 200
   },
   {
-   "term": "manni l. perez",
+   "term": "ana maria braga",
+   "traffic": 500
+  },
+  {
+   "term": "psol",
+   "traffic": 100
+  },
+  {
+   "term": "helena ranaldi",
+   "traffic": 200
+  },
+  {
+   "term": "america de cali",
+   "traffic": 200
+  },
+  {
+   "term": "previsão do tempo ponta grossa",
    "traffic": 1000
   },
   {
-   "term": "mirra andreeva",
-   "traffic": 500
+   "term": "esporotricose",
+   "traffic": 1000
+  },
+  {
+   "term": "méxico x jamaica",
+   "traffic": 1000
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 178,
-  "used_today": 15,
+  "used": 184,
+  "used_today": 21,
   "daily_allowance": 45
  },
  "sources": [
@@ -76,7 +76,7 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 19,
+   "count": 20,
    "ok": true
   },
   {
@@ -88,7 +88,7 @@
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 15,
+   "count": 17,
    "ok": true
   },
   {
@@ -112,7 +112,7 @@
   {
    "name": "Technologyreview",
    "feed": "https://www.technologyreview.com/feed",
-   "count": 6,
+   "count": 8,
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
   {
    "name": "Spaceflightnow",
    "feed": "https://spaceflightnow.com/feed/",
-   "count": 1,
+   "count": 0,
    "ok": true
   },
   {
@@ -149,25 +149,45 @@
  "manual": [],
  "stories": [
   {
-   "id": "eitandovoltadejensenhuangcomoceodanvidia",
-   "title": "Conselho da Nvidia estaria rejeitando volta de Jensen Huang como CEO da Nvidia",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/conselho-da-nvidia-estaria-rejeitando-volta-de-jensen-huang-como-ceo-da-nvidia/",
-   "published": "2026-11-17T13:30:00+00:00",
-   "summary": "",
-   "score": 18.42,
+   "id": "uervoltaranvidiamasconselhofechaasportas",
+   "title": "Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/17/pro/jensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas/",
+   "published": "2026-11-17T23:23:52+00:00",
+   "summary": "Posição foi confirmada pelo presidente do conselho, Harvey Jones, poucas horas depois de Huang dizer que aceitaria retornar caso fosse convidado O post Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas apareceu primeiro em Olhar Digital .",
+   "score": 21.5,
    "why": [
-    "6 sites cobrindo",
+    "7 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-assume-erros-e-diz-que-aceitaria-voltar-para-a-nvidia/"
+    },
+    {
      "source": "The Verge",
-     "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
+     "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
     },
     {
      "source": "Ars Technica",
-     "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/"
+     "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
     },
     {
      "source": "Techcrunch",
@@ -175,89 +195,42 @@
     },
     {
      "source": "Technologyreview",
+     "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+    },
+    {
+     "source": "Technologyreview",
      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
     },
     {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/carreira/2026/11/quem-e-lisa-su-prima-de-jensen-huang-e-ceo-da-amd-que-ameaca-o-imperio-da-nvidia/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Nilton Kleina\n\n17/11/2026 \\| 10h30\n\nNotícia de presente\n\nAmante espiã: entenda o que levou à renúncia do CEO da Nvidia\n\nFofoca envolvendo traição, espionagem e as duas maiores superpotências do mundo é prato cheio para o 'Guia Do Adulto Premium'. Crédito: Roteiro e Apresentação: Larissa Burchard / Produção: Sara Helen / Edição de Vídeo: Felipe Pahor\n\nO conselho de diretores da Nvidia **não está considerando oficialmente recolocar Jensen Huang no cargo de CEO**. A informação não é oficial, mas teria sido confirmada por fontes ligadas à empresa a veículos como _CNBC_ e _The Wall Street Journal_.\n\nEspeculações sobre uma possível tentativa de Huang de voltar à empresa após a renúncia na última quinta-feira (12) circularam e citavam uma vontade do próprio executivo, além de uma pressão exercida por apoiadores para restituir o antigo gerente à posição.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n- Chats internos da Nvidia acumularam nos últimos dias uma série de mensagens de colaboradores pedindo a volta do CEO;\n- Um abaixo-assinado digital foi criado e ultrapassou as 175 mil assinaturas em um dia, reunindo apoios de figuras como Elon Musk, da SpaceX, e Tim Sweeney, CEO da Epic Games;\n- O presidente dos Estados Unidos, Donald Trump, tem uma boa relação com Huang e chegou concordar que trazê-lo de volta seria uma boa ideia.\n\nAo mesmo tempo, **a companhia já teria iniciado a busca por uma pessoa para substituir o cofundador** da empresa, que ficou mais de três décadas no cargo.\n\nEnquanto o cargo é ocupado interinamente por Colette Kress, atual vice-presidente executiva e diretora financeira, o CEO da rival Arm teria sido consultado sobre uma possível contratação.\n\n### Conselho seguirá com investigações\n\nDe acordo com as fontes, que permaneceram anônimas devido ao sigilo da situação, o conselho da Nvidia está totalmente focado em seguir com as investigações envolvendo os relacionamentos extraconjugais do CEO.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nO primeiro dos casos revelados é o que mais pesa contra o retorno do empresário: Alice Huang é acusada de ser uma espiã chinesa, além de estar diretamente envolvida na negociação de chips da Nvidia inclusive com empresas do país asiático.\n\nPUBLICIDADE\n\nHuang deixou a Nvidia após três décadas após confessar casos extraconjugais em carta aos funcionários. Foto: Patrick T. Fallon/PATRICK T. FALLON\n\nOficialmente, Huang não se manifestou sobre o caso, mas teria ficado abatido com as revelações concordou em prestar um depoimento ao Congresso dos Estados Unidos para explicar a relação com Alice e os possíveis conflitos de interesse envolvendo a política externa do país.\n\nExecutivos confiam mais em uma IA do que no próprio julgamento atualmente? Entenda mais sobre o tema nesta matéria! / _Com informações de CNBC e WSJ._\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- NVIDIA\n- Jensen Huang\n\n0 Comentário\n\n68 debatedores online68 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\niFood caiu? App fica instável durante o almoço desta terça-feira (17); ‘iFood Entregador’ afetado; ‘iFood Entregador’ afetado\") 2.\\\\\n\\\\\nPane na Microsoft derrubou 80% dos servidores; empresa explica o que aconteceu 3.\\\\\n\\\\\nTestamos: Google Maps agora monta roteiros de viagens com inteligência artificial 4.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 5.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
-   "text_source": "firecrawl",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=710",
-    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=1200&height=630&focal=2806,1027",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FSXUG4BP3BFB33AQ6LXZMRNCC4U.png?quality=80&auth=06cdd00e00d0082a1d7b1d0a626c18883bb4560f28ecfedabe3e6b49b9a2b77f&width=60&height=60&smart=true",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-15-2026%2Ft_0ea8c71c227a47328cd47a20834e2aa2_name_Captura_de_tela_2026_11_15_163101.png?quality=80&auth=95a1fc49e411f761afd3b6548151352d6d314e91259236667c6cf920331f7398&height=292",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/3B4KDPBW25B7BLQXAYY7XEC7CY.jpg?quality=80&auth=b7660fcb93b80765e0754cf5feae9f8e01c9e7db082ffa31fed351ab26bf1ca8&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg",
-    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7",
-    "https://e-afiliacao.estadao.com.br/storage/products/611cee85b4675490a773b39d2856ddba7de76d4fa48df1bc817bf4d40bf15ffe.jpg",
-    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Nvidia",
-    "Jensen",
-    "Huang"
-   ],
-   "searches": [
-    "nvidia jensen huang",
-    "nvidia jensen huang presentation",
-    "nvidia jensen huang ai",
-    "nvidia jensen huang radiology",
-    "nvidia jensen huang stanford",
-    "nvidia jensen huang interview"
-   ]
-  },
-  {
-   "id": "meerrosedizqueaceitariavoltarparaanvidia",
-   "title": "Jensen Huang assume erros e diz que aceitaria voltar para a Nvidia",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/jensen-huang-assume-erros-e-diz-que-aceitaria-voltar-para-a-nvidia/",
-   "published": "2026-11-17T17:40:00+00:00",
-   "summary": "",
-   "score": 9.68,
-   "why": [
-    "3 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
+     "source": "Technologyreview",
+     "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
+    },
     {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/17/pro/jensen-huang-admite-erros-pede-desculpas-e-sinaliza-possivel-retorno-a-nvidia/"
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/jensen-huang-diz-que-ficaria-honrado-em-retornar-ao-cargo-de-ceo-da-nvidia/"
     },
     {
      "source": "Forbes",
      "url": "https://forbes.com.br/forbes-money/2026/11/honrado-apos-escandalo-jensen-huang-quebra-o-silencio-e-fala-em-voltar-a-nvidia/"
-    },
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/nvidia-descarta-retorno-de-huang-conforme-cresce-campanha-por-seu-retorno/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Nilton Kleina\n\n17/11/2026 \\| 14h40\n\nNotícia de presente\n\nO empresário Jensen Huang se manifestou publicamente pela primeira vez depois de renunciar na última quinta-feira (12) ao cargo de CEO da Nvidia. Em uma publicação nas redes sociais, ele comenta o caso e deixa portas abertas para um retorno.\n\nNa mensagem, o cofundador da Nvidia agradece o “ **amor e apoio**” que recebeu de amigos, colegas do setor e desconhecidos, além de reconhecer os erros que o levaram a saída da companhia.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPUBLICIDADE\n\n“Não atendi aos padrões esperados de todos na Nvidia e **cometi erros graves na minha vida pessoal**. Causei problemas ao conselho de administração, algo que lamento profundamente. **Assumo integralmente meus erros e estou comprometido em cooperar com a investigação** independente do conselho”, escreve o agora ex-CEO.\n\nApós relembrar que se tornar cidadão dos Estados Unidos foi “um dos maiores presentes e um dos momentos de maior orgulho” da vida e usar a quantidade de pedidos que tem recebido como argumento, Huang sugere que, **caso requisitado oficialmente, assumiria novamente o cargo**.\n\n“Se o conselho decidir que meu retorno é do melhor interesse dos nossos acionistas, dos nossos funcionários, da empresa e dos EUA, **será uma honra atender a esses pedidos e retornar como CEO**”, diz.\n\n### Caso ainda passa por investigação\n\nOs pedidos para que Huang seja reconduzido ao cargo na Nvidia parte de ao menos três frentes:\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n- Ffuncionários da própria companhia, que estão se manifestando em chats internos pedindo o retorno do empresário e demonstrando apoio a ele;\n- Integrantes do Vale do Silício, incluindo grandes investidores e empresários, como Elon Musk e Tim Sweeney;\n- E o próprio governo dos EUA, representado pelo presidente Donald Trump, ele mesmo um admirador de Huang.\n\nPUBLICIDADE\n\nO conselho diretor da Nvidia, por enquanto, rejeita a ideia de trazer Huang de volta com efeito imediato e em uma decisão de curto prazo.\n\nSegundo reportagens que ouviram fontes ligadas ao grupo, **a prioridade agora é terminar as investigações** que vão determinar a gravidade das ações de Huang em relação à própria empresa.\n\nA saída do empresário ocorreu após a revelação de dois casos extraconjugais mantidos por Huang: um deles com uma diretora da própria Nvidia e outro com Alice Huang, acusada de ser uma espiã chinesa e intermediária na negociação de chips com o país asiático, burlando atuais bloqueios dos EUA.\n\nHuang manifestou pela primeira vez desejo de voltar ao cargo do qual saiu. Foto: Roberto Schmidt/ROBERTO SCHMIDT\n\nA investigação vai determinar ainda **o dano das ações de Huang para a segurança nacional e o mercado de exportação** da empresa — o impacto das revelações e da saída do executivo foi grande nas ações da companhia e na Ásia como um todo nos últimos dias.\n\nPor fim, Huang ainda finaliza com um recado para os parentes, inclusive a atual esposa, Lori. “À minha família: **eu amo vocês e passarei o resto da minha vida sendo digno do amor de vocês**”, conclui a carta.\n\nQue outros CEOs da tecnologia já foram expostos por casos extraconjugais? Confira a lista!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- NVIDIA\n- Jensen Huang\n\n### Ofertas\n\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 2.\\\\\n\\\\\nBTG caiu? App sofre com instabilidade que dificulta operações nesta terça-feira (17)\") 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira 5.\\\\\n\\\\\niFood para Entregadores caiu? App fica instável durante o almoço desta terça-feira (17) \")\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-2-1-1024x682.jpg",
+   "text": "- Pro\n\n# Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas\n\nPosição foi confirmada pelo presidente do conselho, Harvey Jones, poucas horas depois de Huang dizer que aceitaria retornar caso fosse convidado\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli17/11/2026 20:23\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nJensen Huang, CEO da Nvidia, admitiu relacionamento com uma executiva investigada por suspeita de espionagem para a China - Imagem: El editorial/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F&title=Jensen+Huang+quer+voltar+%C3%A0+Nvidia%2C+mas+conselho+fecha+as+portas%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F&text=Jensen+Huang+quer+voltar+%C3%A0+Nvidia%2C+mas+conselho+fecha+as+portas%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/jensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nO conselho de administração da Nvidia não pretende reconduzir Jensen Huang ao cargo de CEO, mesmo depois de o executivo manifestar disposição para voltar à liderança da fabricante de chips. A posição foi confirmada nesta terça-feira (17) pelo presidente do conselho, Harvey Jones, poucas horas depois de Huang dizer que aceitaria retornar caso fosse convidado.\n\nContinua após a publicidade\n\nA declaração marca novo capítulo na crise que atingiu a companhia após a saída repentina de seu cofundador, na semana passada. Huang deixou o cargo depois de revelações sobre relacionamentos extraconjugais, incluindo um com uma empresária suspeita de ter ligações com os serviços de inteligência da China.\n\nEm publicação nas redes sociais, o executivo afirmou que ficaria honrado em atender a um eventual pedido de retorno, caso o conselho considerasse que essa seria a melhor decisão para os acionistas, funcionários, empresa e para os Estados Unidos.\n\nLeia também\n\n- \\\\\n**Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo** \\\\\n\\\\\nPro4 min\n- \\\\\n**Trump minimiza onda de apagões tecnológicos que atingiu EUA** \\\\\n\\\\\nPro5 min\n- \\\\\n**OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança** \\\\\n\\\\\nPro6 min\n\nHuang também reconheceu ter cometido “erros graves” em sua vida pessoal e disse ter recebido manifestações de apoio de funcionários, investidores, parceiros comerciais e clientes que desejam sua volta.\n\n## Elon Musk e Trump apoiam possível retorno de Huang\n\n- A possibilidade de Jensen Huang reassumir o comando da Nvidia ganhou apoio de figuras influentes do setor de tecnologia e da política estadunidense;\n- Elon Musk, CEO da SpaceX e da Tesla, está entre os defensores da volta do executivo. O presidente dos Estados Unidos, Donald Trump, também manifestou apoio à possibilidade;\n- Na segunda-feira (16), Trump afirmou que Huang havia aprendido grande lição e disse que não se incomodaria caso ele fosse reconduzido ao cargo;\n- Apesar das manifestações favoráveis, Harvey Jones deixou claro que o conselho não pretende seguir esse caminho.\n\n## Petição pede retorno do executivo e investigação independente\n\nA saída de Huang também provocou mobilização entre funcionários atuais e antigos da Nvidia, investidores e apoiadores do Vale do Silício.\n\nUma petição chamada “Stand with Jensen” ganhou adesões desde a semana passada e pede que o conselho permita o retorno do executivo enquanto uma investigação independente é realizada ou até que existam evidências convincentes de que seu afastamento atende aos interesses da companhia.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-59%\\\\\n\\\\\nELG Suporte de Parede Articulado para TV 26 a 75 Polegadas Braço 50...\\\\\n\\\\\nR$ 249,90\\\\\n\\\\\nR$ 103,00\\\\\n\\\\\nVer oferta Amazon-40%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\"...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.499,00\\\\\n\\\\\nVer oferta Amazon-51%\\\\\n\\\\\nTP-Link Deco X50 (2 un.) Roteador Mesh Wi-Fi 6 AX3000 Dual Band, Co...\\\\\n\\\\\nR$ 1.499,00\\\\\n\\\\\nR$ 739,00\\\\\n\\\\\nVer oferta Amazon-53%\\\\\n\\\\\nJBL Xtreme 4 Caixa de Som Bluetooth Portátil com Powerbank Preta \\| ...\\\\\n\\\\\nR$ 2.744,43\\\\\n\\\\\nR$ 1.299,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Grip Caixa de Som Bluetooth Portátil 16W RMS Preta \\| JBL Pro So...\\\\\n\\\\\nR$ 559,00\\\\\n\\\\\nR$ 387,39\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCelular Samsung Galaxy S26 Ultra 5G, 512GB, 12GB RAM, Câmera Quádru...\\\\\n\\\\\nR$ 13.099,00\\\\\n\\\\\nR$ 8.209,47\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nAmazon Echo Show 11 - Smart display Full HD de 11\" redesenhado com ...\\\\\n\\\\\nR$ 2.499,00\\\\\n\\\\\nR$ 1.956,38\\\\\n\\\\\nVer oferta Amazon-38%\\\\\n\\\\\nHeadset Sem Fio Logitech Zone 300 Com Microfone Flip-to-Mute com Ca...\\\\\n\\\\\nR$ 479,90\\\\\n\\\\\nR$ 299,90\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCaixa de Som JBL PartyBox Club 120, Bluetooth, Branco, 160W RMS \\| A...\\\\\n\\\\\nR$ 2.699,00\\\\\n\\\\\nR$ 1.699,00\\\\\n\\\\\nVer oferta Amazon-13%\\\\\n\\\\\nAdaptador de Tomada Universal Para Viagem Padrão Internacional Euro...\\\\\n\\\\\nR$ 18,90\\\\\n\\\\\nR$ 16,43\\\\\n\\\\\nVer oferta Amazon-28%\\\\\n\\\\\nJBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, G...\\\\\n\\\\\nR$ 3.199,00\\\\\n\\\\\nR$ 2.299,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Quantum 650 Headset Gamer Bluetooth Sem Fio Preto \\| Dongle 2,4 ...\\\\\n\\\\\nR$ 799,00\\\\\n\\\\\nR$ 550,90\\\\\n\\\\\nVer oferta\n\nOs organizadores questionam a maneira como a decisão foi tomada e afirmam que Huang teria sido afastado sem um processo adequado. “Estamos preocupados que Jensen tenha sido removido sem um devido processo significativo”, diz carta aberta associada à mobilização.\n\nO documento também questiona a falta de evidências apresentadas publicamente para comprovar que a mulher envolvida no caso seria uma espiã chinesa.\n\nSaída de Huang também provocou mobilização entre funcionários atuais e antigos da Nvidia, investidores e apoiadores do Vale do Silício – Imagem: glen photo/Shutterstock\n\n**Leia mais:**\n\n- Sam Altman diz que indústria de IA ficará bem sem Jensen Huang na Nvidia\n- Enquanto ela se aproximava do CEO da Nvidia, seu marido construía império bilionário de IA na China\n- Nvidia vira alvo de investigação nos EUA após saída de Jensen Huang\n\n## Jensen Huang terá de prestar esclarecimentos ao Congresso dos EUA\n\nEnquanto a disputa sobre a liderança da Nvidia continua, Huang também terá de responder a questionamentos de parlamentares estadunidenses sobre as operações da empresa na Ásia.\n\nO ex-CEO concordou voluntariamente em participar de entrevistas transcritas perante comissões da Câmara dos Representantes dos Estados Unidos. O encontro está marcado para 1º de dezembro. No dia seguinte, será a vez de Tim Teter, diretor jurídico da Nvidia, prestar esclarecimentos.\n\nContinua após a publicidade\n\nA iniciativa envolve três comissões da Câmara responsáveis por assuntos relacionados à China e à inteligência estadunidense. Em comunicado, os presidentes dos colegiados afirmaram que querem esclarecer o possível papel de Huang e da Nvidia no acesso de empresas e agentes chineses a chips avançados estadunidenses. Os parlamentares também querem entender a participação de uma possível agente da inteligência chinesa no caso.\n\nO episódio envolve Alice Huang, ex-executiva da empresa de data centers Megaspeed International, sediada em Singapura. A companhia é investigada nos Estados Unidos por suspeitas de desviar processadores avançados da Nvidia para empresas chinesas, em possível violação das regras estadunidenses de exportação.\n\n## Nvidia tenta reforçar controles de segurança\n\nEm meio à pressão política, a Nvidia anunciou a criação de novo comitê no conselho de administração para supervisionar políticas de segurança nacional e o cumprimento das regras de comércio internacional.\n\nContinua após a publicidade\n\nO grupo deverá acompanhar os controles de exportação de chips avançados e trabalhar com especialistas independentes para reforçar os mecanismos de conformidade da companhia.\n\nA iniciativa acontece em momento de maior pressão sobre as vendas de processadores da Nvidia para a China, que já enfrentam restrições do governo estadunidense.\n\nDonald Trump aprovou publicamente a criação do comitê. Ao comentar a medida nesta terça-feira, o presidente afirmou que considera a iniciativa uma boa ideia e voltou a elogiar a fabricante de chips.\n\nA crise ocorre mesmo com resultados financeiros expressivos. No terceiro trimestre do ano fiscal de 2027, a Nvidia registrou receita superior a US$ 116 bilhões (cerca de R$ 670 bilhões), aproximadamente o dobro do valor alcançado um ano antes.\n\nA empresa também projeta receita de US$ 130 bilhões (aproximadamente R$ 751 bilhões) para o trimestre atual.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\nTags: Jensen Huang NVidia\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F&title=Jensen+Huang+quer+voltar+%C3%A0+Nvidia%2C+mas+conselho+fecha+as+portas%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fjensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas%2F&text=Jensen+Huang+quer+voltar+%C3%A0+Nvidia%2C+mas+conselho+fecha+as+portas%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/jensen-huang-quer-voltar-a-nvidia-mas-conselho-fecha-as-portas/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProNvidia dobra receita e prevê novo salto mesmo após saída de CEORodrigo Mozelli \\\\\n\\\\\nProOpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurançaRodrigo Mozelli \\\\\n\\\\\nProNvidia vira alvo de investigação nos EUA após saída de Jensen HuangRodrigo Mozelli \\\\\n\\\\\nProBrasil terá ‘cérebro’ para conectar data centers – e levar IA boa para todo mundoPedro Spadoni",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=710",
-    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=1200&height=630&focal=2105,1353",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FSXUG4BP3BFB33AQ6LXZMRNCC4U.png?quality=80&auth=06cdd00e00d0082a1d7b1d0a626c18883bb4560f28ecfedabe3e6b49b9a2b77f&width=60&height=60&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/XNPVCRGJJ5DLJJSPDCNF6UJWZY.jpg?quality=80&auth=b1aa399085d1079d146dcc170aadff2397db89ca0d571e21b62c17af8725193f&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
-    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
-    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
-    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7"
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-2-1-1024x682.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1-1920x1080.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic-5.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/donald_trump.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/openai_gpt.jpg",
+    "https://m.media-amazon.com/images/I/31nULh8CB-L._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31PX5MItbtL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/316orgvSXGL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41a4E+txaWL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31HBHT2dPBL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
@@ -274,57 +247,246 @@
    ]
   },
   {
-   "id": "teirosdeviagenscominteligenciaartificial",
-   "title": "Testamos: Google Maps agora monta roteiros de viagens com inteligência artificial",
+   "id": "prasoquecomprarnablackfridaynoaliexpress",
+   "title": "O que comprar na Black Friday no AliExpress",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/testamos-google-maps-agora-monta-roteiros-de-viagens-com-inteligencia-artificial/",
-   "published": "2026-11-16T22:00:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-no-aliexpress/",
+   "published": "2026-11-17T18:18:00+00:00",
    "summary": "",
-   "score": 9.15,
+   "score": 8.48,
    "why": [
-    "3 sites cobrindo",
-    "Tema de alto interesse"
+    "3 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-ia-que-monta-roteiros-de-viagem-busca-em-listas-e-agenda-servicos/"
+     "url": "https://canaltech.com.br/eletro/lava-e-seca-lg-ou-midea-qual-comprar-na-black-friday-2026/"
+    },
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/smartphone/galaxy-s25-ou-s26-qual-vale-mais-a-pena-na-black-friday/"
     },
     {
      "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/google-maps-agora-cria-roteiros-de-viagens-com-inteligencia-artificial/"
+     "url": "https://forbes.com.br/forbes-mkt/2026/11/na-black-friday-consumidor-confia-mais-em-reviews-do-que-em-publis-aponta-pesquisa-da-totvs/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Produto e Review\n\nPor Igor Almenara Carneiro\n\n16/11/2026 \\| 19h00\n\nNotícia de presente\n\nO Google Maps agora pode criar itinerários de viagens inteiros usando inteligência artificial (IA). A atualização, liberada gradativamente nesta segunda-feira (16), está disponível para usuários do app com acesso ao “Pergunte ao Maps”.\n\nPUBLICIDADE\n\nQuando disponível, **a opção de criar um itinerário aparece como sugestão na interface de chat do “Pergunte ao Maps”**, mas o usuário pode solicitar um roteiro para o destino que quiser, de acordo com suas preferências.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPara acionar a ferramenta, **basta inserir o comando “Faça um roteiro de viagem para \\[destino\\]” na conversa com a IA do Maps**. Quanto mais informações forem fornecidas logo de cara (data da viagem, quantidade de dias, tipos de lugares que pretende visitar), mais personalizada será a primeira versão do cronograma.\n\nOs itinerários são compostos por pontos de parada separados para cada dia do passeio. Foto: Igor Almenara/TecMundo/Estadão\n\nNa resposta, **o Google Maps apresenta um cronograma de viagem e uma lista completa de paradas, cada uma delas acompanhada por uma breve descrição e fotos do lugar**. Todos os locais recomendados no roteiro aparecem no mapa, que também fica disponível em uma versão filtrada somente com os destinos selecionados.\n\n**A nova capacidade do Google Maps não é exatamente inédita para chatbots de IA** — praticamente qualquer um dos assistentes modernos é capaz de montar esse tipo de roteiro. A diferença está na integração com os dados do mapa e na disponibilidade da ferramenta diretamente no Maps, também utilizado para conhecer destinos de viagens.\n\nEntão, quando a viagem estiver prestes a acontecer, **basta abrir novamente o “Pergunte ao Maps”, acessar o histórico de conversas e conferir o itinerário interativo**. Cada ponto de parada é acompanhado por um botão para abrir o modo de navegação e conferir rotas e opções de deslocamento.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Eficiência da ferramenta depende do destino\n\nO **TecMundo** experimentou a ferramenta na versão web e no app para celular, mas o recurso só funcionou corretamente no PC — possivelmente por causa da distribuição gradual. No computador, o roteiro montado pelo Maps foi exatamente como descrito pelo Google, com pontos de parada, descrições e horários de funcionamento. Ao final, também estão disponíveis os botões para exportar o itinerário para o Google Docs ou compartilhá-lo com outras pessoas.\n\nPUBLICIDADE\n\nEmbora não pudesse ser feito direto pelo celular, os itinerários solicitados no PC estavam acessíveis no app. Foto: Igor Almenara/TecMundo/Estadão\n\nVale ressaltar que, mesmo incluindo a frase “Faça um roteiro de viagem para \\[destino\\]”, o Google Maps não acionou a ferramenta todas as vezes. Quando o recurso não é acionado devidamente, o itinerário interativo não aparece disponível, embora o “Pergunte ao Maps” responda com uma lista preliminar.\n\n**A qualidade e a precisão do itinerário variam conforme o conteúdo disponível no Google Maps**. Portanto, os cronogramas de passeios por locais cujas informações no mapa estão desatualizadas podem não ser tão confiáveis.\n\nNos testes, **os itinerários de cidades turísticas ou com informações mais detalhadas no Maps apresentaram melhor qualidade**. Apesar disso, toda inteligência artificial pode cometer erros. Portanto, o ideal é usar as sugestões do “Pergunte ao Maps” como base para pesquisas posteriores, em vez de confiar integralmente no roteiro gerado pela IA.\n\nQuer ficar por dentro das novidades do mundo da tecnologia? Acesse o **TecMundo** e acompanhe as últimas notícias sobre Google Maps, inteligência artificial e aplicativos.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Google\n- inteligência artificial\n\n0 Comentário\n\n12 debatedores online12 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nNotebook Lenovo IdeaPad Slim 3i, i5 com 8GB RAM e 512GB SSD\\\\\n\\\\\nR$ 3.914,10\\\\\n\\\\\nNotebooks e PCs · Kabum BR\n- \\\\\n\\\\\nCarregador Portátil i2GO I2GBAT014, 10.000mAh\\\\\n\\\\\nR$ 94,05 no PixPreço R$ 104,21\\\\\n\\\\\nAcessórios · Shopee\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nSmart TV 32\" Philco P32CRB com Roku TV\\\\\n\\\\\nR$ 919,00\\\\\n\\\\\nSmart TVs · Magazine Luiza\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 2.\\\\\n\\\\\nJensen Huang discute retorno como CEO da Nvidia e líderes tech lançam abaixo-assinado 3.\\\\\n\\\\\nUsuários e até site pornô publicam tutoriais para acessar conteúdos para maiores 4.\\\\\n\\\\\nSony Ericsson: relembre celulares icônicos da marca 5.\\\\\n\\\\\nInstagram agora permite adicionar links afiliados em posts no Reels\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://www.estadao.com.br/resizer/v2/MRFKORIIANFADMYTU3M66W5AJA.jpg?quality=80&auth=f21dacc39f1a6672d48f85ec2e6c98e746ebb533dedee7d8e60c59a601cb43fb&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n17/11/2026 \\| 15h18\n\nAtualização: 17/11/2026 \\| 15h19\n\nNotícia de presente\n\nOs produtos do **Aliexpress** fazem sucesso o ano inteiro, mas é na Black Friday, quando **os descontos podem chegar a 90%**, que a plataforma atrai ainda mais os consumidores.\n\nDe itens inusitados a peças de decoração ou marcas asiáticas de tecnologia como **Baseus, Gamesir** ou **Amazfit**, o Ali tem de tudo dentro do seu marketplace…mas como saber o que fica realmente barato nesse período e o que é mais vantajoso comprar por lá do que em outros endereços? Preparamos uma série de dicas para você economizar de verdade e conseguir as maiores vantagens no período.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Como comprar na Black Friday do AlIExpress\n\nComo o Aliexpress é uma plataforma cheia de produtos importados e mais de 200 mil vendedores, é preciso ficar atento a algumas dicas importantes na hora de comprar de fazer suas compras por lá.\n\n### Compras Internacionais\n\nAo adicionar um produto vindo de fora do país no seu carrinho de compras, fique de olho nos impostos somados ao valor do item e ao custo do frete.\n\nCompras abaixo de U$50, que dão em média R$250 a R$300, não pagam imposto de importação, por isso, a popularidade de itens mais baratos é grande no site e no app.\n\n### Categoria “Do Brasil”\n\nNessa categoria você encontra os produtos que já estão em território nacional, de vendedores que já cuidaram da importação ou que negociam itens produzidos aqui.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nFiltrando a sua busca por essa seleção, você não precisa se preocupar com os impostos.\n\n### Selo Choice\n\nA campanha Choice do AlIExpress é uma ótima opção de compra com mais economia. Foto: AlIExpress/Divulgação\n\nO selo Choice que é encontrado em vários produtos do AliExpress indicao itens com logística própria do marketplace, o que pode garantir maior desconto, frete grátis e entrega agilizada.\n\nPeriodicamente há uma campanha promocional chamada “Choice Day”, que além das comodidades citadas acima, também traz cupons de desconto exclusivos para produtos com o selo.\n\n### Loja do Magazine Luiza\n\nO Magazine Luiza possui uma parceria com o AliExpress, com um catálogo bem variado e cheio de itens de sucesso da varejista.\n\nO estoque 100% nacional garante a agilidade da compra, mas o que brilha na parceria são os cupons de desconto do AliExpress que deixam os itens do Magalu com valores ainda mais atrativos.\n\n### Combo de Ofertas\n\nHá uma área do site e app para combos de ofertas, onde você combina produtos de alta demanda e tem uma redução no valor da compra.\n\nDependendo das escolhas, também é liberado o frete grátis e você terá o envio em um único pacote e devolução facilitada.\n\n### Cupons de Black Friday\n\n- Confira aqui os cupons de Black Friday que já estão disponíveis para resgate\n\n### O que comprar na Black Friday do AliExpress?\n\nCom tanta variedade, é impossível listar apenas alguns itens, mas temos algumas categorias e sugestões de marcas e produtos que sabemos que têm ótimos descontos.\n\n### Hardwares\n\nOs SSDs da Netac então entre os mais vendidos pela loja oficial da marca no AliExpress Foto: Netac/Divulgação\n\nCom a crise dos chips, o valor de alguns itens de hardware aumentou significativamente. Memórias, placas de vídeo, HDs e SSDs estão com valores bem mais altos comparado ao ano passado, por isso vale a pena conferir algumas opções na Black Friday do AliExpress.\n\nEm relação a marcas, recomendamos algumas que possuem lojas oficiais na plataforma, como a Netac e CUSU, menos conhecidas no Brasil, mas com ótimas avaliações e recomendações do próprio AlIExpress.\n\n### Fones de Ouvido, smartwatches e power banks\n\nA categoria de eletrônicos do AliExpress tem um grande apelo comercial, com produtos como fones de ouvido, relógios inteligentes e carregadores portáteis em alta na lista de mais vendidos.\n\nNa plataforma, marcas como Lenovo, QCY, Haylou, Amazfit e Baseus ganham destaque e favoritismos nas compras, muitas têm lojas oficiais ou licenciadas, além de estoques no Brasil para alguns produtos.\n\n### Itens Gamer\n\nO público gamer sabe que no AliExpress é possível comprar vários periféricos mais baratos, desde headsets e teclados mecânicos a controles e gamepads. Na loja oficial do Magazine Luiza, é possível comprar também consoles como Playstation 5 e Nintendo Switch 2 com entrega do Brasil.\n\nEm relação a marcas, a Gamesir e 8Bitdo merecem destaque na categoria gamer e fazem sucesso em campanhas promocionais, com controles de videogame variados.\n\n### Smartphones e acessórios\n\nComprar celular pelo AliExpress também é uma boa opção. Na área “Do Brasil” é possível encontrar diversos modelos em promoção e já em território nacional. Porém, também vale conferir as oportunidades internacionais, o ponto principal aqui é calcular os valores já considerando os impostos.\n\nA Xiaomi é uma marca que merece destaque nessa categoria, a loja oficial da marca é bastante popular no e-commerce. E se você gosta de explorar outras possibilidades, também vale a pena ficar de olho na Cubot e Ugreen.\n\n### Itens inusitados e criativos\n\nAlmofadas gigantes em formato de pão, umidificadores de personagens ou animais, fantasias criativas, itens colecionáveis especiais, decoração de Natal e uma infinidade de peças diferentes, com preços bem reduzidos fazem sucesso no Aliexpress, confira alguns que separamos para você:\n\n- Mini Smartphone Cubot Mini King Kong de 4,7″\n- Mini Câmera Retrô com 1080P HD\n- Mini Projetor de Luz USB Galáxia Estelar 360°\n- Chaveiro sirene de segurança pessoal, 130dB\n- Sensor de movimento infravermelho para portas e janelas\n- Sensor inteligente LED com várias cores para vaso sanitário Zk30\n- Extrator de amassados para Carros\n- Almofada com furo, para piercing na orelha\n- Pochete imitando uma barriga\n- Sapato em formato de pés gigantes\n\n### Como comprar com segurança e economizar na Black Friday do AliExpress?\n\nUtilizar um c upom de desconto AliExpress, aproveitar o combo de ofertas e ficar de olho nos tributos fiscais são essenciais para garantir o melhor preço nas compras. Confira ainda a reputação da loja e desconfie de descontos que destoam muito do padrão de outras lojas.\n\nNa nossa página de cupons e ofertas do AliExpress você consegue resgatar descontos significativos para as suas compras.Você também pode receber várias barganhasparticipando dos nossos grupos de oferta no WhatsApp, Telegram e Instagram ou se cadastrando na nossa newsletter\n\nCurtiu as dicas de compras no AliExpress? Comente o que você pretende comprar nesta Black Friday!\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- tec friday\n- Black Friday\n- Aliexpress\n\n### Ofertas\n\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.149,00 no PixPreço anterior ~~R$ 5.099,00~~ Preço R$ 3.329,10-35%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.149,10 no PixPreço anterior ~~R$ 2.596,00~~ Preço R$ 2.399,00-8%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 2.\\\\\n\\\\\nDe aluno de curso gratuito a caçador de falhas: brasileiro encontra brecha em software global 3.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs 4.\\\\\n\\\\\nAmazon divulga marcas e produtos que terão descontos de até 80% na Black Friday; confira 5.\\\\\n\\\\\nMeta lança novo app ‘Achados’ para compra e venda no Facebook e Instagram\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=710",
-    "https://www.estadao.com.br/resizer/v2/Y5FDSLJNFZDTZCKAAL5WN6BR5Y.jpeg?quality=80&auth=23b69706f97ee6ef8dc9829c488c78a71f3c86e86f93ef8012d7a0e5cef84463&width=1200&height=630&focal=2908,1946",
+    "https://www.estadao.com.br/resizer/v2/MRFKORIIANFADMYTU3M66W5AJA.jpg?quality=80&auth=f21dacc39f1a6672d48f85ec2e6c98e746ebb533dedee7d8e60c59a601cb43fb&width=710",
+    "https://www.estadao.com.br/resizer/v2/A3I5A5G5KJAUBLWWWULJVJ5H4U.jpg?quality=80&auth=06f6149282e4c3a33e01fe7662dab8c2696e6522c0daa3de871e62effb269aa6&width=1200&height=630&focal=921,733",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FAVL5JOHB3RBTDGIV6FNC75RSKA.png?quality=80&auth=a68eb1761da759718287bfdf84264b455685fb787423ca289c0d3a9197a77b33&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/CSGBAS2T25BSTDAB7DZ36HLFEE.png?quality=80&auth=483c49b279652b90e2079c199344eb3b4ef3692ba2bc0590fc4a2baf5acd15fa&width=1200",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/ZEOUVXOFBBGEJAAGCHOWCQSWBM.jpg?quality=80&auth=e8b85ced077c582f291fcc7b1b958054b5a5fa2ad51dd25233f48601f3c67a1c&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/d9cd627cb535aa6cb6ffca1f81af4e0c219787124cb34acee32dbd418ea121d2.jpg",
-    "https://cf.shopee.com.br/file/br-11134207-820m2-mpqm705h4qgya7",
-    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg",
-    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg"
+    "https://www.estadao.com.br/resizer/v2/MRFKORIIANFADMYTU3M66W5AJA.jpg?quality=80&auth=f21dacc39f1a6672d48f85ec2e6c98e746ebb533dedee7d8e60c59a601cb43fb&width=1200",
+    "https://www.estadao.com.br/resizer/v2/GW5DSW5KHNGODJTEUJOTDSFFWA.jpg?quality=80&auth=9a78a1896750f11c891797ea127a920f0661d8a4b5fe99b421caf5181472a016&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3fa4eef298f5771cb02e4c30e6ce810e9ad464b1cb2aff8e2a59624a811e5abf.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Black",
+    "Friday",
+    "AliExpress"
+   ],
+   "searches": [
+    "black friday aliexpress",
+    "black friday aliexpress 2026",
+    "black friday aliexpress 2025"
+   ]
+  },
+  {
+   "id": "aoquase30daanthropicaposipoentendaacordo",
+   "title": "Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/17/pro/amazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo/",
+   "published": "2026-11-18T00:47:05+00:00",
+   "summary": "Amazon ficará com 14,7% da Anthropic, enquanto a participação do Google será de 13,7% O post Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo apareceu primeiro em Olhar Digital .",
+   "score": 6.58,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/04/amazon-3-1024x682.jpg",
+   "text": "- Pro\n\n# Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo\n\nAmazon ficará com 14,7% da Anthropic, enquanto a participação do Google será de 13,7%\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli17/11/2026 21:47\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nParticipações, porém, terão particularidade: as duas gigantes receberão ações de classe sem direito a voto - Imagem: JRdes/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F&title=Amazon+e+Google+ter%C3%A3o+quase+30%25+da+Anthropic+ap%C3%B3s+IPO%3B+entenda+acordo%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F&text=Amazon+e+Google+ter%C3%A3o+quase+30%25+da+Anthropic+ap%C3%B3s+IPO%3B+entenda+acordo%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/amazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Google\n\nver mais\n\nA abertura de capital da Anthropic deve consolidar duas das maiores empresas de tecnologia do mundo como acionistas importantes da desenvolvedora do Claude. Amazon e Google terão, juntas, 28,4% do capital da companhia após a oferta pública inicial de ações (IPO, na sigla em inglês), segundo informações divulgadas pela empresa em documento atualizado enviado à Comissão de Valores Mobiliários dos Estados Unidos (SEC, na sigla em inglês).\n\nContinua após a publicidade\n\nA Amazon ficará com 14,7% da Anthropic, enquanto a participação do Google será de 13,7%. Os números foram detalhados em registro apresentado nesta terça-feira (17), um dia antes da estreia planejada da companhia no mercado de ações.\n\nAs participações, porém, terão particularidade: as duas gigantes receberão ações de classe sem direito a voto. Isso significa que elas terão fatia expressiva do valor econômico da Anthropic, mas não poderão usar esses papéis para participar das votações comuns dos acionistas.\n\nLeia também\n\n- \\\\\n**Trump minimiza onda de apagões tecnológicos que atingiu EUA** \\\\\n\\\\\nPro5 min\n- \\\\\n**Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas** \\\\\n\\\\\nPro5 min\n- \\\\\n**OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança** \\\\\n\\\\\nPro6 min\n\n## Amazon poderia ter fatia ainda maior\n\nA participação da Amazon poderia ser mais expressiva. Quando investiu bilhões de dólares na Anthropic em 2023 e 2024, a companhia também recebeu notas promissórias conversíveis em ações.\n\nA empresa decidiu converter parte desses títulos durante o processo de abertura de capital. Com isso, ficará com 14,7% da desenvolvedora de inteligência artificial (IA).\n\nNo entanto, a Amazon optou por manter parte das notas promissórias. Caso convertesse todos esses títulos imediatamente, sua participação poderia chegar a 23,8% da Anthropic, de acordo com o documento enviado à SEC.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-59%\\\\\n\\\\\nELG Suporte de Parede Articulado para TV 26 a 75 Polegadas Braço 50...\\\\\n\\\\\nR$ 249,90\\\\\n\\\\\nR$ 103,00\\\\\n\\\\\nVer oferta Amazon-40%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\"...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.499,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Grip Caixa de Som Bluetooth Portátil 16W RMS Preta \\| JBL Pro So...\\\\\n\\\\\nR$ 559,00\\\\\n\\\\\nR$ 387,39\\\\\n\\\\\nVer oferta Amazon-51%\\\\\n\\\\\nTP-Link Deco X50 (2 un.) Roteador Mesh Wi-Fi 6 AX3000 Dual Band, Co...\\\\\n\\\\\nR$ 1.499,00\\\\\n\\\\\nR$ 739,00\\\\\n\\\\\nVer oferta Amazon-53%\\\\\n\\\\\nJBL Xtreme 4 Caixa de Som Bluetooth Portátil com Powerbank Preta \\| ...\\\\\n\\\\\nR$ 2.744,43\\\\\n\\\\\nR$ 1.299,00\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCelular Samsung Galaxy S26 Ultra 5G, 512GB, 12GB RAM, Câmera Quádru...\\\\\n\\\\\nR$ 13.099,00\\\\\n\\\\\nR$ 8.209,47\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nAmazon Echo Show 11 - Smart display Full HD de 11\" redesenhado com ...\\\\\n\\\\\nR$ 2.499,00\\\\\n\\\\\nR$ 1.956,38\\\\\n\\\\\nVer oferta Amazon-38%\\\\\n\\\\\nHeadset Sem Fio Logitech Zone 300 Com Microfone Flip-to-Mute com Ca...\\\\\n\\\\\nR$ 479,90\\\\\n\\\\\nR$ 299,90\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCaixa de Som JBL PartyBox Club 120, Bluetooth, Branco, 160W RMS \\| A...\\\\\n\\\\\nR$ 2.699,00\\\\\n\\\\\nR$ 1.699,00\\\\\n\\\\\nVer oferta Amazon-13%\\\\\n\\\\\nAdaptador de Tomada Universal Para Viagem Padrão Internacional Euro...\\\\\n\\\\\nR$ 18,90\\\\\n\\\\\nR$ 16,43\\\\\n\\\\\nVer oferta Amazon-28%\\\\\n\\\\\nJBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, G...\\\\\n\\\\\nR$ 3.199,00\\\\\n\\\\\nR$ 2.299,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Quantum 650 Headset Gamer Bluetooth Sem Fio Preto \\| Dongle 2,4 ...\\\\\n\\\\\nR$ 799,00\\\\\n\\\\\nR$ 550,90\\\\\n\\\\\nVer oferta\n\nA decisão também está relacionada a um limite de participação acionária previsto nos acordos entre as empresas. A Amazon não abriu mão dessa restrição para a operação.\n\n## Google também amplia participação na Anthropic\n\n- O Google terá 13,7% da Anthropic após a operação;\n- A participação resulta da conversão de títulos anteriores e da compra de ações em colocação privada realizada paralelamente ao IPO;\n- Essa colocação privada envolve um grupo de grandes empresas de tecnologia que concordou em comprar US$ 26 bilhões (cerca de R$ 150,3 bilhões) em ações sem direito a voto. Entre as participantes estão AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC Partners;\n- Google e Nvidia se comprometeram, cada uma, a comprar US$ 10 bilhões (aproximadamente R$ 57,8 bilhões) em ações;\n- A operação é parte importante da estratégia de financiamento da Anthropic. No prospecto, a empresa estima que poderá levantar cerca de US$ 84,6 bilhões (R$ 489 bilhões) líquidos com a oferta pública e a colocação privada, considerando o preço intermediário estimado das ações.\n\nAmazon é provedora de serviços da Anthropic – Imagem: PJ McDonnell/Shutterstock\n\n**Leia mais:**\n\n- Anthropic inicia IPO histórico com avaliação de até US$ 1,4 trilhão\n- Anthropic lança rival do Excel com IA; veja como funciona\n- Fala AI: Anthropic diz que IA resolveu problemas sobre buracos negros\n\n## Amazon também é uma das principais fornecedoras de infraestrutura\n\nA relação entre Anthropic e Amazon vai além da participação acionária. A desenvolvedora do Claude também é grande cliente da infraestrutura de computação em nuvem da Amazon Web Services (AWS).\n\nEm acordo firmado em abril de 2026, a Anthropic se comprometeu a gastar pelo menos US$ 110 bilhões (cerca de R$ 635,5 bilhões) com serviços da Amazon entre maio de 2026 e abril de 2036, independentemente do uso efetivo da capacidade contratada, conforme o registro enviado à SEC.\n\nIsso coloca a Amazon em posição dupla: a empresa participa do capital da Anthropic e, ao mesmo tempo, é uma das fornecedoras de infraestrutura necessárias para o desenvolvimento e a operação dos modelos de IA.\n\nContinua após a publicidade\n\nO Google também ocupa posição semelhante. Além de acionista, a companhia fornece capacidade computacional para a Anthropic por meio de sua infraestrutura de nuvem e de seus chips especializados.\n\n## Cofundadores manterão o controle das decisões\n\nApesar da participação expressiva de Amazon e Google, o poder de decisão da Anthropic terá estrutura própria. Os sete cofundadores da empresa manterão, por meio de classe especial de ações, 50,1% do poder de voto em deliberações gerais dos acionistas.\n\nAlém disso, a companhia possui fundo de benefício de longo prazo, o Long-Term Benefit Trust, que tem poderes para eleger e remover os integrantes de uma classe de diretores que formará a maioria do conselho de administração.\n\nA estrutura busca preservar a missão declarada da Anthropic de desenvolver IA de maneira responsável, equilibrando os interesses financeiros dos acionistas com os objetivos de benefício público da companhia.\n\nContinua após a publicidade\n\nA oferta pública prevê ações com preço entre US$ 70 e US$ 78 (aproximadamente R$ 405 a R$ 451 por papel), e a empresa foi aprovada para negociar na Nasdaq sob o código ANT.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\n**Assista a filmes e séries**\n\nAssine **Amazon Prime** para assistir a filmes e séries populares, incluindo Amazon Originals premiados.\nO **Amazon Prime** também inclui a entrega GRÁTIS e rápida de milhares de itens elegíveis,\nmais de 2 milhões de músicas sem anúncios e muito mais. Clique **aqui** e comece seu teste **GRÁTIS** por 30 dias!\n\nTags: Amazon anthropic Google ipo\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F&title=Amazon+e+Google+ter%C3%A3o+quase+30%25+da+Anthropic+ap%C3%B3s+IPO%3B+entenda+acordo%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Famazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo%2F&text=Amazon+e+Google+ter%C3%A3o+quase+30%25+da+Anthropic+ap%C3%B3s+IPO%3B+entenda+acordo%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/amazon-e-google-terao-quase-30-da-anthropic-apos-ipo-entenda-acordo/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProTrump minimiza onda de apagões tecnológicos que atingiu EUARodrigo Mozelli \\\\\n\\\\\nProJensen Huang quer voltar à Nvidia, mas conselho fecha as portasRodrigo Mozelli \\\\\n\\\\\nProNvidia dobra receita e prevê novo salto mesmo após saída de CEORodrigo Mozelli \\\\\n\\\\\nProOpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurançaRodrigo Mozelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/04/amazon-3-1024x682.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic-5.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/anthropic-5-1920x1080.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/donald_trump.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/openai_gpt.jpg",
+    "https://m.media-amazon.com/images/I/31nULh8CB-L._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31PX5MItbtL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41a4E+txaWL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/316orgvSXGL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31HBHT2dPBL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
     "Google",
-    "Maps"
+    "30",
+    "Anthropic"
+   ],
+   "searches": []
+  },
+  {
+   "id": "62astraesolcomnovasrestricoesdeseguranca",
+   "title": "OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/17/pro/openai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca/",
+   "published": "2026-11-17T21:46:10+00:00",
+   "summary": "Novidades prometem melhorar o desempenho em tarefas profissionais e cotidianas, reduzir o consumo de tokens e oferecer resultados melhores por custo menor O post OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança apareceu primeiro em Olhar Digital .",
+   "score": 6.39,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/openai-anuncia-gpt-62-astra-e-sol-mais-capazes-e-eficientes-no-consumo-de-tokens/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1024x512.jpg",
+   "text": "- Pro\n\n# OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança\n\nNovidades prometem melhorar o desempenho em tarefas profissionais e cotidianas, reduzir o consumo de tokens e oferecer resultados melhores por custo menor\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli17/11/2026 18:46\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nEm contrapartida, empresa reforçou as restrições de segurança, especialmente para atividades relacionadas à segurança digital e à pesquisa biológica e química - Imagem: Visuals6x/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F&title=OpenAI+lan%C3%A7a+GPT-6.2+Astra+e+Sol+com+novas+restri%C3%A7%C3%B5es+de+seguran%C3%A7a%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F&text=OpenAI+lan%C3%A7a+GPT-6.2+Astra+e+Sol+com+novas+restri%C3%A7%C3%B5es+de+seguran%C3%A7a%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/openai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Inteligência Artificial\n\nver mais\n\nTudo sobre OpenAI\n\nver mais\n\nA OpenAI anunciou nesta terça-feira (17) dois novos modelos de inteligência artificial (IA): GPT-6.2 Astra e GPT-6.2 Sol. As novidades prometem melhorar o desempenho em tarefas profissionais e cotidianas, reduzir o consumo de tokens e oferecer resultados melhores por custo menor. Em contrapartida, a empresa reforçou as restrições de segurança, especialmente para atividades relacionadas à segurança digital e à pesquisa biológica e química.\n\nContinua após a publicidade\n\nO GPT-6.2 Astra foi desenvolvido para projetos complexos, enquanto o Sol é voltado a atividades do dia a dia. Segundo a OpenAI, os dois modelos conseguem executar tarefas exigentes com menos tokens, unidades de texto processadas pela IA, permitindo realizar mais atividades dentro dos limites de uso.\n\nO anúncio também destaca avanços na criação de documentos, apresentações, planilhas, desenvolvimento de software e utilização de ferramentas. Os modelos já estão disponíveis para assinantes Plus, Pro, Enterprise e Edu no ChatGPT Work e no Codex.\n\nLeia também\n\n- \\\\\n**Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas** \\\\\n\\\\\nPro5 min\n- \\\\\n**Nvidia dobra receita e prevê novo salto mesmo após saída de CEO** \\\\\n\\\\\nPro6 min\n- \\\\\n**Nvidia vira alvo de investigação nos EUA após saída de Jensen Huang** \\\\\n\\\\\nPro4 min\n\n## O que muda com GPT-6.2 Astra e Sol?\n\n- Os dois modelos têm propostas diferentes dentro da nova geração da OpenAI;\n- O GPT-6.2 Astra é a opção mais avançada para trabalhos profissionais e projetos que exigem várias etapas de execução. A empresa afirma que ele produz apresentações, planilhas e documentos mais próximos dos padrões utilizados em diferentes setores, além de seguir com maior precisão os modelos e formatos fornecidos pelos usuários;\n- O modelo também recebeu melhorias na escrita de código, na criação de sites e no uso de ferramentas de projeto e simulação. Em atividades de desenvolvimento, a OpenAI destaca maior capacidade de implementar e testar alterações complexas em bases de código existentes;\n- Já o GPT-6.2 Sol foi projetado para ser opção mais eficiente e versátil. A proposta é atender a tarefas cotidianas e profissionais sem exigir o mesmo custo operacional do modelo mais avançado;\n- Segundo a OpenAI, o Sol consegue executar fluxos de trabalho com várias etapas, produzir textos mais naturais e realizar atividades técnicas e não técnicas com maior eficiência.\n\n## Astra supera antecessor em testes com custo menor\n\nUm dos resultados apresentados pela empresa envolve o benchmark Agents’ Last Exam, que avalia a capacidade de modelos de IA para executar tarefas profissionais complexas.\n\nNesse teste, o GPT-6.2 Astra obteve pontuação 5,2 pontos superior à do GPT-6 Astra, seu antecessor. Segundo a OpenAI, o novo modelo alcançou o resultado gastando menos de um terço do custo registrado pela versão anterior.\n\nA empresa também afirma que o Astra superou o Claude Fable 5.2 em 5,5 pontos nessa avaliação, com apenas 5% do custo associado ao concorrente.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-59%\\\\\n\\\\\nELG Suporte de Parede Articulado para TV 26 a 75 Polegadas Braço 50...\\\\\n\\\\\nR$ 249,90\\\\\n\\\\\nR$ 103,00\\\\\n\\\\\nVer oferta Amazon-43%\\\\\n\\\\\nVEDO Toca-Discos 10 em 1 com Bluetooth: Giradiscos 3 Velocidades pa...\\\\\n\\\\\nR$ 1.199,00\\\\\n\\\\\nR$ 689,08\\\\\n\\\\\nVer oferta Amazon-40%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\"...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.499,00\\\\\n\\\\\nVer oferta Amazon-51%\\\\\n\\\\\nTP-Link Deco X50 (2 un.) Roteador Mesh Wi-Fi 6 AX3000 Dual Band, Co...\\\\\n\\\\\nR$ 1.499,00\\\\\n\\\\\nR$ 739,00\\\\\n\\\\\nVer oferta Amazon-53%\\\\\n\\\\\nJBL Xtreme 4 Caixa de Som Bluetooth Portátil com Powerbank Preta \\| ...\\\\\n\\\\\nR$ 2.744,43\\\\\n\\\\\nR$ 1.299,00\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCelular Samsung Galaxy S26 Ultra 5G, 512GB, 12GB RAM, Câmera Quádru...\\\\\n\\\\\nR$ 13.099,00\\\\\n\\\\\nR$ 8.209,47\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nAmazon Echo Show 11 - Smart display Full HD de 11\" redesenhado com ...\\\\\n\\\\\nR$ 2.499,00\\\\\n\\\\\nR$ 1.956,38\\\\\n\\\\\nVer oferta Amazon-38%\\\\\n\\\\\nHeadset Sem Fio Logitech Zone 300 Com Microfone Flip-to-Mute com Ca...\\\\\n\\\\\nR$ 479,90\\\\\n\\\\\nR$ 299,90\\\\\n\\\\\nVer oferta Amazon-16%\\\\\n\\\\\nRaveo Vitrola com USB e Bluetooth, Sonetto Wood, 10W, marrom\\\\\n\\\\\nR$ 469,00\\\\\n\\\\\nR$ 395,00\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCaixa de Som JBL PartyBox Club 120, Bluetooth, Branco, 160W RMS \\| A...\\\\\n\\\\\nR$ 2.699,00\\\\\n\\\\\nR$ 1.699,00\\\\\n\\\\\nVer oferta Amazon-13%\\\\\n\\\\\nAdaptador de Tomada Universal Para Viagem Padrão Internacional Euro...\\\\\n\\\\\nR$ 18,90\\\\\n\\\\\nR$ 16,43\\\\\n\\\\\nVer oferta Amazon-28%\\\\\n\\\\\nJBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, G...\\\\\n\\\\\nR$ 3.199,00\\\\\n\\\\\nR$ 2.299,00\\\\\n\\\\\nVer oferta\n\n## OpenAI reduz preços do Astra na API\n\nOs desenvolvedores também poderão utilizar os novos modelos por meio da API da OpenAI, ferramenta que permite integrar recursos de IA a outros programas e serviços.\n\nO GPT-6.2 Astra chega com redução de 20% nos preços dos tokens de entrada e saída em comparação com o GPT-6 Astra. Já os tokens de entrada armazenados em cache, que podem ser reaproveitados em novas solicitações, receberam desconto de 60%.\n\nOs preços por milhão de tokens são:\n\n- **Entrada:** US$ 8 (cerca de R$ 42);\n- **Entrada em cache:** US$ 0,40 (cerca de R$ 2,10);\n- **Saída:** US$ 40 (cerca de R$ 212).\n\nO GPT-6.2 Sol, por sua vez, mantém os preços da geração anterior, o GPT-6.1 Sol:\n\n- **Entrada:** US$ 2 (cerca de R$ 10,60);\n- **Entrada em cache:** US$ 0,10 (cerca de R$ 0,53);\n- **Saída:** US$ 10 (cerca de R$ 53).\n\nA cobrança é feita por milhão de tokens processados, e não por assinatura mensal.\n\nDois modelos têm propostas diferentes dentro da nova geração da OpenAI – Imagem: doomu/Shutterstock\n\n**Leia mais:**\n\n- OpenAI é processada após agentes de IA invadirem sistemas de terceiros\n- Ex-engenheiro da OpenAI contesta prisão e nega ligação com governo saudita\n- OpenAI vai ajudar a Otan a reforçar a segurança de suas redes\n\n## Novos modelos chegam com restrições de segurança mais rígidas\n\nUm dos principais destaques do lançamento é o reforço das medidas de segurança. A OpenAI afirma que os novos modelos apresentam capacidades significativamente maiores em segurança digital, incluindo a identificação e exploração de vulnerabilidades em softwares.\n\nContinua após a publicidade\n\nSegundo a empresa, GPT-6.2 Astra e Sol atingiram o nível crítico de capacidade em segurança cibernética dentro de sua estrutura de avaliação de riscos.\n\nPor esse motivo, a companhia aumentou as restrições para solicitações que envolvam atividades cibernéticas de maior risco. As medidas buscam reduzir a possibilidade de uso indevido, mas também podem limitar pesquisas legítimas sobre vulnerabilidades e testes de segurança.\n\nA classificação também aponta que os dois modelos atingiram o nível alto de capacidade nas áreas biológica e química. Isso significa que podem oferecer assistência técnica relevante em determinadas atividades que envolvem riscos de uso indevido.\n\nA OpenAI afirma ter implementado proteções adicionais para lidar com essas capacidades, incluindo restrições a solicitações potencialmente perigosas e sistemas de monitoramento mais abrangentes.\n\nContinua após a publicidade\n\n## Astra também pode acelerar pesquisas em IA\n\nOutro ponto relevante envolve o GPT-6.2 Astra. Ele é o primeiro modelo disponibilizado externamente pela OpenAI a atingir o nível alto na classificação de capacidade de autoaperfeiçoamento de IA. Essa categoria avalia o potencial de um modelo para acelerar pesquisas e o desenvolvimento de novos sistemas de IA.\n\nSegundo a empresa, a capacidade do Astra nessa área equivale a oferecer a cada pesquisador da OpenAI um assistente de engenharia altamente qualificado, tomando como referência o nível de produtividade de 2024.\n\nA companhia afirma ter reforçado os mecanismos de supervisão e controle antes de ampliar o acesso interno ao modelo. Entre as medidas estão ambientes de pesquisa mais isolados, monitoramento ampliado e o Control Room, sistema capaz de acompanhar atividades dos modelos e interromper processos quando necessário.\n\nContinua após a publicidade\n\n## Modelos ainda apresentam limitações em testes de comportamento\n\nApesar dos avanços, a OpenAI também identificou comportamentos que precisam de atenção.\n\nEm avaliações de tarefas simuladas de trabalho, os novos modelos cometeram menos ações inadequadas do que o GPT-6 Astra. Entretanto, em dois testes, apresentaram maior tendência a omitir obstáculos encontrados durante a execução de atividades.\n\nEntre os exemplos estavam situações em que um arquivo necessário não estava disponível ou uma ferramenta de pesquisa não funcionava.\n\nA empresa afirma que introduziu novas instruções no Codex para reduzir esse comportamento e que continua investigando o problema.\n\nOs resultados e as medidas de proteção foram detalhados no documento técnico de segurança (System Card) publicado junto com o lançamento.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\nTags: GPT Inteligência Artificial OpenAI\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F&title=OpenAI+lan%C3%A7a+GPT-6.2+Astra+e+Sol+com+novas+restri%C3%A7%C3%B5es+de+seguran%C3%A7a%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Fopenai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca%2F&text=OpenAI+lan%C3%A7a+GPT-6.2+Astra+e+Sol+com+novas+restri%C3%A7%C3%B5es+de+seguran%C3%A7a%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/openai-lanca-gpt-6-2-astra-e-sol-com-novas-restricoes-de-seguranca/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProNvidia vira alvo de investigação nos EUA após saída de Jensen HuangRodrigo Mozelli \\\\\n\\\\\nProBrasil terá ‘cérebro’ para conectar data centers – e levar IA boa para todo mundoPedro Spadoni \\\\\n\\\\\nProPL das Big Techs: relator muda regras para limitar fiscalização do CadeRodrigo Mozelli \\\\\n\\\\\nProCaso com suposta espiã chinesa leva ex-chefe da Nvidia ao CongressoRodrigo Mozelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1024x512.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/openai_gpt.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/openai_gpt-1920x1080.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2023/02/inteligencia-artificial.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-3.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-1-1.jpg",
+    "https://m.media-amazon.com/images/I/31nULh8CB-L._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41qrNdKQoJL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31PX5MItbtL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/316orgvSXGL._SL500_.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "GPT-6",
+    "2",
+    "Astra"
    ],
    "searches": [
-    "google maps",
-    "google maps gemini",
-    "google maps offline",
-    "google maps apple watch",
-    "google maps backrooms",
-    "google maps não funciona"
+    "gpt 6 astra cs2",
+    "gpt 6 astra 2 minute papers",
+    "gpt 6 astra portal 2"
+   ]
+  },
+  {
+   "id": "zaondadeapagoestecnologicosqueatingiueua",
+   "title": "Trump minimiza onda de apagões tecnológicos que atingiu EUA",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/17/pro/trump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua/",
+   "published": "2026-11-18T00:27:20+00:00",
+   "summary": "A onda de instabilidades começou na quinta-feira (12) e passou por diferentes setores da economia estadunidense O post Trump minimiza onda de apagões tecnológicos que atingiu EUA apareceu primeiro em Olhar Digital .",
+   "score": 5.86,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/trump-minimiza-onda-de-falhas-nos-eua-e-diz-que-coisas-assim-acontecem/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/apple-2-1024x682.jpg",
+   "text": "- Pro\n\n# Trump minimiza onda de apagões tecnológicos que atingiu EUA\n\nA onda de instabilidades começou na quinta-feira (12) e passou por diferentes setores da economia estadunidense\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli17/11/2026 21:27\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\n“É assim quando você é grande e poderoso, e tem todo o dinheiro. Coisas assim acontecem. Está tudo bem”, declarou Trump - Imagem: Dylan Hayes Photo/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F&title=Trump+minimiza+onda+de+apag%C3%B5es+tecnol%C3%B3gicos+que+atingiu+EUA%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F&text=Trump+minimiza+onda+de+apag%C3%B5es+tecnol%C3%B3gicos+que+atingiu+EUA%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/trump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Estados Unidos\n\nver mais\n\nUma sequência de interrupções em sistemas digitais afetou serviços essenciais nos Estados Unidos nos últimos dias, provocando atrasos em voos, problemas bancários e dificuldades em plataformas de grandes empresas. Mesmo com a chegada dos problemas à Agência de Segurança Nacional (NSA, na sigla em inglês), o presidente Donald Trump minimizou a situação e afirmou que falhas desse tipo são inevitáveis.\n\nContinua após a publicidade\n\n“É assim quando você é grande e poderoso, e tem todo o dinheiro. Coisas assim acontecem. Está tudo bem”, declarou Trump a jornalistas nesta terça-feira (17), em Manila (Filipinas), durante conferência da Associação de Nações do Sudeste Asiático (Asean).\n\nA onda de instabilidades começou na quinta-feira (12) e passou por diferentes setores da economia estadunidense. Entre os afetados estão Microsoft, Administração Federal de Aviação (FAA, na sigla em inglês), United Airlines, JPMorgan Chase e Apple.\n\nLeia também\n\n- \\\\\n**Amazon e Google terão quase 30% da Anthropic após IPO; entenda acordo** \\\\\n\\\\\nPro4 min\n- \\\\\n**Jensen Huang quer voltar à Nvidia, mas conselho fecha as portas** \\\\\n\\\\\nPro5 min\n- \\\\\n**OpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurança** \\\\\n\\\\\nPro6 min\n\nNa terça-feira, a própria NSA informou que sua rede havia passado por degradação temporária durante manutenção de rotina. Segundo a agência, porém, os recursos considerados essenciais para suas operações continuaram funcionando.\n\n## Falhas atingiram voos, bancos e serviços digitais\n\n- Os episódios tiveram consequências em diferentes áreas. Na sexta-feira (13), uma falha nos sistemas de controle de tráfego aéreo levou a FAA a determinar paralisação nacional de voos que durou quatro horas e meia. Foi a interrupção mais longa do transporte aéreo estadunidense desde os atentados de 11 de setembro de 2001;\n- Na segunda-feira (16), um problema tecnológico na United Airlines provocou atrasos em cerca de 150 voos. No mesmo dia, uma falha de software no JPMorgan Chase prejudicou o acesso a alguns serviços bancários;\n- A Microsoft também enfrentou interrupção que afetou ferramentas como o Outlook e outros serviços de comunicação e trabalho. Já a Apple informou nesta terça-feira que uma atualização interna provocou instabilidades em seus sistemas, incluindo serviços ligados ao iCloud e ao Apple Pay. A companhia afirmou que o episódio não foi causado por ataque cibernético;\n- A sequência de problemas chamou a atenção de parlamentares estadunidenses. O senador republicano Josh Hawley, do Missouri, questionou a coincidência entre tantos episódios em intervalo tão curto;\n- “Se tudo isso for coincidência, será a maior coincidência da história do mundo”, afirmou.\n\n## Governo dos EUA descarta ataque coordenado\n\nApesar das suspeitas levantadas por alguns políticos, autoridades estadunidenses afirmam não ter encontrado sinais de que as falhas façam parte de ofensiva cibernética coordenada ou de ação patrocinada por algum governo estrangeiro.\n\nO diretor de Inteligência Nacional dos Estados Unidos, Jay Clayton, atribuiu boa parte dos problemas a dificuldades durante atualizações e modernizações de sistemas. Segundo ele, organizações estão implementando melhorias tecnológicas, mas algumas mudanças não estão sendo concluídas como esperado.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-59%\\\\\n\\\\\nELG Suporte de Parede Articulado para TV 26 a 75 Polegadas Braço 50...\\\\\n\\\\\nR$ 249,90\\\\\n\\\\\nR$ 103,00\\\\\n\\\\\nVer oferta Amazon-40%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Prata, 128GB, 8GB, Tela 13.1\"...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.499,00\\\\\n\\\\\nVer oferta Amazon-51%\\\\\n\\\\\nTP-Link Deco X50 (2 un.) Roteador Mesh Wi-Fi 6 AX3000 Dual Band, Co...\\\\\n\\\\\nR$ 1.499,00\\\\\n\\\\\nR$ 739,00\\\\\n\\\\\nVer oferta Amazon-53%\\\\\n\\\\\nJBL Xtreme 4 Caixa de Som Bluetooth Portátil com Powerbank Preta \\| ...\\\\\n\\\\\nR$ 2.744,43\\\\\n\\\\\nR$ 1.299,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Grip Caixa de Som Bluetooth Portátil 16W RMS Preta \\| JBL Pro So...\\\\\n\\\\\nR$ 559,00\\\\\n\\\\\nR$ 387,39\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCelular Samsung Galaxy S26 Ultra 5G, 512GB, 12GB RAM, Câmera Quádru...\\\\\n\\\\\nR$ 13.099,00\\\\\n\\\\\nR$ 8.209,47\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nAmazon Echo Show 11 - Smart display Full HD de 11\" redesenhado com ...\\\\\n\\\\\nR$ 2.499,00\\\\\n\\\\\nR$ 1.956,38\\\\\n\\\\\nVer oferta Amazon-38%\\\\\n\\\\\nHeadset Sem Fio Logitech Zone 300 Com Microfone Flip-to-Mute com Ca...\\\\\n\\\\\nR$ 479,90\\\\\n\\\\\nR$ 299,90\\\\\n\\\\\nVer oferta Amazon-37%\\\\\n\\\\\nCaixa de Som JBL PartyBox Club 120, Bluetooth, Branco, 160W RMS \\| A...\\\\\n\\\\\nR$ 2.699,00\\\\\n\\\\\nR$ 1.699,00\\\\\n\\\\\nVer oferta Amazon-13%\\\\\n\\\\\nAdaptador de Tomada Universal Para Viagem Padrão Internacional Euro...\\\\\n\\\\\nR$ 18,90\\\\\n\\\\\nR$ 16,43\\\\\n\\\\\nVer oferta Amazon-28%\\\\\n\\\\\nJBL, Caixa de Som, Boombox 4, Bluetooth, Som Pro, AI Sound Boost, G...\\\\\n\\\\\nR$ 3.199,00\\\\\n\\\\\nR$ 2.299,00\\\\\n\\\\\nVer oferta Amazon-31%\\\\\n\\\\\nJBL Quantum 650 Headset Gamer Bluetooth Sem Fio Preto \\| Dongle 2,4 ...\\\\\n\\\\\nR$ 799,00\\\\\n\\\\\nR$ 550,90\\\\\n\\\\\nVer oferta\n\nApple entrou no rol de empresas dos EUA que passaram por falhas sistêmicas – Imagem: Samuel Boivin/Shutterstock\n\nClayton também relacionou a instabilidade na NSA à instalação de correções para vulnerabilidade no PHP. A falha, identificada com auxílio de inteligência artificial (IA) no mês passado, poderia permitir que invasores assumissem o controle de servidores remotamente.\n\nO cenário, portanto, não aponta necessariamente para um ataque em andamento. Ainda assim, a concentração de incidentes em sistemas importantes levantou preocupações sobre a capacidade de infraestrutura digital de suportar atualizações e mudanças sem provocar interrupções em cadeia.\n\n**Leia mais:**\n\n- Após caos nos aeroportos, meteorologia dos EUA também sofre pane\n- Governo Trump avança para barrar novos equipamentos chineses\n- China acusa EUA de coerção econômica por chips avançados de IA\n\n## Especialistas alertam para fragilidade da infraestrutura digital\n\nA sequência de falhas também reacendeu o debate sobre a dependência entre sistemas tecnológicos. Em conversa com a _Reuters_, Cynthia Kaiser, ex-integrante de alto escalão da divisão cibernética do FBI e atual vice-presidente sênior do Centro de Pesquisa de Ransomware da Halcyon, disse que os episódios mostram como uma falha técnica ou atualização de software pode se espalhar por serviços conectados.\n\nContinua após a publicidade\n\nO contexto é acompanhado por sinais de aumento da atividade cibernética. A seguradora Marsh informou que seus clientes relataram 105 incidentes de segurança nas duas últimas semanas de outubro — mais que o dobro dos 48 registros feitos no mesmo período de maio.\n\nEspecialistas também demonstram preocupação com o uso de ferramentas de IA por criminosos para ampliar o número de tentativas de invasão realizadas simultaneamente.\n\nOutro ponto levantado por analistas é o impacto de cortes de funcionários em empresas e órgãos públicos. A FAA passou por reduções de pessoal após o início do governo Trump, enquanto a United Airlines e a Microsoft também anunciaram cortes em suas equipes.\n\nNão há evidências de que as demissões tenham causado as interrupções recentes. Ainda assim, a organizadora trabalhista Liz Fong-Jones argumentou que a redução de equipes experientes pode diminuir as margens de segurança necessárias para manter sistemas complexos funcionando.\n\nContinua após a publicidade\n\nO senador democrata Jack Reed também pediu que a Casa Branca apresente explicações sobre os episódios. Com falhas atingindo serviços essenciais em dias consecutivos, a pressão por transparência e por respostas sobre a infraestrutura tecnológica estadunidense tende a aumentar.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\nTags: apagão apagão cibernético donald trump Estados Unidos\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F&title=Trump+minimiza+onda+de+apag%C3%B5es+tecnol%C3%B3gicos+que+atingiu+EUA%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F17%2Fpro%2Ftrump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua%2F&text=Trump+minimiza+onda+de+apag%C3%B5es+tecnol%C3%B3gicos+que+atingiu+EUA%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/17/pro/trump-minimiza-onda-de-apagoes-tecnologicos-que-atingiu-eua/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProJensen Huang quer voltar à Nvidia, mas conselho fecha as portasRodrigo Mozelli \\\\\n\\\\\nProNvidia dobra receita e prevê novo salto mesmo após saída de CEORodrigo Mozelli \\\\\n\\\\\nProOpenAI lança GPT-6.2 Astra e Sol com novas restrições de segurançaRodrigo Mozelli \\\\\n\\\\\nProNvidia vira alvo de investigação nos EUA após saída de Jensen HuangRodrigo Mozelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/apple-2-1024x682.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/donald_trump.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/donald_trump-1920x1080.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2023/03/bandeira-estados-unidos.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic-5.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_nvidia-1.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/openai_gpt.jpg",
+    "https://m.media-amazon.com/images/I/31nULh8CB-L._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31PX5MItbtL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/21BgpbdIOqL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/316orgvSXGL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41a4E+txaWL._SL500_.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "EUA"
+   ],
+   "searches": [
+    "eua x haiti",
+    "eua x paraguai",
+    "eua x paraguai ao vivo",
+    "eua",
+    "eua x australia",
+    "eua x bosnia"
+   ]
+  },
+  {
+   "id": "ovoappdemensagensindependentedoinstagram",
+   "title": "Meta anuncia novo app de mensagens independente do Instagram",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/meta-anuncia-novo-app-de-mensagens-independente-do-instagram/",
+   "published": "2026-11-17T19:00:00+00:00",
+   "summary": "",
+   "score": 5.52,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/apps/meta-testa-novo-app-de-mensagens-que-mistura-instagram-e-messenger/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/IGVX6B4MFRHGXC2XLAQZQ3ZZZE.jpg?quality=80&auth=556052af3d03f8b0a7d0e4937aa0b1cccddf114570367d107d71e208987061b0&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Produto e Review\n\nPor André Luiz Dias Gonçalves\n\n17/11/2026 \\| 16h00\n\nNotícia de presente\n\nImagens de mulheres feitas com IA impulsionam publicidade irregular no Facebook\n\nContas no Facebook publicam imagens sexualizadas de mulheres geradas por IA para atrair seguidores. Depois, os direcionam para sites como Shopee e de apostas. Crédito: Estadão\n\nA Meta anunciou nesta terça-feira (17) o Direct, um novo aplicativo de mensagens independente do Instagram que foi desenvolvido para “conversar individualmente ou em grupo com amigos e familiares”, de acordo com a empresa. A plataforma **estreia primeiro na Turquia e na Tailândia, com versões para Android e iOS**.\n\nDisponível para usuários com ou sem conta do Instagram, a novidade permite realizar o **cadastro** **utilizando email ou número de telefone**. Para quem possui perfil na rede social, há a possibilidade de acesso a partir do mesmo nome de usuário e senha, sincronizando as conversas existentes entre os dois apps.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Mensagens criativas e personalizáveis\n\nPrometendo transformar as conversas com as pessoas mais próximas em chats únicos, o novo app Direct oferece ferramentas criativas e personalizáveis para o bate-papo. Uma delas é a possibilidade de **fazer desenhos e esboços diretamente na conversa**, complementando as informações fornecidas.\n\n- **Adesivos customizados** também estão entre os atrativos, oferecendo uma maneira diferenciada de se expressar;\n- Outro destaque é o **plano de fundo personalizável para cada bate-papo**, incluindo temas visuais que ajudam a identificar o assunto;\n- Há, ainda, os **efeitos de voz divertidos**, como risadas da multidão e sons subaquáticos, entre outros, para adicionar às respostas;\n- Já as atualizações de status dos contatos aparecem no topo da caixa de entrada.\n\nPara quem usa o Direct sem conta no Instagram, somente os contatos podem iniciar conversa ou adicionar a pessoa a um grupo. Foto: Meta/Divulgação\n\nPUBLICIDADE\n\nO Direct também conta com proteções integradas, **permitindo que apenas os contatos e pessoas com as quais o usuário está conectado iniciem uma conversa ou o adicionem a um grupo**. Também há ferramentas de denúncia, bloqueio, restrição e remoção para os casos de violação de regras.\n\n“ **Usaremos a tecnologia para detectar e agir em interações potencialmente inadequadas com jovens**. E os pais podem usar nossas ferramentas de supervisão para ver com quem seus filhos adolescentes estão trocando mensagens, ajustar as configurações de segurança e definir limites de tempo diários”, afirmou a Meta, em comunicado.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Idade mínima para acesso\n\nO novo app de mensagens independente do Instagram exige **idade mínima de 13 anos para acesso**. Segundo a big tech, uma tecnologia de identificação proativa de contas pode solicitar a verificação de idade e até excluir a conta se o procedimento não for concluído.\n\nPUBLICIDADE\n\nPerfis de menores de 18 anos com o mesmo nome e senha da rede social terão todas as proteções disponíveis nas Contas para Adolescentes da plataforma.\n\n**Ainda não se sabe quando o app Direct da Meta será disponibilizado em outros países**.\n\nOutro lançamento recente da big tech, o app Achados é destinado à compra e venda de produtos por meio do Facebook e do Instagram. Confira os detalhes nesta matéria.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Instagram\n- [Meta \\[empresa\\]](https://www.estadao.com.br/tudo-sobre/meta-empresa/)\n\n0 Comentário\n\n29 debatedores online29 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.199,00-11%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAirTag Apple\\\\\n\\\\\nR$ 159,90\\\\\n\\\\\nAcessórios · Loja iPlace\n- \\\\\n\\\\\nTeclado Dell Pro SmartCard KB813\\\\\n\\\\\nR$ 189,00\\\\\n\\\\\nAcessórios · Dell Technologies Brazil\n- \\\\\n\\\\\nAmazon Kindle Colorsoft, 16GB\\\\\n\\\\\nPreço anterior ~~R$ 1.499,00~~ Preço R$ 999,00-33%\\\\\n\\\\\nLivros e e-Readers · Amazon\n- \\\\\n\\\\\nMonitor Gamer Acer Nitro 27\" ED270 W0biip\\\\\n\\\\\nR$ 999,00\\\\\n\\\\\nMonitores e projetores · Acer\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.149,00 no PixPreço anterior ~~R$ 5.099,00~~ Preço R$ 3.329,10-35%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.279,90 no PixPreço anterior ~~R$ 2.809,90~~ Preço R$ 2.399,90-15%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.149,10 no PixPreço anterior ~~R$ 2.596,00~~ Preço R$ 2.399,00-8%\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nCaixa Acústica Philco PCX15000\\\\\n\\\\\nR$ 949,90\\\\\n\\\\\nÁudio · Philco\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nFalha em extensões de assinatura digital atinge 10 milhões de computadores no Brasil 2.\\\\\n\\\\\nO que muda na formação de profissionais de tecnologia com a chegada da IA 3.\\\\\n\\\\\nPor que tanta gente quer mudar de carreira antes de chegar aos 30? 4.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 5.\\\\\n\\\\\nJensen Huang assume erros e diz que aceitaria voltar para a Nvidia\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/IGVX6B4MFRHGXC2XLAQZQ3ZZZE.jpg?quality=80&auth=556052af3d03f8b0a7d0e4937aa0b1cccddf114570367d107d71e208987061b0&width=710",
+    "https://www.estadao.com.br/resizer/v2/YNFVA7I3ZVH7ZLPWHBMWME7MT4.jpg?quality=80&auth=2febeec1e77e1625c76e890ba8ae2188228f8e81df9662e46a1bc65646d12c7c&width=1200&height=630&focal=927,405",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FUEXZ4KUAO5FGNLP4MV7EF2GHYI.png?quality=80&auth=fd23adfe9245fb8376aeb2b8e0626809beda900f1711bdd1703675ab2f447060&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F07-29-2026%2Ft_b02ff1c8c5454b139475098e3a4253ae_name_THUMBS_YOUTUBE__5_.png?quality=80&auth=62f7c330c69bd7bbc0f97ccc70514c8ed5743b9fe760d9781c229129ac3ea601&width=520&height=292&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/IGVX6B4MFRHGXC2XLAQZQ3ZZZE.jpg?quality=80&auth=556052af3d03f8b0a7d0e4937aa0b1cccddf114570367d107d71e208987061b0&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/8049cc1874642511d8db5ab56b424f9c9d73aac40f521f5bc100d20dbf5181e5.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/479580816cb7667376eb143d870f5fc651220189a18a388a3f127177a44db94e.jpg",
+    "https://m.media-amazon.com/images/I/41xnVk+siCL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/332d001dd6f88db8be0db3a69d3cf520d7edbc70e42666458231cc8ad5776ed8.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Instagram"
+   ],
+   "searches": [
+    "instagram",
+    "instagram plus",
+    "instagram modificado",
+    "instagram modificado 2026",
+    "instagram reels",
+    "instagram instagram"
    ]
   },
   {
@@ -334,11 +496,15 @@
    "url": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anuncia-indicados-a-premiacao-confira-a-lista-completa/",
    "published": "2026-11-17T17:13:00+00:00",
    "summary": "",
-   "score": 5.95,
+   "score": 5.41,
    "why": [
     "2 sites cobrindo"
    ],
    "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/games/gta-6-e-o-jogo-mais-indicado-no-the-game-awards-2026-veja-a-lista/"
+    },
     {
      "source": "Canaltech",
      "url": "https://canaltech.com.br/games/the-game-awards-2026-gta-6-e-zelda-disputam-o-goty-veja-os-indicados/"
@@ -368,14 +534,7 @@
     "Awards",
     "2026"
    ],
-   "searches": [
-    "game awards 2026",
-    "game awards 2026 nominees",
-    "game awards 2026 trailers",
-    "game awards 2026 cuphead",
-    "game awards 2026 predictions",
-    "game awards 2026 goty"
-   ]
+   "searches": []
   },
   {
    "id": "ereviewxiaomi18prolancamentoglobalbrasil",
@@ -384,7 +543,7 @@
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/xiaomi-18-pro-lancamento-global-brasil/",
    "published": "2026-11-17T16:30:00+00:00",
    "summary": "",
-   "score": 5.91,
+   "score": 5.36,
    "why": [
     "2 sites cobrindo"
    ],
@@ -418,14 +577,7 @@
     "Pro",
     "Brasil"
    ],
-   "searches": [
-    "18 pro brasil",
-    "iphone 18 pro brasil",
-    "18 pro max brasil",
-    "xiaomi 18 pro brasil",
-    "iphone 18 pro max brasil",
-    "xiaomi 18 pro max brasil"
-   ]
+   "searches": []
   },
   {
    "id": "odestatercafeira17ifoodentregadorafetado",
@@ -434,7 +586,7 @@
    "url": "https://www.estadao.com.br/tecmundo/big-techs/ifood-caiu-app-fica-instavel-durante-o-almoco-desta-terca-feira-17-ifood-entregador-afetado/",
    "published": "2026-11-17T14:41:00+00:00",
    "summary": "",
-   "score": 5.79,
+   "score": 5.25,
    "why": [
     "2 sites cobrindo"
    ],
@@ -472,9 +624,35 @@
     "App",
     "17"
    ],
-   "searches": [
-    "entregadores ifood"
-   ]
+   "searches": []
+  },
+  {
+   "id": "eajudaraencontrarcarteiraechavesperdidas",
+   "title": "Óculos inteligentes da Samsung podem te ajudar a encontrar carteira e chaves perdidas",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/produtos/oculos-inteligentes-da-samsung-podem-te-ajudar-a-encontrar-carteira-e-chaves-perdidas/",
+   "published": "2026-11-17T18:26:22+00:00",
+   "summary": "A Samsung registrou uma patente de um recurso para óculos inteligentes que pode ajudar o usuário a encontrar carteira, chaves e outros objetos perdidos. A tecnologia usaria a câmera e os microfones do acessório para lembrar onde cada item foi visto pela última vez. Batizado de Long Term Memory Enhancement , o sistema funcionaria como uma espécie de memória de longo prazo. Em vez de depender de ras",
+   "score": 4.49,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/zRYFImCl2Qgg2S8a3TxrFoCwbjo=/0x0/filters:format(webp):quality(85)/fefb6bb4-e0c1-4150-b8df-d375b688f992.jpg",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Produtos Óculos inteligentes da Samsung podem te ajudar a encontrar carteira e chaves perdidas Por Bruno Bertonzin | 17/11/2026 às 15:26 • Atualizado 17/11/2026 às 15:27\n\nPrefira o CT no Google Divulgação/Samsung A Samsung registrou uma patente de um recurso para óculos inteligentes que pode ajudar o usuário a encontrar carteira, chaves e outros objetos perdidos. A tecnologia usaria a câmera e os microfones do acessório para lembrar onde cada item foi visto pela última vez.\n\nBatizado de Long Term Memory Enhancement , o sistema funcionaria como uma espécie de memória de longo prazo. Em vez de depender de rastreadores dedicados, os próprios óculos criariam pequenas anotações a partir do que enxergam e escutam durante o dia.\n\nNa prática, os óculos poderiam registrar que o usuário deixou a carteira sobre o balcão da cozinha, por exemplo. Caso ele perguntasse mais tarde onde está o objeto, o sistema consultaria suas anotações e indicaria aquele como o último local conhecido.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade O mesmo aconteceria com as chaves. Um dos exemplos incluídos na patente mostra o usuário perguntando onde elas estão, enquanto os óculos respondem que o objeto ficou sobre uma mesa.\n\nA tecnologia não saberia necessariamente onde o item está naquele exato momento. Caso outra pessoa movesse a carteira depois que o usuário saiu do ambiente, por exemplo, os óculos ainda apontariam o último local em que conseguiram identificá-la.\n\nPara isso, pequenos trechos captados pela câmera e pelos microfones seriam transformados em informações pesquisáveis, com registros do que aconteceu e em qual momento.\n\nA Samsung ainda cita outras possíveis aplicações. O sistema poderia ajudar o usuário a lembrar se tomou um medicamento ou recuperar informações sobre o que foi combinado durante uma reunião.\n\nApesar da proposta, não há confirmação de que a tecnologia será lançada comercialmente. O registro também não vincula o recurso diretamente aos novos Samsung Intelligent Eyewear .\n\nAinda assim, a ideia combina com algumas funções que a empresa já apresentou para seus primeiros óculos inteligentes. Desenvolvidos em parceria com o Google, eles contam com o Gemini integrado e permitem fazer perguntas sobre o que o usuário está observando.\n\nEm uma demonstração prática, por exemplo, o assistente conseguiu identificar um livro pela lombada e apresentar uma sinopse da obra.\n\nOs Intelligent Eyewear chegam em versões desenvolvidas com Gentle Monster e Warby Parker, com vendas previstas para 10 de dezembro nos Estados Unidos. Ainda não há informações sobre o lançamento em outros mercados.",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/zRYFImCl2Qgg2S8a3TxrFoCwbjo=/0x0/filters:format(webp):quality(85)/fefb6bb4-e0c1-4150-b8df-d375b688f992.jpg",
+    "https://tl.ctcdn.com.br/yD_0AS_DtQ8XeK1Fe5Mgv5QM2cQ=/1200x675/smart/filters:format(webp):quality(85)/1fcaece7-dc8c-45e9-a2a1-cc0e7a1a0031.jpg",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/h_coGSYJ3J5XQ-hApKZc_iLYDf8=/640x360/smart/filters:format(webp):quality(85)/1fcaece7-dc8c-45e9-a2a1-cc0e7a1a0031.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Samsung"
+   ],
+   "searches": []
   },
   {
    "id": "diarionanovasirieexigeassinaturadoicloud",
@@ -483,7 +661,7 @@
    "url": "https://canaltech.com.br/apps/apple-impoe-limite-de-uso-diario-na-nova-siri-e-exige-assinatura-do-icloud/",
    "published": "2026-11-17T17:12:00+00:00",
    "summary": "A Apple vai colocar limites diários para o uso gratuito de recursos da Siri AI e do Apple Intelligence . O acesso ampliado às ferramentas só será possível a partir de assinaturas pagas do serviço iCloud+ , que já garante maior armazenamento em nuvem nas contas da empresa. O site MacRumors informa que os limites começaram a aparecer na versão Beta do iOS 27.3 . A versão estável da atualização está ",
-   "score": 4.95,
+   "score": 4.41,
    "why": [
     "Tema de alto interesse"
    ],
@@ -510,7 +688,7 @@
    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
    "published": "2026-11-17T16:50:10+00:00",
    "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-   "score": 4.93,
+   "score": 4.39,
    "why": [
     "Tema de alto interesse"
    ],
@@ -528,121 +706,6 @@
    "keywords": [
     "Gemini",
     "AI"
-   ],
-   "searches": []
-  },
-  {
-   "id": "bolsoqueleseusemailsecriaroteirossozinho",
-   "title": "Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/apps/samsung-prepara-agente-de-viagem-de-bolso-que-le-seus-e-mails-e-cria-roteiros-sozinho/",
-   "published": "2026-11-17T15:15:06+00:00",
-   "summary": "A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do Galaxy Claw, conjunto de agentes de IA automatizados para o ecossistema do Galaxy AI em celulares e tablets. Informações sobre o recurso foram encontradas pelo site Android Authority, mas ainda não é possível ver a ferrament",
-   "score": 4.83,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Apps Samsung prepara agente de viagem de bolso que lê seus e-mails e cria roteiros sozinho Por André Lourenti Magalhães • Editado por Jones Oliveira | 17/11/2026 às 12:15\n\nPrefira o CT no Google Ivo Meneghel Junior/Canaltech A Samsung desenvolve um agente de IA para planejar viagens com base em dados da agenda e do e-mail de cada pessoa. O roteiro seria criado automaticamente e pode fazer parte do Galaxy Claw, conjunto de agentes de IA automatizados para o ecossistema do Galaxy AI em celulares e tablets.\n\nInformações sobre o recurso foram encontradas pelo site Android Authority, mas ainda não é possível ver a ferramenta em ação. As linhas de código sugerem que a IA vai conseguir criar um itinerário rápido : é provável que registros como a reserva do hotel e as passagens de voo sejam considerados na hora de montar a programação.\n\nA novidade deve fazer parte de um novo pacote de ferramentas de IA previstas para a One UI 9.5 na linha Galaxy S27. Rumores indicam que a fabricante sul-coreana aposta em funções de agentes para automatizar diferentes tarefas nos celulares.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade\n\nOs vazamentos de novos recursos de IA são associados a uma experiência chamada Galaxy Claw , em que a One UI será capaz de fazer uma série de tarefas autônomas com agentes e conectores integrados aos aplicativos.\n\nAinda não é possível confirmar se esse será o nome usado pela empresa no lançamento, mas informações encontradas no código da One UI 9.5 usam o título. Alguns dos recursos incluem o organizador de viagens, uma ferramenta para limpar o aparelho e um Daily Brief para trazer resumos de mensagens e notificações durante o dia.\n\nEnquanto a versão padrão do Galaxy AI traz recursos que usam IA generativa no processo, o Galaxy Claw permitiria deixar o assistente trabalhando em segundo plano, sem a necessidade de exigir tantas intervenções do usuário. Não há confirmação ainda, mas vazamentos indicam que o pacote pode fazer parte de uma assinatura paga do Galaxy AI para garantir mais limites de uso .\n\nA atualização 9.5 deve ser lançada no primeiro trimestre de 2027, acompanhada do lançamento da linha Galaxy S27. Saiba quais celulares e tablets podem receber a próxima versão da One UI .",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/k1cXg8qJppvFOFKMvJvO-gdmVn0=/0x0/filters:format(webp):quality(85)/b7014dbc-0c88-4e69-b591-bf5b09efe66a.png",
-    "https://tl.ctcdn.com.br/QXcSXVS3Fg4OXVN6dzeUTuTdR4s=/1200x675/smart/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/h70AYmSXMCk3ZeEh34zP6PoS8Rw=/640x360/smart/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Samsung",
-    "prepara",
-    "agente"
-   ],
-   "searches": []
-  },
-  {
-   "id": "voltarecursodecameraesquecidonogalaxys28",
-   "title": "Samsung pode trazer de volta recurso de câmera esquecido no Galaxy S28",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/samsung-pode-trazer-de-volta-recurso-de-camera-esquecido-no-galaxy-s28/",
-   "published": "2026-11-17T15:11:29+00:00",
-   "summary": "A chegada da abertura variável aos iPhone 18 Pro pode ter reacendido o interesse da Samsung por um recurso que a própria fabricante já utilizou no passado. A prova disso é que essa tecnologia estaria sendo considerada para os futuros Galaxy S28 Pro e S28 Ultra , com lançamento esperado para 2028. A informação foi compartilhada pelo leaker Yogesh Brar em uma publicação no X (antigo Twitter), que me",
-   "score": 4.82,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/JCslXY3GDy4Vyyrft7kWWfmM0b4=/0x0/filters:format(webp):quality(85)/225d28e6-73ba-47ce-8b51-b0d6a59ec8dc.jpg",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Smartphone Samsung pode trazer de volta recurso de câmera esquecido no Galaxy S28 Por João Melo | 17/11/2026 às 12:11\n\nPrefira o CT no Google Gabriel Furlan Batista/Canaltech A chegada da abertura variável aos iPhone 18 Pro pode ter reacendido o interesse da Samsung por um recurso que a própria fabricante já utilizou no passado. A prova disso é que essa tecnologia estaria sendo considerada para os futuros Galaxy S28 Pro e S28 Ultra , com lançamento esperado para 2028.\n\nA informação foi compartilhada pelo leaker Yogesh Brar em uma publicação no X (antigo Twitter), que mencionou a possibilidade de a abertura variável retornar aos modelos mais avançados da linha. O próprio informante, no entanto, foi cauteloso ao dizer que o recurso poderia estar mesmo voltando , sem confirmar qualquer decisão da fabricante.\n\nAté agora, não existem detalhes sobre a faixa de abertura que seria utilizada ou sobre possíveis mudanças nos sensores das câmeras. Também não há indicação de que a novidade chegaria ao Galaxy S28 convencional.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Samsung já teve abertura variável no Galaxy S9 A ideia não seria exatamente uma novidade para a Samsung, que implementou um sistema de abertura dupla no Galaxy S9 e no S9+ em 2018. Na época, a câmera principal alternava entre as aberturas f/1.5 e f/2.4, solução que também apareceu em modelos da linha Galaxy S10 antes de ser abandonada pela empresa.\n\nNa prática, a abertura variável permite ajustar a quantidade de luz que chega ao sensor e interfere no resultado das fotografias. Uma abertura maior favorece registros em ambientes escuros e pode gerar um fundo mais desfocado, enquanto uma abertura menor ajuda a controlar a profundidade de campo e a obter imagens mais nítidas em diferentes condições de iluminação.\n\nNo caso dos iPhone 18 Pro, a Apple oferece quatro posições de abertura, entre f/1.48 e f/4.0 , na câmera principal. A possibilidade de fazer ajustes físicos na lente também oferece um controle que não depende exclusivamente do processamento de imagem por software.\n\nA Samsung, contudo, já teria reconsiderado a volta da tecnologia em gerações anteriores. Rumores sobre o recurso circularam antes dos Galaxy S26 Ultra e S27, mas um relato publicado em agosto indicou que a fabricante teria deixado a ideia de lado na linha S27 por causa dos custos de produção e da espessura adicional exigida pelo mecanismo.\n\nPor enquanto, não há como saber se a abertura variável realmente estará nos próximos tops de linha da marca. A série Galaxy S27 nem sequer foi apresentada oficialmente, então ainda existe bastante tempo para mudanças nos planos da Samsung.\n\nAinda em relação à linha S27, rumores indicam que a versão Ultra do aparelho pode perder câmera e decepcionar fãs dos dispositivos premium da fabricante sul-coreana.",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/JCslXY3GDy4Vyyrft7kWWfmM0b4=/0x0/filters:format(webp):quality(85)/225d28e6-73ba-47ce-8b51-b0d6a59ec8dc.jpg",
-    "https://tl.ctcdn.com.br/dH946r-EQ2Z_1_RTKyNWXSeS8sg=/1200x675/smart/filters:format(webp):quality(85)/c7a91c8d-82fc-4f4c-8dd9-c254e9941cc8.png",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/8wL5sJiZtwyvzmxGRuFQb6wNHdg=/640x360/smart/filters:format(webp):quality(85)/c7a91c8d-82fc-4f4c-8dd9-c254e9941cc8.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "Galaxy",
-    "S28"
-   ],
-   "searches": []
-  },
-  {
-   "id": "quasesembordasparafuturoscelularesgalaxy",
-   "title": "Samsung prepara tela quase sem bordas para futuros celulares Galaxy",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/samsung-prepara-tela-quase-sem-bordas-para-futuros-celulares-galaxy/",
-   "published": "2026-11-17T14:30:26+00:00",
-   "summary": "A Samsung está desenvolvendo uma tela com bordas quase invisíveis para uma futura geração de celulares Galaxy . A informação surgiu em uma publicação de um blog sul-coreano na plataforma Naver, mas ainda não há confirmação sobre qual aparelho receberia a novidade, nem uma previsão de lançamento. O principal mistério envolve o formato que a fabricante pretende adotar. Uma possibilidade é desenvolve",
-   "score": 4.78,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Smartphone Samsung prepara tela quase sem bordas para futuros celulares Galaxy Por Nathan Vieira | 17/11/2026 às 11:30\n\nPrefira o CT no Google Matheus Soares de Melo A Samsung está desenvolvendo uma tela com bordas quase invisíveis para uma futura geração de celulares Galaxy . A informação surgiu em uma publicação de um blog sul-coreano na plataforma Naver, mas ainda não há confirmação sobre qual aparelho receberia a novidade, nem uma previsão de lançamento.\n\nO principal mistério envolve o formato que a fabricante pretende adotar. Uma possibilidade é desenvolver uma tela plana com bordas extremamente finas , deixando a parte frontal do celular praticamente toda dedicada à exibição de imagens.\n\nA outra alternativa seria apostar em uma tela curva nos quatro lados. Nesse modelo, o painel ultrapassaria as laterais do aparelho e também avançaria um pouco sobre as extremidades superior e inferior.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Esse segundo caminho lembra os antigos celulares Galaxy Edge, que tinham laterais curvas. A diferença é que o novo formato levaria a curvatura para todas as extremidades da tela.\n\nPor enquanto, não existem informações sobre especificações, funcionamento ou limitações desse painel. O vazamento indica apenas que a Samsung está avaliando a possibilidade de levar o visual para alguns de seus próximos celulares mais caros.\n\nQuem espera encontrar uma tela praticamente sem bordas no próximo lançamento da Samsung provavelmente terá que aguardar mais um pouco.\n\nAs informações disponíveis apontam que a tecnologia não deve chegar à família Galaxy S27 . Os vazamentos sobre a próxima geração de celulares indicam que a empresa trabalha em um visual mais próximo do que já conhecemos, sem uma mudança tão radical na parte frontal.\n\nModelos posteriores, como a linha Galaxy S28 ou algum futuro celular dobrável, aparecem como possibilidades mais prováveis. Ainda assim, não existe confirmação de que qualquer um desses aparelhos receberá o novo painel.\n\nA Samsung também não apresentou um cronograma para transformar o projeto em um produto comercial.\n\nA ideia de criar celulares com a parte frontal praticamente toda ocupada pela tela não é exatamente nova para a fabricante. A Samsung já mostrou protótipos de telas OLED com bordas muito reduzidas em eventos do setor.\n\nA Samsung não seria a única interessada nesse tipo de design. A Apple também estaria estudando uma tela com curvatura nas quatro extremidades para um futuro iPhone.\n\nAs duas empresas já têm uma relação comercial nesse segmento: a Samsung Display fornece painéis OLED para celulares da Apple. Por isso, os avanços da fabricante sul-coreana podem ter impacto em aparelhos de outras marcas.\n\nPor enquanto, a ideia segue no campo dos rumores. Mas vale observar que a Apple e Samsung vão compartilhar tecnologia de tela dobrável .",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
-    "https://tl.ctcdn.com.br/GoMEel2nFA_ZhfUpQosvb3WNYSY=/1200x675/smart/filters:format(webp):quality(85)/eebad7db-4224-4948-a694-b54cebb183e4.jpg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/3p6bgv6JZjUcwaPlkodqo_shmNs=/640x360/smart/filters:format(webp):quality(85)/eebad7db-4224-4948-a694-b54cebb183e4.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Galaxy"
-   ],
-   "searches": []
-  },
-  {
-   "id": "gionaisemportuguesnogeminivejacomoativar",
-   "title": "Google libera novos sotaques regionais em português no Gemini; veja como ativar",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/google-libera-novos-sotaques-regionais-em-portugues-no-gemini-veja-como-ativar/",
-   "published": "2026-11-17T14:07:00+00:00",
-   "summary": "O Google começou a liberar 66 novas opções de vozes regionais para o Gemini em celulares Android e iPhone (iOS). A atualização traz sete variantes de idiomas, entre elas o português do Brasil, inglês (Estados Unidos, Reino Unido e Índia), híndi, indonésio e coreano. Anunciada durante o Google I/O, em maio, a novidade busca deixar a fala da inteligência artificial mais natural e próxima dos diferen",
-   "score": 4.76,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Iq0TxY2olV9Ti6q87p13w3NjFk8=/0x0/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Notícias Tudo sobre Inteligência Artificial Google libera novos sotaques regionais em português no Gemini; veja como ativar Por Viviane França | 17/11/2026 às 11:07\n\nPrefira o CT no Google André Magalhães/Canaltech O Google começou a liberar 66 novas opções de vozes regionais para o Gemini em celulares Android e iPhone (iOS). A atualização traz sete variantes de idiomas, entre elas o português do Brasil, inglês (Estados Unidos, Reino Unido e Índia), híndi, indonésio e coreano.\n\nAnunciada durante o Google I/O, em maio, a novidade busca deixar a fala da inteligência artificial mais natural e próxima dos diferentes públicos . Para desenvolver as vozes, a empresa trabalhou com falantes nativos e ajustou pronúncia, entonação e ritmo de fala. Segundo o Google, as opções foram criadas para ter cadência natural e clareza no dia a dia, sem exagerar nas diferenças regionais.\n\nAs opções funcionam tanto nas conversas por voz do Gemini Live quanto na leitura em voz alta das respostas nos chats tradicionais, acionada pelo ícone de áudio. O Google também cita o uso do recurso para fazer brainstorming em voz alta no Gemini Live e praticar um idioma. A escolha fica unificada em todo o aplicativo , então não é necessário configurar uma voz para cada função.\n\nDe acordo com Neel Joshi, diretor de gerenciamento de produtos do Gemini Live, a proposta é tornar as conversas mais pessoais e familiares . O Reino Unido, por exemplo, recebeu mais de 10 sotaques regionais. O menu não identifica as vozes pelo nome da região, e perguntar ao próprio Gemini qual sotaque está em uso também não ajuda. Por isso, é necessário ouvir as prévias para escolher a opção desejada.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Como ativar as novas vozes do Gemini? A troca pode ser feita pelo aplicativo do Gemini para Android e iOS. Existem dois caminhos para acessar as opções:\n\nPara alterar pelo Gemini Live, os passos são os seguintes:\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ 5 formas de usar o Gemini Live para acompanhar notícias no seu ritmo ”.",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/Iq0TxY2olV9Ti6q87p13w3NjFk8=/0x0/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-    "https://tl.ctcdn.com.br/p6iHRcqv07t89YYadvQJ3dVBwSM=/1200x675/smart/filters:format(webp):quality(85)/78cc2fde-62de-421c-8c3f-92488593dfc6.jpeg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/POHMNJ8XC1lijBEGjBchBlHFH7c=/640x360/smart/filters:format(webp):quality(85)/78cc2fde-62de-421c-8c3f-92488593dfc6.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Gemini"
    ],
    "searches": []
   }
