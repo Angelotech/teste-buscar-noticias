@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-21T16:30:28.004256+00:00",
+ "generated_at": "2026-11-22T00:48:26.004953+00:00",
  "trends": [
   {
-   "term": "psg",
-   "traffic": 2000
+   "term": "mavericks x clippers",
+   "traffic": 200
   },
   {
-   "term": "embraer",
+   "term": "associação chapecoense de futebol",
+   "traffic": 200
+  },
+  {
+   "term": "once caldas x atlético nacional",
+   "traffic": 200
+  },
+  {
+   "term": "timberwolves x grizzlies",
+   "traffic": 200
+  },
+  {
+   "term": "spurs x pelicans",
+   "traffic": 200
+  },
+  {
+   "term": "juliana paiva",
+   "traffic": 100
+  },
+  {
+   "term": "atle",
+   "traffic": 100
+  },
+  {
+   "term": "roberto marinho",
+   "traffic": 200
+  },
+  {
+   "term": "cidadania",
    "traffic": 500
   },
   {
-   "term": "el chapo",
-   "traffic": 200
-  },
-  {
-   "term": "alessandro costa",
-   "traffic": 100
-  },
-  {
-   "term": "sheff utd watford 21/11/2026",
-   "traffic": 1000
-  },
-  {
-   "term": "tallison teixeira",
-   "traffic": 100
-  },
-  {
-   "term": "parma x roma",
-   "traffic": 1000
-  },
-  {
-   "term": "dom mar fan",
-   "traffic": 200
-  },
-  {
-   "term": "willian josé",
-   "traffic": 200
-  },
-  {
-   "term": "niza - psg",
+   "term": "br-163",
    "traffic": 200
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 235,
-  "used_today": 8,
+  "used": 241,
+  "used_today": 14,
   "daily_allowance": 57
  },
  "sources": [
@@ -70,13 +70,13 @@
   {
    "name": "The Verge",
    "feed": "https://www.theverge.com/rss/index.xml",
-   "count": 10,
+   "count": 9,
    "ok": true
   },
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 20,
+   "count": 18,
    "ok": true
   },
   {
@@ -88,7 +88,7 @@
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 22,
+   "count": 13,
    "ok": true
   },
   {
@@ -106,7 +106,7 @@
   {
    "name": "Techcrunch",
    "feed": "https://techcrunch.com/feed/",
-   "count": 20,
+   "count": 19,
    "ok": true
   },
   {
@@ -155,22 +155,18 @@
    "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-iphones/",
    "published": "2026-11-21T12:45:00+00:00",
    "summary": "",
-   "score": 11.77,
+   "score": 11.25,
    "why": [
     "4 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/tv/tv-de-55-ou-65-polegadas-qual-tamanho-escolher-na-black-friday/"
+     "url": "https://canaltech.com.br/produtos/como-descobrir-se-um-desconto-da-black-friday-e-real-8-sinais/"
     },
     {
      "source": "TecMundo",
      "url": "https://www.estadao.com.br/tecmundo/produto-e-review/perfis-e-anuncios-falsos-dominaram-ameacas-na-black-friday-2026-saiba-como-se-proteger/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-do-mercado-livre/"
     },
     {
      "source": "The Verge",
@@ -183,18 +179,6 @@
     {
      "source": "Popsci",
      "url": "https://www.popsci.com/gear/cricut-sticker-cutting-machine-supplies-black-friday-amazon-deals/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/ugreen-black-friday-deals-2026/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/amazon-black-friday-audio-deals-2026/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/cuckoo-rice-cooker-black-friday-deals-amazon-2026/"
     }
    ],
    "image": "https://www.estadao.com.br/resizer/v2/V6MLQSLWZNOAZKX4Q6JXUVURWQ.jpg?quality=80&auth=e23d5bdd30f17d46f00177530f89b127c8db9da285897a819f7baa8768e1f7f6&width=710",
@@ -223,10 +207,141 @@
    "searches": [
     "black friday paraguai 2026",
     "black friday xbox",
+    "black friday fc mobile",
     "black friday",
     "black friday mc lele jp",
-    "black friday tom odell",
-    "black friday nos estados unidos"
+    "black friday tom odell"
+   ]
+  },
+  {
+   "id": "codingriskyaihiddendangersadvicetechtips",
+   "title": "‘Vibe coding’ is risky: Here’s why and what to do about it",
+   "source": "Popsci",
+   "url": "https://www.popsci.com/diy/is-vibe-coding-risky-ai-hidden-dangers-advice-tech-tips/",
+   "published": "2026-11-21T18:00:00+00:00",
+   "summary": "Experimenting with AI could leave your expensive devices bricked, but we've got some advice on what to avoid. The post ‘Vibe coding’ is risky: Here’s why and what to do about it appeared first on Popular Science .",
+   "score": 6.27,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    }
+   ],
+   "image": "https://www.popsci.com/wp-content/uploads/2026/11/00-header_479173.jpg?quality=85",
+   "text": "Smart TVs have been one of the targets of vibe-coded upgrades. Oscar Nord/Unsplash\n\nThanks to rapid advances in AI chatbots like ChatGPT, Gemini, and Claude, “vibe coding” is very much a possibility for anyone: Just use natural language to explain what you want a program to do, and the AI will put it together for you.\n\nThis has led non-programmers to quickly create their own sites and apps, and you’ll find a multitude of examples online. Vibe coding has extended to hardware too—whether it’s people hacking into their 1994 Cherokee Jeep or repurposing an Amazon Kindle.\n\nVibe-coding gadgets can lead to some impressive demonstrations of AI’s current capabilities, but is it wise to try it at home on the devices you use every day? Probably not, and we’ll explain why here.\n\n## What is vibe coding, anyway?\n\nYou can now create mini apps and games very easily. David Nield\n\nIf you’ve never used an AI app to vibe code—or used an AI app at all—then you might be wondering what all the talk about vibe coding actually means. It’s the widely used, informal term for prompting an AI chatbot to create a program: Maybe you want a phone app to track your exercise, for example, or a simple game you can play in your browser.\n\nAs long as your ambitions aren’t too grand—you’re not going to get _GTA VI_ out of this anytime soon—your AI engine of choice will produce a slick, usable, custom-made app for you within a few minutes. If there are any bugs or issues (and there often are), then you can use follow-up prompts to get rid of them.\n\nWhile the end results might need a bit of finessing and don’t match up to what a team of professional software developers can do, it’s incredible to think that AI now enables anyone to write apps of their own, no manual coding required. Need a registration website for your sports club or an app to track trains at your local station? Just ask for it.\n\nThat’s not to say there aren’t downsides to vibe coding, though, which we’ll get to next. AI code isn’t always the most reliable or efficient, and you need to be aware of its limitations—and put safeguards in place to make sure there’s no danger of vibe-coded apps causing issues for other hardware and software.\n\n## Why you should avoid vibe coding your gadgets\n\nYou probably don’t want to be bricking your smart speaker. Google\n\nAs TechCrunch reports, television sets are common targets for some vibe-coded tinkering. Users are using code produced by AI apps to simplify the app launchers, take out sponsored content and advertising, and turn off some of the aggressive tracking features that come with modern-day TVs, for example.\n\nHere’s the problem: While the AI app developers don’t often mention it, AI code often comes with bugs and unintended consequences attached, and if you don’t understand what you’re coding, then you can’t fix it. That’s not so much of an issue if you’re trying to get a custom soccer score tracker running in your browser, but if you’re suddenly bricking your main TV, then that is a problem.\n\nThe operating systems on TVs—as well as tablets, laptops, speakers, fridges, and other gadgets—can be complex, and AIs will often guess at what the right approach is if they don’t know for sure. You risk breaking key functionality, creating new bugs while trying to fix existing ones, and leaving security vulnerabilities open that hackers can target.\n\nOf course it’s easy to see the appeal of an ad-free TV that runs faster than before, but is it worth opening up your television set to malware? Or not being able to use the Netflix app for reasons you can’t fathom? Or one day finding that it’s stuck in an endless loop between shutting down and powering up? These are the risks of vibe coding.\n\n## What to do instead\n\nProjectivy Launcher offers plenty of options on Google TV. Projectivy Launcher\n\nDifferent categories of devices work in different ways, but you’ll often find that there are more reliable ways of customizing your hardware than relying on something you’ve vibe-coded yourself. When it comes to TVs, for example, there are often alternative launchers available, such as Projectivy Launcher for Google TV models, which is ad-free and offers a ton of customization options.\n\nFor routers, there’s something like OpenWrt, which is built and maintained by a large enthusiast community. It lets you do all sorts of things with compatible routers, including blocking ads and trackers, customizing which devices can access the network and when, monitoring bandwidth, and integrating a VPN at the router level.\n\nIf you’re looking to do more with your smart home devices, then Home Assistant is definitely worth a look. The popular alternative smart home system management software gives you much more control over your devices and what you can do with them than the comparable apps offered by Amazon, Google, and Apple.\n\nYou’re still putting your faith in third-party code that you haven’t personally written—but these projects are managed by capable software developers and backed by big user communities that monitor issues like security and compatibility. When it comes to keeping your gadgets usable, they’re the safer bet.\n\n_Disclosure: Ziff Davis, Popular Science’s parent company, filed a lawsuit against OpenAI in April 2025, alleging it infringed Ziff Davis copyrights in training and operating its AI systems._\n\n### 2026 Popular Science Home of the Future Awards\n\n39 products that will improve your everyday life.\n\nSee it\n\n‹›",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.popsci.com/wp-content/uploads/2026/11/00-header_479173.jpg?quality=85",
+    "https://www.popsci.com/wp-content/uploads/2026/11/00-header_479173.jpg?quality=85&w=1200",
+    "https://www.popsci.com/wp-content/uploads/2026/11/00-header_479173.jpg?quality=85&w=2000",
+    "https://www.popsci.com/wp-content/uploads/2026/11/01-arkanoid.jpg?strip=all&quality=85",
+    "https://www.popsci.com/wp-content/uploads/2026/11/02-speaker.jpg?strip=all&quality=85&w=2000",
+    "https://www.popsci.com/wp-content/uploads/2026/11/03-projectivy.jpg?strip=all&quality=85&w=2000",
+    "https://www.popsci.com/wp-content/uploads/2026/07/home-of-the-future-header.jpg?quality=85&w=300",
+    "https://www.popsci.com/diy/is-vibe-coding-risky-ai-hidden-dangers-advice-tech-tips/"
+   ],
+   "videos": [
+    "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+   ],
+   "keywords": [
+    "Here"
+   ],
+   "searches": [
+    "here without you",
+    "here comes the sun",
+    "here",
+    "here we come wassailing",
+    "here i am to worship",
+    "here with me"
+   ]
+  },
+  {
+   "id": "121proanthropiceoparadoxodoipobilionario",
+   "title": "Anthropic e o paradoxo do IPO bilionário",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/",
+   "published": "2026-11-21T17:29:14+00:00",
+   "summary": "Maior oferta pública da história movimentou US$ 93,5 bilhões, mas queda das ações após a estreia expôs a cautela dos investidores com empresas de inteligência artificial O post Anthropic e o paradoxo do IPO bilionário apareceu primeiro em Olhar Digital .",
+   "score": 6.24,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/ioi-properties-ipo-fundo-imobiliario/"
+    }
+   ],
+   "image": "",
+   "text": "- Pro\n\n# Anthropic e o paradoxo do IPO bilionário\n\nMaior oferta pública da história movimentou US$ 93,5 bilhões, mas queda das ações após a estreia expôs a cautela dos investidores com empresas de inteligência artificial\n\n[](https://olhardigital.com.br/author/ana-figueiredo/)\n\nAna Luiza Figueiredo21/11/2026 14:29\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nExecutivos da Anthropic celebram a estreia da empresa na Nasdaq durante a cerimônia de toque do sino - - Crédito: Reprodução/Nasdaq\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F&title=Anthropic+e+o+paradoxo+do+IPO+bilion%C3%A1rio%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F&text=Anthropic+e+o+paradoxo+do+IPO+bilion%C3%A1rio%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nA Anthropic protagonizou o maior IPO da história, levantando US$ 93,5 bilhões em sua estreia na Nasdaq, nos Estados Unidos, em 19 de novembro de 2026. Apesar da forte valorização inicial, as ações da desenvolvedora do Claude recuaram no pregão seguinte, em meio a um cenário de pessimismo no mercado de tecnologia e questionamentos sobre as avaliações das empresas de inteligência artificial (IA).\n\nContinua após a publicidade\n\nO desempenho da companhia expôs um contraste entre o volume de recursos movimentado no mercado privado e a reação dos investidores na Bolsa. Mesmo com uma operação histórica e participações bilionárias para fundos de venture capital, a Anthropic encerrou a primeira semana de negociações com suas ações próximas do preço estabelecido na oferta pública, enquanto outras gigantes de tecnologia também enfrentavam perdas.\n\n## O sucesso do IPO não se sustentou na Bolsa\n\nA Anthropic definiu o preço de suas ações em US$ 83 durante o IPO. No primeiro dia de negociações, os papéis chegaram a US$ 111,50 na abertura e encerraram o pregão com valorização de aproximadamente 17%.\n\nO movimento, entretanto, perdeu força rapidamente. Na sexta-feira (20), as ações fecharam cotadas a **US$ 88,91**, uma queda de 8,5% em relação ao encerramento do dia anterior. Nas negociações após o fechamento, chegaram a US$ 87,80, com recuo adicional de 1,25%.\n\nApesar da desvalorização, os papéis ainda estavam acima do preço definido no IPO. A capitalização de mercado da Anthropic ficou próxima de US$ 1,2 trilhão, enquanto sua avaliação totalmente diluída chegou a aproximadamente US$ 1,6 trilhão.\n\nA Reuters destaca que a empresa estava sendo negociada por cerca de 40 vezes sua receita dos últimos 12 meses. A avaliação elevada contribuiu para as preocupações sobre a capacidade de sustentar o valor das ações, especialmente em um momento de maior cautela dos investidores.\n\nA queda também ocorreu em meio a perdas generalizadas no setor. Segundo a CNBC, o Nasdaq recuou 10% nos cinco pregões da semana, em seu pior desempenho desde os primeiros meses da pandemia de Covid-19, em 2020. A Nvidia acumulou desvalorização semanal de 23%, a maior em 18 anos, enquanto Meta, Amazon e Microsoft também registraram perdas.\n\nPara Robert Pavlik, gestor sênior de portfólio da Dakota Wealth, a reação não significa necessariamente que os investidores tenham perdido a confiança na Anthropic. Em declaração à Reuters, ele afirmou que o ceticismo está relacionado ao mercado como um todo, e não a problemas específicos da empresa, de sua administração ou de seu negócio.\n\n## Mercado privado e Bolsa apresentam dinâmicas diferentes\n\nO tamanho do IPO da Anthropic também chama atenção quando comparado ao histórico recente de abertura de capital de empresas de tecnologia. A companhia levantou US$ 93,5 bilhões na oferta pública e recebeu outros US$ 26 bilhões de grandes empresas de tecnologia que compraram ações pelo preço estabelecido no IPO.\n\nAté setembro, investidores haviam aportado US$ 141 bilhões na Anthropic, segundo informações do prospecto da companhia citadas pela CNBC. Parte desse capital veio de fundos de venture capital que agora possuem participações avaliadas em dezenas de bilhões de dólares.\n\nMenlo Ventures e Lightspeed Venture Partners, por exemplo, tinham aproximadamente US$ 25 bilhões em ações da Anthropic cada uma, considerando o preço do IPO. Já a participação da Bessemer Venture Partners estava avaliada em cerca de US$ 10 bilhões.\n\nContinua após a publicidade\n\nEsse resultado contrasta com um período de menor atividade no mercado de ofertas públicas. De acordo com dados do professor emérito da Universidade da Flórida Jay Ritter, os IPOs de empresas apoiadas por venture capital movimentaram US$ 73 bilhões em 2021. Nos quatro anos seguintes, o total somado foi de apenas US$ 39 bilhões.\n\nA quantidade de empresas de tecnologia que abriram capital também diminuiu. Em 2021, foram 126 companhias, contra 34 em 2025. Nesse intervalo, muitas startups que planejavam chegar à Bolsa enfrentaram cortes de empregos, rodadas de investimento com avaliações menores e aquisições por valores reduzidos.\n\nSomesh Dash, sócio-geral da gestora de venture capital IVP, afirmou à CNBC que, até pouco tempo atrás, a orientação predominante no Vale do Silício era permanecer no mercado privado pelo maior tempo possível. Entre os motivos estavam a duração e a dificuldade do processo de abertura de capital.\n\nContinua após a publicidade\n\n## Queda das ações aumenta cautela com empresas de IA\n\nA reação à estreia da Anthropic também acontece em um momento de questionamentos sobre os investimentos necessários para desenvolver e operar inteligência artificial. Segundo a Reuters, algumas estimativas apontam que os gastos com a tecnologia podem ultrapassar US$ 1 trilhão neste ano.\n\nA preocupação dos investidores está relacionada à velocidade com que esses aportes podem gerar retornos financeiros. A construção de data centers também enfrenta possíveis obstáculos políticos, enquanto as empresas do setor continuam dependentes de grandes investimentos em chips, memória e infraestrutura computacional.\n\nApesar das dúvidas, a CNBC destaca indicadores apresentados pela própria Anthropic para demonstrar a eficiência de suas operações. No terceiro trimestre, a empresa informou ter gerado US$ 1,72 em receita para cada dólar gasto com capacidade computacional. Um ano antes, o indicador era de US$ 0,68.\n\nContinua após a publicidade\n\nO mercado também acompanha a possibilidade de uma nova grande abertura de capital no setor. A OpenAI indicou que pode realizar seu IPO em 2027, o que representaria outro teste para o interesse dos investidores em empresas de inteligência artificial avaliadas em cifras trilionárias.\n\nEnquanto isso, a Reuters aponta que outras companhias de IA e infraestrutura adiaram seus planos de abertura de capital para 2027. A volatilidade das ações da Anthropic, portanto, ocorre em um momento de atenção renovada à relação entre as avaliações das empresas, os investimentos necessários para seu crescimento e a disposição do mercado em sustentar esses valores.\n\nAna Luiza Figueiredo\n\nAna Figueiredo é editora de tecnologia do Olhar Digital. É formada em Jornalismo pela Universidade Federal de Uberlândia (UFU).\n\nVer todos os artigos →\n\nTags: anthropic ipo ipo da anthropic\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F&title=Anthropic+e+o+paradoxo+do+IPO+bilion%C3%A1rio%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Fpro%2Fanthropic-e-o-paradoxo-do-ipo-bilionario%2F&text=Anthropic+e+o+paradoxo+do+IPO+bilion%C3%A1rio%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/21/pro/anthropic-e-o-paradoxo-do-ipo-bilionario/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProUnião Europeia propõe imposto de 3% sobre receitas de big techsAna Luiza Figueiredo \\\\\n\\\\\nProTrump ameaça taxar empresas que construírem data centers fora dos EUAAna Luiza Figueiredo \\\\\n\\\\\nProQueda das ações tira Nvidia do top 3 no ranking de empresas dos EUAValdir Antonelli \\\\\n\\\\\nProJensen Huang fez da humilhação uma rotina na Nvidia, diz jornalValdir Antonelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic-sino.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2022/10/analuiza-150x150.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/anthropic-sino.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/ue-big-techs-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/09/donald-trump-3-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/nvidia-4-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/jensen_huang_2-1-1-365x232.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "IPO"
+   ],
+   "searches": [
+    "ipo anthropic",
+    "ipo spacex",
+    "ipod",
+    "ipogo",
+    "ipod touch",
+    "ipogo ios"
+   ]
+  },
+  {
+   "id": "naochegamaacordonaonusobrearmasautonomas",
+   "title": "Países não chegam a acordo na ONU sobre armas autônomas",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/21/robotica/paises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas/",
+   "published": "2026-11-21T16:40:12+00:00",
+   "summary": "Reunião em Genebra terminou sem consenso sobre o início das negociações para regulamentar armas que selecionam e atacam alvos sem intervenção humana O post Países não chegam a acordo na ONU sobre armas autônomas apareceu primeiro em Olhar Digital .",
+   "score": 5.49,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/paises-fecham-acordo-na-onu-para-negociar-regras-sobre-armas-autonomas-ate-2028/"
+    }
+   ],
+   "image": "",
+   "text": "- Robótica\n\n# Países não chegam a acordo na ONU sobre armas autônomas\n\nReunião em Genebra terminou sem consenso sobre o início das negociações para regulamentar armas que selecionam e atacam alvos sem intervenção humana\n\n[](https://olhardigital.com.br/author/ana-figueiredo/)\n\nAna Luiza Figueiredo21/11/2026 13:40\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nImagem ilustrativa representa robôs em um cenário de guerra - Imagem: Pavel Chagochkin/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F&title=Pa%C3%ADses+n%C3%A3o+chegam+a+acordo+na+ONU+sobre+armas+aut%C3%B4nomas%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F&text=Pa%C3%ADses+n%C3%A3o+chegam+a+acordo+na+ONU+sobre+armas+aut%C3%B4nomas%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/21/robotica/paises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nA conferência da Organização das Nações Unidas ( ONU) sobre os chamados **“robôs assassinos”** chegou à reta final nesta sexta-feira (20), em Genebra, sem que os países alcançassem um acordo para iniciar negociações sobre a regulamentação desse tipo de armamento. A principal resistência partiu da Rússia, que apresentou objeções ao longo das discussões.\n\nContinua após a publicidade\n\nConhecidos como **sistemas de armas autônomas (SALA)**, esses equipamentos conseguem selecionar e atacar alvos sem intervenção humana nessas etapas. Embora armamentos com características autônomas já existam há décadas, os avanços da inteligência artificial ampliaram a preocupação internacional sobre os riscos de sua utilização e a necessidade de estabelecer regras para seu desenvolvimento e emprego.\n\n## Negociações enfrentam resistência da Rússia\n\nDelegações de 128 países estão reunidas desde segunda-feira (16) para discutir a possibilidade de abrir negociações sobre um marco regulatório internacional. O encontro ocorre após mais de dez anos de debates sobre o tema.\n\nDesde o começo da conferência, os representantes enfrentaram obstáculos nas conversas com Moscou. Inicialmente, a Rússia se posicionou contra a participação de pessoas externas nas discussões. Posteriormente, o país passou a exigir diversas alterações na versão final do texto apresentado às delegações.\n\nApesar das divergências, um diplomata envolvido nas negociações afirmou que houve aproximação entre as posições dos países nos últimos dias. Segundo ele, a maioria das delegações já estaria disposta a apoiar o início das tratativas.\n\n“Estamos muito perto de um consenso sobre a necessidade de iniciar negociações. Apenas uma delegação ainda se opõe ativamente à abertura das negociações”, declarou o diplomata, sem identificar qual país mantém a resistência.\n\nAlém da decisão sobre o início das negociações, os representantes precisam estabelecer como será conduzido o processo e quanto tempo ele deverá durar.\n\n## Países divergem sobre prazo e formato do acordo\n\nUma das propostas em discussão envolve a duração das negociações. No início de outubro, os Estados Unidos sugeriram um processo de cinco anos. As organizações não governamentais (ONGs) que acompanham o assunto, por outro lado, defendem que o prazo seja reduzido para apenas um ano.\n\nTambém existe uma divergência sobre a natureza do eventual acordo internacional. A maioria dos países e as organizações envolvidas na campanha defendem a criação de um **instrumento juridicamente vinculante**, que estabeleça obrigações para os signatários.\n\nEstados Unidos e Rússia estão entre os países contrários a esse tipo de compromisso. A falta de consenso representa um obstáculo adicional porque as decisões tomadas no âmbito da Convenção sobre Certas Armas Convencionais (CCAC) dependem da concordância de todos os participantes.\n\n## ONU alerta para uso de armas autônomas em conflitos\n\nA preocupação com os sistemas autônomos também está relacionada à sua utilização em cenários de guerra. De acordo com a campanha Stop Killer Robots, coalizão internacional formada por mais de 300 organizações, esse tipo de armamento já foi utilizado e testado em conflitos, especialmente na Ucrânia.\n\nContinua após a publicidade\n\nNa abertura da reunião em Genebra, o secretário-geral da ONU, **António Guterres**, pediu que os países trabalhem para impedir a disseminação dessas tecnologias e seu emprego em confrontos.\n\n“Exorto-os a iniciar negociações com vistas a um instrumento juridicamente vinculante para regulamentar os sistemas de armas autônomas, que inclua proibições e restrições claras”, afirmou Guterres.\n\nO secretário-geral também pediu às delegações que atuem “para impedir o uso e a proliferação dessas armas impiedosas”. O apelo reforça a pressão internacional pela definição de limites para equipamentos capazes de tomar decisões sobre ataques sem participação humana direta.\n\nAna Luiza Figueiredo\n\nAna Figueiredo é editora de tecnologia do Olhar Digital. É formada em Jornalismo pela Universidade Federal de Uberlândia (UFU).\n\nVer todos os artigos →\n\nTags: onu Robôs Robótica\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F&title=Pa%C3%ADses+n%C3%A3o+chegam+a+acordo+na+ONU+sobre+armas+aut%C3%B4nomas%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F21%2Frobotica%2Fpaises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas%2F&text=Pa%C3%ADses+n%C3%A3o+chegam+a+acordo+na+ONU+sobre+armas+aut%C3%B4nomas%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/21/robotica/paises-nao-chegam-a-acordo-na-onu-sobre-armas-autonomas/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nRobóticaRobô chinês de 4 metros tem capacidade para erguer 500 quilosValdir Antonelli \\\\\n\\\\\nRobóticaCães-robôs enfrentam mais de 3 mil degraus em competição na ChinaEnzo Monteiro \\\\\n\\\\\nRobóticaRobô humanoide suspeito de assédio é apreendido na AlemanhaRodrigo Mozelli \\\\\n\\\\\nRobóticaRobô humanoide acerta até 90% dos chutes ao gol em testes reaisValdir Antonelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/robos-assassinos.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2022/10/analuiza-150x150.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/robos-assassinos-1920x1080.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/neo1-365x232.webp",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/IA-SALVA-TARTARUGAS-10-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/09/manifestacao-de-robos-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/10/robo-humanoide-futebol-365x232.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "ONU"
+   ],
+   "searches": [
+    "onu",
+    "onu ao vivo 2026",
+    "onu ao vivo",
+    "onuha",
+    "onu live",
+    "onu lula"
    ]
   },
   {
@@ -236,7 +351,7 @@
    "url": "https://olhardigital.com.br/2026/11/21/pro/uniao-europeia-propoe-imposto-de-3-sobre-receitas-de-big-techs/",
    "published": "2026-11-21T14:50:04+00:00",
    "summary": "União Europeia propõe imposto anual de 3% sobre receitas digitais de grandes empresas para financiar o orçamento entre 2028 e 2034 O post União Europeia propõe imposto de 3% sobre receitas de big techs apareceu primeiro em Olhar Digital .",
-   "score": 5.9,
+   "score": 5.38,
    "why": [
     "2 sites cobrindo"
    ],
@@ -271,53 +386,128 @@
    "searches": []
   },
   {
-   "id": "tisparacurtirofimdesemananopceconsoles21",
-   "title": "5 jogos grátis para curtir o fim de semana no PC, consoles e mobile! (21)",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/5-jogos-gratis-para-curtir-o-fim-de-semana-no-pc-e-consoles-21/",
-   "published": "2026-11-21T11:00:00+00:00",
-   "summary": "",
-   "score": 5.66,
+   "id": "naltechcombrnotebookreviewasuszenbooks14",
+   "title": "Review ASUS Zenbook S14 | Uma opção sólida no segmento de notebooks premium",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/notebook/review-asus-zenbook-s14/",
+   "published": "2026-11-21T23:00:00+00:00",
+   "summary": "No começo de 2026, a Intel trouxe a geração de CPUs Panther Lake , com a promessa de desempenho e eficiência energética ao mesmo tempo. Saltando para o fim do ano, já sabemos que isso é possível e a ASUS foi uma das primeiras marcas a trazer a tecnologia para o Brasil. Depois de uma prévia do Zenbook S14 , chegou a hora das impressões finais. A linha Zenbook traz o que a gigante taiwanesa tem de m",
+   "score": 4.89,
    "why": [
-    "2 sites cobrindo"
+    "Tema de alto interesse"
    ],
-   "also_in": [
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/games/ainda-tem-jogo-gratis-em-fim-de-semana-de-gta-6-descubra/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/BY3UGDNCZBH25CXRDVMVVOTR64.jpg?quality=80&auth=36667e8f5a6fb784da2ac438db8443e50570ed8dce7ab653f710797447f33de4&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Voxl\n\nPUBLICIDADE\n\nPor Diego Borges de Sa\n\n21/11/2026 \\| 08h00\n\nNotícia de presente\n\nSábado é o dia da nossa tradicional **lista de jogos gratuitos.** Ela traz uma série de indicações para que você possa se divertir no fim de semana sem pagar nada por isso, **seja no PC ou nos consoles da atual geração.**\n\n**E o destaque dessa vez é Mistfall Hunter.** O jogo de RPG e ação em terceira pessoa que permite que você encare desafios e criatura sozinho, ou junto com outros jogadores, está em periódo gratuito na Steam. **Confira a lista completa de indicações de jogos grátis para consoles e PC!**\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Mistfall Hunter\n\n_**Mistfall Hunter**_ **é um RPG de ação ambientado em um universo de fantasia sombria.** No jogo, você pode explorar o mapa sozinho ou em equipe, combinando habilidades, talentos e equipamentos de diferentes classes para enfrentar monstros e outros jogadores em combates intensos, com o objetivo de sobreviver e escapar com os espólios coletados. **O título está disponível para jogar de graça no Steam durante o evento de fim de semana gratuito, que vai até a segunda-feira, dia 23 de novembro, às 15h no horário de Brasília.**\n\nMistfall Hunter Foto: Steam\n\n### Crusader Kings III\n\nUm dos maiores sucessos da Paradox Interactive, **Crusader Kings III coloca você no comando de uma dinastia medieval ao longo de séculos,** misturando alta estratégia com elementos profundos de RPG. É preciso gerenciar casamentos, alianças políticas, guerras, intrigas na corte e sucessões para garantir que sua linhagem prospere e expanda seu território pela Europa, África ou Ásia. **O jogo pode ser experimentado gratuitamente na Steam até o dia 23 de novembro, às 15h no horário de Brasília.**\n\nCrusader Kings III Foto: Steam\n\n### Mark of the Deep\n\n**Criado pelo estúdio brasileiro Mad Mimic, Mark of the Deep é uma aventura de ação com temática pirata,** que mistura exploração inspirada em metroidvania com combates desafiadores no estilo soulslike. Você assume o papel do pirata Rookie em uma ilha amaldiçoada, enfrentando mais de 80 tipos de inimigos e 16 chefes enquanto busca resgatar sua tripulação desaparecida, em uma narrativa cujas escolhas levam a múltiplos finais. **O jogo está totalmente gratuito para resgate permanente na Epic Games Store até o dia 26 de novembro.**\n\nMark of the Deep Foto: Steam\n\n### Lonesome Village\n\n_**Lonesome Village**_ **é uma aventura aconchegante que combina resolução de quebra-cabeças com simulação de vida.** Na trama, uma torre misteriosa surge em uma vila pacata, cabendo ao jogador subir seus andares, superar enigmas e resgatar os moradores desaparecidos enquanto reconstrói a comunidade e descobre segredos sobre o passado do protagonista. **O título está sendo oferecido de graça na Epic Games Store Mobile para Android e iOS até o dia 26 de novembro.**\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nLonesome Village Foto: Steam\n\n### Deadlink\n\n_**Deadlink**_ **é um jogo de tiro em primeira pessoa com elementos de roguelite ambientado em um universo cyberpunk.** Você controla um agente de elite da Agência de Segurança Corporativa, pilotando conchas de combate autônomas para invadir megacorporações corruptas, desviar de ataques em alta velocidade e combinar armas e implantes cibernéticos em arenas cheias de inimigos. **O título pode ser jogado gratuitamente nos consoles Xbox Series X e S durante este fim de semana.**\n\nPUBLICIDADE\n\nDeadlink Foto: Steam\n\n**E você, tem algum jogo grátis para indicar? Deixe sua sugestão aqui nos comentários!**\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo Sobre\n\n- Steam\n- PlayStation\n- Xbox\n\n0 Comentário\n\n36 debatedores online36 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nPlaca de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB\\\\\n\\\\\nR$ 941,16\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nJogo Frostpunk para PC\\\\\n\\\\\nR$ 13,35\\\\\n\\\\\nGamer · Hype Games\n- \\\\\n\\\\\nJBL Quantum 400, Headset Gamer, Preto\\\\\n\\\\\nR$ 299,00\\\\\n\\\\\nGamer · Loja iPlace\n- \\\\\n\\\\\nMouse Gamer Alienware Pro sem fio\\\\\n\\\\\nR$ 1.149,01\\\\\n\\\\\nGamer · Dell Technologies Brazil\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nMicrofone Gamer Condensador Fifine SuperFrame Edition\\\\\n\\\\\nR$ 111,75\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nJogo Grand Theft Auto VI Edição Standard - Playstation 5\\\\\n\\\\\nR$ 449,90\\\\\n\\\\\nGamer · Shopee\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nPack de jogos LEGO DC vs Marvel\\\\\n\\\\\nR$ 54,00\\\\\n\\\\\nGamer · Green Man Gaming\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nMais lidas\n\n1.\\\\\n\\\\\nGalaxy Z Fold 8 ganha versão de luxo inspirada em GTA 6 por até R$ 72 mil 2.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nO que comprar na Black Friday: iPhones 5.\\\\\n\\\\\nFalhas graves no NGINX permitem invasão e controle de servidores\n\nPUBLICIDADE\n\nPUBLICIDADE\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/WPBJ5ksWgkWHRzzBD28YlkW56D8=/0x0/filters:format(webp):quality(85)/7e956d78-9b0a-45f0-a481-2146d2e3c23a.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nAnálise\n\nTudo sobre Notebook\n\n# Review ASUS Zenbook S14 \\| Uma opção sólida no segmento de notebooks premium\n\nPor Raphael Giannotti • Editado por Jones Oliveira \\| 21/11/2026 às 20:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/a025af4e-4b5c-41b3-96d4-3a452d850093.jpg)Raphael Giannotti/Canaltech\n\nNo começo de 2026, a Intel trouxe a geração de **CPUs Panther Lake**, com a promessa de desempenho e eficiência energética ao mesmo tempo. Saltando para o fim do ano, já sabemos que isso é possível e a ASUS foi uma das primeiras marcas a trazer a tecnologia para o Brasil. Depois de uma prévia do Zenbook S14, chegou a hora das impressões finais.\n\nContinua após a publicidade\n\nA linha Zenbook traz o que a gigante taiwanesa tem de melhor em termos de construção e hardware, são verdadeiros notebooks premium. Diante de algumas ofertas no mercado, já dá para adiantar que ele tem um dos melhores conjuntos disponíveis hoje.\n\n## Prós\n\n- Corpo fino e muito leve\n- Conjunto de hardware de ponta\n- Tela excelente com OLED e alta resolução\n- Teclado e touchpads excelentes\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Contras\n\n- Qualidade sonora dos alto-falantes não se destaca\n\n## Design e construção\n\nDesde meu primeiro contato com a linha Zenbook com o modelo A14 em 2025 (pesando inacreditáveis 900 gramas), equipado com chip Snapdragon X, eu me tornei um fã da construção da ASUS com esses modelos. Não é diferente com o Zenbook S14, que **ainda é feito em Ceraluminum**, tecnologia exclusiva da ASUS, que traz **resistência e leveza ao notebook**.\n\nContinua após a publicidade\n\n/2ce9dee3-59e6-4784-a41d-9fdfdf4995ed.jpg)\n\n/79207ed1-b518-4c55-88d0-5688a2b08faf.png)\n\n/e18a1d93-48b9-47c4-8d09-a0692cda9906.png)\n\n1 / 4\n\nDesign do ASUS Zenbook S14\n\nRaphael Giannotti/Canaltech\n\nEsse modelo é bastante minimalista e elegante, **medindo somente 1,1 cm de espessura e pesando 1,2 kg**. Esse design facilita muito o transporte para quem trabalha se deslocando. Diferente do A14 e do Dell XPS 14 2026 que viajaram comigo (indo até à China, inclusive), não tive oportunidades de levar o Zenbook S14 comigo. Mas não tenho dúvida de que ele seria mais leve do que a muda de roupa na mochila.\n\n## Tela\n\nO Zenbook S14, como diz em seu nome, conta com uma **tela de 14 polegadas**, equipada com **painel OLED ASUS Lumina**, com excelentes ajustes entregando preto profundo e cores vivas, **100% DCI-P3** de gama de cores, **HDR True Black e até 1100 nits de brilho (com HDR)**. Esse último quesito é importante, já que o acabamento da tela é glossy, refletindo qualquer coisa em um ambiente iluminado.\n\nContinua após a publicidade\n\nAlém disso, a **resolução 2880 x 1800** proporciona altíssima densidade de pixels, gerando imagens muito nítidas. Para melhorar ainda mais a experiência de usuário, a tela conta ainda com **taxa de atualização de imagem de 120 Hz**.\n\n## Teclado e touchpad\n\nQuando se trata de notebooks, a ASUS tem alguns dos melhores teclados e touchpads do mercado, principalmente nas linhas mais premium como o Zenbook. Antes de falar dele, tenho usado um ProArt com RTX Spark para review e o mesmo pode ser visto nessa linha que é ainda mais entusiasta.\n\nContinua após a publicidade\n\nAs teclas têm **deslocamento de 1,1 mm, garantindo maior conforto na digitação**. E, diferente de como a Dell faz com os XPS, que são concorrentes do Zenbook, o teclado é elevado, como acontece em teclados de PC de mesa, o que facilita ao digitar (pelo menos para mim, um hard user de desktop). **O touchpad não é diferente: é extremamente confortável, espaçoso e com ótimo feedback tátil nos cliques**.\n\n## Portas e conectividade\n\nUm dos maiores problemas de ultrabooks, principalmente por conta do foco em chassi finos e leves, é a quantidade de portas de conexão. O Zenbook S14 não inova nesse sentido, mas ele certamente entrega um pouco mais em relação aos concorrentes. Nele, temos **um HDMI, duas portas USB-C e uma porta USB-A**.\n\nContinua após a publicidade\n\nEm termos de conexão sem fio, o Zenbook S14 entrega o que existe de melhor hoje: **Wi-Fi 7 e Bluetooth 6.0**. Isso significa que você fará uso máximo da sua rede, sem perdas significativas, e a comunicação com dispositivos sem fio é rápida.\n\n### Especificações técnicas do ASUS Zenbook S14\n\n- Processador: Intel Core Ultra 9 Processor 386H (16-core, cache de 18 MB, até 4.9 GHz)\n- GPU: Intel Graphics (integrada)\n- Memória RAM: 32 GB DDR5\n- Armazenamento: SSD NVMe de 1 TB (PCIe 4.0)\n- Tela: 14 polegadas OLED, 2880 x 1800, proporção 16:10, 120 Hz, 500 nits de brilho (1.100 no HDR), HDR TrueBlack\n- Sistema Operacional: Windows 11 Home\n- Câmera: Full HF com Windows Hello\n- Conectividade: Wi-Fi 7 e Bluetooth 6.0\n- Bateria: 77 WHr\n- Portas: 2x USB-C Thunderbolt 4 (suporte a vídeo e carregamento), 1x USB-A 3.2 geração 2, 1x conector de áudio 3,5 mm, 1x HDMI 2.1\n- Dimensões (LxPxA): 31 cm x 21,4 cm x 1,19-1,29 cm\n- Peso: 1,20 kg\n\n## Bateria e temperatura\n\nContinua após a publicidade\n\nApesar de ser um notebook bastante compacto, o Zenbook S14 consegue refrigerar bem o chip da Intel. Mesmo em um teste pesado, o sistema de refrigeração do notebook **manteve o Core Ultra 9 386H em até 92 graus**. Esse é um cenário extremo, que gera muito ruído das ventoinhas, mas no dia a dia, a temperatura máxima **dificilmente passa de 60 graus e cerca de 40 graus em ocioso**.\n\nCom uma **bateria de 77 Whr** e um chip eficiente como esse da Intel, foi possível alcançar a impressionante marca de **18 horas de autonomia** no teste do Procyon, que só para ao drenar a bateria completamente. Assim, **ele assume a segunda posição da nossa lista**, ficando pouca coisa atrás do rival Dell XPS 14.\n\nContinua após a publicidade\n\n## Desempenho\n\nAqui entra o potencial do processador **Intel Core Ultra 9 386H** em diferentes tarefas de produtividade e IA. Considerando os modelos de notebooks que já passaram em nossas mãos, dá para dizer que o Zenbook S14 se enquadra como uma das opções mais potentes hoje nesse segmento de ultrabook premium.\n\n### Inteligência Artificial\n\nDiferentes testes medem a capacidade do chip desse notebook, que conta com uma NPU integrada, em processamento de IA. Ele não faz feio, mas também não se destaca em meio aos outros modelos testados.\n\nContinua após a publicidade\n\n### Produtividade\n\nJá em tarefas de produtividade, o Zenbook S14 se sai bem com seu chip da Intel, aliado aos 32 GB de memória e SSD super rápido.\n\nContinua após a publicidade\n\n## Concorrentes\n\nO ASUS Zenbook S14 com Core Ultra 9 Panther Lake e as configurações apresentadas aqui pode ser encontrado por **cerca de R$ 14.000**, sendo uma das melhores opções nesse segmento hoje no mercado. Mas, como costumamos fazer, temos outras indicações também.\n\nUma delas é o **Samsung Galaxy Book6 Pro**, mas equipado com uma Core Ultra X7 358H com muito mais capacidade gráfica por causa de sua iGPU. O restante das especificações traz ainda uma tela AMOLED de 14 polegadas, 32 GB de RAM, 1 TB de SSD e bateria de 67 Whr. Tudo isso custando **em torno de R$ 13.000**.\n\nCompre o Samsung Galaxy Book6 Pro\n\nA segunda indicação fica para o **Dell XPS 13, mas com especificaçõ** es mais modestas, como um Core Ultra 7 355, 32 GB de RAM e SSD de 512 GB. Essa escolha se deve ao preço do Dell XPS equivalente que analise i que custa consideravelmente mais. Esse, por exemplo, **custa em torno de R$ 13.000**.\n\nCompre o Dell XPS 13\n\n## Vale a pena comprar o ASUS Zenbook S14?\n\nComo disse anteriormente, o Zenbook S14 entrega muita qualidade na sua construção, tem um design que me agradou bastante e hardware forte o suficiente para muitas tarefas diferentes. **Caso você precise trabalhar viajando, ele é o modelo ideal**. Apesar de notebooks premium dessa categoria não serem baratos, **esse modelo da ASUS é um dos melhores custo-benefício do mercado brasileiro**. Então, sim, recomendo o Zenbook S14.\n\nCompre o ASUS Zenbook S14",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/BY3UGDNCZBH25CXRDVMVVOTR64.jpg?quality=80&auth=36667e8f5a6fb784da2ac438db8443e50570ed8dce7ab653f710797447f33de4&width=710",
-    "https://www.estadao.com.br/resizer/v2/AXX576WIMRES3FHRXQPBZNDQ5U.jpg?quality=80&auth=a4a3fdd563ecb7f86165c9c67b4d3ddd64d4cafa5b7fc3975ead65ec30eeaaaf&width=1200&height=630&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/7YGMEPDMIJILTMFRSFRI2BCLSM.png?quality=80&auth=a60003e552df42f50ed62d8d7d00a7f954128ba490d69ae04777dd98fcc83883&width=60&height=60&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/BY3UGDNCZBH25CXRDVMVVOTR64.jpg?quality=80&auth=36667e8f5a6fb784da2ac438db8443e50570ed8dce7ab653f710797447f33de4&width=1200",
-    "https://www.estadao.com.br/resizer/v2/CPWUVVRM3RADLKV5FD2JEFF7OA.jpg?quality=80&auth=982253bd0afde152e9fe69b02cd0fbdd91c6a4fc644b545446899db8f4681b7c&width=1200",
-    "https://www.estadao.com.br/resizer/v2/B6WKWXRPHZAQNBS5FCVIO5RRHQ.jpg?quality=80&auth=a4dd140affbd3a867efd078757431821c9f1366e57bb256e19a4d93ca7829501&width=1200",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/UUZP2XQPKJFTTKHBQJZ7YPIQRA.jpg?quality=80&auth=0990d621b37edec4d254b4ffd9b89001bea16e7e507855b4d770c9c9dcdd3bab&width=1200",
-    "https://www.estadao.com.br/resizer/v2/7WJGPUGFMNA6LIMK5BB5TIIPJ4.jpg?quality=80&auth=7f23cb3b3bfd21f3b3af864f7b84cfcad70db5a7ab8835a43d0046bcfcab05d3&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/902744c4528cef98b0d656fd9da48af721f0ee5f64a707660d59f94a17d78015.webp",
-    "https://e-afiliacao.estadao.com.br/storage/products/a5f2ffd0868d397383081d799234284dc21e257da7740a0ca0fb45e8892a027a.webp"
+    "https://tl.ctcdn.com.br/WPBJ5ksWgkWHRzzBD28YlkW56D8=/0x0/filters:format(webp):quality(85)/7e956d78-9b0a-45f0-a481-2146d2e3c23a.png",
+    "https://tl.ctcdn.com.br/4yV6l0_siCtl4WSwfee1HejKfjg=/1200x675/smart/filters:format(webp):quality(85)/a025af4e-4b5c-41b3-96d4-3a452d850093.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/GWPK8P7Nh5R4FCWzxgvRrU7EG_g=/640x360/smart/filters:format(webp",
+    "https://tl.ctcdn.com.br/KlKN18pa4BcXUMO1b47GfaBWrVw=/1200x675/smart/filters:format(webp",
+    "https://tl.ctcdn.com.br/4plByql91mYZ_lTuRzmfs9NH9Vc=/1200x675/smart/filters:format(webp",
+    "https://tl.ctcdn.com.br/9dmpYlGkERbb4f3tk3jl8fX3T5c=/1200x773/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "ASUS",
+    "Zenbook",
+    "S14"
+   ],
+   "searches": [
+    "asus zenbook s14",
+    "asus zenbook s14 oled",
+    "asus zenbook s14 unboxing",
+    "asus zenbook s14 ultra 9",
+    "asus zenbook s14 vs",
+    "asus zenbook s14 (ux5406)"
+   ]
+  },
+  {
+   "id": "iaartificialvejaoqueogeminisabesobrevoce",
+   "title": "O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
+   "published": "2026-11-21T21:00:04+00:00",
+   "summary": "Você sabe quais informações o Gemini guarda sobre você? O Google lançou um painel que facilita a consulta e a edição desses dados. Chamado Memory summary, o recurso aparece no Brasil com o nome “Fatos salvos na memória” e mostra as informações que a inteligência artificial utiliza para personalizar as respostas. A lista pode incluir detalhes sobre sua localização, relacionamentos, carreira, projet",
+   "score": 4.76,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Inteligência Artificial\n\n# O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA\n\nPor Viviane França • Editado por Jones Oliveira \\| 21/11/2026 às 18:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg)Viviane França/Canaltech\n\nVocê sabe quais informações o Gemini guarda sobre você? O Google lançou um painel que facilita a consulta e a edição desses dados. Chamado Memory summary, o recurso aparece no Brasil com o nome **“Fatos salvos na memória”** e mostra as informações que a inteligência artificial utiliza para personalizar as respostas.\n\nContinua após a publicidade\n\nA lista pode incluir detalhes sobre sua localização, relacionamentos, carreira, projetos profissionais, viagens, equipamentos, entretenimento, exercícios físicos, saúde e preferências pessoais. Assim, se o Gemini sabe que você segue uma dieta vegetariana, por exemplo, pode priorizar receitas que não levam carne nas próximas conversas.\n\nMas os dados não vêm apenas dos chats anteriores. A IA também pode aproveitar informações de aplicativos conectados à conta Google, como recibos de compras recebidos pelo Gmail. Se algum desses registros estiver desatualizado ou você preferir que a inteligência artificial não use determinado detalhe, é possível **editar ou apagar as informações** pelo próprio painel.\n\nA seguir, confira:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n- Como acessar os “Fatos salvos na memória” do Gemini?\n\n- Como apagar as informações que o Gemini sabe sobre você?\n\n- Tem como apagar todas as informações de uma vez?\n\n## Como acessar os “Fatos salvos na memória” do Gemini?\n\nPara descobrir o que o Gemini sabe sobre você, basta seguir este caminho:\n\nContinua após a publicidade\n\n1. Abra o Gemini;\n\n2. Vá em “Configurações” (ícone de engrenagem);\n\n3. Clique “Inteligência Personalizada”;\n\n4. Toque em “Fatos salvos na memória”;\n\n5. Confira as informações.\n\nPara o painel funcionar e exibir os dados, é preciso estar com duas opções ativadas no Gemini: “Manter histórico de atividades” e “Memória”.\n\n## Como apagar as informações que o Gemini sabe sobre você?\n\nContinua após a publicidade\n\nEncontrou algum dado antigo ou que não quer mais compartilhar com a IA? O painel oferece duas formas de fazer a limpeza. A primeira é editar a lista manualmente pela versão web do Gemini:\n\n1. Entre em “Fatos salvos na memória”;\n\n2. Clique no botão de lápis no canto superior direito;\n\n3. Apague ou edite as informações salvas pelo Gemini.\n\nTambém dá para **fazer o pedido por texto** na versão web e nos aplicativos para Android e iOS. Na parte inferior da página, o campo “Adicionar ou remover detalhes” aceita comandos para incluir novas informações ou excluir registros específicos. Você pode, por exemplo, pedir que o Gemini apague um número de telefone antigo ou esqueça algum detalhe sobre seus animais de estimação.\n\nContinua após a publicidade\n\n## Tem como apagar todas as informações de uma vez?\n\nNão, o Gemini não tem um botão para apagar toda a memória de uma só vez. Se quiser excluir todos os dados armazenados, será necessário desativar a opção “Memória”, apagar as conversas anteriores e desligar o recurso “Manter histórico de atividades” na página “Atividade nos apps do Gemini”, nas configurações da conta Google.\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ Como migrar do ChatGPT ou Claude para o Gemini sem perder memória e histórico”.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/KjYxfq9ZwNJUzGi10239oTXZ0Uw=/0x0/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
+    "https://tl.ctcdn.com.br/tEtk-Pmp2VblTuAML4TlLueN9l0=/1200x675/smart/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/kEOTjjShXTsCw35VUskfjlzt-V8=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Gemini",
+    "Veja",
+    "IA"
+   ],
+   "searches": []
+  },
+  {
+   "id": "daentendaporqueissoaconteceecomoresolver",
+   "title": "Bateria do celular caindo do nada? Entenda por que isso acontece e como resolver",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/apps/bateria-do-celular-caindo-do-nada-entenda-por-que-isso-acontece-e-como-resolver/",
+   "published": "2026-11-21T18:30:00+00:00",
+   "summary": "A bateria do celular está descarregando muito rápido, mesmo quando o aparelho fica boa parte do dia parado? A queda repentina de carga pode ter diferentes causas , desde falhas em aplicativos até problemas no próprio componente. Em alguns casos, o consumo aumenta após uma atualização do sistema ou quando algum processo continua ativo em segundo plano. Isso não significa necessariamente que a bater",
+   "score": 4.61,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/ie7MtMOwi9kqe5X7iTm1ZPaGqdU=/0x0/filters:format(webp):quality(85)/a4098faa-c170-40c0-bc31-6d62ceb77af6.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Apps\n\n# Bateria do celular caindo do nada? Entenda por que isso acontece e como resolver\n\nPor Viviane França • Editado por Jones Oliveira \\| 21/11/2026 às 15:30\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/a4dde75d-03e5-4143-8d9f-244d4cc25c86.jpg)rawpixel.com/magnific\n\nA bateria do celular está descarregando muito rápido, mesmo quando o aparelho fica boa parte do dia parado? A queda repentina de carga pode ter **diferentes causas**, desde falhas em aplicativos até problemas no próprio componente. Em alguns casos, o consumo aumenta após uma atualização do sistema ou quando algum processo continua ativo em segundo plano.\n\nContinua após a publicidade\n\nIsso não significa necessariamente que a **bateria esteja chegando ao fim da vida útil**. O software também pode interferir na estimativa de carga e fazer a porcentagem exibida na tela cair de uma vez. Já o envelhecimento natural da bateria e as temperaturas extremas podem comprometer sua capacidade de armazenar energia.\n\nOs smartphones também têm recursos para **evitar problemas quando a bateria não consegue fornecer energia suficiente**. Nos iPhones, por exemplo, a Apple criou um sistema que identifica quando o componente não consegue atender às necessidades do aparelho. Nesses casos, o celular reduz seu desempenho para controlar o consumo de energia.\n\nAntes de pensar em trocar de celular, vale **investigar o que está causando o problema**. Para isso, alguns ajustes nas configurações do Android e do iOS ajudam a identificar aplicativos que consomem muita energia e verificar as condições da bateria.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nA seguir, confira:\n\n- Por que a bateria do celular cai do nada?\n\n- Como resolver problemas com a bateria do celular?\n\n- Quando trocar a bateria?\n\n## Por que a bateria do celular cai do nada?\n\nContinua após a publicidade\n\nO consumo de bateria **varia conforme as atividades realizadas no celular**. Por exemplo, navegar na internet e ouvir música costumam gastar menos energia do que tirar muitas fotos ou jogar. Porém, quando a porcentagem cai bruscamente mesmo com pouco uso, pode haver algum problema no aparelho.\n\nUma das causas é a **falha na estimativa de carga**. O celular calcula a energia restante com base na voltagem e corrente elétrica, mas esse cálculo nem sempre corresponde à carga real. Quando o sistema precisa corrigir a estimativa, a porcentagem exibida pode cair vários pontos de uma só vez. Isso acontece com mais frequência em baterias desgastadas.\n\nCom o envelhecimento, as baterias de íons de lítio armazenam menos energia e podem ter dificuldade para atender a picos de consumo. Ao abrir a câmera ou utilizar o GPS, por exemplo, o celular precisa de um **impulso maior de energia**. Se a bateria estiver desgastada, a tensão pode cair durante essas atividades e levar o sistema a indicar uma carga inferior à que realmente resta no componente.\n\nContinua após a publicidade\n\nO uso do celular em **ambientes muito quentes** pode afetar a duração da bateria. Os fabricantes recomendam temperaturas entre 0 °C e 35 °C para o funcionamento dos smartphones. Acima desse limite, a carga pode acabar mais rápido que o habitual. Se o aparelho apresentar aquecimento excessivo, interrompa o uso e aguarde até que ele esfrie naturalmente. Evite colocá-lo na geladeira, pois o contato do ar frio com a estrutura quente pode provocar condensação dentro do dispositivo.\n\nAlguns aplicativos também podem apresentar falhas e continuar executando tarefas em segundo plano, mesmo quando não estão abertos na tela. O acesso frequente aos serviços de localização e ao GPS também pode aumentar o gasto de energia.\n\nAlém disso, o consumo pode aumentar temporariamente após uma **atualização do Android ou do iOS**. Durante algumas horas ou dias, o sistema executa tarefas em segundo plano para reorganizar arquivos, indexar dados e concluir otimizações. Depois desse período, a autonomia tende a voltar ao normal.\n\n## Como resolver problemas com a bateria do celular?\n\nContinua após a publicidade\n\nDepois de identificar possíveis causas, alguns ajustes ajudam a reduzir o consumo e verificar se existe algum problema físico com a bateria. Veja o que fazer:\n\n### Feche aplicativos em segundo plano\n\nOs aplicativos que continuam ativos mesmo depois de fechados **podem consumir energia durante o dia**. Por isso, é indicado encerrar os apps que não estão em uso e observar se a autonomia melhora. Caso o problema continue, confira quais programas aparecem no histórico de consumo da bateria.\n\nContinua após a publicidade\n\n### Restrinja o acesso à localização\n\nOs aplicativos com acesso permanente à localização podem **manter o GPS funcionando** mesmo quando não estão sendo utilizados. Esse processo aumenta o consumo de energia e pode reduzir a autonomia do celular. Para controlar o acesso, vá às configurações de privacidade do sistema e escolha a opção que libera a localização apenas enquanto o aplicativo estiver aberto.\n\n### Identifique os aplicativos que mais consomem bateria\n\nO Android e iOS oferecem menus para consultar o consumo de energia por aplicativo. Verifique a lista e procure programas que **gastam muita carga mesmo quando são pouco utilizados**. Se algum deles apresentar um consumo fora do normal, tente atualizá-lo ou reinstalá-lo.\n\nContinua após a publicidade\n\n### Confira o consumo nos celulares Samsung Galaxy\n\nNos aparelhos da Samsung, o menu de bateria apresenta informações sobre o **consumo de energia por aplicativo** e as condições do componente. Para consultar os dados, siga estes passos:\n\n1. Abra “Configurações”;\n\n2. Entre em “Bateria”;\n\n3. Toque em “Exibir detalhes”.\n\nContinua após a publicidade\n\n### Consulte a saúde da bateria do iPhone\n\nNo iPhone, também tem uma tela que dá para acompanhar a capacidade máxima da bateria em relação à condição de fábrica. Veja como:\n\n1. Abra “Ajustes”;\n\n2. Vá em “Bateria”.\n\nContinua após a publicidade\n\n## Quando trocar a bateria?\n\nQuando a bateria perde muita capacidade de armazenamento, fechar aplicativos e restringir atividades em segundo plano pode não resolver a queda de autonomia. Nos iPhones mais recentes, por exemplo, a Apple prevê que o componente **mantenha 80% da capacidade original** depois de aproximadamente 1.000 ciclos completos de recarga. A estimativa varia conforme o modelo e as condições de uso do aparelho.\n\nAo atingir uma capacidade máxima inferior a 80%, a recomendação é **avaliar a troca da bateria**. O procedimento costuma sair mais barato do que comprar um smartphone novo e ajuda a recuperar parte do tempo de uso longe da tomada.\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ Como saber se a bateria do celular precisa ser trocada? 3 sinais fáceis”.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/ie7MtMOwi9kqe5X7iTm1ZPaGqdU=/0x0/filters:format(webp):quality(85)/a4098faa-c170-40c0-bc31-6d62ceb77af6.png",
+    "https://tl.ctcdn.com.br/jZaD7zyUhi3Gwr_Nyr3tO_umRrc=/1200x675/smart/filters:format(webp):quality(85)/a4dde75d-03e5-4143-8d9f-244d4cc25c86.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/WCKV0s6eCXU4U0HVDrME9Vn6gSM=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Entenda"
+   ],
+   "searches": []
+  },
+  {
+   "id": "ardwarecomomontarpcpararodarialocalmente",
+   "title": "Como montar um PC completo para rodar modelos de IA localmente",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/hardware/como-montar-pc-para-rodar-ia-localmente/",
+   "published": "2026-11-21T18:00:04+00:00",
+   "summary": "Rodar modelos de inteligência artificial diretamente no próprio PC deixou de ser uma curiosidade experimental para se tornar algo real. Seja para garantir privacidade absoluta dos seus dados , eliminar custos recorrentes de assinaturas em nuvem ou evitar limites de uso , montar uma máquina dedicada à IA local em 2026 exige uma abordagem completamente diferente da montagem de um PC gamer , por exem",
+   "score": 4.57,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/Ukhh4gF9MELmfT1gxh81LX-ytEY=/0x0/filters:format(webp):quality(85)/740f04a7-73d3-4511-ab80-311f31181139.jpeg",
+   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Artigos Tudo sobre Hardware Como montar um PC completo para rodar modelos de IA localmente Por Raphael Giannotti • Editado por Jones Oliveira | 21/11/2026 às 15:00\n\nPrefira o CT no Google Canaltech Rodar modelos de inteligência artificial diretamente no próprio PC deixou de ser uma curiosidade experimental para se tornar algo real. Seja para garantir privacidade absoluta dos seus dados , eliminar custos recorrentes de assinaturas em nuvem ou evitar limites de uso , montar uma máquina dedicada à IA local em 2026 exige uma abordagem completamente diferente da montagem de um PC gamer , por exemplo.\n\nEnquanto nos jogos o foco está em altas taxas de quadros, na computação de IA local o que manda é a capacidade e largura de banda da memória , especialmente da memória de vídeo. Detalhamos aqui a anatomia de um PC otimizado para inferência local, dividido em componentes essenciais e sugestões de configurações para diferentes orçamentos.\n\nNa IA local, a placa de vídeo é responsável pela maior parte do desempenho . Os modelos de linguagem (como Llama, Qwen e DeepSeek) e geradores de imagem precisam ser carregados inteiramente na VRAM da GPU para operar em velocidade aceitável. Se o modelo exceder a VRAM disponível, ele transborda para a memória RAM do sistema, derrubando a geração de dezenas de tokens por segundo para uma lentidão longe do ideal.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Por isso, a regra de ouro desse segmento é clara: mais VRAM sempre vence uma arquitetura ligeiramente mais rápida com pouca memória . Uma placa de 16 GB ou 24 GB rodará modelos maiores e mais inteligentes do que uma placa de 12 GB , mesmo que esta última tenha mais núcleos de processamento. Graças ao ecossistema CUDA, bibliotecas como TensorRT e suporte nativo imediato em quase todas as ferramentas, as placas NVIDIA GeForce RTX são a melhor escolha em geral.\n\nNa prática, modelos com 16 GB de VRAM (como a RTX 5060 Ti ou RTX 5080) são o ponto de partida ideal . Para cenários avançados, GPUs com 24 GB a 32 GB (como RTX 3090, RTX 4090 ou RTX 5090) permitem carregar modelos pesados quantizados com altíssima precisão.\n\nEmbora o ideal seja manter o modelo na VRAM, a memória RAM principal do sistema atua como área de preparação antes do carregamento na GPU e como plano B caso você precise rodar modelos gigantescos (como versões de 70 bilhões de parâmetros) em modo híbrido entre CPU e GPU.\n\nO mínimo recomendado para uma máquina dedicada hoje é 32 GB de RAM DDR5 , já que abaixo disso o sistema operacional e o carregamento simultâneo de modelos pesados podem causar travamentos e uso excessivo de arquivo de paginação no SSD. Para entusiastas que desejam muita folga, o ideal é partir para 64 GB de RAM (2x 32 GB) em dual-channel, deixando dois slots livres na placa-mãe para uma futura expansão para 128 GB caso a demanda cresça.\n\nAo contrário do que muitos imaginam, você não precisa gastar uma fortuna no processador mais caro do mercado se o foco for inferência via GPU. O papel da CPU é gerenciar o sistema, deixar os dados preparados, alimentar a placa de vídeo e assumir camadas que não couberem na VRAM. Modelos intermediários modernos, como um AMD Ryzen 7 (série 7000 ou 9000) ou Intel Core Ultra 7, entregam excelente desempenho single-core e pistas PCIe suficientes sem encarecer o projeto desnecessariamente.\n\nJá na escolha da placa-mãe, dê preferência a modelos com boa construção de VRM (principalmente porque o PC pode ficar horas em carga constante), suporte a quatro slots de memória RAM e, se possível, mais de um slot PCIe x16 , o que abre margem para adicionar uma segunda GPU no futuro.\n\nModelos de IA ocupam muito espaço em disco. Um único LLM de 32B ou 70B quantizado pesa facilmente entre 20 GB e 45 GB , e checkpoints de geração de imagem e vídeo somam centenas de gigabytes rapidamente.\n\nPortanto, comece com pelo menos 1 TB de SSD NVMe PCIe 4.0, embora 2 TB seja o recomendado para evitar ter que apagar modelos antigos toda semana . Além da capacidade, a velocidade importa diretamente no carregamento: um SSD NVMe rápido (acima de 5.000 MB/s de leitura) reduz drasticamente o tempo de espera entre selecionar um modelo e vê-lo pronto para responder na tela.\n\nCargas de trabalho de IA levam a placa de vídeo a 100% de consumo contínuo por longos períodos, um estresse térmico e elétrico muito mais constante do que os picos variáveis rodando jogos ou outros trabalhos pesados. Por isso, investir em uma fonte de qualidade com selo 80 Plus Gold e certificação ATX 3.0 ou 3.1 (com cabo nativo 12V-2x6) é indispensável. Para GPUs intermediárias, modelos de 750 W a 850 W atendem com segurança ; já para sistemas com GPUs topo de linha (como RTX 4090 ou 5090), mire em 1000 W ou 1200 W.\n\nSe o orçamento estiver apertado, a regra de montagem de um PC para IA é simples: corte custos na estética (RGB, water coolers caros, gabinetes de vidro) e na CPU, e coloque cada real economizado em VRAM e RAM . Uma máquina visualmente discreta com 16 GB ou 24 GB de VRAM e 64 GB de RAM sempre entregará uma experiência infinitamente superior a um PC cheio de luzes com uma placa de vídeo limitada a 8 GB de memória e CPUs com múltiplos núcleos.",
+   "text_source": "basic",
+   "images": [
+    "https://tl.ctcdn.com.br/Ukhh4gF9MELmfT1gxh81LX-ytEY=/0x0/filters:format(webp):quality(85)/740f04a7-73d3-4511-ab80-311f31181139.jpeg",
+    "https://tl.ctcdn.com.br/ZdzaME22lw8JRjcClbZPdRXBuZo=/1200x675/smart/filters:format(webp):quality(85)/912d4b5d-0d2a-44b6-8d47-d57d22c65b01.jpg",
+    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/GOFR4wnBMEJbnFcnUMSXGM4-TWE=/640x360/smart/filters:format(webp):quality(85)/912d4b5d-0d2a-44b6-8d47-d57d22c65b01.jpg"
    ],
    "videos": [],
    "keywords": [
     "PC",
-    "21"
+    "IA"
    ],
-   "searches": [
-    "pc210",
-    "pc 21",
-    "pc210 komatsu",
-    "pc 210 lc",
-    "pc 21 pilatus",
-    "pc 2100"
-   ]
+   "searches": []
   },
   {
    "id": "ncedailycomreleases202611261120075701htm",
@@ -326,7 +516,7 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
    "published": "2026-11-21T15:24:58+00:00",
    "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important questions about their reliability in neuroscience research.",
-   "score": 4.93,
+   "score": 4.41,
    "why": [
     "Tema de alto interesse"
    ],
@@ -352,7 +542,7 @@
    "url": "https://canaltech.com.br/eletro/ar-condicionado-12000-btu-quanto-vale-pagar-na-black-friday/",
    "published": "2026-11-21T15:00:01+00:00",
    "summary": "O ar-condicionado de 12.000 BTU é uma opção comum para quartos maiores e salas de tamanho médio, mas escolher o aparelho certo vai além de comparar capacidade e preço . Eficiência energética, conectividade e custo de instalação também pesam na decisão. Na Black Friday, a ideia é encontrar um modelo que ofereça bom desempenho sem comprometer o orçamento. Este guia considera apenas aparelhos com tec",
-   "score": 4.91,
+   "score": 4.39,
    "why": [
     "Tema de alto interesse"
    ],
@@ -364,10 +554,6 @@
     {
      "source": "Canaltech",
      "url": "https://canaltech.com.br/hardware/black-friday-quanto-vale-a-pena-pagar-rog-xbox-ally/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/eletro/ar-condicionado-elgin-inverter-de-9000-btus-cai-para-r-1568-na-black-friday/"
     }
    ],
    "image": "https://tl.ctcdn.com.br/Zz1_OhjxbsWEhC7YjaCZl5I6pXg=/0x0/filters:format(webp):quality(85)/426782ef-ad7b-4ad9-9419-a77c5f343bda.webp",
@@ -385,14 +571,7 @@
     "000",
     "BTU"
    ],
-   "searches": [
-    "12 000 btu mini split",
-    "12 000 btu portable air conditioner",
-    "12 000 btu air conditioner",
-    "12 000 btu portable air conditioner cools 750 sq. ft. with heater and installation kit in white",
-    "12 000 btu 20 seer2 wi-fi 1-zone ductless mini split heat pump air conditioner 115v",
-    "12 000 btu ductless air conditioner heat pump mini split 110v 1 ton with wifi"
-   ]
+   "searches": []
   },
   {
    "id": "tarspiraltoitsdeathinsideagiantcompanion",
@@ -401,7 +580,7 @@
    "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
    "published": "2026-11-20T20:41:17+00:00",
    "summary": "A recent brightening turned out to be from a star orbiting inside another.",
-   "score": 4.76,
+   "score": 4.24,
    "why": [
     "2 sites cobrindo"
    ],
@@ -424,196 +603,6 @@
     "Watching",
     "as",
     "a"
-   ],
-   "searches": [
-    "watching as above so below",
-    "watching as a hatter",
-    "watching tadc as a hatter",
-    "watching news as a muslim",
-    "watching ninjago as an adult",
-    "watching tupac as a hatter"
-   ]
-  },
-  {
-   "id": "hoesdecopiasearrecadaus379bilhoesemumdia",
-   "title": "GTA 6 vende 32,5 milhões de cópias e arrecada US$ 3,79 bilhões na estreia, diz Take-Two",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-vende-325-milhoes-de-copias-e-arrecada-us-379-bilhoes-em-um-dia/",
-   "published": "2026-11-20T19:45:00+00:00",
-   "summary": "",
-   "score": 4.7,
-   "why": [
-    "2 sites cobrindo"
-   ],
-   "also_in": [
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/gta-6-registra-venda-recorde-de-us-379-bilhoes-no-dia-do-lancamento/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/DBBVU3NB6RBCRG57SMMNMC34ZQ.jpg?quality=80&auth=c337ffeabdd79d77cf4dcf55987ddccc8b3e8966d32dbeb6ed208904f39864f4&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Voxl\n\nPor Mateus Mognon\n\n20/11/2026 \\| 16h45\n\nAtualização: 20/11/2026 \\| 16h49\n\nNotícia de presente\n\nGTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI\n\nO lançamento de GTA 6 entrou para a história da indústria do entretenimento. Segundo um comunicado divulgado pela Take-Two Interactive nesta sexta-feira (20), **o jogo da Rockstar Games arrecadou US$ 3,79 bilhões em vendas** **no primeiro dia**, estabelecendo um novo recorde para lançamentos de entretenimento em qualquer mídia.\n\nAlém da receita bilionária, a empresa revelou que Grand Theft Auto VI vendeu 32,5 milhões de cópias antes mesmo de seu lançamento oficial. O número representa um novo recorde de vendas antecipadas em todas as plataformas, de acordo com a publicadora.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nLucia, uma das protagonistas de GTA 6. Foto: Rockstar\n\nA Take-Two também destacou a recepção da crítica, apontando que GTA 6 alcançou nota 99 no Metacritic, garantindo a melhor avaliação da plataforma. Com os resultados, o novo capítulo da franquia supera marcas históricas que já pertenciam à própria série e consolida a estreia como um dos maiores acontecimentos comerciais da história dos videogames.\n\n### GTA 6 supera recorde de GTA 5 e filmes de Hollywood\n\nPUBLICIDADE\n\nO resultado coloca GTA 6 no topo dos maiores lançamentos da história do entretenimento. Para efeito de comparação, GTA 5, lançado em 2013, arrecadou US$ 1 bilhão nos primeiros três dias de disponibilidade, marca que também estabeleceu um recorde na época.\n\nO desempenho do novo jogo é ainda mais expressivo quando comparado ao cinema. Segundo informações do _Business Insider_, Vingadores: Ultimato, um dos maiores sucessos de bilheteria de todos os tempos, levou cinco dias para alcançar US$ 1 bilhão mundialmente.\n\nAnitta está presente em podcast de GTA 6! Confira trecho do programa da cantora em português\n\n1:15\n\nA diferença também aparece nos preços. Nos Estados Unidos, GTA 6 chegou ao mercado por US$ 80 na edição padrão e US$ 100 na versão Ultimate, enquanto GTA 5 custava US$ 60 em sua edição convencional no lançamento. No Brasil, o jogo estreou por R$ 450 no pacote básico e R$ 550 na edição completa.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Rockstar agradece recepção de GTA 6\n\nEm declaração divulgada no comunicado oficial, Sam Houser, presidente e fundador da Rockstar Games, comemorou a recepção do novo capítulo da franquia. “É com imensa gratidão que entramos em um novo capítulo da Rockstar Games com o lançamento de Grand Theft Auto VI”, afirmou o executivo.\n\nPUBLICIDADE\n\nHouser também agradeceu aos jogadores de todo o mundo e destacou a empolgação do estúdio em compartilhar o momento com o público. Recentemente, o desenvolvedor também disse que a estreia do jogo é só o começo. “Estamos ansiosos por muitos outros anos compartilhando essas experiências com vocês”, comentou, em declaração ao GamesRadar.\n\nGTA 6, novo jogo da Rockstar Games. Foto: Rockstar\n\nGTA 6 está disponível para PlayStation 5 e Xbox Series X\\|S. A expectativa é que o game receba uma versão de PC e um modo online a partir do ano que vem, o que deve movimentar ainda mais os números da Take-Two.\n\nO jogo acompanha Jason e Lucia em uma história ambientada em Vice City e no estado fictício de Leonida, com uma trama que envolve crimes, conspirações e a relação entre os dois protagonistas. O jogo se destaca não apenas por trazer a história conectada da dupla, mas um amplo e vivo mundo aberto.\n\nSe você está por fora do game, confira a review completa de GTA 6 aqui no VOXL!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo Sobre\n\n- [GTA \\[Grand Theft Auto\\]](https://www.estadao.com.br/tudo-sobre/gta-grand-theft-auto/)\n\n0 Comentário\n\n14 debatedores online14 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nJogo Grand Theft Auto VI Edição Standard - Playstation 5\\\\\n\\\\\nR$ 359,92 no PixPreço R$ 449,90\\\\\n\\\\\nGamer · Shopee\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nPlaca de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB\\\\\n\\\\\nR$ 941,16\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nMouse Gamer Alienware Pro sem fio\\\\\n\\\\\nR$ 1.149,01\\\\\n\\\\\nGamer · Dell Technologies Brazil\n- \\\\\n\\\\\nJBL Quantum 400, Headset Gamer, Preto\\\\\n\\\\\nR$ 299,00\\\\\n\\\\\nGamer · Loja iPlace\n- \\\\\n\\\\\nMicrofone Gamer Condensador Fifine SuperFrame Edition\\\\\n\\\\\nR$ 111,75\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nPack de jogos LEGO DC vs Marvel\\\\\n\\\\\nR$ 54,00\\\\\n\\\\\nGamer · Green Man Gaming\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nJogo Frostpunk para PC\\\\\n\\\\\nR$ 13,35\\\\\n\\\\\nGamer · Hype Games\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nMais lidas\n\n1.\\\\\n\\\\\nComo o novo smartphone iFruit 2026 de GTA 6 HUMILHA celulares da vida real 2.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 3.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 4.\\\\\n\\\\\nGTA 6 acumula recordes de audiência nas plataformas desde o lançamento; veja lista 5.\\\\\n\\\\\nGoogle AI Ultra vira alvo de esquema para liberar assinatura grátis por um ano\n\nPUBLICIDADE\n\nPUBLICIDADE\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
-   "text_source": "firecrawl",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/DBBVU3NB6RBCRG57SMMNMC34ZQ.jpg?quality=80&auth=c337ffeabdd79d77cf4dcf55987ddccc8b3e8966d32dbeb6ed208904f39864f4&width=710",
-    "https://www.estadao.com.br/resizer/v2/DBBVU3NB6RBCRG57SMMNMC34ZQ.jpg?quality=80&auth=c337ffeabdd79d77cf4dcf55987ddccc8b3e8966d32dbeb6ed208904f39864f4&width=1200&height=630&focal=1845,407",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2F3YHW2SJ4DVGARJIKP6X4IBDGL4.jpg?quality=80&auth=500bc85e65078e38965501c1931028a35c3d323b7e368022601aa62ccea00d97&width=60&height=60&smart=true",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-17-2026%2Ft_79386c1a3cc2428792efe06feadf3293_name_35ae6368_0eae_4928_96f8_bf8d313b0f98.jpg?quality=80&auth=08a8e831be0111d72efcce1c8aec688e9c0bc33c97b1282d3495986adae882c6&width=520&height=292&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/DBBVU3NB6RBCRG57SMMNMC34ZQ.jpg?quality=80&auth=c337ffeabdd79d77cf4dcf55987ddccc8b3e8966d32dbeb6ed208904f39864f4&width=1200",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-18-2026%2Ft_dd3857e02f4f4f87b2f73808ed76647a_name_file_540x960_1600_v4_.jpg?quality=80&auth=9cf0cc7c1e272cd4db8d5ac7e8ae155245a3e89e6d23c2b546e48601b37fa533&height=400",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/BIXOM3IIQREZ5LE5XM7PYS2S5A.jpg?quality=80&auth=9f8f905f1288deb615794683b2b128bfd83dc88b312ed8e04eb127a4a0e25ba2&width=1200",
-    "https://cf.shopee.com.br/file/br-11134207-820m9-mska6117emfb9f",
-    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/902744c4528cef98b0d656fd9da48af721f0ee5f64a707660d59f94a17d78015.webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "6",
-    "32",
-    "5"
-   ],
-   "searches": []
-  },
-  {
-   "id": "rclaudecodetocarnegociosemsaberprogramar",
-   "title": "7 formas de usar o Claude Code para tocar um negócio sem saber programar",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-claude-code-tocar-negocio-sem-saber-programar/",
-   "published": "2026-11-21T11:30:07+00:00",
-   "summary": "Para administrar um pequeno negócio, é necessário cuidar de várias tarefas ao mesmo tempo . Em um dia, você precisa atender clientes e atualizar o site; no outro, conferir pagamentos pendentes ou resolver problemas no sistema de agendamento. A contratação de desenvolvedores para criar ferramentas específicas para cada tarefa nem sempre é uma opção, principalmente quando o negócio ainda está começa",
-   "score": 4.69,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nListas\n\nTudo sobre Inteligência Artificial\n\n# 7 formas de usar o Claude Code para tocar um negócio sem saber programar\n\nPor Viviane França • Editado por Jones Oliveira \\| 21/11/2026 às 08:30\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png)André Magalhães/Canaltech\n\nPara administrar um pequeno negócio, é necessário **cuidar de várias tarefas ao mesmo tempo**. Em um dia, você precisa atender clientes e atualizar o site; no outro, conferir pagamentos pendentes ou resolver problemas no sistema de agendamento. A contratação de desenvolvedores para criar ferramentas específicas para cada tarefa nem sempre é uma opção, principalmente quando o negócio ainda está começando.\n\nContinua após a publicidade\n\nÉ aí que o **Claude Code pode ajudar**, mesmo que você não saiba programar. O assistente de codificação da Anthropic cria sites, desenvolve ferramentas personalizadas e automatiza tarefas repetitivas a partir de comandos em texto. É só explicar o que precisa e a IA cuida da escrita do código para tirar a ideia do papel.\n\nA ferramenta está disponível em aplicativo para desktop, terminal e pela web **a partir do plano Pro**, que custa cerca de R$ 92 por mês. Embora facilite a criação de softwares, as soluções precisam passar por testes antes de entrar em funcionamento. Também é importante revisar as permissões de acesso e proteger informações confidenciais de clientes.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## 7 formas de usar o Claude Code para gerenciar um negócio\n\nVeja sete formas de usar o Claude Code no seu negócio:\n\n1. Criar um site profissional\n\n2. Criar um sistema de agendamento online\n\n3. Desenvolver uma calculadora de preços\n\n4. Automatizar e-mails de acompanhamento de clientes\n\n5. Gerar faturas e acompanhar pagamentos\n\n6. Montar um sistema de controle de estoque\n\n7. Criar um painel com os dados do negócio\n\n### 1\\. Criar um site profissional\n\nContinua após a publicidade\n\nO Claude Code consegue **criar um site a partir de uma descrição do negócio**, com páginas de serviços, preços, contato e depoimentos de clientes. Uma padaria, por exemplo, pode solicitar uma página adaptada para celulares, com cardápio, galeria de fotos e formulário para encomendas de bolos.\n\nO trabalho não precisa terminar quando o site estiver pronto. É possível **pedir alterações sempre que precisar atualizar alguma informação**, incluir um novo serviço ou mudar o visual das páginas. Ainda será necessário contratar uma hospedagem e registrar um domínio para colocar o site no ar. Antes da publicação, também é importante testar tudo.\n\nNo entanto, o Claude Code ainda pode orientar sobre como visualizar o projeto no próprio computador e configurar os arquivos necessários.\n\nExemplo de prompt:\n\nContinua após a publicidade\n\n> “Crie um site para \\[nome do negócio\\], que oferece \\[produtos ou serviços\\]. Inclua apresentação da empresa, produtos ou serviços, preços, fotos e contato pelo WhatsApp. Use um visual \\[estilo desejado\\], adaptado para celulares e computadores. Explique como testar e publicar o site.”\n\n### 2\\. Criar um sistema de agendamento online\n\nCaso você trabalhe com horários agendados, como os salões de beleza, personal trainers, professores particulares e serviços de limpeza, dá para usar a ferramenta para desenvolver um **sistema de agendamento personalizado**. A interface pode apresentar os serviços, mostrar os horários disponíveis e coletar informações de contato dos clientes.\n\nContinua após a publicidade\n\nO empreendedor também pode solicitar uma **área administrativa para acompanhar as solicitações** e organizar os compromissos. Caso queira integrar o sistema a uma agenda já utilizada pelo negócio, será necessário configurar uma conexão compatível e verificar se o serviço evita reservas duplicadas e protege os dados cadastrados.\n\nExemplo de prompt:\n\n> “Crie um sistema de agendamento para \\[nome do negócio\\], onde os clientes possam consultar serviços, escolher datas e horários e informar seus contatos. Inclua uma área administrativa para confirmar, cancelar e bloquear horários. Explique como conectar o sistema a uma agenda digital e evitar reservas duplicadas.”\n\n### 3\\. Desenvolver uma calculadora de preços\n\nContinua após a publicidade\n\nUma calculadora online pode ajudar a **responder dúvidas sobre valores de serviços** e reduzir o trabalho com orçamentos repetitivos. Nela, o cliente pode informar alguns dados, como o tamanho de um espaço e os serviços adicionais desejados, para receber uma estimativa com base nas regras de preço do negócio.\n\nO Claude Code consegue desenvolver os scripts necessários para **apresentar os cálculos na tela**. Antes de disponibilizar a ferramenta, porém, é importante cadastrar os valores corretos e testar diferentes combinações para evitar erros nos orçamentos.\n\nExemplo de prompt:\n\n> “Crie uma calculadora online para \\[nome do negócio\\]. Permita que os clientes informem \\[dados necessários\\], escolham serviços e adicionem extras. Calcule o preço automaticamente com base em uma tabela editável e inclua um botão para solicitar um orçamento final. Explique como testar e atualizar os valores.”\n\nContinua após a publicidade\n\n### 4\\. Automatizar e-mails de acompanhamento de clientes\n\nSabe aqueles clientes que não voltam há meses e que você gostaria de chamar novamente? O Claude Code pode ajudar a criar uma ferramenta para identificar esses contatos e **preparar mensagens de acompanhamento**. Para começar, você pode fornecer uma planilha CSV com nomes, endereços de e-mail e datas dos últimos atendimentos.\n\nA partir dessas informações, o sistema gera **rascunhos personalizados para cada contato**. O ideal é revisar as mensagens antes do envio. Caso a ferramenta seja integrada a um serviço de e-mail, também é necessário respeitar as regras de consentimento, oferecer uma opção de descadastro e armazenar os dados com segurança.\n\nContinua após a publicidade\n\nExemplo de prompt:\n\n> “Crie uma ferramenta que leia uma planilha CSV com nomes, e-mails, serviços contratados e datas dos últimos atendimentos. Identifique clientes que estão há mais de \\[período\\] sem contratar serviços e prepare mensagens personalizadas para retomar o contato. Permita revisar e editar os textos antes do envio e separar os contatos por data e serviço. Explique como conectar a ferramenta ao meu aplicativo de e-mail.”\n\n### 5\\. Gerar faturas e acompanhar pagamentos\n\nOutra possibilidade é criar um sistema para **calcular o preço de pacotes e serviços adicionais**, gerar faturas em PDF e organizar os pagamentos em um painel. O empreendedor pode consultar quais cobranças já foram quitadas e quais continuam pendentes.\n\nContinua após a publicidade\n\nO Claude Code consegue desenvolver uma interface simples para **centralizar essas informações** e facilitar o acompanhamento financeiro. Ainda assim, os cálculos de impostos e os relatórios financeiros precisam passar por conferência. Para processar pagamentos, o mais indicado é utilizar serviços especializados e consolidados.\n\nExemplo de prompt:\n\n> “Crie um sistema de cobrança para \\[nome do negócio\\], com cadastro de clientes, serviços, preços e vencimentos. Gere faturas em PDF com a identidade visual da empresa e monte um painel para acompanhar pagamentos feitos, pendentes e atrasados. Inclua filtros por cliente e período e explique como conferir os valores e salvar os registros.”\n\nContinua após a publicidade\n\n### 6\\. Montar um sistema de controle de estoque\n\nSe você controla mercadorias e suprimentos em planilhas, é possível **criar um painel para organizar o estoque** com o Claude Code. A ferramenta pode registrar produtos, custos e preços, além de importar e exportar arquivos CSV.\n\nTambém é possível **configurar alertas automáticos** para identificar produtos com poucas unidades. Uma loja, por exemplo, pode receber um aviso quando determinado item ficar com menos de cinco unidades disponíveis.\n\nQuem vende em diferentes canais precisa considerar também a **integração com as plataformas de venda**. Caso contrário, as quantidades registradas no painel podem ficar diferentes do estoque real.\n\nExemplo de prompt:\n\n> “Crie um sistema de estoque para \\[nome do negócio\\], com cadastro de produtos, códigos, quantidades e preços de compra e venda. Permita registrar entradas e saídas, atualizar as quantidades automaticamente e emitir alertas quando algum item tiver menos de \\[quantidade\\] unidades. Inclua opções para importar e exportar planilhas CSV e explique como atualizar os dados.”\n\n### 7\\. Criar um painel com os dados do negócio\n\nO Claude Code também pode transformar planilhas e relatórios em um **dashboard com informações sobre o desempenho da empresa**, com indicadores de receita total, ticket médio, produtos mais vendidos, despesas e variações nas vendas ao longo do tempo.\n\nUma cafeteria, por exemplo, pode importar arquivos CSV com os registros de vendas e solicitar gráficos para **identificar os dias mais movimentados** e as bebidas mais procuradas. O painel pode começar como um projeto executado no próprio computador, facilitando a conferência dos dados antes de uma eventual publicação online.\n\nComo em outras soluções criadas com IA, é importante verificar se os números foram interpretados corretamente e se os cálculos apresentados correspondem aos registros originais.\n\nExemplo de prompt:\n\n> “Crie um painel para \\[nome do negócio\\] a partir de planilhas CSV. Mostre faturamento, despesas, valor médio das vendas e produtos ou serviços mais vendidos em gráficos simples. Inclua filtros por período e categoria e uma opção para importar novas planilhas e atualizar os resultados. Comece com uma versão para usar no computador e explique como conferir os cálculos.”\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ ChatGPT Codex e Claude Code: o que muda entre as IAs para programação?”.",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/CLfE2pkdB5KDXHhPgoNmQSS51_k=/0x0/filters:format(webp):quality(85)/29775db9-4492-4bdb-8689-9f442e3775af.jpg",
-    "https://tl.ctcdn.com.br/aQeXBd5cTDpcY7k1P6OBnm_-a4k=/1200x675/smart/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/jkG83RbdhLr4AoB5zRdkBZniyQY=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Claude",
-    "Code"
-   ],
-   "searches": []
-  },
-  {
-   "id": "acameraemgta6apeenocarroconfiraotutorial",
-   "title": "Como trocar a câmera em GTA 6 a pé e no carro? Confira o tutorial",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-a-camera-em-gta-6-a-pe-e-no-carro-confira-o-tutorial/",
-   "published": "2026-11-20T19:27:00+00:00",
-   "summary": "",
-   "score": 4.68,
-   "why": [
-    "2 sites cobrindo"
-   ],
-   "also_in": [
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/como-trocar-de-personagem-em-gta-6-saiba-mudar-entre-jason-e-lucia-no-gameplay/"
-    },
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/gta-6-como-melhorar-a-relacao-de-jason-e-lucia-ou-manter-os-dois-so-como-parceiros-no-crime/"
-    }
-   ],
-   "image": "https://www.estadao.com.br/resizer/v2/2TW2GAQ7BFEDXFU5PIUDET5TNE.png?quality=80&auth=4dcd606505007809e90572a31eb1a798094fe655319b395961d9bb04eee9153c&width=710",
-   "text": "Grand Theft Auto 6 oferece diferentes opções para personalizar a experiência de jogo, incluindo ajustes na câmera durante a exploração de Vice City e das demais regiões de Leonida. Assim como nos títulos anteriores da franquia, os jogadores podem alternar entre diferentes ângulos para acompanhar os protagonistas Jason e Lucia. A mudança, no entanto, funciona de maneira um pouco diferente dependendo da situação. Enquanto é possível alternar entre três alturas de câmera ao dirigir carros e pilotar embarcações, a exploração a pé conta com uma opção mais limitada de aproximação em primeira pessoa. O jogo também permite ajustar a velocidade de acompanhamento da câmera, sua altura e outros detalhes nas configurações. Confira abaixo como trocar a câmera em GTA 6 e quais são as opções disponíveis para cada situação no tutorial. Como mudar a câmera no carro e a pé em GTA 6? Para alternar entre os ângulos de câmera enquanto dirige em GTA 6 e também a pé, siga estes passos: Entre em um carro ou outro veículo terrestre. Segure o botão direcional para baixo (D-pad). Um indicador aparecerá no canto inferior direito da tela, mostrando as opções de câmera disponíveis. Pressione Quadrado no PlayStation 5 para alternar entre os três ângulos, ou X nos consoles PlayStation. Solte o direcional quando encontrar a perspectiva desejada. O mesmo sistema funciona em veículos aquáticos. Além das três opções tradicionais de altura, o menu também permite selecionar a câmera cinematográfica, que apresenta ângulos mais elaborados durante a condução. Vale lembrar que a perspectiva cinematográfica pode dificultar um pouco o controle do veículo, especialmente em perseguições e situações que exigem curvas rápidas. Por isso, ela funciona melhor para apreciar o cenário do que para dirigir com precisão. Como mudar a câmera focada a pé em GTA 6? Quando Jason ou Lucia estão caminhando, o jogo também oferece uma opção extra de controle de câmera. O jogador pode usar a opção de Examinar, que deixa o personagem parado para olhar os arredores. Para isso, basta seguir o procedimento: Enquanto estiver a pé, segure o botão L2 do controle. Clique no analógico direito (R3). A câmera mudará temporariamente para uma perspectiva em primeira pessoa, permitindo observar o ambiente mais de perto. A função é mais limitada do que um modo completo de primeira pessoa, mas permite olhar ao redor e dar zoom com R2 ou RT. Portanto, não espere explorar toda Leonida com essa perspectiva, como acontece em Grand Theft Auto V após a atualização lançada para PS4, Xbox One e PC. GTA 6 tem modo de primeira pessoa? Até o momento, GTA 6 não conta com um modo em primeira pessoa oficial. O jogo oferece algumas situações específicas em que é possível utilizar uma perspectiva em primeira pessoa, como em miras e ao usar o celular, mas não conta com uma opção completa para jogar toda a campanha dessa maneira. Além da aproximação disponível enquanto o personagem está a pé, existe a possibilidade de ativar uma perspectiva em primeira pessoa durante o uso do celular. A opção também funciona quando o protagonista está dirigindo e consulta o aparelho, mostrando tanto o dispositivo quanto a estrada a partir de um ângulo mais próximo dos olhos do personagem. É possível ativar esse recurso nas configurações de câmera. Para isso, abra o menu de pausa, selecione Configurações e entre na categoria Câmera. Como ajustar as configurações de câmera em GTA 6? GTA 6 também oferece diferentes opções para personalizar o comportamento da câmera. Para acessar os ajustes, basta abrir o menu de pausa, selecionar Configurações e entrar na seção Câmera. Entre as opções disponíveis estão: A pé: ajuste da altura da câmera e das velocidades de acompanhamento horizontal e vertical. Veículos terrestres e aquáticos: configurações de altura e velocidade de acompanhamento, com opções específicas para motoristas e passageiros. Aeronaves: ajuste da velocidade de acompanhamento e possibilidade de definir se a câmera acompanha o avião durante manobras de rolagem. Conforto: opções relacionadas à experiência visual e ao comportamento da câmera. Subaquático: ajustes específicos para a exploração debaixo d’água. Cinemática: configurações relacionadas aos ângulos cinematográficos. As configurações permitem adaptar a experiência de acordo com a preferência de cada jogador, seja para ter uma visão mais próxima do personagem ou acompanhar melhor o ambiente durante a exploração. GTA 6 está disponível em quais plataformas? Grand Theft Auto 6 foi lançado em 19 de novembro de 2026 para PlayStation 5 e Xbox Series X|S. Até o momento, a Rockstar Games não anunciou uma data de lançamento para PC. A expectativa é que o jogo aparece nos computadores em 2027, quando o modo online do game também deve ser lançado. Até o momento, porém, nada foi confirmado pela empresa.",
-   "text_source": "rss",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/2TW2GAQ7BFEDXFU5PIUDET5TNE.png?quality=80&auth=4dcd606505007809e90572a31eb1a798094fe655319b395961d9bb04eee9153c&width=710"
-   ],
-   "videos": [],
-   "keywords": [
-    "GTA",
-    "6",
-    "Confira"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ncedailycomreleases202611261120075558htm",
-   "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-   "published": "2026-11-21T15:09:46+00:00",
-   "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity.",
-   "score": 4.32,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "We measure time constantly, from the ticking hands of a clock to the changing numbers on a smartphone screen. Yet despite how familiar time seems, physicists still do not fully understand its fundamental nature. Einstein's theory of relativity revealed that time does not pass at the same rate for everyone. Instead, its passage depends on how fast something is moving and the strength of the gravity it experiences.\n\nQuantum physics introduces an even stranger possibility. According to quantum mechanics, a clock can exist in a state known as \"superposition,\" in which its motion follows multiple possibilities simultaneously. Because motion affects the passage of time through relativity, this could allow different rates of time to coexist in a single quantum state. Scientists have never directly observed this remarkable connection between quantum mechanics and Einstein's theory.\n\nAtomic Clocks Could Reveal the Quantum Nature of Time\n\nNow, an international research team has developed a theoretical approach that could make this elusive phenomenon experimentally detectable. In a study published in Physical Review Letters , researchers led by Kyushu University, working with the Stevens Institute of Technology, University of Waterloo, the National Institute of Standards and Technology, Colorado State University, and Stockholm University, describe how today's advanced trapped-ion atomic clocks could detect what is known as the \"quantum superposition of times.\"\n\nAtomic clocks are among the most accurate timekeeping devices ever developed. Rather than relying on mechanical movement, they measure time using the extremely consistent frequencies associated with atoms. Their extraordinary accuracy makes them essential for technologies such as GPS, which depends on precise timing to calculate locations.\n\nModern atomic clocks have become so sensitive that they can detect the tiny differences in the passage of time predicted by Einstein's relativity, even between clocks separated vertically by only a few millimeters. This remarkable capability makes them promising tools for exploring effects that were previously beyond the reach of experiments.\n\nA New Technique Boosts Sensitivity by Up to 1,000 Times\n\nThe researchers discovered that a clock's quantum motion can become linked to its internal energy through a phenomenon called entanglement. In quantum physics, entanglement occurs when two properties or systems become connected in a way that prevents them from being described independently. In this case, the connection produces measurable changes in the clock's quantum behavior, potentially providing evidence of different rates of time existing in superposition.\n\n\"It's the precision that led us to develop our theoretical model. We found that the atomic clock's motion becomes \"entangled\" with its internal energy. The signature of this entanglement is that the clock itself loses some of its quantum properties, which can be detected using modern techniques,\" explains Associate Professor Joshua Foo of Kyushu University's Institute for Advanced Studies, one of the paper's lead authors. \"We introduced a new technique for controlling the atomic clock's motion, improving its sensitivity to this effect by 100 to 1000 times.\"\n\nThat improvement could make an enormous difference. By controlling the clock's motion more precisely, the proposed method could bring an exceptionally subtle quantum effect within the detection capabilities of existing advanced atomic clock technology.\n\nThe findings suggest that atomic clocks could become powerful instruments for investigating the quantum properties of time. Beyond opening new possibilities for fundamental physics experiments, the approach could also contribute to the development of even more accurate atomic clocks in the future.\n\nFor now, the research remains theoretical. The next challenge is to translate the proposed method into a working experiment capable of detecting the predicted effect while accounting for the disturbances and uncertainties that arise under real laboratory conditions.\n\n\"Naturally, bringing our theoretical model to reality is the big next step, and developing a detailed experiment that accounts for real-world unpredictability will give us further insight into our model,\" concludes Foo. \"We are also interested in exploring whether atomic clocks could eventually be used to probe the quantum realm of gravity, the other fundamental question in physics.\"\n\nIf successful, such experiments could offer scientists a new way to investigate how quantum mechanics and relativity fit together. They might also provide valuable clues about quantum gravity, the long-sought framework that would explain how gravity behaves at the smallest scales of nature.\n\nMaterials provided by Kyushu University . Note: Content may be edited for style and length.\n\nNew Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial\n\nA Major Review Reveals Three Antidepressants That May Outperform Prozac\n\nDoes the Sun Have a Secret Companion? A Controversial Theory Could Explain Earth’s Mass Extinctions\n\nHeart Stents May Not Prevent Heart Attacks or Early Death, Landmark Study Finds\n\nStay informed with ScienceDaily's free email newsletter, updated daily and weekly. Or view our many newsfeeds in your RSS reader:\n\nKeep up to date with the latest news from ScienceDaily via social networks:\n\nTell us what you think of ScienceDaily -- we welcome both positive and negative comments. Have any problems using the site? Questions?",
-   "text_source": "basic",
-   "images": [
-    "https://www.sciencedaily.com/images/1920/physics-time-flow-illustration.webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Scientists"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ney202611secinvestigacontabilidadenvidia",
-   "title": "SEC Está Investigando Contabilidade da Nvidia, Dizem Fontes",
-   "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-money/2026/11/sec-investiga-contabilidade-nvidia/",
-   "published": "2026-11-21T13:49:39+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Investigação ocorre em meio a suspeitas de contrabando de chips de IA para a China e após renúncia de Huang por caso extraconjugal com suposta espiã chinesa O post SEC Está Investigando Contabilidade da Nvidia, Dizem Fontes apareceu primeiro em Forbes Brasil .",
-   "score": 4.23,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fatos-chave A Reuters, citando pessoas familiarizadas com o assunto, informou que a Comissão de Valores Mobiliários dos Estados Unidos (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia . Até o momento, porém, não há informações adicionais sobre as possíveis irregularidades que estão sendo apuradas. A notícia sobre a investigação da SEC envolvendo a Nvidia veio a público na terça-feira (17), mas, naquele momento, não estava claro qual era o foco da apuração nem quando ela havia começado. No ano passado, a Nvidia alterou a metodologia contábil utilizada para divulgar sua receita por região geográfica, informou a Reuters. A empresa passou a considerar a sede de seus clientes, em vez dos endereços de cobrança, em uma tentativa de refletir com mais precisão a origem de suas vendas. Com a mudança, Singapura deixou de aparecer em seu detalhamento geográfico de receitas. As ações da Nvidia fecharam em queda de quase 14% na sexta-feira, encerrando a segunda semana consecutiva de perdas. O movimento fez a companhia, que já foi a empresa mais valiosa do mundo, cair para a quarta posição no ranking por valor de mercado. O conselho de administração da Nvidia iniciou uma investigação independente sobre o ex-CEO Jensen Huang depois que ele revelou aos funcionários, em 8 de novembro, que havia sido “infiel” à esposa. A declaração ocorreu após uma reportagem publicada pelo New York Times no fim de outubro sobre sua ligação com Alice Huang, ex-executiva do setor de tecnologia que, segundo a inteligência dos Estados Unidos, seria uma espiã chinesa. Huang renunciou aos cargos de CEO, presidente e membro do conselho de administração na última quinta-feira. Na terça-feira (17), afirmou que ficaria “honrado” em retornar ao comando da empresa, mencionando o apoio recebido de alguns executivos da Nvidia. No entanto, o presidente do conselho reiterou, também na terça-feira, que a companhia não considera reconduzi-lo ao cargo. Contexto Em 2022, o governo Biden proibiu a exportação de chips avançados de inteligência artificial para a China, sob o argumento de que o acesso a esses componentes poderia fortalecer o poderio militar do país. Desde então, o Sudeste Asiático passou a desempenhar um papel importante na criação de brechas que permitem à China obter esses semicondutores. Alice Huang trabalhou anteriormente na Megaspeed, empresa que historicamente foi uma importante cliente da Nvidia e que se tornou alvo de investigações dos Estados Unidos sobre contrabando de chips. Desde 2024, a companhia também está no centro de apurações americanas sobre o acesso da China aos semicondutores da Nvidia. Naquele ano, um funcionário do Departamento de Comércio dos Estados Unidos constatou que equipamentos da fabricante ainda estavam armazenados em caixas em um centro de dados na Malásia, o que levantou suspeitas de que poderiam estar sendo enviados para fora do país. O que acompanhar Huang prestará depoimento em 1º de dezembro perante três comissões da Câmara dos Representantes dos Estados Unidos: a Comissão de Relações Exteriores, a Comissão Especial sobre o Partido Comunista Chinês e a Comissão de Inteligência. A audiência será realizada a portas fechadas, mas uma transcrição poderá ser divulgada publicamente posteriormente. Patrimônio de Jensen Huang Jensen Huang perdeu outros US$ 17,3 bilhões ao fim do pregão de sexta-feira, o equivalente a aproximadamente R$ 88,2 bilhões. Com isso, passou a ocupar a 17ª posição na lista de bilionários da Forbes, com patrimônio líquido estimado em US$ 110,2 bilhões (cerca de R$ 562 bilhões). Desde 9 de novembro, primeiro dia de negociações após a revelação de seu caso extraconjugal, Huang perdeu mais de um quarto de sua fortuna. Matéria publicada originalmente em Forbes.com O post SEC Está Investigando Contabilidade da Nvidia, Dizem Fontes apareceu primeiro em Forbes Brasil .",
-   "text_source": "rss",
-   "images": [],
-   "videos": [],
-   "keywords": [
-    "Está",
-    "Investigando",
-    "Contabilidade"
-   ],
-   "searches": []
-  },
-  {
-   "id": "mcomprometeradocaodatecnologiaemempresas",
-   "title": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
-   "published": "2026-11-21T13:30:03+00:00",
-   "summary": "A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e agentes passam a executar atividades, acessar informações e apoiar decisões, cresce também a necessidade de estabelecer critérios para orientar e controlar seu uso. Nesse cenário, a governança de IA deixa de ser uma preocupaç",
-   "score": 4.21,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Pdk5AoUglhAGWGhFQ1ykK2m1iw0=/0x0/filters:format(webp):quality(85)/cd82fcd4-c5f4-42e9-b4b6-47d3f9d212aa.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Colunas Tudo sobre Inteligência Artificial Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas Por Rodrigo Resende | 21/11/2026 às 10:30\n\nReprodução/Insurtalks A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo. À medida que novas ferramentas e agentes passam a executar atividades, acessar informações e apoiar decisões, cresce também a necessidade de estabelecer critérios para orientar e controlar seu uso. Nesse cenário, a governança de IA deixa de ser uma preocupação restrita à área de tecnologia e passa a ser um elemento fundamental para garantir que a adoção aconteça de forma segura, coordenada e alinhada aos objetivos do negócio.\n\nQuando diferentes departamentos adotam soluções de IA sem critérios compartilhados, o que deveria representar um ganho de produtividade pode gerar problemas operacionais, riscos de segurança e custos difíceis de administrar. O desafio não está apenas em incorporar novas ferramentas, mas em entender como elas serão utilizadas, por quem e com qual finalidade.\n\nUm levantamento do Capgemini Research Institute , publicado em 2025 e realizado com 1.100 executivos de grandes empresas de 15 países, ajuda a dimensionar essa questão. Embora 93% das organizações pesquisadas já explorassem, testassem ou implementassem recursos de inteligência artificial generativa, apenas 46% possuíam políticas de governança estabelecidas. Entre aquelas que contavam com essas diretrizes, 47% relataram que seus funcionários raramente as seguiam. Os dados mostram que o interesse e a implementação da tecnologia nem sempre são acompanhados pela maturidade necessária para administrá-la.\n\nNa prática, cinco erros podem comprometer os resultados dessa transformação:\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade 1. Acreditar que quanto mais IA, melhor Um dos equívocos na adoção de novas tecnologias é associar o avanço tecnológico à quantidade de ferramentas disponíveis.\n\nNa tentativa de acompanhar o mercado, algumas empresas passam a incorporar soluções de inteligência artificial até mesmo em atividades nas quais a tecnologia não oferece vantagens claras ou um processo mais simples já resolveria o problema.\n\nNem toda tarefa precisa de IA. Antes de implementar uma solução, é importante identificar qual problema ela deve resolver, quais resultados são esperados e se existe uma alternativa mais adequada.\n\nSem essa avaliação, a organização corre o risco de acumular ferramentas, aumentar a complexidade da operação e investir recursos em aplicações que pouco contribuem para o negócio.\n\nEssa análise também deve considerar a qualidade dos resultados. Uma ferramenta pode automatizar determinada atividade, mas exigir tantas revisões e correções humanas que o ganho de produtividade acaba sendo reduzido ou até anulado.\n\nQuando cada departamento escolhe suas próprias soluções, sem alinhamento com as diretrizes da empresa, surgem diferentes ambientes de utilização da IA.\n\nUma equipe pode contratar uma plataforma, outra desenvolver uma aplicação independente e uma terceira compartilhar informações corporativas em ferramentas externas sem que a área de tecnologia tenha conhecimento.\n\nEsse cenário dificulta o controle sobre quais sistemas estão sendo utilizados, quais dados são compartilhados e quem tem acesso a eles. Também pode criar dependência de fornecedores e soluções que não se comunicam entre si.\n\nPor isso, é fundamental estabelecer regras claras de utilização, definir quais ferramentas são autorizadas e orientar os colaboradores sobre os limites de uso. Um primeiro passo é fazer um levantamento das soluções de IA utilizadas pelos diferentes departamentos, identificando suas finalidades, os responsáveis por cada aplicação e os tipos de dados envolvidos.\n\nA governança precisa alcançar toda a organização, sem ficar restrita à equipe de tecnologia.\n\nCom a evolução da tecnologia, os agentes de IA passaram a executar tarefas que antes exigiam a participação humana em diferentes etapas de um processo. O desafio aparece quando as empresas começam a criar múltiplos agentes sem definir claramente o papel e os limites de atuação de cada um.\n\nImagine uma operação em que dois agentes recebem responsabilidades semelhantes, processam informações diferentes ou executam instruções conflitantes.\n\nUm agente encarregado de atualizar registros de clientes, por exemplo, pode modificar informações utilizadas simultaneamente por outro sistema para gerar relatórios ou tomar decisões. Se não houver mecanismos de coordenação e verificação, uma alteração incorreta poderá comprometer outras etapas do trabalho.\n\nEm vez de agilizar a operação, esses conflitos podem gerar retrabalho, decisões contraditórias e novas necessidades de verificação. Em fluxos mais complexos, um agente pode até desfazer ou comprometer uma ação realizada por outro.\n\nA adoção desses sistemas exige planejamento. É preciso determinar quais atividades cada agente pode executar, quais informações pode acessar, como deve interagir com outros sistemas e em quais situações uma decisão precisa passar pela validação humana.\n\nTambém é importante manter registros das ações executadas, testar o comportamento dos agentes e limitar suas permissões às atividades realmente necessárias. Dessa forma, a empresa consegue identificar falhas, investigar decisões e reduzir os riscos associados à autonomia desses sistemas.\n\nOutro erro é considerar apenas o custo inicial de contratação de uma ferramenta, sem acompanhar o que acontece depois que ela passa a fazer parte da operação.\n\nO uso de inteligência artificial depende de recursos de processamento, infraestrutura e energia, cujos custos podem ser cobrados diretamente pelo consumo ou estar incorporados ao preço dos serviços contratados. Dependendo da solução, da frequência de utilização e da complexidade das tarefas, as despesas podem crescer significativamente.\n\nQuando há ferramentas redundantes, agentes executando atividades desnecessárias e processos mal dimensionados, a conta pode se tornar ainda mais elevada. Em plataformas que cobram por volume de processamento ou de informações utilizadas, por exemplo, tarefas repetidas e chamadas desnecessárias aos modelos podem aumentar os gastos sem produzir resultados adicionais.\n\nUma pesquisa divulgada pela IBM em junho de 2026 identificou que 84% dos executivos de tecnologia entrevistados ainda não haviam operacionalizado completamente a gestão financeira da IA, enquanto 85% não tinham visibilidade integral dos gastos com a tecnologia em tempo real.\n\nIsso reforça a importância de acompanhar o consumo e relacionar os custos aos resultados entregues. Indicadores como custo por tarefa, tempo economizado e redução de erros podem ajudar a verificar se o investimento realmente compensa.\n\nA tecnologia precisa gerar valor mensurável. Caso contrário, a empresa pode ampliar seus investimentos sem perceber que parte dos recursos está sendo desperdiçada.\n\nA facilidade de acesso às ferramentas de IA também exige atenção ao tipo de informação que circula por elas. Funcionários podem inserir dados de clientes, documentos internos, informações financeiras ou conteúdos estratégicos em plataformas sem compreender como esses materiais serão armazenados e utilizados.\n\nO risco não está apenas em ataques externos. A própria ausência de regras e controles pode levar ao compartilhamento indevido de informações e à exposição de dados que deveriam permanecer restritos.\n\nUma situação aparentemente simples, como utilizar uma ferramenta pública de IA para resumir um contrato confidencial ou analisar uma planilha com dados de clientes, pode representar um risco caso a empresa não tenha avaliado as condições de armazenamento, processamento e utilização dessas informações pelo fornecedor.\n\nAs empresas precisam definir níveis de acesso, estabelecer quais informações podem ser utilizadas em cada ferramenta e criar mecanismos de acompanhamento. Também é importante preparar os colaboradores para reconhecer situações em que o uso da IA exige cautela ou autorização prévia.\n\nEsses cuidados devem incluir a avaliação das políticas de privacidade e segurança dos fornecedores, a classificação das informações corporativas e a revisão periódica das permissões concedidas aos sistemas.\n\nEsses cinco erros têm um ponto em comum: mostram que a adoção da inteligência artificial não pode acontecer de maneira isolada, sem considerar o funcionamento da organização como um todo.\n\nA governança precisa fazer parte da estratégia desde o início. Isso envolve mapear as ferramentas utilizadas, estabelecer responsabilidades, definir limites de atuação, acompanhar custos e revisar continuamente os processos. Também exige integração entre tecnologia, segurança da informação e áreas de negócio, já que os impactos da IA ultrapassam os limites de um único departamento.\n\nPara empresas que ainda não possuem uma estrutura de governança, o primeiro passo pode ser identificar quais ferramentas já estão em uso, quais informações elas acessam e quem responde por suas operações. A partir desse diagnóstico, torna-se possível estabelecer prioridades, corrigir vulnerabilidades e definir critérios para novas implementações.\n\nO potencial da inteligência artificial é enorme, mas sua adoção sem planejamento pode criar problemas que anulam parte dos ganhos esperados. O objetivo não deve ser utilizar IA em todas as atividades, mas identificar onde ela realmente faz sentido e garantir que seu uso esteja alinhado às necessidades e à capacidade operacional da empresa.",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/Pdk5AoUglhAGWGhFQ1ykK2m1iw0=/0x0/filters:format(webp):quality(85)/cd82fcd4-c5f4-42e9-b4b6-47d3f9d212aa.png",
-    "https://tl.ctcdn.com.br/9opzopqSUennMTbKnZiEyLvXFf8=/1200x675/smart/filters:format(webp):quality(85)/ea237df9-8e23-4fd5-a7dc-05b965054b36.jpeg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/HOAWTAPtoBEwRjtRnE3UurH7Nio=/640x360/smart/filters:format(webp):quality(85)/ea237df9-8e23-4fd5-a7dc-05b965054b36.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "IA",
-    "5"
    ],
    "searches": []
   }
