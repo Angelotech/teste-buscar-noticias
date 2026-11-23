@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-22T16:48:23.495470+00:00",
+ "generated_at": "2026-11-23T01:16:00.482326+00:00",
  "trends": [
   {
-   "term": "liverpool",
-   "traffic": 2000
-  },
-  {
-   "term": "ufc jiri prochazka vs navajo stirling",
-   "traffic": 5000
-  },
-  {
-   "term": "oli mcburnie",
-   "traffic": 200
-  },
-  {
-   "term": "acidente porto de galinhas",
-   "traffic": 100
-  },
-  {
-   "term": "milan x frosinone",
-   "traffic": 2000
-  },
-  {
-   "term": "tornado",
-   "traffic": 2000
-  },
-  {
-   "term": "viola davis",
-   "traffic": 200
-  },
-  {
-   "term": "milan",
+   "term": "tallulah belle willis",
    "traffic": 500
   },
   {
-   "term": "yassir zabiri",
+   "term": "enart 2026",
    "traffic": 200
   },
   {
-   "term": "domingo espetacular domingo espetacular",
+   "term": "knicks x pacers",
+   "traffic": 500
+  },
+  {
+   "term": "49ers x vikings",
+   "traffic": 500
+  },
+  {
+   "term": "delta",
    "traffic": 200
+  },
+  {
+   "term": "broncos",
+   "traffic": 100
+  },
+  {
+   "term": "vasco da gama classificação",
+   "traffic": 200
+  },
+  {
+   "term": "jamal musiala",
+   "traffic": 1000
+  },
+  {
+   "term": "climatempo",
+   "traffic": 2000
+  },
+  {
+   "term": "robert renan",
+   "traffic": 500
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 249,
-  "used_today": 8,
+  "used": 252,
+  "used_today": 11,
   "daily_allowance": 62
  },
  "sources": [
@@ -64,31 +64,31 @@
   {
    "name": "TecMundo",
    "feed": "https://rss.tecmundo.com.br/feed",
-   "count": 25,
+   "count": 21,
    "ok": true
   },
   {
    "name": "The Verge",
    "feed": "https://www.theverge.com/rss/index.xml",
-   "count": 10,
+   "count": 9,
    "ok": true
   },
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 12,
+   "count": 3,
    "ok": true
   },
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 5,
+   "count": 7,
    "ok": true
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 12,
+   "count": 7,
    "ok": true
   },
   {
@@ -112,7 +112,7 @@
   {
    "name": "Technologyreview",
    "feed": "https://www.technologyreview.com/feed",
-   "count": 1,
+   "count": 0,
    "ok": true
   },
   {
@@ -149,73 +149,90 @@
  "manual": [],
  "stories": [
   {
-   "id": "ecomprarnablackfriday2026maquinasdelavar",
-   "title": "O que comprar na Black Friday: máquinas de lavar",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-2026-maquinas-de-lavar/",
-   "published": "2026-11-22T12:15:00+00:00",
-   "summary": "",
-   "score": 11.72,
+   "id": "on1039779deltaflightsdelayedsystemoutage",
+   "title": "Delta flights in and out of Atlanta delayed due to system outage",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+   "published": "2026-11-22T17:46:44+00:00",
+   "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+   "score": 8.68,
    "why": [
-    "4 sites cobrindo"
+    "Em alta no Google: delta"
+   ],
+   "also_in": [],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Transportation\n\n- News\n\n# Delta flights in and out of Atlanta delayed due to system outage\n\nMajor delays for Delta come just a week after a nationwide groundstop.\n\nMajor delays for Delta come just a week after a nationwide groundstop.\n\nbyTerrence O'Brien\n\nNov 22, 2026, 12:46 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments11Comment (All New)\n\nA Delta Air Lines Airbus A220.Photo: Saul Loeb / AFP via Getty Images\n\n[](https://www.theverge.com/authors/terrence-obrien)\n\nTerrence O'Brienis the Verge’s weekend editor. He’s covered the tech industry for over 18 years and knows a thing or two about synths.\n\nAll Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane’s weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta’s largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at Hartsfield-Jackson could potentially affect other airports and airlines if delays continue to pile up.\n\nThe issues with Delta’s systems in Atlanta come just one week after an FAA outage led to a nationwide groundstop and thousands of canceled flights. According to _The New York Times_:\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n> The system that went offline calculates the total weight of an airplane, including its airframe, fuel, passengers and their baggage. The system also allows pilots to determine the plane’s center of gravity and whether the weight is evenly distributed — data points that help ensure safe passage.\n>\n> “Delta teams are using manual workarounds this morning to safely get flights departed while work continues to restore automation,” the airline said in a statement on Sunday.\n\n1 Comment\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Terrence O'Brien\n- News\n\n- Transportation\n\nSubscribe to The Vergeto continue reading.\n\n## Most Popular\n\nMost Popular\n\n1. Teenage Engineering’s first CD player puts the spinning disc on display\n\n2. The vibe-coding revolution is coming to all the gadgets\n\n3. Google says it’s going to shut off Google Assistant on smart speakers next year\n\n4. The Xiaomi 18 Pro proves two screens aren’t better than one\n\n5. Amazon is complaining about NYC Council on shipping labels, too\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Transportation\n\nHarbinger is building the unsexy EVs that keep the economy moving\n\nWhy the robots are ditching Uber\n\nRivian spinoff Also pauses e-bike deliveries over battery and software bugs\n\nCalifornia just banned Waymo from all state freeways\n\nAmflow’s new urban e-bike series is deliciously overpowered for flat city streets\n\nUber and Zipline’s drone delivery service takes flight in Houston\n\nHarbinger is building the unsexy EVs that keep the economy moving\n\nAndrew J. HawkinsNov 21CommentsComment Icon Bubble24\n\nWhy the robots are ditching Uber\n\nAndrew J. HawkinsNov 20CommentsComment Icon Bubble38\n\nRivian spinoff Also pauses e-bike deliveries over battery and software bugs\n\nAndrew J. HawkinsNov 18CommentsComment Icon Bubble19\n\nCalifornia just banned Waymo from all state freeways\n\nAndrew J. HawkinsNov 17CommentsComment Icon Bubble52\n\nAmflow’s new urban e-bike series is deliciously overpowered for flat city streets\n\nAndrew J. HawkinsNov 17CommentsComment Icon Bubble5\n\nUber and Zipline’s drone delivery service takes flight in Houston\n\nAndrew J. HawkinsNov 17CommentsComment Icon Bubble1\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n8:00 AM EST\n\nThe vibe-coding revolution is coming to all the gadgets\n\n9:00 AM EST\n\n‘The show is starting soon. Please turn on your headphones.’\n\n8:15 AM EST\n\nHow Tamagotchis got us hooked on digital pets\n\n8:00 AM EST\n\nYour questions about Apple HomeView’s audio, answered\n\n11:33 AM EST\n\nSheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nContinue reading with a Verge subscriptionUnlock unlimited access to The Verge for just $2.\n\nSTART YOUR TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0%2C10.740554568055%2C100%2C78.518890863889&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0%2C0.0096394833236957%2C100%2C99.980721033353&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/TERRENCE_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0.097535023940409%2C0%2C99.804929952119%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&strip=all&crop=0.03125%2C0%2C99.9375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25211546/Waymo_One_I_PACE_on_Freeway_.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UE-Pro-Beauty-Shots_UE-pro_01.jpg?quality=90&strip=all&crop=0%2C0.40263543191801%2C100%2C99.194729136164&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25214561/ces_drone_zipline_delivery_bag_press_kit.jpg?quality=90&strip=all&crop=8%2C0%2C84%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=16.73169001596%2C0%2C66.536619968079%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "Atlanta"
+   ],
+   "searches": [
+    "atlanta",
+    "atlanta falcons",
+    "atlanta geórgia",
+    "atlanta united",
+    "atlanta airport",
+    "atlanta accent"
+   ]
+  },
+  {
+   "id": "tralocalizacaodetodosositensvejacomousar",
+   "title": "Mapa interativo de GTA 6 mostra localização de todos os itens! Veja como usar",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/voxel/mapa-interativo-de-gta-6-mostra-localizacao-de-todos-os-itens-veja-como-usar/",
+   "published": "2026-11-22T18:15:00+00:00",
+   "summary": "",
+   "score": 5.56,
+   "why": [
+    "2 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/produtos/starlink-mini-ou-antena-padrao-qual-comprar-na-black-friday/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/tv/tv-4k-ou-projetor-qual-compensa-mais-na-black-friday/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-iphones/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/perfis-e-anuncios-falsos-dominaram-ameacas-na-black-friday-2026-saiba-como-se-proteger/"
-    },
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/amazon-black-friday-deals-2026/"
+     "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-dots-do-chatgpt/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=710",
-   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n22/11/2026 \\| 09h15\n\nNotícia de presente\n\nA **Black Friday** é uma ótima data para comprar eletrodomésticos, inclusive para garantir uma boa **máquina de lavar** pelo menor preço ou escolhendo um modelo mais avançado, combinando tecnologias de lavagem, eficiência energética e recursos que facilitam o cuidado com as roupas.\n\nMas, antes de aproveitar uma promoção, é importante avaliar aspectos como capacidade, consumo, funções e espaço disponível. Para ajudar na escolha, o TecMundo reuniu **cinco modelos de lavadoras de marcas renomadas** que merecem atenção nesta Black Friday.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Como escolher a máquina de lavar antes da Black Friday 2026\n\nA Black Friday pode ser o momento ideal para investir na máquina de lavar nova, com opções desde as mais básicas até modelos lava e seca com motor inverter  Foto: Samsung/Divulgação\n\nA **melhor máquina de lavar** vai depender do seu espaço, tamanho da família, tipos de peças e outros fatores. Informações sobre capacidade, tipo de abertura, programas de lavagem, eficiência energética e dimensões devem ser analisadas antes da compra. Para se certificar de estar realmente fazendo um bom negócio, também vale comparar o preço histórico para identificar descontos vantajosos de verdade.\n\n### Capacidade em litros\n\nAlgo importante a se observar é que **a capacidade das lavadoras é medida em quilos**, não em litros, e indica o peso de roupas secas suportado por ciclo. Modelos de 8 a 10 kg atendem bem pessoas que moram sozinhas ou casais. Já máquinas de 11 a 13 kg são versáteis para famílias, enquanto opções de 15 kg facilitam a lavagem de edredons e peças volumosas.\n\n### Leia também\n\n- Qual máquina de lavar roupas Electrolux escolher\n\n### Top Load ou Front Load?\n\nVocê já deve ter percebido que há diferentes formatos de lavadoras por aí. As máquinas **Top Load** **possuem abertura superior** e permitem adicionar roupas com facilidade durante a lavagem, geralmente apresentando preços mais acessíveis. Já a máquina de lavar **abertura frontal (Front Load)** costuma oferecer maior eficiência no uso de água e movimentos de lavagem mais delicados. Ambos têm seus benefícios, então a escolha final vai depender do orçamento, espaço disponível em casa e preferência de uso.\n\n### Vale a pena uma lava e seca?\n\nUm **aparelho capaz de lavar e secar** é indicado para apartamentos, lavanderias compactas e famílias com pouco espaço para estender roupas. Também é interessante para quem tem uma rotina corrida e precisa de peças limpas e secas rapidamente. Em contrapartida, **estes modelos costumam custar mais** e apresentar capacidade de secagem inferior à de lavagem.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Leia também\n\n- Lava e seca Midea é uma boa opção?\n\n### Funções especiais\n\nRecursos adicionais podem fazer toda a diferença na rotina. A **tecnologia EcoBubble** da Samsung, por exemplo, facilita a dissolução do sabão, enquanto o ciclo tira manchas ajuda na remoção de sujeiras difíceis. Já a **lavagem a seco por ar**, presente em determinados modelos, refresca roupas sem utilizar água. Também merecem atenção a presença de **cesto em inox, lavagem a vapor e ciclos silenciosos**, que podem transformar o uso cotidiano.\n\n### Consumo de energia\n\nPara encontrar a **máquina de lavar mais econômica em água e energia** na Black Friday, compare o consumo informado na etiqueta do Inmetro, já que o **Selo Procel A** identifica modelos de maior eficiência energética. Outra característica importante é o **motor inverter**: a diferença entre lavadora com motor inverter e motor tradicional está principalmente no controle de funcionamento, que pode proporcionar menor ruído, desgaste e consumo de eletricidade.\n\n### Leia também\n\n- O que comprar na Black Friday 2026: geladeiras\n\n### As melhores máquinas de lavar para comprar na Black Friday 2026\n\nEscolher a melhor lavadora requer bastante pesquisa e, por isso, pode se tornar uma tarefa complicada. Para te ajudar a tomar uma boa decisão e aproveitar os preços promocionais, o TecMundo traz cinco sugestões de **máquinas de lavar para comprar na Black Friday deste ano**.\n\n### LG VC5 FV3012WC5 12kg — Melhor tecnologia e cuidado com roupas\n\nPara quem valoriza cuidado com os tecidos, a LG VC5 FV3012WC5 oferece um dos melhores conjuntos tecnológicos Foto: LG/Divulgação\n\nA **LG VC5** combina motor Inverter Direct Drive com classificação energética A, inteligência artificial AIDD e tecnologia 6 Motion DD, que utiliza diferentes movimentos para cuidar dos tecidos. Com capacidade de 12 kg, ela tem abertura frontal, tambor de aço inoxidável e lavagem a vapor Steam que ajuda a remover até 99,99% dos agentes alergênicos. Por isso, a LG VC5 é mais indicada para famílias que valorizam o silêncio, tecnologia e cuidado com as roupas.\n\n### Samsung WD11A EcoBubble 11kg + 7kg — Melhor lava e seca custo-benefício\n\nReunindo capacidade de 11 kg para lavagem e 7 kg para secagem, a **Samsung WD11A** tem motor Digital Inverter e ainda conta com tecnologia EcoBubble. O modelo oferece lavagem a seco Air Wash, ciclo de vapor de higiene, tambor Diamond Drum para lavagem delicada e programa rápido de lavagem e secagem em 59 minutos, sendo uma alternativa interessante para usar em apartamentos e por consumidores que desejam praticidade sem comprar dois equipamentos.\n\n- Confira o valor da Samsung WD11A EcoBubble no site oficial\n- Confira o valor da Samsung WD11A EcoBubble no Magazine Luiza\n\n### Electrolux Essential Care LED15 15kg — Maior capacidade pelo melhor preço\n\nQuem busca boa capacidade a preço mais em cona pode gostar da Electrolux Essential Care LED15 Foto: Electrolux/Divulgação\n\nCom capacidade de 15 kg, abertura superior e cesto em inox, a **Electrolux LED15** é indicada para famílias que lavam grandes volumes, incluindo edredons King Size. Seus destaques incluem dispenser Jet&Clean que dilui sabão e amaciante, Ultra Filter Pega Fiapos, lavagem inteligente com ciclos mais rápidos e reutilização de água, além de selo Procel A.\n\n- Confira o valor da Electrolux Essential Care LED15 no site oficial\n- Confira o valor da Electrolux Essential Care LED15 na Fast Shop\n\n### Brastemp BWM13AB 13kg — Melhor remoção de manchas\n\nA **Brastemp BWM13AB** oferece 13 kg de capacidade, abertura superior e 12 programas de lavagem. Seu principal diferencial é o Ciclo Tira Manchas Advanced, desenvolvido para remover mais de 50 tipos de manchas. Também possui ciclo Antibolinhas e programa Edredom, sendo uma boa escolha para famílias que priorizam desempenho de lavagem e conservação dos tecidos.\n\n\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? \\\\\n\\\\\nMega data centers no Brasil: uma ameaça? \\\\\n\\\\\nO que comprar na Black Friday: iPhones\n\n- Confira o valor da Brastemp BWM13AB no site oficial\n- Confira o valor da Brastemp BWM13AB na WebContinental\n\n### Consul CWH13AB 13kg — Melhor lavagem econômica\n\nA Consul CWH13AB pode ser uma boa compra para quem quer economizar na aquisição e no uso cotidiano Foto: Consul/Divulgação\n\nIndicada para famílias que procuram capacidade, simplicidade e economia no dia a dia, a **Consul CWH13AB** combina suporte a peso de até 13 kg de roupas secas, 16 ciclos de lavagem e Selo Procel A. Sua dosagem econômica pode economizar até 70% de sabão, enquanto a função reuso de água permite reaproveitar até 40 litros por ciclo.\n\n- Confira o valor da Consul CWH13AB no site oficial\n- Confira o valor da Consul CWH13AB na Amazon\n\n### Cupons de Black Friday\n\n- Confira aqui os cupons de Black Friday que já estão disponíveis para resgate\n\n### Como economizar de verdade na compra de uma máquina de lavar na Black Friday\n\nPara aproveitar ao máximo o período de Black Friday, **é essencial acompanhar os preços semanas antes do evento** e comparar o valor à vista, parcelamento, frete e garantia. Considere também o consumo de energia e água no longo prazo e, além disso, sempre desconfie de descontos calculados sobre preços inflados.\n\nPara quem não tem tanto tempo para se dedicar à pesquisa, vale a pena visitar o nosso **Guia de Compras**. Atualizado constantemente pelo nosso time de especialistas, o guia sempre traz informações, resumos e dicas de compras sobre os mais diversos produtos\n\n### Onde comprar uma máquina de lavar em promoção?\n\nMarketplaces como **Mercado Livre** **,** **Amazon** **e** **Magazine Luiza** são algumas das melhores alternativas para comparar ofertas, mas é imprescindível conferir a reputação do vendedor antes de fechar a compra. Se possível, o ideal é optar por lojas oficiais e lojistas parceiros das plataformas. As **lojas oficiais de fabricantes**, como as da LG, da Samsung, da Electrolux e outras marcas, também merecem atenção.\n\n### Onde encontrar os melhores preços\n\nDurante a Black Friday, fabricantes e marketplaces costumam oferecer **descontos, cupons, cashback e condições especiais de pagamento**. Por isso, comparar diferentes lojas e verificar o histórico de preços ajuda a identificar oportunidades reais.\n\nOutra boa dica é ficar atento aos nossos canais de ofertas no WhatsApp, Telegram e Instagram para receber oportunidades direto no celular. Por fim, sempre confira nossa página de **cupons de desconto** em busca de códigos e links que possam reduzir ainda mais o custo final no carrinho de compras.\n\nGostou do nosso guia? Compartilhe nas suas redes sociais e continue acompanhando o TecMundo para mais conteúdo sobre tecnologia e tudo o mais que pode tornar sua rotina mais simples e eficiente!\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Black Friday\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nJogo Grand Theft Auto VI Edição Standard - Playstation 5\\\\\n\\\\\nR$ 449,90\\\\\n\\\\\nGamer · Shopee\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nMega data centers no Brasil: uma ameaça? 2.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 3.\\\\\n\\\\\nO que comprar na Black Friday: iPhones 4.\\\\\n\\\\\nFalhas graves no NGINX permitem invasão e controle de servidores 5.\\\\\n\\\\\nGarrafas Stanley a partir de R$ 122 na Black Friday antecipada\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://www.estadao.com.br/resizer/v2/DCNVCG2ZSVBHHIE6D5WMCWPBBE.jpg?quality=80&auth=e4a7c3707743609a5b1c196bc6d9ac06d5aeb3320f800206da81d0370a44ac2f&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Voxl\n\nPor Valdecir Emboava\n\n22/11/2026 \\| 15h15\n\nNotícia de presente\n\nGTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI\n\n_GTA 6_ já está disponível e apresenta um mundo aberto gigantesco para os jogadores explorarem. Em Leonida, há uma grande variedade de missões, atividades secundárias, clubes, oficinas, lojas e outros pontos de interesse espalhados pelo mapa.\n\nPara ajudar a encontrar tudo o que o jogo oferece, o _IGN_ disponibilizou um mapa interativo na internet — e ele é uma verdadeira mão na roda para te ajudar na sua jornada por Leonida. A ferramenta permite marcar locais, acompanhar tarefas concluídas e organizar a exploração de acordo com os objetivos de cada jogador.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nGTA 6 tem mapa interativo que é uma mão na roda para ajudar explorar Leonida. Foto: Rocks\n\n### Mapa interativo de GTA 6 com certeza te ajudará a explorar Leonida da melhor maneira\n\nPUBLICIDADE\n\nO mapa interativo reúne informações sobre praticamente todos os pontos de interesse de Leonida, com categorias que podem ser exibidas ou ocultadas conforme a necessidade. Também é possível adicionar marcadores próprios, criar anotações e acompanhar listas de tarefas personalizadas.\n\nA ferramenta ainda conta com um sistema para separar atividades concluídas e pendentes. No momento, são 2.532 marcadores incompletos disponíveis, incluindo locais, colecionáveis, veículos, atividades e operações ilegais.\n\nAlguns dos pontos de interesse incluem caixas eletrônicos, academias, clubes, lojas Ammu-Nation e muito mais. O mapa também indica estabelecimentos que podem ser usados em roubos, como bancos, joalherias, lojas de conveniência e casas de penhores.\n\nA seção de veículos ainda mostra locais como oficinas, postos de gasolina, lava-rápidos, garagens compráveis e pontos de aluguel. Já as categorias de exploração e atividades incluem saltos acrobáticos, desafios de corrida, campos de golfe, pontos de pesca, máquinas de fliperama e diferentes colecionáveis espalhados pelo cenário.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nPara conferir o mapa interativo e começar a organizar sua exploração, basta acessar a ferramenta clicando **neste link** e selecionar as categorias que deseja visualizar em Leonida.\n\nPUBLICIDADE\n\n### GTA 6 já tem lista de códigos e de troféus para desbloquear\n\nGTA 6 já está disponível para PS5 e Xbox Series X\\|S. Foto: Rockstar/Divulgação\n\n_GTA 6_ é sem sombra de dúvidas o maior jogo de todos os tempos, não apenas pela sua escala monumental, mas também pelo impacto cultural que vem causando desde seu período de pré-lançamento. Mesmo gigante de diferentes formas possíveis, o game tem uma reprodução bastante assertiva nos consoles.\n\nPara aqueles que desejam a cobiçada platina do jogo, saibam que _GTA 6_ possui uma lista com mais de 50 troféus/conquistas para desbloquear. Além disso, o título também conta com uma série de cheats e trapaças — mas que são ativáveis de forma diferente em comparação aos games anteriores da franquia.\n\nE você, já está se aventurando por Leonida? Comente nas redes sociais do **VOXL** se o mapa interativo vai ajudar a completar todas as tarefas de _GTA 6_!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo Sobre\n\n- [GTA \\[Grand Theft Auto\\]](https://www.estadao.com.br/tudo-sobre/gta-grand-theft-auto/)\n- Rockstar\n\n0 Comentário\n\n17 debatedores online17 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nJBL Quantum 400, Headset Gamer, Preto\\\\\n\\\\\nR$ 299,00\\\\\n\\\\\nGamer · Loja iPlace\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nJogo Grand Theft Auto VI Edição Standard - Playstation 5\\\\\n\\\\\nR$ 449,90\\\\\n\\\\\nGamer · Shopee\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nMicrofone Gamer Condensador Fifine SuperFrame Edition\\\\\n\\\\\nR$ 111,75\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nJogo Frostpunk para PC\\\\\n\\\\\nR$ 13,35\\\\\n\\\\\nGamer · Hype Games\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nPack de jogos LEGO DC vs Marvel\\\\\n\\\\\nR$ 54,00\\\\\n\\\\\nGamer · Green Man Gaming\n- \\\\\n\\\\\nPlaca de Vídeo Biostar AMD Radeon RX 580 2048SP, 8GB\\\\\n\\\\\nR$ 941,16\\\\\n\\\\\nGamer · Terabyte\n- \\\\\n\\\\\nMouse Gamer Alienware Pro sem fio\\\\\n\\\\\nR$ 1.149,01\\\\\n\\\\\nGamer · Dell Technologies Brazil\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nMais lidas\n\n1.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 2.\\\\\n\\\\\nMega data centers no Brasil: uma ameaça? 3.\\\\\n\\\\\nO segredo para estudar melhor pode estar no notebook certo 4.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 5.\\\\\n\\\\\nSQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs\n\nPUBLICIDADE\n\nPUBLICIDADE\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=710",
-    "https://www.estadao.com.br/resizer/v2/P5LUUV5E5JD2HKQ5SZKVQCFVJA.jpg?quality=80&auth=21071cf304fd109479055349f3bfe8af992693cdbe4cf53412558bf2014d6251&width=1200&height=630&smart=true",
+    "https://www.estadao.com.br/resizer/v2/DCNVCG2ZSVBHHIE6D5WMCWPBBE.jpg?quality=80&auth=e4a7c3707743609a5b1c196bc6d9ac06d5aeb3320f800206da81d0370a44ac2f&width=710",
+    "https://www.estadao.com.br/resizer/v2/DCNVCG2ZSVBHHIE6D5WMCWPBBE.jpg?quality=80&auth=e4a7c3707743609a5b1c196bc6d9ac06d5aeb3320f800206da81d0370a44ac2f&width=1200&height=630&focal=1779,784",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/TPVLOMTIUJJRJMZOQBTMVWDAME.jpg?quality=80&auth=65660330bb7783dd22aa56b521d53672c771c8446d9731c0eccc25efcaf739d6&width=60&height=60&smart=true",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-17-2026%2Ft_79386c1a3cc2428792efe06feadf3293_name_35ae6368_0eae_4928_96f8_bf8d313b0f98.jpg?quality=80&auth=08a8e831be0111d72efcce1c8aec688e9c0bc33c97b1282d3495986adae882c6&width=520&height=292&smart=true",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=1200",
+    "https://www.estadao.com.br/resizer/v2/WVM6SATMVND35HNMNVNYGIE5IM.jpg?quality=80&auth=03ed0216f0ca159ae1f1954fe10807f2d53c3faefe0244bb19ffcce84b01f243&width=1200",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/RLJ3KAFPZJD4FP4C2ZK7ZKLOZ4.jpg?quality=80&auth=d8d77854071066c7f058ca1d653be4ade4474af97b7ae08c55d8891f846edd8e&width=1200",
-    "https://www.estadao.com.br/resizer/v2/M4N26VRNKFDFZC3IOVWVDNJUDQ.jpg?quality=80&auth=a6eab342e0275b80c32f9f653fc1a4feb11dee1b219b2ba4bac5200bd8507cff&width=1200",
-    "https://www.estadao.com.br/resizer/v2/NXU42K2GHZDZ3EPHDTZ3VTYSBI.png?quality=80&auth=99ec0120e444ff36e7bddad356e8afc3ba4320e0dac990de3569a90d2129aefb&width=90&height=90&smart=true",
-    "https://www.estadao.com.br/resizer/v2/5GB2XNJ34NAIVDHV3DNYETIPSY.jpg?quality=80&auth=890f5c916baf9df16700916b23ddf10051731be82649012555eb1da7b4a24d5a&width=90&height=90&focal=650,568",
-    "https://www.estadao.com.br/resizer/v2/GRBFCABYFVBGPPT7BBQDMTOO5I.png?quality=80&auth=72d20197c4777a43f9c65dc02ac505bfeba6aae52b04c3d3255f916d0da5445d&width=90&height=90&smart=true",
-    "https://www.estadao.com.br/resizer/v2/O6WOV7IJRJFBLJ4I57MNWBKHAI.jpg?quality=80&auth=ae7794fcced6991d29f22fb78b8aa91b05113dd131ebd734648db79ea5dfe7d9&width=1200"
+    "https://www.estadao.com.br/resizer/v2/DCNVCG2ZSVBHHIE6D5WMCWPBBE.jpg?quality=80&auth=e4a7c3707743609a5b1c196bc6d9ac06d5aeb3320f800206da81d0370a44ac2f&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/5f4df9a1db40c4c5d53fa124c1756f517177c79cffb41a2ff6c43f2a2562cee1.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg",
+    "https://cf.shopee.com.br/file/br-11134207-820m9-mska6117emfb9f",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
-    "Black",
-    "Friday"
+    "GTA",
+    "6",
+    "Veja"
    ],
-   "searches": [
-    "black friday fc mobile",
-    "black friday",
-    "black friday mc lele jp",
-    "black friday tom odell",
-    "black friday nos estados unidos",
-    "black friday starkid"
-   ]
+   "searches": []
   },
   {
    "id": "osimpassesobreofimdoscombustiveisfosseis",
@@ -224,7 +241,7 @@
    "url": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/cop31-termina-sem-acordo-final-apos-impasse-sobre-o-fim-dos-combustiveis-fosseis/",
    "published": "2026-11-22T16:07:57+00:00",
    "summary": "Rascunho apresentado por Turquia e Austrália foi rejeitado por omitir metas para o fim dos combustíveis fósseis O post COP31 termina sem acordo final após impasse sobre o fim dos combustíveis fósseis apareceu primeiro em Olhar Digital .",
-   "score": 5.96,
+   "score": 5.43,
    "why": [
     "2 sites cobrindo"
    ],
@@ -255,20 +272,94 @@
    "searches": []
   },
   {
-   "id": "beswsb202611omelhorconhaquedomundoem2026",
-   "title": "O Melhor Conhaque do Mundo em 2026",
-   "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-wsb/2026/11/o-melhor-conhaque-do-mundo-em-2026/",
-   "published": "2026-11-22T08:00:00+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dois brandies conquistaram os prêmios máximos na avaliação do IWSC 2026, com rótulos que entregam perfis completamente distintos O post O Melhor Conhaque do Mundo em 2026 apareceu primeiro em Forbes Brasil .",
-   "score": 5.45,
+   "id": "ecomprarnablackfriday2026maquinasdelavar",
+   "title": "O que comprar na Black Friday 2026: máquinas de lavar",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-2026-maquinas-de-lavar/",
+   "published": "2026-11-22T12:15:00+00:00",
+   "summary": "",
+   "score": 5.19,
    "why": [
     "2 sites cobrindo"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/entretenimento/melhores-adaptacoes-games-lancadas-2026/"
+     "url": "https://canaltech.com.br/smartphone/iphone-16e-ou-17-qual-vale-mais-a-pena-na-black-friday/"
+    },
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/eletro/air-fryer-comum-ou-air-fryer-oven-qual-comprar-na-black-friday/"
+    },
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-8000-reais-para-comprar/"
+    },
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/produtos/starlink-mini-ou-antena-padrao-qual-comprar-na-black-friday/"
+    },
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/hardware/geforce-rtx-5050-quanto-vale-a-pena-pagar-black-friday-2026/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-iphones/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/garrafas-stanley-a-partir-de-r-122-na-black-friday-antecipada/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=710",
+   "text": "Home Estadão\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nJornal do Carro TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHoje JC TecMundo E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n22/11/2026 \\| 09h15\n\nNotícia de presente\n\nA **Black Friday** é uma ótima data para comprar eletrodomésticos, inclusive para garantir uma boa **máquina de lavar** pelo menor preço ou escolhendo um modelo mais avançado, combinando tecnologias de lavagem, eficiência energética e recursos que facilitam o cuidado com as roupas.\n\nMas, antes de aproveitar uma promoção, é importante avaliar aspectos como capacidade, consumo, funções e espaço disponível. Para ajudar na escolha, o TecMundo reuniu **cinco modelos de lavadoras de marcas renomadas** que merecem atenção nesta Black Friday.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Como escolher a máquina de lavar antes da Black Friday 2026\n\nA Black Friday pode ser o momento ideal para investir na máquina de lavar nova, com opções desde as mais básicas até modelos lava e seca com motor inverter  Foto: Samsung/Divulgação\n\nA **melhor máquina de lavar** vai depender do seu espaço, tamanho da família, tipos de peças e outros fatores. Informações sobre capacidade, tipo de abertura, programas de lavagem, eficiência energética e dimensões devem ser analisadas antes da compra. Para se certificar de estar realmente fazendo um bom negócio, também vale comparar o preço histórico para identificar descontos vantajosos de verdade.\n\n### Capacidade em litros\n\nAlgo importante a se observar é que **a capacidade das lavadoras é medida em quilos**, não em litros, e indica o peso de roupas secas suportado por ciclo. Modelos de 8 a 10 kg atendem bem pessoas que moram sozinhas ou casais. Já máquinas de 11 a 13 kg são versáteis para famílias, enquanto opções de 15 kg facilitam a lavagem de edredons e peças volumosas.\n\n### Leia também\n\n- Qual máquina de lavar roupas Electrolux escolher\n\n### Top Load ou Front Load?\n\nVocê já deve ter percebido que há diferentes formatos de lavadoras por aí. As máquinas **Top Load** **possuem abertura superior** e permitem adicionar roupas com facilidade durante a lavagem, geralmente apresentando preços mais acessíveis. Já a máquina de lavar **abertura frontal (Front Load)** costuma oferecer maior eficiência no uso de água e movimentos de lavagem mais delicados. Ambos têm seus benefícios, então a escolha final vai depender do orçamento, espaço disponível em casa e preferência de uso.\n\n### Vale a pena uma lava e seca?\n\nUm **aparelho capaz de lavar e secar** é indicado para apartamentos, lavanderias compactas e famílias com pouco espaço para estender roupas. Também é interessante para quem tem uma rotina corrida e precisa de peças limpas e secas rapidamente. Em contrapartida, **estes modelos costumam custar mais** e apresentar capacidade de secagem inferior à de lavagem.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Leia também\n\n- Lava e seca Midea é uma boa opção?\n\n### Funções especiais\n\nRecursos adicionais podem fazer toda a diferença na rotina. A **tecnologia EcoBubble** da Samsung, por exemplo, facilita a dissolução do sabão, enquanto o ciclo tira manchas ajuda na remoção de sujeiras difíceis. Já a **lavagem a seco por ar**, presente em determinados modelos, refresca roupas sem utilizar água. Também merecem atenção a presença de **cesto em inox, lavagem a vapor e ciclos silenciosos**, que podem transformar o uso cotidiano.\n\n### Consumo de energia\n\nPara encontrar a **máquina de lavar mais econômica em água e energia** na Black Friday, compare o consumo informado na etiqueta do Inmetro, já que o **Selo Procel A** identifica modelos de maior eficiência energética. Outra característica importante é o **motor inverter**: a diferença entre lavadora com motor inverter e motor tradicional está principalmente no controle de funcionamento, que pode proporcionar menor ruído, desgaste e consumo de eletricidade.\n\n### Leia também\n\n- O que comprar na Black Friday 2026: geladeiras\n\n### As melhores máquinas de lavar para comprar na Black Friday 2026\n\nEscolher a melhor lavadora requer bastante pesquisa e, por isso, pode se tornar uma tarefa complicada. Para te ajudar a tomar uma boa decisão e aproveitar os preços promocionais, o TecMundo traz cinco sugestões de **máquinas de lavar para comprar na Black Friday deste ano**.\n\n### LG VC5 FV3012WC5 12kg — Melhor tecnologia e cuidado com roupas\n\nPara quem valoriza cuidado com os tecidos, a LG VC5 FV3012WC5 oferece um dos melhores conjuntos tecnológicos Foto: LG/Divulgação\n\nA **LG VC5** combina motor Inverter Direct Drive com classificação energética A, inteligência artificial AIDD e tecnologia 6 Motion DD, que utiliza diferentes movimentos para cuidar dos tecidos. Com capacidade de 12 kg, ela tem abertura frontal, tambor de aço inoxidável e lavagem a vapor Steam que ajuda a remover até 99,99% dos agentes alergênicos. Por isso, a LG VC5 é mais indicada para famílias que valorizam o silêncio, tecnologia e cuidado com as roupas.\n\n### Samsung WD11A EcoBubble 11kg + 7kg — Melhor lava e seca custo-benefício\n\nReunindo capacidade de 11 kg para lavagem e 7 kg para secagem, a **Samsung WD11A** tem motor Digital Inverter e ainda conta com tecnologia EcoBubble. O modelo oferece lavagem a seco Air Wash, ciclo de vapor de higiene, tambor Diamond Drum para lavagem delicada e programa rápido de lavagem e secagem em 59 minutos, sendo uma alternativa interessante para usar em apartamentos e por consumidores que desejam praticidade sem comprar dois equipamentos.\n\n- Confira o valor da Samsung WD11A EcoBubble no site oficial\n- Confira o valor da Samsung WD11A EcoBubble no Magazine Luiza\n\n### Electrolux Essential Care LED15 15kg — Maior capacidade pelo melhor preço\n\nQuem busca boa capacidade a preço mais em cona pode gostar da Electrolux Essential Care LED15 Foto: Electrolux/Divulgação\n\nCom capacidade de 15 kg, abertura superior e cesto em inox, a **Electrolux LED15** é indicada para famílias que lavam grandes volumes, incluindo edredons King Size. Seus destaques incluem dispenser Jet&Clean que dilui sabão e amaciante, Ultra Filter Pega Fiapos, lavagem inteligente com ciclos mais rápidos e reutilização de água, além de selo Procel A.\n\n- Confira o valor da Electrolux Essential Care LED15 no site oficial\n- Confira o valor da Electrolux Essential Care LED15 na Fast Shop\n\n### Brastemp BWM13AB 13kg — Melhor remoção de manchas\n\nA **Brastemp BWM13AB** oferece 13 kg de capacidade, abertura superior e 12 programas de lavagem. Seu principal diferencial é o Ciclo Tira Manchas Advanced, desenvolvido para remover mais de 50 tipos de manchas. Também possui ciclo Antibolinhas e programa Edredom, sendo uma boa escolha para famílias que priorizam desempenho de lavagem e conservação dos tecidos.\n\n\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? \\\\\n\\\\\nMega data centers no Brasil: uma ameaça? \\\\\n\\\\\nO que comprar na Black Friday: iPhones\n\n- Confira o valor da Brastemp BWM13AB no site oficial\n- Confira o valor da Brastemp BWM13AB na WebContinental\n\n### Consul CWH13AB 13kg — Melhor lavagem econômica\n\nA Consul CWH13AB pode ser uma boa compra para quem quer economizar na aquisição e no uso cotidiano Foto: Consul/Divulgação\n\nIndicada para famílias que procuram capacidade, simplicidade e economia no dia a dia, a **Consul CWH13AB** combina suporte a peso de até 13 kg de roupas secas, 16 ciclos de lavagem e Selo Procel A. Sua dosagem econômica pode economizar até 70% de sabão, enquanto a função reuso de água permite reaproveitar até 40 litros por ciclo.\n\n- Confira o valor da Consul CWH13AB no site oficial\n- Confira o valor da Consul CWH13AB na Amazon\n\n### Cupons de Black Friday\n\n- Confira aqui os cupons de Black Friday que já estão disponíveis para resgate\n\n### Como economizar de verdade na compra de uma máquina de lavar na Black Friday\n\nPara aproveitar ao máximo o período de Black Friday, **é essencial acompanhar os preços semanas antes do evento** e comparar o valor à vista, parcelamento, frete e garantia. Considere também o consumo de energia e água no longo prazo e, além disso, sempre desconfie de descontos calculados sobre preços inflados.\n\nPara quem não tem tanto tempo para se dedicar à pesquisa, vale a pena visitar o nosso **Guia de Compras**. Atualizado constantemente pelo nosso time de especialistas, o guia sempre traz informações, resumos e dicas de compras sobre os mais diversos produtos\n\n### Onde comprar uma máquina de lavar em promoção?\n\nMarketplaces como **Mercado Livre** **,** **Amazon** **e** **Magazine Luiza** são algumas das melhores alternativas para comparar ofertas, mas é imprescindível conferir a reputação do vendedor antes de fechar a compra. Se possível, o ideal é optar por lojas oficiais e lojistas parceiros das plataformas. As **lojas oficiais de fabricantes**, como as da LG, da Samsung, da Electrolux e outras marcas, também merecem atenção.\n\n### Onde encontrar os melhores preços\n\nDurante a Black Friday, fabricantes e marketplaces costumam oferecer **descontos, cupons, cashback e condições especiais de pagamento**. Por isso, comparar diferentes lojas e verificar o histórico de preços ajuda a identificar oportunidades reais.\n\nOutra boa dica é ficar atento aos nossos canais de ofertas no WhatsApp, Telegram e Instagram para receber oportunidades direto no celular. Por fim, sempre confira nossa página de **cupons de desconto** em busca de códigos e links que possam reduzir ainda mais o custo final no carrinho de compras.\n\nGostou do nosso guia? Compartilhe nas suas redes sociais e continue acompanhando o TecMundo para mais conteúdo sobre tecnologia e tudo o mais que pode tornar sua rotina mais simples e eficiente!\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Black Friday\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nJogo Grand Theft Auto VI Edição Standard - Playstation 5\\\\\n\\\\\nR$ 449,90\\\\\n\\\\\nGamer · Shopee\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nMega data centers no Brasil: uma ameaça? 2.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 3.\\\\\n\\\\\nO que comprar na Black Friday: iPhones 4.\\\\\n\\\\\nFalhas graves no NGINX permitem invasão e controle de servidores 5.\\\\\n\\\\\nGarrafas Stanley a partir de R$ 122 na Black Friday antecipada\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=710",
+    "https://www.estadao.com.br/resizer/v2/P5LUUV5E5JD2HKQ5SZKVQCFVJA.jpg?quality=80&auth=21071cf304fd109479055349f3bfe8af992693cdbe4cf53412558bf2014d6251&width=1200&height=630&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/BZIRDEA4BNFADHUCBCNXTIQA2I.jpg?quality=80&auth=552a29e6a178dda496a3311569a9ed27bdcc102bacb26df359dec187af84dd8f&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://www.estadao.com.br/resizer/v2/RLJ3KAFPZJD4FP4C2ZK7ZKLOZ4.jpg?quality=80&auth=d8d77854071066c7f058ca1d653be4ade4474af97b7ae08c55d8891f846edd8e&width=1200",
+    "https://www.estadao.com.br/resizer/v2/M4N26VRNKFDFZC3IOVWVDNJUDQ.jpg?quality=80&auth=a6eab342e0275b80c32f9f653fc1a4feb11dee1b219b2ba4bac5200bd8507cff&width=1200",
+    "https://www.estadao.com.br/resizer/v2/NXU42K2GHZDZ3EPHDTZ3VTYSBI.png?quality=80&auth=99ec0120e444ff36e7bddad356e8afc3ba4320e0dac990de3569a90d2129aefb&width=90&height=90&smart=true",
+    "https://www.estadao.com.br/resizer/v2/5GB2XNJ34NAIVDHV3DNYETIPSY.jpg?quality=80&auth=890f5c916baf9df16700916b23ddf10051731be82649012555eb1da7b4a24d5a&width=90&height=90&focal=650,568",
+    "https://www.estadao.com.br/resizer/v2/GRBFCABYFVBGPPT7BBQDMTOO5I.png?quality=80&auth=72d20197c4777a43f9c65dc02ac505bfeba6aae52b04c3d3255f916d0da5445d&width=90&height=90&smart=true",
+    "https://www.estadao.com.br/resizer/v2/O6WOV7IJRJFBLJ4I57MNWBKHAI.jpg?quality=80&auth=ae7794fcced6991d29f22fb78b8aa91b05113dd131ebd734648db79ea5dfe7d9&width=1200"
+   ],
+   "videos": [],
+   "keywords": [
+    "Black",
+    "Friday",
+    "2026"
+   ],
+   "searches": [
+    "black friday 2026 strategy",
+    "black friday 2026",
+    "black friday 2026 celular",
+    "black friday 2026 ps5",
+    "black friday 2026 iphone",
+    "black friday 2026 paraguai"
+   ]
+  },
+  {
+   "id": "beswsb202611omelhorconhaquedomundoem2026",
+   "title": "O Melhor Conhaque do Mundo em 2026",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-wsb/2026/11/o-melhor-conhaque-do-mundo-em-2026/",
+   "published": "2026-11-22T08:00:00+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Dois brandies conquistaram os prêmios máximos na avaliação do IWSC 2026, com rótulos que entregam perfis completamente distintos O post O Melhor Conhaque do Mundo em 2026 apareceu primeiro em Forbes Brasil .",
+   "score": 4.92,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/notebook/melhores-notebooks-para-estudar-trabalhar-2026/"
     },
     {
      "source": "Forbes",
@@ -303,13 +394,49 @@
    ]
   },
   {
+   "id": "naltechcombrappsquandooneui95seralancada",
+   "title": "Quando a One UI 9.5 será lançada?",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/apps/quando-one-ui-95-sera-lancada/",
+   "published": "2026-11-22T18:00:00+00:00",
+   "summary": "A One UI 9.5 é a próxima atualização da interface da Samsung para celulares e tablets Galaxy. Baseada no Android 17, a nova versão deve trazer mudanças visuais, melhorias em aplicativos nativos e novos recursos de inteligência artificial (IA). A extensão “.5” começou a ser usada na geração anterior , com a One UI 8.5, após mudanças no calendário de lançamentos do Google. Como as novas versões do A",
+   "score": 4.55,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Apps\n\n# Quando a One UI 9.5 será lançada?\n\nPor Viviane França • Editado por Jones Oliveira \\| 22/11/2026 às 15:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/3b8696b9-a1f8-4db3-823e-473927f770c0.jpeg)Ivo Meneghel Jr/Canaltech\n\nA One UI 9.5 é a **próxima atualização da interface da Samsung** para celulares e tablets Galaxy. Baseada no Android 17, a nova versão deve trazer mudanças visuais, melhorias em aplicativos nativos e novos recursos de inteligência artificial (IA).\n\nContinua após a publicidade\n\nA **extensão “.5” começou a ser usada na geração anterior**, com a One UI 8.5, após mudanças no calendário de lançamentos do Google. Como as novas versões do Android começaram a chegar no primeiro semestre, a Samsung adotou um cronograma com uma atualização principal e outra intermediária, baseada na mesma geração do sistema operacional.\n\nVale lembrar que a Samsung ainda **não anunciou oficialmente a One UI 9.5** ou divulgou uma data de lançamento. A empresa também não confirmou a lista de aparelhos compatíveis ou o nome Galaxy S27 para a próxima geração de celulares. Portanto, as previsões sobre o calendário, os dispositivos elegíveis e os recursos da atualização têm como base vazamentos e expectativas a partir do histórico de lançamentos da fabricante.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Quando a One UI 9.5 será liberada?\n\nA versão estável da One UI 9.5 deve chegar no **primeiro bimestre de 2027**, junto ao lançamento da linha Galaxy S27. A apresentação deve ocorrer durante o evento Galaxy Unpacked, se seguir o calendário adotado pela Samsung em fevereiro de 2026, quando a empresa anunciou a One UI 8.5 com os celulares da família Galaxy S26. Por estrear nos novos modelos topo de linha, a atualização também pode trazer recursos exclusivos para a família Galaxy S27.\n\nAntes da versão final, a fabricante deve abrir um **programa Beta** para que usuários selecionados testem as novidades. A previsão é que a distribuição comece em novembro de 2026, inicialmente para os aparelhos da linha Galaxy S26 e com testes inicialmente concentrados na Coreia do Sul.\n\nA expectativa é que a maioria dos celulares e tablets compatíveis com a One UI 9.0 também receba a versão 9.5. Porém, os modelos mais antigos ou próximos do fim do período de suporte podem ficar de fora. A possível adoção do **Android 17 QPR2** como base da atualização também pode influenciar a lista de aparelhos compatíveis. Nesse cenário, alguns dispositivos poderiam continuar com a versão mais recente do Android, mas não receber a atualização intermediária da interface.\n\nContinua após a publicidade\n\n## Quais são as novidades da One UI 9.5?\n\nA Samsung ainda não anunciou a One UI 9.5, mas vazamentos de versões de teste já revelaram alguns dos recursos em desenvolvimento, como:\n\n- **Mudanças visuais:** a interface deve ganhar elementos transparentes, novos efeitos visuais e animações aprimoradas em botões e menus. A atualização também deve manter os elementos em formato de pílula introduzidos na One UI 8.5;\n\n- **Aplicativo Telefone:** o app de chamadas pode receber uma nova organização do botão de pesquisa, com mudanças na posição para facilitar a navegação. Outra novidade é um histórico de ligações bloqueadas nos últimos 30 dias, dividido em categorias, como possíveis fraudes, suspeita de spam e números bloqueados manualmente;\n\n- **Gravação de chamadas:** a Samsung trabalha em uma ferramenta nativa para gravar conversas feitas no WhatsApp, Google Meet e Telegram. Os primeiros registros indicam que o recurso não emitiria um aviso sonoro aos demais participantes;\n\n- **Digitação por voz com IA:** o Samsung Keyboard deve ganhar uma ferramenta que processa a fala após o término do comando. A inteligência artificial organiza a transcrição e remove onomatopeias, palavras de preenchimento ou hesitações;\n\n- **Samsung Notas:** o aplicativo deve receber uma interface renovada, com novas animações e efeitos visuais nas capas e prévias das anotações. Também está em desenvolvimento uma opção para ocultar informações sensíveis nas prévias de notas privadas;\n\n- **Gaming Hub:** a plataforma de jogos deve ganhar recursos sociais, como opções para adicionar amigos, acessar conversas e acompanhar a atividade dos contatos;\n\n- **Galaxy Claw:** o novo agente de IA deve integrar o Samsung Personal Agent Core e executar tarefas dentro de aplicativos, como enviar e-mails e fazer pesquisas na web pelo Perplexity. Entre os serviços compatíveis identificados estão Calendário, Contatos, Galeria, Gmail, Mensagens, Telefone, Gravador de Voz e Notificações;\n\n- **Automação de tarefas:** a atualização pode trazer opções para configurar rotinas executadas automaticamente pela IA. Será possível definir instruções e escolher frequências de execução, como intervalos de horas, dias, semanas ou meses. Algumas tarefas também devem funcionar com processamento local;\n\n- **Nova Bixby:** a versão 5.0 do aplicativo deve ganhar uma interface de chatbot, com comandos por texto e suporte a tarefas, como limpar o armazenamento, resumir mensagens e ativar configurações. A assistente também poderá armazenar preferências pessoais e programar atividades recorrentes. Porém, ainda não está claro se funcionará integrada ao agente Galaxy Claw;\n\n- **Recursos pagos do Galaxy AI:** trechos de código encontrados em versões de teste sugerem que algumas ferramentas avançadas de inteligência artificial, incluindo o Galaxy Claw, podem ficar restritas a assinantes de planos pagos. A Samsung ainda não confirmou essa possibilidade.\n\nContinua após a publicidade\n\nSe você gostou do conteúdo, talvez também se interesse por conferir “ Quais celulares Galaxy vão receber a One UI 9.5?”.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/Gkeg81UdGKXciLNrSjD3m6Uda8E=/0x0/filters:format(webp):quality(85)/eeafbfb6-47a4-4c49-a579-3eff299a25bc.jpg",
+    "https://tl.ctcdn.com.br/9HPDjGtQ-5TF2oao1MvDxeY_uks=/1200x675/smart/filters:format(webp):quality(85)/3b8696b9-a1f8-4db3-823e-473927f770c0.jpeg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/8V-E2mGoXWjpBKjFBwD-a_sPld0=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "One",
+    "UI",
+    "9"
+   ],
+   "searches": [
+    "one ui 9",
+    "one ui 9.0",
+    "one ui 9 android 17",
+    "one ui 9 vs 8.5",
+    "one ui 9 s24",
+    "one ui 9 novidades"
+   ]
+  },
+  {
    "id": "mnotebooksgamerdiferencasemplacasdevideo",
    "title": "TGP em notebooks gamer: por que duas RTX iguais podem ter desempenhos opostos?",
    "source": "Canaltech",
    "url": "https://canaltech.com.br/notebook/tgp-em-notebooks-gamer-diferencas-em-placas-de-video/",
    "published": "2026-11-22T14:30:00+00:00",
    "summary": "Comprar um notebook gamer exige uma pesquisa minuciosa que vai muito além de ler o adesivo ao lado do teclado (principalmente porque ele geralmente não fala muita coisa). Um cenário comum no mercado é a frustração de investir pesado em uma máquina com GPU de última geração, apenas para descobrir que ela entrega dezenas de quadros por segundo a menos que o notebook de um amigo equipado com a mesmís",
-   "score": 4.86,
+   "score": 4.33,
    "why": [
     "Tema de alto interesse"
    ],
@@ -327,14 +454,7 @@
    "keywords": [
     "RTX"
    ],
-   "searches": [
-    "rtx 5060",
-    "rtx spark",
-    "rtx 5070",
-    "rtx 5050",
-    "rtx 5090",
-    "rtx 3050"
-   ]
+   "searches": []
   },
   {
    "id": "nadonablackfriday9modelosparaficardeolho",
@@ -343,7 +463,7 @@
    "url": "https://canaltech.com.br/eletro/ar-condicionado-na-black-friday-9-modelos-para-ficar-de-olho/",
    "published": "2026-11-22T12:32:00+00:00",
    "summary": "A Black Friday pode ser sua chance de garantir um ar-condicionado, mas escolher apenas pelo desconto pode ser um erro. Além da capacidade em BTUs, é importante observar fatores como a tecnologia do compressor, a eficiência energética, os recursos extras e, principalmente, o custo de instalação. Para esta seleção, priorizamos modelos Split Inverter de 9.000 e 12.000 BTUs, que atendem boa parte dos ",
-   "score": 4.73,
+   "score": 4.2,
    "why": [
     "Tema de alto interesse"
    ],
@@ -363,11 +483,7 @@
     "Friday",
     "9"
    ],
-   "searches": [
-    "black friday 90s",
-    "black friday asphalt 9",
-    "90s black friday crowds"
-   ]
+   "searches": []
   },
   {
    "id": "intelligencerecursosparacelularesandroid",
@@ -376,7 +492,7 @@
    "url": "https://canaltech.com.br/inteligencia-artificial/gemini-intelligence-recursos-para-celulares-android/",
    "published": "2026-11-22T12:30:03+00:00",
    "summary": "O Gemini Intelligence é uma plataforma de inteligência artificial do Google integrada aos dispositivos Android, que transforma o smartphone em um assistente agêntico que consegue entender o contexto das suas atividades, interpretar o que você vê e fala e executar tarefas com várias etapas. A ideia é deixar o Android mais inteligente e proativo , com recursos que identificam informações importantes",
-   "score": 4.73,
+   "score": 4.2,
    "why": [
     "Tema de alto interesse"
    ],
@@ -396,183 +512,79 @@
     "Intelligence",
     "Android"
    ],
-   "searches": [
-    "gemini intelligence android 17",
-    "gemini intelligence android",
-    "gemini intelligence android auto"
-   ]
-  },
-  {
-   "id": "eepficanoprecinhoesaimaisbaratoquetcross",
-   "title": "SUV grande da Jeep fica \"no precinho\" e sai mais barato que T-Cross",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/carros/suv-grande-da-jeep-fica-no-precinho-e-sai-mais-barato-que-t-cross/",
-   "published": "2026-11-22T16:01:00+00:00",
-   "summary": "Quem procura um SUV familiar no mercado de usados pode encontrar opções de categorias superiores por v alores próximos aos cobrados por modelos compactos novos. É o caso do Jeep Commander Limited T270 2022 , que reúne espaço para sete ocupantes, motor turbo flex e uma lista generosa de equipamentos. De acordo com a Tabela Fipe de novembro de 2026 , o modelo tem preço médio de R$ 136.481 . O valor ",
-   "score": 4.35,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/MIIqkdDJZPZnJEJA_ofIQpYVfzY=/0x0/filters:format(webp):quality(85)/91570077-6ea9-4188-be43-24114e2f2158.jpeg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Carros\n\n# SUV grande da Jeep fica \"no precinho\" e sai mais barato que T-Cross\n\nPor Paulo Amaral \\| 22/11/2026 às 13:01\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Auto\n\n:quality(85)/e807fdfb-e088-49da-be03-e4b89cf8fc66.jpeg)Paulo Amaral/Canaltech\n\nQuem procura um **SUV familiar no mercado de usados** pode encontrar opções de categorias superiores por v **alores próximos aos cobrados por modelos compactos** novos. É o caso do **Jeep Commander Limited T270 2022**, que reúne espaço para sete ocupantes, motor turbo flex e uma lista generosa de equipamentos.\n\nContinua após a publicidade\n\nDe acordo com a **Tabela Fipe de novembro de 2026**, o modelo tem preço médio de **R$ 136.481**. O valor fica **abaixo dos R$ 171.990 cobrados pelo Volkswagen T-Cross Comfortline zero km**, versão intermediária da linha, uma diferença de mais de R$ 35 mil.\n\nAlém da economia na compra, o **Commander oferece dimensões generosas** e uma configuração que pode atender famílias que precisam transportar mais passageiros. Mas o que esse SUV da Jeep entrega pelo preço de um usado?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## SUV grande é perfeito para famílias\n\nLançado no Brasil em 2021, o Commander ocupa uma **posição acima do Compass** na linha da Jeep. A proposta é oferecer mais espaço e versatilidade, com uma carroceria de **4,76 metros de comprimento e 2,79 m de entre-eixos**, além da terceira fileira de assentos.\n\nO modelo também tem 1,86 m de largura e 1,68 m de altura. Com a terceira fileira rebatida, o **porta-malas comporta 661 litros de bagagem**. Quando os sete assentos estão em uso, a capacidade cai para 233 litros, enquanto o volume chega a 1.760 litros com as duas fileiras traseiras rebatidas.\n\nContinua após a publicidade\n\n## Motor turbo flex e consumo\n\nSob o capô, o **Commander Limited utiliza o motor** **1.3 turbo flex T270**, que entrega **185 cv com etanol** e 180 cv com gasolina. O torque máximo é de 27,5 kgf/m, disponível a partir de 1.750 rpm, sempre associado ao câmbio automático de seis marchas e à tração dianteira.\n\nO **consumo declarado** pelo Inmetro é de **6,9 km/l na cidade e 8,3 km/l na estrada** com etanol. Com gasolina, as médias sobem para 9,8 km/l e 11,8 km/l, respectivamente. O tanque de combustível tem capacidade para 61 litros.\n\nContinua após a publicidade\n\n## Pacote de equipamentos é bem completo\n\nMesmo sendo uma versão de entrada da linha Commander em 2022, a configuração Limited já oferece um pacote de segurança bastante completo. Entre os recursos estão **controle de cruzeiro adaptativo, frenagem autônoma de emergência, assistente de permanência em faixa, reconhecimento de placas de trânsito e farol alto automático**.\n\nA lista inclui ainda sete airbags, controles de estabilidade e tração e assistente de partida em rampas. Na cabine, o SUV traz **painel digital de 10,25 polegadas**, central multimídia de 10,1 polegadas com **Android Auto e Apple CarPlay sem fio** e ar-condicionado digital de duas zonas.\n\nContinua após a publicidade\n\nO conforto também aparece nos bancos revestidos em couro e suede, com ajuste elétrico para o motorista, além de **chave presencial**, partida por botão e freio de e **stacionamento eletrônico com Auto Hold**. **É um pacote de equipamentos que ajuda a explicar o apelo do Commander no mercado de usados**, especialmente para quem procura um SUV grande e espaçoso **sem pagar o preço de um modelo novo**.\n\nEnquanto você se decide se vai ou não comprar o Commander no \"precinho\", que tal entender, definitivamente, **porque o outro SUV da Jeep, o Compass, vai mudar tanto até 2028? Veja o que vem por aí.**\n\n### Fonte\n\nMundo do Automóvel para PcD\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/MIIqkdDJZPZnJEJA_ofIQpYVfzY=/0x0/filters:format(webp):quality(85)/91570077-6ea9-4188-be43-24114e2f2158.jpeg",
-    "https://tl.ctcdn.com.br/M0yZ8UNuGDHVouWc3betxgXOvd4=/1200x675/smart/filters:format(webp):quality(85)/e807fdfb-e088-49da-be03-e4b89cf8fc66.jpeg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/fOLIY1GcmyIzKeK4ZHcIFkvjAqA=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Jeep",
-    "T-Cross"
-   ],
    "searches": []
   },
   {
-   "id": "ocanalcomercialoperadodepontaapontaporia",
-   "title": "Surge um novo canal comercial, operado de ponta a ponta por IA",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/surge-um-novo-canal-comercial-operado-de-ponta-a-ponta-por-ia/",
-   "published": "2026-11-22T13:30:00+00:00",
-   "summary": "A inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa do IBM Institute for Business Value, realizada em parceria com a Oxford Economics, mostrou que apenas 37% das iniciativas de IA entregaram o valor de negócio esperado pela alta liderança até o fim de 2025. Parte dessa dif",
+   "id": "resbuscamformulasparaevitaroapocalipseia",
+   "title": "Pesquisadores buscam fórmulas para evitar o apocalipse IA",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/22/inteligencia-artificial/pesquisadores-buscam-formulas-para-evitar-o-apocalipse-ia/",
+   "published": "2026-11-22T21:52:08+00:00",
+   "summary": "Enquanto analistas veem baixo risco de extinção, pesquisadores de Berkeley alertam para chance de perda de controle da IA nos próximos anos O post Pesquisadores buscam fórmulas para evitar o apocalipse IA apareceu primeiro em Olhar Digital .",
    "score": 4.19,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nColunas\n\nTudo sobre Inteligência Artificial\n\n# Surge um novo canal comercial, operado de ponta a ponta por IA\n\nPor Luiz Othero \\| 22/11/2026 às 10:30\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/06daa864-61d1-43a5-8aed-ac9fa80384e8.jpg)Aerps.com/Unsplash\n\nA inteligência artificial já ocupa espaço nas agendas de investimento das empresas, mas transformar esse movimento em resultados concretos continua sendo um desafio. Uma pesquisa do IBM Institute for Business Value, realizada em parceria com a Oxford Economics, mostrou que **apenas 37% das iniciativas de IA entregaram o valor de negócio esperado** pela alta liderança até o fim de 2025.\n\nContinua após a publicidade\n\nParte dessa dificuldade está na forma como a tecnologia é incorporada às operações. Em análise publicada este ano, a Bain & Company chama atenção para os ganhos pontuais de produtividade, como relatórios preparados mais rapidamente ou tarefas executadas com menos esforço, que não alteram de maneira significativa a capacidade de entrega das organizações. Capturar valor em escala exige repensar fluxos de trabalho, responsabilidades e modelos operacionais.\n\nNo setor comercial, esse desafio é especialmente visível. A Gartner projeta que, até 2028, os agentes de IA serão dez vezes mais numerosos que os vendedores, mas menos de 40% dos profissionais de vendas dirão que eles melhoraram sua produtividade. O dado reforça que ampliar o uso de ferramentas não garante melhores resultados.\n\nEnquanto isso, oportunidades de venda continuam se perdendo por motivos conhecidos: um contato recebido fora do horário comercial que só ganha resposta no dia seguinte, um potencial cliente que não recebe acompanhamento depois da primeira conversa ou uma base de ex-clientes que permanece inativa por falta de capacidade da equipe. São oportunidades que já chegaram à empresa, mas não avançaram na jornada de compra.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nE é nesse cenário que começa a ganhar espaço uma nova possibilidade: estruturar a inteligência artificial como um canal de vendas, com operação própria e remuneração vinculada aos resultados.\n\n## Da ferramenta à operação comercial\n\nEmpresas que vendem em volume costumam combinar quatro canais: equipes comerciais próprias, representantes e corretores, revendas e contact centers, que podem ser próprios ou terceirizados.\n\nContinua após a publicidade\n\nA equipe própria envolve salários, metas e gestão; representantes recebem comissões; revendas trabalham com margens; e operações terceirizadas de contact center podem combinar valores fixos com parcelas variáveis.\n\nO canal de vendas operado por IA pode se somar a essa estrutura como uma quinta alternativa.\n\nNesse formato, uma operação especializada utiliza agentes de IA para abordar potenciais compradores, identificar necessidades, apresentar produtos, esclarecer dúvidas, acompanhar conversas, negociar dentro de condições predefinidas e conduzir o processo até o fechamento, quando as regras comerciais e regulatórias permitem.\n\nA atividade acontece em nome da marca contratante e pode envolver diferentes frentes de contato, integradas ao CRM e aos sistemas da empresa.\n\nContinua após a publicidade\n\nA mudança está no que a empresa contrata. Em vez de adquirir uma ferramenta e organizar sua implantação, contrata uma operação que assume a execução das vendas. A empresa define produtos, preços e regras, aprova situações excepcionais e acompanha os resultados; o operador conduz o trabalho cotidiano. Em artigo publicado em 2026, a Sequoia Capital resumiu essa mudança ao distinguir copilotos, que oferecem ferramentas, de sistemas que funcionam como \"pilotos automáticos\" e entregam o trabalho realizado.\n\nO canal pode começar por oportunidades que já existem na organização, a partir, por exemplo, de contatos de potenciais clientes que ficaram sem resposta, bases inativas de antigos compradores e indicações de parceiros ou entidades que não recebem acompanhamento suficiente. A empresa já investiu para atrair esses potenciais clientes ou construir relacionamentos e ainda pode gerar receita com eles.\n\nAo longo da jornada, os agentes respondem às mensagens, seguem critérios comerciais, mantêm contato e registram as interações. A operação precisa ser desenhada a partir do processo real: quais informações coletar, quais ofertas apresentar, que condições negociar e quando encaminhar a conversa a uma pessoa.\n\nA participação humana continua prevista. Decisões que exigem julgamento, situações atípicas e etapas reguladas precisam de responsáveis definidos.\n\nContinua após a publicidade\n\nEm uma corretora de planos de saúde, por exemplo, questões relacionadas à portabilidade de carências ou a doenças e lesões preexistentes precisam respeitar as regras da Agência Nacional de Saúde Suplementar (ANS) e podem exigir avaliação especializada. A IA conduz etapas padronizadas e transfere o caso quando os limites previamente definidos exigem intervenção humana.\n\nA experiência de compra também exige atenção. Pesquisa da Gartner divulgada em 2025 apontou que 61% dos compradores B2B preferem uma experiência de compra sem interação com vendedores, mas 73% evitam fornecedores que enviam abordagens irrelevantes. Autonomia e conveniência, portanto, precisam vir acompanhadas de contexto. Automatizar sem critério pode ampliar o alcance de uma comunicação inadequada.\n\n## Onde o modelo faz sentido\n\nA remuneração aproxima o canal de modelos comerciais conhecidos. A contratação pode combinar uma mensalidade destinada à operação com uma comissão sobre as vendas faturadas. Assim, parte do pagamento acompanha o resultado.\n\nContinua após a publicidade\n\nO investimento entra na lógica de distribuição e comissionamento, ao lado dos recursos destinados a representantes, corretores e revendas. Para isso, o contrato precisa estabelecer como as vendas serão atribuídas ao canal e como serão tratados cancelamentos e situações excepcionais.\n\nEsse formato tem maior aderência a negócios com volume expressivo de contatos, produtos padronizados e baixa complexidade consultiva. Planos odontológicos, seguros massificados, consórcios, certificação digital, serviços financeiros e telecomunicações estão entre os segmentos em que esse desenho pode ser avaliado, desde que respeitadas as exigências específicas de cada setor.\n\nA existência de uma rede de representantes ou corretores remunerados por comissão também é um sinal de que já há um modelo de distribuição que pode comportar esse canal.\n\nVendas muito personalizadas, com poucos compradores ou decisões que dependem de análise humana individualizada, exigem outros modelos. O canal também não gera demanda do zero por si só: começa pelas oportunidades existentes e precisa respeitar as regras de privacidade e proteção de dados, incluindo a existência de uma base legal adequada para utilizar os contatos e os cuidados específicos com dados pessoais sensíveis.\n\nContinua após a publicidade\n\nNa AIMANA, estamos desenvolvendo e validando essa tese. Cada operação precisa partir do conhecimento sobre o produto, o cliente e as regras que orientam a venda. A tecnologia integra a estrutura; o desenho comercial define o que pode ser automatizado, como os resultados serão medidos e onde as pessoas devem atuar.\n\nÀ medida que a IA passa a ser avaliada por seu impacto operacional e financeiro, as empresas precisam rever como geram, distribuem e acompanham receita. Para algumas delas, a próxima oportunidade pode estar em adicionar à estrutura comercial um canal capaz de trabalhar continuamente sobre contatos que hoje não recebem atenção suficiente.\n\n### Fonte\n\nibm\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/2M6PxnLMmdjdzAR24lbHtMYHdXE=/0x0/filters:format(webp):quality(85)/4756f8ae-246a-4398-8335-c0fdf6aa45c3.png",
-    "https://tl.ctcdn.com.br/4xkwr2qmOZg8lvHJyDKbgLBvrvw=/1200x675/smart/filters:format(webp):quality(85)/06daa864-61d1-43a5-8aed-ac9fa80384e8.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/1r8guBTdqAz1_5w9B1Krss4U044=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "IA"
-   ],
-   "searches": []
-  },
-  {
-   "id": "x5050quantovaleapenapagarblackfriday2026",
-   "title": "Quanto vale a pena pagar na RTX 5050 na Black Friday 2026?",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/hardware/geforce-rtx-5050-quanto-vale-a-pena-pagar-black-friday-2026/",
-   "published": "2026-11-22T11:30:00+00:00",
-   "summary": "O mercado conta com algumas placas de vídeo de entrada de diferentes gerações, voltadas para uma jogatina em Full HD . Uma delas é a GeForce RTX 5050 , que representa o mínimo que a NVIDIA tem para oferecer na atual geração Blackwell e uma placa que consegue encarar bem até jogos mais pesados em 1080p graças ao suporte ao DLSS 4.5 . Como o mercado de hardware tem sofrido oscilações constantes por ",
-   "score": 4.07,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/39cQOB8jIMs7aIgDDhcYZ7q0ByQ=/0x0/filters:format(webp):quality(85)/33e628ea-9e60-48a0-8c47-6b784148a0e7.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Artigos Tudo sobre Hardware Quanto vale a pena pagar na RTX 5050 na Black Friday 2026? Por Raphael Giannotti • Editado por Jones Oliveira | 22/11/2026 às 08:30\n\nPrefira o CT no Google Canaltech O mercado conta com algumas placas de vídeo de entrada de diferentes gerações, voltadas para uma jogatina em Full HD . Uma delas é a GeForce RTX 5050 , que representa o mínimo que a NVIDIA tem para oferecer na atual geração Blackwell e uma placa que consegue encarar bem até jogos mais pesados em 1080p graças ao suporte ao DLSS 4.5 .\n\nComo o mercado de hardware tem sofrido oscilações constantes por conta da atual crise no segmento, analisamos o cenário de preços dessa placa para definir até onde vale a pena investir durante a Black Friday.\n\nA GeForce RTX 5050 foi projetada para jogos em Full HD, entregando boa taxa de quadros por segundo , que continua sendo o padrão mais popular entre os PC gamers. O grande trunfo do modelo é democratizar o acesso às tecnologias mais recentes da NVIDIA, como o DLSS 4.5 com geração de quadros e upscaling por inteligência artificial e melhorias no desempenho de Ray Tracing para a categoria de entrada.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade Na prática, essa GPU roda com tranquilidade qualquer jogo competitivo e lançamentos modernos em 1080p com baixo consumo ( 130 W ), sendo necessária uma fonte mais simples. Em termos de desempenho, é uma boa escolha para um upgrade sobre uma GPU mais antiga.\n\nAtualmente, o menor preço encontrado para a GeForce RTX 5050 no varejo nacional gira em torno de R$ 2.500 , variando conforme a fabricante e a loja, valor esse que já reflete a alta que tem acontecido no mercado de placas de vídeo por conta da crise atual.\n\nPara a Black Friday, a expectativa é que o componente receba descontos entre 15% e 30% em relação aos preços de hoje. Vale lembrar que a RTX 5050 já registrou um menor preço histórico de R$ 1.659 em janeiro de 2026 , servindo como uma referência importante para identificar quais ofertas realmente valem a pena no evento.\n\nDiante do panorama atual do mercado e do histórico de preços, o ideal para garantir a GeForce RTX 5050 na Black Friday fica entre R$ 1.800 e R$ 2.000 . Encontrar o modelo dentro dessa faixa de preço representa uma excelente oportunidade para montar um setup de entrada e moderno para jogos em 1080p.\n\nPara acompanhar as oscilações de preço e garantir a melhor oferta até o dia do evento, vale a pena monitorar as principais lojas do varejo:",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/39cQOB8jIMs7aIgDDhcYZ7q0ByQ=/0x0/filters:format(webp):quality(85)/33e628ea-9e60-48a0-8c47-6b784148a0e7.png",
-    "https://tl.ctcdn.com.br/54Hx1KJBWC3dnynSvrkJx8PuYqU=/1200x675/smart/filters:format(webp):quality(85)/2d41ee5f-2667-4f8b-9496-250035846922.jpg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/cBRksjrY--k1A11OXLFLIHFsJzE=/640x360/smart/filters:format(webp):quality(85)/2d41ee5f-2667-4f8b-9496-250035846922.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "RTX",
-    "5050",
-    "Black"
-   ],
-   "searches": []
-  },
-  {
-   "id": "paraintegrariaemtodososprocessosdeensino",
-   "title": "CESAR School detalha os passos para integrar IA em todos os processos de ensino",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/cesar-school-detalha-os-passos-para-integrar-ia-em-todos-os-processos-de-ensino/",
-   "published": "2026-11-22T11:00:01+00:00",
-   "summary": "A escola de inovação CESAR School, no Recife (PE), tem um projeto em andamento para se tornar uma “universidade nativa de IA”. O planejamento implica em reformular a grade curricular para integrar o uso de inteligência artificial de olho nas mudanças causadas pela tecnologia no mercado de trabalho. A implementação vai além de apenas permitir o uso de uma ferramenta de IA durante os estudos: a esco",
-   "score": 4.04,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/lwKBm6xpacLmJNm-LQVwxSMFbh8=/0x0/filters:format(webp):quality(85)/bc304b6a-4ece-4110-a140-eb34b9d09c82.png",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Artigos Tudo sobre Inteligência Artificial CESAR School detalha os passos para integrar IA em todos os processos de ensino Por André Lourenti Magalhães • Editado por Jones Oliveira | 22/11/2026 às 08:00\n\nPrefira o CT no Google Divulgação/CESAR A escola de inovação CESAR School, no Recife (PE), tem um projeto em andamento para se tornar uma “universidade nativa de IA”. O planejamento implica em reformular a grade curricular para integrar o uso de inteligência artificial de olho nas mudanças causadas pela tecnologia no mercado de trabalho.\n\nA implementação vai além de apenas permitir o uso de uma ferramenta de IA durante os estudos: a escola dividiu o processo em diferentes eixos que passam pelo aprendizado do aluno, desenvolvimento dos docentes e princípios de governança e escalabilidade dos dados.\n\nO projeto foi abordado durante o festival Rec’n’Play, realizado na última semana na capital pernambucana. O cofundador do Porto Digital e do Cesar, Silvio Meira, reforçou a necessidade de “preparar pessoas para o futuro” e na necessidade de redesenhar processos educacionais de olho nesse novo propósito de inteligência.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade No meio tecnológico, o termo nativo é usado para identificar um aplicativo ou um recurso específico integrado à base de uma plataforma. A ideia do CESAR é seguir um caminho parecido com a inteligência artificial dentro de todos os processos de uma formação acadêmica.\n\nO trabalho começou há oito meses no centro de inovação pernambucano e conta com uma equipe multidisciplinar de cerca de 30 pessoas. Mesmo com um escopo definido, a estimativa da escola é de que a reformulação ainda leve pelo menos 18 meses para ser concluída.\n\nO CESAR School separou sete eixos principais para a estrutura: currículo e práticas com IA; desenvolvimento docente; avaliação dos estudantes; infraestrutura de IA; parâmetros de pesquisa; currículo preparado para inovação e empreendedorismo e, por fim, regras de governança e escalabilidade.\n\nA instituição de ensino tem cursos nas áreas de programação, cibersegurança e dados, áreas em que a IA já se tornou parte de processos rotineiros. As mudanças incluem como e em qual ocasião o estudante vai usar inteligência artificial, como os professores desenvolvem as competências e os fatores que precisam ser considerados para avaliar resultados.\n\nPara o professor e pesquisador-líder da CESAR School, Luciano Meira, o processo padrão em universidades envolvia somente aplicar a tecnologia para sequências didáticas e problemas que já existiam antes da popularização da inteligência artificial. Em seguida, as conclusões eram usadas para documentar usos e proibições da tecnologia.\n\nMeira entende que a tecnologia é uma “infraestrutura cognitiva” no lugar de uma ferramenta e, por isso, é necessário reformular mais aspectos de olho no processo de aprendizagem .\n\nUm dos fatores mais importantes da metodologia é definir como os estudantes vão poder usar a tecnologia. O pesquisador do CESAR Rafael Mello defende um uso de forma estratégica e afirma que há conteúdos que podem ser delegados para as ferramentas.\n\n“É necessário saber reconhecer o que a IA deveria fazer, saber o que precisa ser checado e o que nem deveria ser mandado ali [para uma IA]”, explica.\n\nA mudança também afeta como os professores elaboram a grade de aulas e avaliam os estudantes. Rafael Mello reforça a necessidade de desenvolver habilidades no lugar de apenas “passar conteúdo”.\n\nPor fim, Luciano Meira explica a necessidade de redesenhar as competências e o desenvolvimento de novas habilidades em instituições de ensino: “Sai de um processo de ensinar, que eu costumo dizer que é um processo completamente vertical, e trabalhar por competências é colocar isso numa perspectiva horizontal”.\n\nLeia também: 5 dicas para programadores sobreviverem ao avanço da IA",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/lwKBm6xpacLmJNm-LQVwxSMFbh8=/0x0/filters:format(webp):quality(85)/bc304b6a-4ece-4110-a140-eb34b9d09c82.png",
-    "https://tl.ctcdn.com.br/wZoYMXo90mg-xb_VEYLx3uQhuP0=/1200x675/smart/filters:format(webp):quality(85)/e7859c80-a17b-4578-856a-b7ec26fa456d.jpeg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/TmgAuXF6h5VwN78h9nlWUDLKiZE=/640x360/smart/filters:format(webp):quality(85)/e7859c80-a17b-4578-856a-b7ec26fa456d.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "School",
-    "IA"
-   ],
-   "searches": []
-  },
-  {
-   "id": "asillidernosatelitenichonabandalargafixa",
-   "title": "Starlink no Brasil: líder no satélite, nicho na banda larga fixa",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/telecom/starlink-no-brasil-lider-no-satelite-nicho-na-banda-larga-fixa/",
-   "published": "2026-11-22T10:30:00+00:00",
-   "summary": "Em agosto de 2026, a Starlink superou a TIM em acessos de banda larga fixa no Brasil, com 936.800, ante 929.900, segundo dados da Anatel, e, em setembro, chegou a 994.000 acessos. Sem dúvida, um resultado expressivo para uma empresa que iniciou suas operações no país em 2022. No entanto, o dado relevante é outro: esses 994.000 acessos representam apenas 1,7% dos 58 milhões de acessos fixos do país",
-   "score": 4.01,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/ep2Bq6_YDF2MkM10HyH8YxfNejo=/0x0/filters:format(webp):quality(85)/de73ac3c-6ae4-4a4f-9bb5-995a6b70b3a8.jpeg",
-   "text": "Canaltech - Notícias de Tecnologia, Ciência e Entretenimento Notícias Vídeos Podcasts Produtos Mais Canaltech Canaltech Ofertas Prêmio Canaltech Busca Notícias Últimas Notícias Análises Apps Carros Ciência Colunas CTUP - Hardware e Games CT Eletro - Eletrodomésticos Entretenimento Espaço Games Quadrinhos Smartphone Tutoriais VÍDEOS Últimos Vídeos Playlists de Vídeo YT Canaltech YT Maravilhas da Tecnologia PODCASTS Últimos Podcasts Escutar Podcast Canaltech Escutar Porta 101 PRODUTOS Tudo sobre Produtos Apple Reviews Samsung Huawei Xiaomi LG Motorola Realme Lenovo Sony OPPO MAIS CANALTECH Sobre o Canaltech Política de Privacidade Programa de Integridade Segurança & Privacidade Anuncie Teste de Velocidade Facebook Instagram Twitter LinkedIn RSS Feed CANALTECH OFERTAS Canaltech Ofertas Categorias de Ofertas Cupom de Desconto Grupos de Oferta 26/11 Não perca a Black Friday 2026 do Canaltech! Não perca: live da Black Friday 2026 Adicionar na agenda × Publicidade Home Colunas Tudo sobre Telecom Starlink no Brasil: líder no satélite, nicho na banda larga fixa Por José Otero | 22/11/2026 às 07:30\n\nPrefira o CT no Google Imagem criada com IA Em agosto de 2026, a Starlink superou a TIM em acessos de banda larga fixa no Brasil, com 936.800, ante 929.900, segundo dados da Anatel, e, em setembro, chegou a 994.000 acessos. Sem dúvida, um resultado expressivo para uma empresa que iniciou suas operações no país em 2022. No entanto, o dado relevante é outro: esses 994.000 acessos representam apenas 1,7% dos 58 milhões de acessos fixos do país.\n\nA Starlink concentra cerca de 86% dos acessos via satélite, mas o satélite, como um todo, responde por apenas 2% da banda larga fixa no Brasil. Trata-se, portanto, de uma liderança em um segmento pequeno. A questão para os próximos anos não é se a Starlink continuará crescendo, mas quanto poderá crescer por conta própria em um mercado cada vez mais disputado.\n\nA hipótese que proponho é que, até 2030, a banda larga fixa da Starlink continuará respondendo por uma pequena parcela do mercado brasileiro e que crescer sem parceiros de distribuição será cada vez mais difícil à medida que a fibra se expandir e concorrentes via satélite autorizados a oferecer esse serviço entrarem no mercado.\n\nReceba as melhores ofertas de tecnologia Cupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp. WhatsApp Continua após a publicidade O mercado brasileiro difere substancialmente do americano, onde a Starlink passou a disputar áreas rurais antes atendidas por satélites geoestacionários e foi selecionada para atender localidades no âmbito do programa de subsídios Equidade, Acesso e Implantação de Banda Larga (BEAD).\n\nNo Brasil, sua principal concorrente é a fibra óptica, implantada em grande parte por milhares de pequenos provedores. Os provedores competitivos concentram 64% dos acessos por fibra (Teleco, 3T26) e 91% dos acessos por essa tecnologia nos municípios com até 30.000 habitantes. Em muitos municípios, são os únicos a oferecer fibra, tecnologia que já responde por mais de 80% dos acessos de banda larga fixa do país.\n\nA Starlink cresce principalmente onde a fibra ainda não chegou e, segundo levantamento com dados de março de 2026, responde por 12,8% dos acessos fixos nos municípios em que mais de 75% da população vive em áreas rurais.\n\nEssa fronteira, porém, muda a cada trimestre, e a ela se soma um segundo fator: a implantação do 5G no interior. As obrigações do leilão do 5G preveem o atendimento às sedes de todos os municípios brasileiros até o fim de 2029, e o programa conjunto da Brisanet e do governo do Ceará prevê a instalação de mil torres 5G em áreas rurais até o mesmo prazo.\n\nÉ pouco provável que o acesso fixo sem fio (FWA) alcance uma participação significativa, já que uma projeção da GSMA Intelligence, publicada em 2024, estimava que apenas 0,2% dos domicílios brasileiros contariam com o serviço em 2030 e o custo dos equipamentos continua sendo uma barreira.\n\nAinda assim, a expansão das torres pode reduzir as áreas em que o satélite é a única alternativa, especialmente quando a cobertura móvel alcança localidades fora das sedes municipais.\n\nA Starlink enfrenta, além disso, uma limitação na capacidade da própria rede. Segundo a Ookla, no primeiro trimestre de 2026, a velocidade mediana da Starlink no Brasil caía de 149,5 Mbps durante a madrugada para 90,6 Mbps por volta de uma da tarde. Em 2026, os preços de alguns planos também subiram, enquanto o custo do kit caiu. São sinais que sugerem uma tentativa de gerenciar a demanda e a capacidade disponível, em vez de apenas maximizar o volume de acessos.\n\nUma extrapolação simples ajuda a dimensionar os próximos anos. Mantido o ritmo registrado ao longo de 2026, de cerca de 42.000 novos acessos por mês, a Starlink chegaria a aproximadamente 3,14 milhões de acessos no fim de 2030, o equivalente a 5,4% do mercado brasileiro de setembro de 2026.\n\nEsse cálculo considera um ritmo constante de crescimento e utiliza como referência o tamanho atual do mercado, sem incorporar eventuais mudanças na demanda, nos preços ou na concorrência. Portanto, não se trata de uma previsão definitiva, mas de um cenário ilustrativo que mantém a participação da empresa abaixo de 6%.\n\nA Amazon Leo e a SpaceSail, operadora da constelação Qianfan com sede em Xangai, já têm autorização da Anatel e avançaram na homologação de equipamentos , mas ainda não comercializam seus serviços no Brasil.\n\nA SpaceSail chegou a anunciar, por meio de representantes do governo brasileiro, que começaria a operar no primeiro semestre de 2026, mas o lançamento não se concretizou. Posteriormente, a empresa indicou o quarto trimestre de 2026 como previsão, ainda sem uma data comercial confirmada.\n\nA Amazon, por sua vez, ainda não divulgou preços para clientes residenciais. A entrada das duas empresas segue, portanto, como perspectiva para os próximos anos, sem um cronograma definitivo.\n\nO cenário que merece mais atenção é o de uma disputa agressiva por preços. A Amazon estima produzir seu terminal residencial por menos de US$ 400, valor que representa o custo de fabricação, e não necessariamente o preço final ao consumidor.\n\nA Amazon já conta com uma distribuidora no Brasil, a Sky . Enquanto isso, a SpaceSail tem apoio de investidores estatais chineses, escolheu o Brasil como um de seus mercados de expansão internacional e anunciou negociações com mais de 30 países.\n\nSe as duas operadoras entrarem com preços abaixo dos praticados pela Starlink, o efeito poderá ser duplo. A Starlink tenderia a perder participação e parte de seu poder de definir preços no segmento satelital, mas o segmento, como um todo, poderia crescer.\n\nAí está o principal risco para a hipótese: um serviço via satélite mais barato poderia ampliar significativamente a participação dessa tecnologia na banda larga fixa, eventualmente aproximando-a de 6% do mercado, mesmo que a fatia individual da Starlink permanecesse relativamente pequena. Esse percentual, contudo, representa uma possibilidade a ser acompanhada, não uma projeção consolidada.\n\nConvém esclarecer um ponto que costuma gerar confusão. Ao analisar as parcerias da Starlink no Brasil, a atenção costuma se concentrar no serviço direto ao celular (D2D), atualmente em fase de testes com a Vivo.\n\nTrata-se de um mercado distinto, no qual a tecnologia ainda opera sob as regras do sandbox regulatório da Anatel, sem uma oferta comercial ampla disponível aos consumidores brasileiros. O argumento desta coluna refere-se exclusivamente à banda larga fixa.\n\nTrês fatores sustentam esse argumento. O primeiro é o marco regulatório. A Anatel distingue a operadora de satélite, seu representante legal no Brasil e a prestadora de serviços autorizada. A Starlink comercializa o serviço diretamente com autorização própria, mas outras prestadoras habilitadas também podem estabelecer acordos comerciais para utilizar ou revender sua conectividade, desde que cumpram as exigências regulatórias aplicáveis.\n\nO segundo é a relação com o cliente local. O Brasil tem mais de 8.000 provedores de banda larga fixa que conhecem o usuário do interior e cuidam da instalação, do faturamento e do suporte. O terceiro é a demanda pública. Os programas do FUST voltados a escolas, pontos públicos e domicílios vulneráveis envolvem prestadoras autorizadas. Segundo o Banco Mundial, o modelo de baixo custo com pequenos provedores já responde por mais de 54% do mercado de banda larga fixa.\n\nA Starlink já começou a operar com esse modelo. No Brasil, Sky Link Empresas, Alares e Algar revendem o serviço. No Chile e no Peru, a revenda também é realizada pela Entel e, no México, pela Bestel, empresa do grupo Televisa. Como as novas ativações não são divulgadas por canal de venda, não está claro se os acessos revendidos são registrados em nome da Starlink ou do revendedor. A contribuição dos parceiros é real, mas ainda não foi quantificada.\n\nUma participação reduzida não implica menor relevância. Com uma base que poderá alcançar alguns milhões de linhas até 2030 e a maior parte do segmento satelital, a Starlink tende a ocupar um nicho estratégico na conectividade da Amazônia, do agronegócio e das Forças Armadas.\n\nÓrgãos vinculados à Defesa já contrataram serviços e equipamentos da empresa. Durante a Operação Atlas, realizada em 2025, o SGDC-1 registrou um pico de utilização de 97% na banda X, segundo informações apresentadas por representantes militares.\n\nA Telebras, por sua vez, ainda trabalha nas etapas de contratação e desenvolvimento do SGDC-2, sem previsão de colocá-lo em serviço antes do fim da década. Em 17 de novembro de 2026, o governo federal instituiu o Sistema de Satélites de Defesa e Comunicações Estratégicas (SSDC), com a Telebras responsável pela execução dos projetos.\n\nSoma-se a isso o fato de que Elon Musk, proprietário da SpaceX, empresa responsável pela Starlink, entrou em confronto com o Supremo Tribunal Federal em 2024. Em 2025, uma investigação da Reuters relatou que Musk ordenou a interrupção da cobertura da Starlink em determinadas áreas durante uma contraofensiva ucraniana realizada em 2022.\n\nJá a SpaceSail tem vínculos com o governo municipal de Xangai, enquanto o governo dos Estados Unidos pressiona outros países a evitar serviços de conectividade via satélite oferecidos por empresas chinesas.\n\nPara o Brasil, o risco está na concentração, não simplesmente na origem do fornecedor. Cabe ao poder público gerir esse risco nas compras públicas, com critérios de criticidade, capacidade soberana para o tráfego sensível e regras uniformes para os operadores de satélites de órbita baixa.\n\nNa banda larga fixa, a política mais eficaz não é limitar a Starlink, mas estimular a abertura de canais de distribuição, inclusive por meio de ofertas no atacado para provedores regionais, e exigir que as novas ativações sejam informadas por canal de venda. Isso permitiria à Anatel identificar quanto do crescimento vem dos parceiros.\n\nComo comprador, o Estado precisa de uma política nacional para o setor satelital que organize a dependência de fornecedores de acordo com a criticidade do tráfego. No D2D, cabe manter a prestação do serviço vinculada às operadoras móveis, conforme o modelo regulatório aplicável.\n\nAté 2030, cinco indicadores permitirão testar a hipótese: a participação da Starlink na banda larga fixa em relação ao patamar de 6%; a proporção entre as ativações diretas e as feitas por revendedores; o lançamento e os preços da Amazon Leo e da SpaceSail nos mesmos municípios; a cobertura e a adoção do 5G e do FWA em municípios com menos de 30.000 habitantes; e o cronograma do SGDC-2.\n\nA Starlink consolidou sua primeira etapa no Brasil ao atender áreas sem outra oferta, mas a próxima se dará cada vez mais em territórios onde já existem alternativas, como provedores de fibra, torres 5G e, futuramente, concorrentes via satélite com preços mais baixos. Nesse contexto, a relação com o cliente poderá depender cada vez mais dos parceiros locais, e não apenas da operadora de satélite.",
-   "text_source": "basic",
-   "images": [
-    "https://tl.ctcdn.com.br/ep2Bq6_YDF2MkM10HyH8YxfNejo=/0x0/filters:format(webp):quality(85)/de73ac3c-6ae4-4a4f-9bb5-995a6b70b3a8.jpeg",
-    "https://tl.ctcdn.com.br/tSkmSccE7-V1CrP_7ygwgtZzEAE=/1200x675/smart/filters:format(webp):quality(85)/daf23211-532d-4d17-9667-e4a3c959acc1.jpeg",
-    "https://sb.scorecardresearch.com/p?c1=2&amp;c2=20572948&amp;cv=cv=4.4.0&amp;cj=1",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/yRkRfi31p9W3161jXTNM04fW7vo=/640x360/smart/filters:format(webp):quality(85)/daf23211-532d-4d17-9667-e4a3c959acc1.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Brasil"
-   ],
-   "searches": []
-  },
-  {
-   "id": "omcolumn1039139vibecodinggadgetstvcamera",
-   "title": "The vibe-coding revolution is coming to all the gadgets",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
-   "published": "2026-11-20T21:30:59+00:00",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
-   "score": 3.99,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/diy/is-vibe-coding-risky-ai-hidden-dangers-advice-tech-tips/"
-    }
-   ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started Like so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to their liking. What is new is that it's easy now. People all over the world are discovering that they can use large language models to hack their hardwar … Read the full story at The Verge.",
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-do-mal-1024x576.jpg",
+   "text": "Pesquisadores do Alignment Research Center (ARC), em Berkeley, na Califórnia, tentam desenvolver ferramentas matemáticas para manter sistemas avançados de inteligência artificial (IA) sob controle humano. O matemático Mike Winer e seus colegas temem que o avanço da tecnologia esteja reduzindo o tempo disponível para garantir que as máquinas sigam os interesses da humanidade . Fundador do ARC e membro do conselho da OpenAI, Paul Christiano citou recentemente uma chance de 50% de perda irreversível de controle da IA em três anos. – Imagem: Olhar Digital via ChatGPT Matemática contra cenários de risco Fundado em 2021, após Paul Christiano deixar a OpenAI , o ARC adota uma abordagem teórica para investigar o funcionamento de sistemas complexos. A organização busca desenvolver métodos matemáticos capazes de identificar explicações para comportamentos inesperados da IA, examinando os parâmetros que moldam suas respostas. Winer deixou uma carreira promissora na física para trabalhar na organização sem fins lucrativos em 2024. Aos 30 anos, dedica-se a uma questão que considera decisiva: descobrir como garantir que sistemas cada vez mais poderosos continuem agindo de acordo com os objetivos humanos. Para começar, ele testa suas hipóteses em estruturas matemáticas simplificadas, menores que os modelos reais de IA. Também utiliza ferramentas como o ChatGPT e agentes automatizados para investigar conjecturas e tentar encontrar demonstrações que ainda não conseguiu desenvolver sozinho. A preocupação com os riscos, porém, não é compartilhada na mesma intensidade por todos os especialistas. Profissionais que fazem previsões estimam em menos de 1% a probabilidade de extinção humana causada pela IA. Ao mesmo tempo, pesquisas de opinião indicam que quase 20% dos norte-americanos consideram a tecnologia uma ameaça existencial. Winer calcula que existe cerca de 50% de chance de a humanidade perder o controle de sistemas avançados nos próximos cinco anos. Ele também estima em 22% a probabilidade de que a maioria das pessoas morra em consequência desse cenário. Apesar disso, atribui 1% de chance de o trabalho do ARC ajudar a evitar uma catástrofe. “Isso pode não parecer uma boa chance. Mas uma probabilidade de 1% de salvar a humanidade provavelmente é muito mais importante do que qualquer outra coisa que você poderia estar fazendo”, afirmou a matemáticos visitantes da Universidade da Califórnia em Berkeley. Christiano também apresenta projeções preocupantes. Ele estima em um terço a possibilidade de a IA conseguir derrubar um governo no próximo ano e em 50% a chance de a trajetória atual resultar em uma perda irreversível do controle humano em até três anos. Ele integra o conselho da OpenAI. O comportamento levanta dúvidas sobre a capacidade humana de controlar sistemas cada vez mais autônomos. – Imagem: JRdes/Shutterstock Avanços matemáticos aumentam a preocupação A velocidade dos avanços ganhou destaque após a OpenAI anunciar que seus modelos haviam resolvido três problemas matemáticos difíceis, incluindo a conjectura de Kakeya, um desafio de geometria que permaneceu aberto por mais de um século. Os resultados ainda não tinham sido verificados de forma independente. Reese Pathak, pesquisador de pós-doutorado em estatística, acompanhava esses problemas e ficou surpreso com o anúncio. Ele já havia estudado a conjectura e agora se depara com demonstrações produzidas por máquinas cujo raciocínio considera difícil de acompanhar. A dificuldade de compreender o que os modelos estão fazendo também preocupa Winer. Se a capacidade matemática dos sistemas continuar avançando além da compreensão humana, identificar erros e comportamentos perigosos poderá se tornar ainda mais complicado. Ao observar os novos resultados anunciados pela OpenAI, Winer resumiu sua preocupação: “Esses modelos avançaram além de nós”. Em seguida, voltou ao escritório para continuar trabalhando no problema que ainda não conseguiu resolver. O post Pesquisadores buscam fórmulas para evitar o apocalipse IA apareceu primeiro em Olhar Digital .",
    "text_source": "rss",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "https://olhardigital.com.br/wp-content/uploads/2026/09/Destaque-IA-do-mal-1024x576.jpg"
    ],
    "videos": [],
    "keywords": [
-    "vibe-coding",
-    "revolution",
-    "is"
+    "IA"
+   ],
+   "searches": []
+  },
+  {
+   "id": "tisthasthoughtsonhowtolimitaidevelopment",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "source": "Techcrunch",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "published": "2026-11-22T21:14:07+00:00",
+   "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+   "score": 4.15,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "OpenAI’s chief scientist has thoughts on how to limit AI development Anthony Ha 1:14 PM PST · November 22, 2026 A new blog post from OpenAI’s chief scientist Jakub Pachocki discusses potential limits on AI development, with a focus on a measurement called perplexity.\n\nSlowing AI development became a particularly hot topic after a former OpenAI and Anthropic researcher said the companies were “gambling with our lives,” and even Anthropic’s IPO filing suggested that the technology could pose “catastrophic or existential risks to society.”\n\nAnthropic CEO Dario Amodei then published a plan to “pace the frontier,” seemingly endorsed by OpenAI CEO Sam Altman and SpaceX CEO Elon Musk. Among other things, Amodei called for companies to agree to “common safety standards as well as limits on the rate of unchecked AI progress.”\n\nBut to establish a speed limit on AI development, you need to agree on how you measure speed. Pachocki’s post — described by Altman as “the most important thing OpenAI has published in a while” — suggests perplexity (not to be confused with the company of the same name ) could be that measurement.\n\nIn Pachochki’s argument, benchmarks that focus on AI’s “downstream capabilities” have quickly become outdated as the technology advances. But perplexity — which “measures how well a model predicts the next token on average; lower perplexity means better predictions” — has remained “informative.”\n\nPachochki’s post includes a chart of how the perplexity of OpenAI’s models has fallen since GPT 3.5.\n\n“GPT‑4, at ~0.91, was proficient at utilizing chain-of-thought reasoning productively, which motivated the subsequent targeted elicitation of this capability and the creation of modern reasoning models,” he wrote. “Now, as we have reached losses below 0.8, we have seen the emergence of transformative capabilities in fields like cybersecurity and mathematics.”\n\nSo in his view, perplexity could provide the basis for “a shared benchmark for general intelligence,” which AI companies could then use to establish “common limits.” With perplexity serving as a standard measurement for AI progress, the companies would commit not to go past a certain threshold “until our ability to understand and monitor AI behavior achieves a certain concrete milestone.”\n\nWhen you purchase through links in our articles, we may earn a small commission . This doesn’t affect our editorial independence.\n\nAnthony Ha Anthony Ha is TechCrunch’s weekend editor. Previously, he worked as a tech reporter at Adweek, a senior editor at VentureBeat, a local government reporter at the Hollister Free Lance, and vice president of content at a VC firm. He lives in New York City.\n\nYou can contact or verify outreach from Anthony by emailing [email protected] .\n\n2027 San Francisco Get an Early Peek at the Next TechCrunch Disrupt Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line. Sign up for our waitlist\n\nStartup sues Apple in India over tap-to-share contacts feature Jagmeet Singh\n\nAI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too Tim Fernholz\n\nMicrosoft CEO Satya Nadella explains why he asked 60K employees to quit Julie Bort\n\nPalmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated Amanda Silberling\n\nAmazon and Google will together own nearly 30% of Anthropic after its IPO Julie Bort\n\nGoogle joins the tech outage trend by announcing it’s not having one Sarah Perez\n\nFBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’ Zack Whittaker\n\nX LinkedIn Facebook Instagram youTube Mastodon Threads Bluesky TechCrunch Staff Contact Us Advertise Site Map Terms of Service Privacy Policy RSS Terms of Use Code of Conduct Voice AI Anthropic Flock Startup Battlefield Disrupt 2026 Tech Layoffs ChatGPT © 2026 TechCrunch Media LLC.",
+   "text_source": "basic",
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg?w=150"
+   ],
+   "videos": [],
+   "keywords": [
+    "AI"
+   ],
+   "searches": []
+  },
+  {
+   "id": "seramregrasincomunseirritarambancosnoipo",
+   "title": "Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/22/pro/anthropic-e-spacex-impuseram-regras-incomuns-e-irritaram-bancos-no-ipo/",
+   "published": "2026-11-22T19:46:51+00:00",
+   "summary": "Os casos da Anthropic e da SpaceX mostram como empresas de IA ganharam força para negociar condições incomuns com bancos de Wall Street O post Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO apareceu primeiro em Olhar Digital .",
+   "score": 4.06,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/ipo-anthropic-1024x562.jpg",
+   "text": "A abertura de capital (IPO, na sigla em inglês) da Anthropic e da SpaceX provocou insatisfação entre banqueiros e advogados de Wall Street. Nos dois negócios recordes, as empresas de tecnologia impuseram condições incomuns, controlando etapas das operações e restringindo a atuação das instituições financeiras. Apesar de os bancos terem recebido mais de US$ 500 milhões (cerca de R$ 2,85 bilhões) em taxas com o IPO da Anthropic, batizado internamente de Project Lantern, pessoas próximas à operação relataram à Reuters uma série de problemas durante o processo. A Anthropic limitou equipes bancárias a quatro seniores e pediu acordos proibindo trabalho com rivais como OpenAI e DeepSeek por seis meses após o IPO. – Imagem: xalien/Shutterstock Regras incomuns e mudança de poder As reclamações refletem uma nova dinâmica entre grandes empresas de tecnologia e Wall Street, impulsionada pela intensa demanda por ações ligadas à inteligência artificial (IA). Tanto a SpaceX , em junho, quanto a Anthropic conseguiram negociar condições diferentes das práticas habituais do mercado. Um exemplo foi a remuneração dos bancos. Segundo Jay Ritter, professor emérito da Universidade da Flórida e pesquisador de IPOs, as duas empresas negociaram não pagar aos coordenadores pela distribuição das ações adicionais vendidas por meio da opção greenshoe , mecanismo que permite ampliar a quantidade de papéis oferecidos em uma abertura de capital. Ritter avalia que poucas empresas conseguirão exigir condições semelhantes, embora não descarte que a OpenAI tenha poder de negociação suficiente para isso. Na operação da SpaceX, a equipe de Elon Musk determinou como e para quem os bancos deveriam vender as ações. Também estabeleceu volumes específicos de pedidos que as instituições precisavam preencher, em alguns casos de bilhões de dólares. Os bancos aceitaram participar da operação sem saber previamente quanto receberiam pelo trabalho. A Anthropic adotou outro tipo de controle. A companhia instruiu alguns dos 22 bancos coordenadores a limitar a quatro o número de profissionais envolvidos no negócio, exigindo que fossem funcionários seniores. Também pediu que executivos de algumas instituições assinassem documentos restringindo integrantes centrais das equipes de trabalhar com concorrentes como OpenAI, Cursor , DeepSeek e Hugging Face durante seis meses após o IPO. Vazamentos e problemas na documentação O controle de informações também marcou a preparação da oferta. Quase quatro semanas antes da divulgação pública do registro apresentado à Comissão de Valores Mobiliários dos Estados Unidos (SEC), a Reuters publicou detalhes do documento, incluindo informações financeiras, fatores de risco e relações comerciais da Anthropic com outras empresas de tecnologia. Para compartilhar arquivos com a maioria dos bancos, a companhia utilizou a plataforma NetRoadshow. O sistema registra quem acessou os documentos e quais páginas foram consultadas, além de inserir marcas-d’água com os nomes dos profissionais. A ferramenta, porém, impedia que os banqueiros salvassem cópias dos arquivos, dificultando o trabalho das equipes. Os problemas continuaram na véspera do envio de uma versão atualizada do registro, previsto para 10 de novembro. Um escritório de advocacia encaminhou aos bancos um PDF com informações incorretas sobre preços e ações relacionadas à venda de papéis no Canadá. Pouco depois, pediu que o documento fosse desconsiderado. A versão correta foi disponibilizada pelo NetRoadshow por volta das 2h da manhã, no horário de Nova York. Os bancos tiveram apenas algumas horas para aprovar o material antes do envio à SEC. Na estreia da SpaceX em junho, a equipe de Elon Musk exigiu cotas específicas de pedidos de bilhões de dólares sem informar previamente quanto os bancos ganhariam. – Imagem: Sven Piper/iStock Desempenho das ações e reação do mercado Apesar das dificuldades na preparação, os dois IPOs tiveram forte procura. As ações da SpaceX chegaram a US$ 201,80 (cerca de R$ 1.190,62) em 16 de junho, mas recuaram abaixo do preço inicial de US$ 135 (cerca de R$ 796,50) em meados de julho. Já os papéis da Anthropic subiram 17% no primeiro pregão, mas fecharam em queda de 8,5% na sexta-feira. Para Ritter, empresas como Anthropic e SpaceX conquistaram poder de negociação suficiente para impor condições próprias aos bancos. Mesmo assim, ele avalia que as grandes instituições financeiras provavelmente continuarão trabalhando normalmente com a maioria das empresas, ainda que a OpenAI possa representar uma exceção. O post Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO apareceu primeiro em Olhar Digital .",
+   "text_source": "rss",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/ipo-anthropic-1024x562.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/08/iStock-2127747623-1024x683.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "SpaceX",
+    "IPO"
    ],
    "searches": []
   }
