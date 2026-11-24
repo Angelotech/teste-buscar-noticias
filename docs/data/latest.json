@@ -1,52 +1,52 @@
 {
- "generated_at": "2026-11-23T20:43:58.483785+00:00",
+ "generated_at": "2026-11-24T05:04:12.608267+00:00",
  "trends": [
   {
-   "term": "elche",
-   "traffic": 200
+   "term": "kick",
+   "traffic": 2000
   },
   {
-   "term": "a dona do pedaço",
-   "traffic": 1000
-  },
-  {
-   "term": "nantes fc",
-   "traffic": 200
-  },
-  {
-   "term": "g1 sp",
-   "traffic": 5000
-  },
-  {
-   "term": "inter x vitoria",
-   "traffic": 200
-  },
-  {
-   "term": "gimnasia x newell's old boys",
+   "term": "patrícia abravanel",
    "traffic": 500
   },
   {
-   "term": "almeria fc",
+   "term": "major cs2",
+   "traffic": 100
+  },
+  {
+   "term": "zoo",
+   "traffic": 100
+  },
+  {
+   "term": "pagamento bolsa familia dezembro",
+   "traffic": 2000
+  },
+  {
+   "term": "major singapura",
    "traffic": 200
   },
   {
-   "term": "botafogo x são paulo",
+   "term": "tecnoblog",
    "traffic": 200
   },
   {
-   "term": "milton maluhy filho",
-   "traffic": 200
+   "term": "lakers x jazz",
+   "traffic": 2000
   },
   {
-   "term": "monza fc",
+   "term": "liga dos campeões",
    "traffic": 500
+  },
+  {
+   "term": "major",
+   "traffic": 200
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 260,
-  "used_today": 8,
-  "daily_allowance": 68
+  "used": 265,
+  "used_today": 5,
+  "daily_allowance": 77
  },
  "sources": [
   {
@@ -76,19 +76,19 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 12,
+   "count": 13,
    "ok": true
   },
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 6,
+   "count": 5,
    "ok": true
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 9,
+   "count": 12,
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
   {
    "name": "Spaceflightnow",
    "feed": "https://spaceflightnow.com/feed/",
-   "count": 1,
+   "count": 4,
    "ok": true
   },
   {
@@ -149,21 +149,21 @@
  "manual": [],
  "stories": [
   {
-   "id": "acontratassejensenhuangapossaidadanvidia",
-   "title": "Trump temia que China contratasse Jensen Huang após saída da Nvidia",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/23/pro/trump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia/",
-   "published": "2026-11-23T17:19:53+00:00",
-   "summary": "Presidente afirmou que Pequim poderia tentar recrutar o executivo caso ele não voltasse ao comando da fabricante de chips, em meio à disputa tecnológica entre os países O post Trump temia que China contratasse Jensen Huang após saída da Nvidia apareceu primeiro em Olhar Digital .",
-   "score": 21.49,
+   "id": "senhuangvoltaanvidiagta6baterecordeemais",
+   "title": "Hoje no TecMundo (23): Jensen Huang voltou para a Nvidia, GTA 6 bate recorde e mais",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-23-jensen-huang-volta-a-nvidia-gta-6-bate-recorde-e-mais/",
+   "published": "2026-11-24T00:00:00+00:00",
+   "summary": "",
+   "score": 18.38,
    "why": [
-    "7 sites cobrindo",
+    "6 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/"
+     "url": "https://canaltech.com.br/games/trilha-sonora-de-gta-6-faz-historia-e-bate-recorde-de-estreia-no-spotify/"
     },
     {
      "source": "TecMundo",
@@ -171,11 +171,15 @@
     },
     {
      "source": "The Verge",
-     "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return"
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
     },
     {
      "source": "Ars Technica",
      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+    },
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
     },
     {
      "source": "Techcrunch",
@@ -212,160 +216,197 @@
     {
      "source": "Forbes",
      "url": "https://forbes.com.br/forbes-tech/2026/11/nvidia-reintegra-jensen-huang-como-ceo-2/"
-    },
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-money/2026/11/nvidia-reintegra-jensen-huang-como-ceo/"
-    },
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/geral/2026/11/alice-huang-manteve-contato-com-agencia-de-espionagem-chinesa-durante-caso-com-ceo-da-nvidia-diz-nyt/"
     }
    ],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/huang-nvidia-1024x680.jpg",
-   "text": "- Pro\n\n# Trump temia que China contratasse Jensen Huang após saída da Nvidia\n\nPresidente afirmou que Pequim poderia tentar recrutar o executivo caso ele não voltasse ao comando da fabricante de chips, em meio à disputa tecnológica entre os países\n\n[](https://olhardigital.com.br/author/ana-figueiredo/)\n\nAna Luiza Figueiredo23/11/2026 14:19\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nDonald Trump, presidente dos Estados Unidos - Imagem: Joshua Sukoff/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F&title=Trump+temia+que+China+contratasse+Jensen+Huang+ap%C3%B3s+sa%C3%ADda+da+Nvidia%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F&text=Trump+temia+que+China+contratasse+Jensen+Huang+ap%C3%B3s+sa%C3%ADda+da+Nvidia%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/23/pro/trump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre China\n\nver mais\n\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta segunda-feira (23) que a China poderia tentar contratar **Jensen Huang** caso o executivo não fosse reconduzido ao cargo de CEO da Nvidia. A declaração foi feita durante uma entrevista à CNBC, na qual Trump explicou por que considerava importante garantir o retorno do empresário ao comando da fabricante de chips.\n\nContinua após a publicidade\n\nSegundo o presidente, a possibilidade de Huang trabalhar para uma empresa chinesa também pesou em sua avaliação sobre o caso. Trump disse que conversou com integrantes do conselho da Nvidia, direta e indiretamente, e que atuou para convencer o grupo a trazer o executivo de volta. A decisão foi anunciada pela companhia menos de duas semanas depois de sua saída.\n\n## **Trump temia que China tentasse contratar Huang**\n\nDurante a entrevista à CNBC, Trump afirmou que a China poderia tentar recrutar Jensen Huang caso ele não fosse reconduzido ao comando da Nvidia. O presidente disse que considerava a possibilidade de o país tentar atrair o executivo para trabalhar em uma empresa chinesa, especialmente a Huawei.\n\nLeia também\n\n- \\\\\n**O que a ‘novela’ de Jensen Huang na Nvidia ensina sobre poder em big techs** \\\\\n\\\\\nPro10 min\n- \\\\\n**Alta da Nvidia impulsiona Nasdaq e ações de rivais de chips** \\\\\n\\\\\nPro2 min\n- \\\\\n**Nvidia traz Jensen Huang de volta ao comando; ações sobem** \\\\\n\\\\\nPro3 min\n\nTrump também mencionou o presidente chinês, Xi Jinping, ao especular sobre como Pequim poderia reagir à saída de Huang. Segundo ele, a China poderia concluir que não precisaria recorrer a espiões se pudesse contratar diretamente o executivo.\n\n“Eu sei o quanto a China é boa, profissional e astuta”, afirmou Trump. Em seguida, imaginou uma possível reação de Xi: “Não precisamos nos preocupar com toda essa coisa. Não precisamos de espiões. Vamos contratar Jensen”.\n\nDeclarações de Donald Trump sobre o retorno de Jensen Huang ao comando da Nvidia colocaram em evidência a importância estratégica da fabricante de chips para os Estados Unidos – Imagem: Shutterstock\n\nO presidente também declarou que a perda do executivo representaria um risco para os Estados Unidos. “É uma ameaça perdê-lo”, disse, ao defender a decisão de trazer Huang de volta à Nvidia.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-59%\\\\\n\\\\\nSuporte Fixo de Parede para TV ELG N01V4, de 32 a 77 polegadas \\| Su...\\\\\n\\\\\nR$ 109,90\\\\\n\\\\\nR$ 44,54\\\\\n\\\\\nVer oferta Amazon-41%\\\\\n\\\\\nCelular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50...\\\\\n\\\\\nR$ 7.499,00\\\\\n\\\\\nR$ 4.443,00\\\\\n\\\\\nVer oferta Amazon-42%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Azul, 128GB, 8GB, Tela 13.1\" ...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.349,00\\\\\n\\\\\nVer oferta Amazon-20%\\\\\n\\\\\nSmart TV TCL 65 Polegadas QLED 4K P7L WiFi Bluetooth Google TV HDR1...\\\\\n\\\\\nR$ 4.069,90\\\\\n\\\\\nR$ 3.262,98\\\\\n\\\\\nVer oferta Amazon-21%\\\\\n\\\\\nToshiba Smart TV QLED FHD 50\" Polegadas 50V45SS com Processador HG ...\\\\\n\\\\\nR$ 2.299,00\\\\\n\\\\\nR$ 1.815,56\\\\\n\\\\\nVer oferta Amazon-55%\\\\\n\\\\\nI2GO, Caixa De Som Bluetooth 3 Angle Sound. 12W RMS, Resistente à Á...\\\\\n\\\\\nR$ 199,90\\\\\n\\\\\nR$ 89,90\\\\\n\\\\\nVer oferta Amazon-25%\\\\\n\\\\\nGarrafa De Tinta Original Epson Ecotank T544 Preto - T544122\\\\\n\\\\\nR$ 62,90\\\\\n\\\\\nR$ 47,09\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nDuracell Pilhas Moeda CR2032 Pack 2 Unidades – Ideal para Placas Mã...\\\\\n\\\\\nR$ 24,90\\\\\n\\\\\nR$ 19,48\\\\\n\\\\\nVer oferta Amazon-45%\\\\\n\\\\\nJBL Authentics 300, Caixa de Som Bluetooth Portátil - Preto \\| Som E...\\\\\n\\\\\nR$ 3.299,00\\\\\n\\\\\nR$ 1.799,10\\\\\n\\\\\nVer oferta Amazon-33%\\\\\n\\\\\nToca Discos, Sem Fio, Analógico e Digital (USB), Acionamento Direto...\\\\\n\\\\\nR$ 4.999,00\\\\\n\\\\\nR$ 3.373,66\\\\\n\\\\\nVer oferta Amazon-49%\\\\\n\\\\\nELG Suporte de Parede Fixo Universal TV 14 a 100 Polegadas VESA 800...\\\\\n\\\\\nR$ 26,90\\\\\n\\\\\nR$ 13,59\\\\\n\\\\\nVer oferta Amazon-19%\\\\\n\\\\\nGeonav Power Bank, Carregador Portátil Universal 10.000mAh, Carga r...\\\\\n\\\\\nR$ 109,90\\\\\n\\\\\nR$ 89,00\\\\\n\\\\\nVer oferta\n\nEm outro momento, Trump descreveu como poderia ser uma abordagem chinesa ao empresário: “Eu poderia imaginar a China chegando e dizendo: ‘Ei, Jensen, que tal vir para a China?’”. Na sequência, acrescentou que Huang poderia embarcar para o país e receber qualquer coisa que pedisse.\n\n## Trump diz que participou da decisão do conselho\n\nNa mesma entrevista, Trump assumiu participação direta nas conversas que antecederam o retorno de Huang. O presidente afirmou que falou com integrantes do conselho da Nvidia e conseguiu convencê-los a tomar a decisão.\n\n“Eu falei com eles, vamos colocar dessa forma. E os convenci. Eu fiz o acordo”, disse Trump à CNBC.\n\nO presidente também afirmou que o conselho pediu garantias sobre possíveis riscos à segurança nacional envolvendo Huang. Segundo ele, o governo forneceu as informações e garantias necessárias para que a empresa considerasse seguro o retorno do executivo.\n\nEm comunicado sobre a decisão, a Nvidia afirmou que o conselho recebeu informações de integrantes dos níveis mais altos do governo dos Estados Unidos. Com base nessas informações, o grupo concluiu que a recondução de Huang não representava ameaça à segurança nacional.\n\nContinua após a publicidade\n\nTrump disse ainda que telefonou para Huang depois de concluir as conversas com o conselho. Na ligação, afirmou ter pedido ao executivo apenas que continuasse trabalhando duro, acrescentando que ele saberia o que deveria ou não fazer.\n\n## Retorno de Huang ocorre em meio a questionamentos\n\nHuang havia deixado o comando da Nvidia após admitir que traiu a esposa. O caso ganhou repercussão diante de alegações de que seus relacionamentos incluíam uma suposta espiã chinesa, identificada como Alice Huang, e duas funcionárias da fabricante de chips.\n\nAs suspeitas envolvendo Alice Huang e sua atuação como executiva da empresa Megaspeed, sediada em Singapura, levantaram preocupações sobre um possível desvio de semicondutores avançados da Nvidia para a China.\n\nApesar de Trump afirmar que Jensen Huang não fez nada de errado, a decisão de trazê-lo de volta recebeu críticas de parlamentares. O líder da minoria democrata no Senado, Chuck Schumer, afirmou que o partido pretende investigar possíveis irregularidades envolvendo o governo Trump, Huang e outros executivos da Nvidia quando assumir o controle do Congresso no ano seguinte.\n\nContinua após a publicidade\n\nO executivo também deverá prestar depoimento a três comitês da Câmara dos Representantes em conversas fechadas em 1º de dezembro. Além disso, está prevista uma audiência pública no Comitê Bancário do Senado, mas a data ainda não foi definida.\n\nAna Luiza Figueiredo\n\nAna Figueiredo é editora de tecnologia do Olhar Digital. É formada em Jornalismo pela Universidade Federal de Uberlândia (UFU).\n\nVer todos os artigos →\n\nTags: China donald trump Jensen Huang NVidia\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F&title=Trump+temia+que+China+contratasse+Jensen+Huang+ap%C3%B3s+sa%C3%ADda+da+Nvidia%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Ftrump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia%2F&text=Trump+temia+que+China+contratasse+Jensen+Huang+ap%C3%B3s+sa%C3%ADda+da+Nvidia%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/23/pro/trump-temia-que-china-contratasse-jensen-huang-apos-saida-da-nvidia/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProNvidia traz Jensen Huang de volta ao comando; ações sobem 31%Valdir Antonelli \\\\\n\\\\\nProNovela Nvidia: Trump pede que Jensen Huang volte para a empresaValdir Antonelli \\\\\n\\\\\nProAmante de ex-CEO da Nvidia mantinha contato com espião chinês, diz jornalValdir Antonelli \\\\\n\\\\\nProResumo do OD: espionagem na Nvidia; viagem a Mercúrio; bastidores da AnthropicBruno Capozzi",
+   "image": "https://www.estadao.com.br/resizer/v2/CFTXLQ577VDXBFTVUTWXOJLTFM.jpg?quality=80&auth=6d79520f026d0b398ffe8cbd610838c30a72186288f2640744f8f43d11042ad5&width=710",
+   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor Amanda Fleure\n\n23/11/2026 \\| 21h00\n\nNotícia de presente\n\nO Hoje no TecMundo desta segunda-feira (23) chega com uma reviravolta na Nvidia e novidades para quem acompanha o universo dos games e dos smartphones! Jensen Huang está de volta ao comando da fabricante de chips, apenas 12 dias depois de sua renúncia. A decisão foi aprovada por unanimidade pelo conselho e fez as ações da empresa dispararem mais de 26% no pré-mercado.\n\nE tem mais: pesquisadores identificaram falhas graves no NGINX que podem permitir o controle remoto de servidores, uma vulnerabilidade crítica no Java ameaça aplicações corporativas e a Motorola pode entrar na disputa dos dobráveis com o Razr Flex. No mundo de GTA 6, nosso time preparou dicas para escapar da polícia e até um review bem-humorado do celular fictício iFruit 2026. Quer saber o que mais aconteceu? Então prepara o cafezinho e vem comigo para mais um Hoje no TecMundo!\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Resumo do Dia\n\n(FILES) Nvidia founder and CEO Jensen Huang waves after a welcome ceremony for US President Donald Trump at the Great Hall of the People in Beijing on May 14, 2026. Chip giant Nvidia's board announced November 8, 2026 it opened a probe into Chief Executive and co-founder Jensen Huang after he acknowledged an affair with a woman US officials say was working for Chinese intelligence. (Photo by Brendan SMIALOWSKI / AFP) Foto: Brendan Smialowski/BRENDAN SMIALOWSKI\n\n- **Ações da Nvidia disparam quase 30% após Jensen Huang voltar ao comando:** O conselho da Nvidia aprovou por unanimidade o retorno de Jensen Huang aos cargos de CEO e presidente, apenas 12 dias depois de sua renúncia. As ações da companhia subiram mais de 26% no pré-mercado desta segunda-feira (23). A empresa afirma que a investigação interna sobre os relacionamentos extraconjugais do executivo continuará, com participação de conselheiros independentes. Colette Kress deixa a presidência interina, mas continua como diretora financeira.\n- **Como o novo smartphone iFruit 2026 de GTA 6 HUMILHA celulares da vida real:** Em uma análise bem-humorada, o TecMundo avaliou o iFruit 2026, smartphone fictício usado por Jason e Lucia no jogo. O aparelho sobrevive a explosões, quedas e mergulhos, tem navegação por rastreamento ocular, inteligência artificial para sugerir respostas e até monitoramento de atividades físicas sem acessórios. Mas o grande destaque é a bateria: ela dura toda a aventura sem precisar de recarga. O preço estimado fica entre US$ 300 e US$ 600.\n- **Falhas graves no NGINX permitem invasão e controle de servidores:** Pesquisadores identificaram cinco vulnerabilidades críticas no NGINX e uma sexta falha no Linux. Batizado de nginx2root, o conjunto de brechas pode permitir que criminosos executem comandos remotamente e assumam o controle de servidores sem precisar de login ou senha. Duas vulnerabilidades receberam nota 9,2 de criticidade. A F5 já disponibilizou atualizações para corrigir os problemas, e a recomendação é instalar as versões mais recentes e reiniciar o programa.\n\nMotorola Razr Flex vazado Foto: SammyGuru/Reprodução\n\n- **Motorola Razr Flex: confira tudo o que se sabe sobre o dobrável rival do iPhone Duo:** Vazamentos indicam que a Motorola pode entrar na disputa dos celulares dobráveis no formato de livro com o Razr Flex. O aparelho deve trazer tela interna de 6,92 polegadas, externa de 4,97 polegadas, processador Snapdragon 8 Elite Gen 5, até 12 GB de RAM e câmeras traseiras duplas de 50 MP. A bateria pode ter 5.000 mAh. O preço especulado é de US$ 1.700, e a apresentação pode acontecer durante a CES 2027, em janeiro.\n- **Como escapar da polícia em GTA 6? Veja dicas e como funcionam as estrelas e níveis de procurado:** O sistema de perseguição do novo jogo ficou mais complexo. Os policiais podem reconhecer o rosto dos personagens, suas roupas, veículos e até imagens de câmeras de segurança. Além das tradicionais seis estrelas de procurado, o jogo apresenta áreas de Pressão, nas quais os agentes continuam procurando pistas mesmo depois que a perseguição termina. Para escapar, será necessário trocar de roupa, mudar a aparência, abandonar ou repintar o carro e até esconder armas. Até tomar banho pode ajudar a remover manchas de sangue!\n- **Falha crítica em Java permite invasão remota a aplicações corporativas:** Uma vulnerabilidade no OpenJDK, plataforma que serve de base para o Java, pode permitir que criminosos invadam servidores e executem códigos maliciosos remotamente. Apelidada de Java4Shell, a falha recebeu nota 9,2 de criticidade e afeta aplicações como Jira, Confluence, Keycloak e Jenkins. A Oracle já disponibilizou uma atualização de segurança e recomenda que administradores instalem a correção imediatamente.\n\n- **Samsung pode pular um ano e não lançar um Galaxy Watch em 2027:** Segundo um relatório do site sul-coreano ETNews, a fabricante estaria considerando adotar um intervalo de dois anos entre as gerações do relógio inteligente, adiando o próximo modelo para 2028. No lugar de um novo Galaxy Watch, a empresa poderia apresentar apenas o Galaxy Fit 4, pulseira mais acessível voltada ao monitoramento de atividades físicas. Entre os possíveis motivos estão o aumento dos custos de produção e as vendas abaixo do esperado do Galaxy Watch 9. A Samsung ainda não confirmou a mudança.\n- **‘Tamagotchi’ da Meta custará US$ 300 e terá 5G gratuito:** A Meta deve lançar em dezembro o Muse Charm, dispositivo de inteligência artificial que lembra um Tamagotchi e permite acessar o assistente pessoal Muse sem depender do celular. Segundo o site The Information, o aparelho custará cerca de US$ 300 e poderá incluir até 12 meses de internet 5G gratuita. O gadget terá tela de duas polegadas, câmeras e sensor de impressão digital, além de permitir interações por voz e personalização de um avatar. A empresa ainda não confirmou oficialmente o preço ou a data de lançamento.\n- **Desgaste da bateria leva 61% dos brasileiros a trocar de celular, diz pesquisa:** Um levantamento da Ipsos encomendado pela Jovi aponta que 61% dos entrevistados consideram a perda de capacidade da bateria um motivo para comprar um smartphone novo. O componente também aparece entre os fatores mais importantes na escolha de um aparelho, citado por 42% dos participantes. Outros critérios são armazenamento, desempenho e descontos no preço. A pesquisa ouviu 1.200 pessoas com 18 anos ou mais, das classes A, B e C.\n\nE no Aconteceu na História, em 23 de novembro de 2004, a Blizzard lançou World of Warcraft na América do Norte. A data também marca o Dia Nacional de Combate ao Câncer Infantil e o Dia do Engenheiro Eletricista. Curta o Hoje no TecMundo no Spotify e na Apple Podcasts. Acompanhe tudo em primeira mão nas redes sociais. Até amanhã!\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- big techs\n\n### Ofertas\n\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nBug de GTA 6 destrava fps no Xbox Series X\\|S e revela limites de desempenho 2.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 3.\\\\\n\\\\\nO que a volta de Jensen Huang significa para o futuro da Nvidia? 4.\\\\\n\\\\\nAs falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções 5.\\\\\n\\\\\nVivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/huang-nvidia-1024x680.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2025/08/donald_trump.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2022/10/analuiza-150x150.png",
-    "https://img.odcdn.com.br/wp-content/uploads/2025/08/donald_trump-1920x1080.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2023/03/bandeira-china.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Jensen-Huang-Nvidia-scaled.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-6.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/jensen_huan_ceo_nvidia-e1747656153522.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/huang-nvidia-1024x680.jpg",
-    "https://m.media-amazon.com/images/I/31SZuf4jw3L._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/31jjwNObQEL._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/41tM2OiZYPL._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/41tGd47SNVL._SL500_.jpg"
+    "https://www.estadao.com.br/resizer/v2/CFTXLQ577VDXBFTVUTWXOJLTFM.jpg?quality=80&auth=6d79520f026d0b398ffe8cbd610838c30a72186288f2640744f8f43d11042ad5&width=710",
+    "https://www.estadao.com.br/resizer/v2/CFTXLQ577VDXBFTVUTWXOJLTFM.jpg?quality=80&auth=6d79520f026d0b398ffe8cbd610838c30a72186288f2640744f8f43d11042ad5&width=1200&height=630&focal=1888,1340",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://www.estadao.com.br/resizer/v2/3YA45EDP5BM55DS2EEJFS7Q2GA.png?quality=80&auth=eccf00f56ec7177c41109ae3da8780b3b7f82356a648366c206483a03c931e75&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://www.estadao.com.br/resizer/v2/CFTXLQ577VDXBFTVUTWXOJLTFM.jpg?quality=80&auth=6d79520f026d0b398ffe8cbd610838c30a72186288f2640744f8f43d11042ad5&width=1200",
+    "https://www.estadao.com.br/resizer/v2/2I2JJL77JBCCFK6BRGAHBPAB4M.webp?quality=80&auth=bb9983983a3f8b08c663fb7e252f9f4902c7cb489587c5358b5839909fdaa8e6&width=1200",
+    "https://www.estadao.com.br/resizer/v2/TU7225K5EBNVJNC5ISCMMGUC74.jpg?quality=80&auth=c4189f337bf1274d1305824d465dfa9ce06f407514c54263641ef7e0cea7129b&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://e-afiliacao.estadao.com.br/storage/products/6dbbef1f98bdf05648f89d7ab2b103167e4baa082dafc99fa27e6cb1868974ac.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg"
    ],
    "videos": [],
    "keywords": [
-    "China",
-    "Jensen",
-    "Huang"
+    "TecMundo",
+    "23",
+    "Jensen"
    ],
    "searches": [
-    "china jensen huang",
-    "jensen huang china interview",
-    "trump china jensen huang",
-    "china loves jensen huang",
-    "us china jensen huang",
-    "trump visit china jensen huang"
+    "tecmundo"
    ]
   },
   {
-   "id": "ecomprasoquecomprarnablackfridaydanatura",
-   "title": "O que comprar na Black Friday da Natura",
+   "id": "soquecomprarnablackfridaydomagazineluiza",
+   "title": "O que comprar na Black Friday do Magazine Luiza",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-da-natura/",
-   "published": "2026-11-23T14:15:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-do-magazine-luiza/",
+   "published": "2026-11-23T21:15:00+00:00",
    "summary": "",
-   "score": 8.6,
+   "score": 14.51,
    "why": [
-    "3 sites cobrindo"
+    "5 sites cobrindo"
    ],
    "also_in": [
     {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-kindle/"
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/games/qual-videogame-comprar-na-black-friday-2026/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-2026-maquinas-de-lavar/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-da-natura/"
     },
     {
      "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1039300/hbo-max-black-friday-2026-deal-sale"
+     "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale"
     },
     {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1040122/peacock-subscription-black-friday-2026-deal-sale"
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/amazon-black-friday-audio-deals-2026/"
     },
     {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/arcteryx-black-friday-sale-2026/"
     },
     {
      "source": "Forbes",
      "url": "https://forbes.com.br/forbes-tech/2026/11/ferramentas-de-ia-ajudam-marcas-a-otimizar-promocoes-de-black-friday/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/7KQUUQEHZJEOXAO4SQTYXOZ7PU.jpg?quality=80&auth=e8be9a7bcfbf3de2b56ce9d7535c03e37b315230f4d485250fc7f540f3d5712e&width=710",
-   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n23/11/2026 \\| 11h15\n\nNotícia de presente\n\nA Natura é uma das marcas de cosméticos mais populares do Brasil, que cresceu em território nacional com as revistas de vendas levadas de porta em porta por consultoras.\n\nA fabricante hoje possui lojas físicas e um e-commerce, que em época de Black Friday costuma trazer descontos imperdíveis para quem procura um perfume, hidratantes, kits para presentear e mais.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### O que comprar na Black Friday da Natura\n\nCom base nas tendências de pesquisas relacionadas à Natura via SemRush, algumas submarcas e produtos Natura ficam em evidência e mostram os maiores interesse do público. Por isso, as expectativas em relação ao que deve entrar em promoção com bons descontos no site da Natura é:\n\n### Perfumes e Body Splash Natura\n\nOs perfumes da Natura recebem grandes descontos na Black Friday. Foto: Natura/Divulgação\n\nA categoria de Perfumaria da Natura tem grande prestígio no mercado e traz ingredientes brasileiros em sua composição valorizando a cultura nacional.\n\nAlém de diversas opções, a marca possui desde uma linha de Alta Perfumaria até opções populares de Body Splash. As opções de maior interesse são:\n\n- Natura Ilia \\- linha de perfumes mais florais da marca;\n- Natura Essencial \\- linha premium de deo parfum feminino e masculino;\n- Humor Natura \\- fragrâncias veganas, com um apelo mais jovial;\n- Biografia Natura \\- perfumes inovadores, com apelo de inspiração e renovação;\n- Aura Natura \\- linha de eau de parfum, mais sofisticada e marcante.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Cuidados pessoais\n\nOs produtos da Natura fazem parte do dia a dia e são ótimos companheiros para um banho, cuidados com a pele, higiene no geral e autocuidado.\n\nPara a data promocional espere encontrar sabonete Natura em promoção, assim como os desodorantes e os cremes e seus refis.\n\nA linha Tododia é uma ótima pedida para comprar hidratantes e caixas de sabonetes para a rotina diária de cuidados, assim como a linha Ekos, que tem ingredientes da Amazônia e aromas únicos.\n\nA Natura Sève também é uma ótima pedida para um tratamento especial e premium. E para se proteger dos raios solares, os produtos Solar são uma boa pedida.\n\n- Descontos antecipados da Natura com até 70% de desconto\n\n### Maquiagem\n\nApaixonados por maquiagem também podem aproveitar a Black da marca para adquirir batons, corretivos, glosses labiais, delineadores, bases e outros itens para valorizar a beleza!\n\nAs ofertas podem chegar a 70% para a ação promocional, e a marca possui 2 linhas de make:\n\n- Natura Una \\- linha premium e mais sofisticada;\n- Natura Faces \\- com produtos mais joviais e preços mais acessíveis.\n\n### Mamãe e Bebê\n\nOs produtos mamãe e bebê costumam receber descontos na Black Friday. Foto: Natura/Divulgação\n\nUm dos maiores sucesso da Natura, a linha Mamãe e Bebê traz um cheirinho conhecido por muitos e que virou marca registrada dos pequenos.\n\nSeja para presentear ou para repor o estoque para as crianças, comprar as colônias, os sabonetes e os kits Mamãe e Bebê com desconto é sempre uma boa oportunidade.\n\n### Cupons de Black Friday\n\n- Confira aqui os cupons de Black Friday que já estão disponíveis para resgate\n\n### Natura Homem\n\nPerfumes e cuidados diários masculinos também estão presente no catálogo da fabricante. Os perfumes Kaiak, por exemplo, são de grande sucesso e merecem atenção na Black Friday.\n\nOutras linhas com perfumes e cuidados para homens também costumam ter redução de valor, como Biografia, Humor, Essencial e Natura Homem.\n\n### Como economizar na Natura Friday?\n\nAcompanhe valores antecipadamente, confira se há condições especiais de vendas e frete grátis e, principalmente, resgate um cupom de desconto Natura na nossa página!\n\nE se quiser receber várias ofertas e cupons relâmpago, participe dos nossos grupos de oferta no WhatsApp, Telegram e Instagram!\n\nCurtiu as dicas de compras na Natura? Comente o que você pretende comprar nesta Black Friday!\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- tec friday\n- Natura\n- cupom, desconto, promoção, oferta\n\n### Ofertas\n\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmartwatch Samsung Galaxy Watch8 LTE, 44mm\\\\\n\\\\\nPreço anterior ~~R$ 3.499,00~~ Preço R$ 1.599,99-54%\\\\\n\\\\\nAcessórios · Amazon\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nAs falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções 2.\\\\\n\\\\\nNoisyTCP: falha no kernel do Linux ficou escondida por 11 anos 3.\\\\\n\\\\\nO que considerar na hora de comprar uma caixa de som potente? 4.\\\\\n\\\\\nO que a volta de Jensen Huang significa para o futuro da Nvidia? 5.\\\\\n\\\\\nToshiba volta ao Brasil em parceria com Hisense com nova linha de TVs\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://www.estadao.com.br/resizer/v2/PMIEJLHQFJDJJGS7HR462QGR54.jpg?quality=80&auth=6c50e363d6acae8286a5f12bd334eb5fdfe154d5e691ccd2a617fab438222b67&width=710",
+   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n23/11/2026 \\| 18h15\n\nNotícia de presente\n\nA **Black Friday do Magazine Luiza** reforça a popularidade da varejista nas compras de eletrodomésticos e eletrônicos. Com **descontos que podem chegar a 80%** na data promocional, o público busca itens de alto valor no Magalu pela segurança na compra e pelas condições especiais de pagamento.\n\nCom base nas pesquisas mais relevantes atreladas à marca, via dados da _Semrush_, preparamos este artigo com os produtos nos quais mais vale a pena ficar de olho na BF de 2026.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### O que comprar na Black Friday do Magalu\n\n### Geladeira\n\nA geladeira está entre os itens mais desejados para a Black Friday do Magalu. Foto: irina88w\n\nA geladeira é o produto com maior volume de buscas atrelado ao Magazine Luiza; por isso, é bem provável que haja muitos modelos em oferta na data promocional.\n\nNa página de geladeiras, há diversos filtros para você utilizar na hora de escolher a sua, com opções duplex, _french door_, acabamentos em inox e marcas populares, como **Electrolux, Brastemp, Midea e Consul**.\n\nSeparamos também alguns modelos de sucesso para ficar de olho:\n\n- Geladeira Midea Duplex 294L Cycle Defrost MD-RT411\n- Geladeira Electrolux Duplex 260L Super Freezer DC35A\n- Geladeira Philco Eco Inverter Duplex 413L PRF501TI\n- Geladeira Electrolux Frost Free Inverter 596L 3 Portas IM8S\n- Geladeira Midea Smart Side by Side Inox 511L MDRS710FGD46\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### Guarda-roupa\n\nOs móveis também possuem grande relevância em buscas na varejista, e **o guarda-roupa está entre os itens mais buscados**. Se o seu objetivo é equipar o quarto nesta Black Friday, vale a pena colocar o app e o site do Magalu no radar para acompanhar as ofertas.\n\nPara explorar todas as opções disponíveis e filtrar os modelos por tamanho, número de portas, material e outras especificações, acesse a página!\n\n### Celulares\n\nFique de olho nos iPhones anteriores no Magalu, eles podem entrar em promoção. Foto: valiantsin suprunovich\n\nOs eletrônicos não ficam de fora das ofertas de BF do Magazine Luiza, e os celulares são os que geram mais interesse do público no e-commerce.\n\nO destaque ficar para o iPhone, que registra um alto volume de pesquisas e sempre conta com alguns modelos em oferta nas datas promocionais. Para este ano, vale a pena ficar de olho no iPhone 17e e também no iPhone 16.\n\nOutras marcas também devem ter modelos com desconto, como Samsung, Motorola, Xiaomi e Oppo.\n\n### TV\n\nA busca por televisores também é alta na Black Friday do Magazine Luiza. Se você pretende comprar uma TV, já comece as pesquisas e **defina o tamanho, a resolução, o sistema operacional e outras especificações** relevantes.\n\nVale a pena ficar de olho em alguns modelos específicos de **marcas como Samsung, LG e TCL**, que costumam ter destaque em datas promocionais. Confira algumas sugestões:\n\n- Smart TV Samsung 4K UHD Crystal U8000HGXZD 2026\n- Smart TV Samsung MiniLED 4K M75H Vision AI 2026\n- Smart TV LG 4K QNED Mini AI QNED70 2026\n- Smart TV LG NANO UHD AI 4K NU855 2026\n- Smart TV TCL 4K QLED 75P7L 2026\n\n### Máquina de Lavar\n\nMais um eletrodoméstico que faz sucesso na varejista brasileira é a máquina de lavar. Para a Black Friday 2026, tanto os modelos tradicionais quanto as lava e seca devem ter redução de preço.\n\nNo site, já é possível conferir algumas opções em promoção, mas, para o dia oficial da Black das Blacks do Magalu, devem surgir novas oportunidades.\n\n### Playstation 5\n\n\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude \\\\\n\\\\\nComo saber se meus dados foram vazados? \\\\\n\\\\\nAs falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções\n\nNo segmento gamer, o console da Sony está entre os mais desejados da Black Friday de modo geral, e **o Magalu deve liberar descontos para o PlayStation 5**. Confira as nossas apostas:\n\n- Console PlayStation 5 Edição Digital com jogos Astro Bot e Gran Turismo 7\n- Console Sony PlayStation 5 Edição Digital Slim\n- Controle Dualsense para Playstation 5\n\n### Notebook\n\nComprar um notebook na Black Friday do Magalu pode garantir maior economia. Foto: ArtistGNDphotography\n\nSe você está precisando de um notebook, fique de olho na BF 2026 do Magazine Luiza. Na varejista, há modelos para diversas finalidades, de marcas como **Dell, Lenovo, Acer, Samsung**, entre outras.\n\n- Confira os notebooks disponívei no Magalu antes da Black Friday\n\n### Como comprar com segurança e economizar na BF do Magalu?\n\nPara economizar nas compras, visite nossa página de cupons de desconto Magazine Luiza , com códigos e ofertas atualizadas periodicamente.\n\nO Magazine Luiza também é um market place e possui lojistas externos vendendo produtos no seu site e app, por isso confera o vendedor e suas avaliações, para garantir que o produto seja entregue no prazo esperado e que seja autêntico. Desconfie de valores muito abaixo da média de mercado e confira sempre a url do site.\n\nE se quiser receber várias ofertas e cupons relâmpago, participe dos nossos grupos de oferta no WhatsApp, Telegram e Instagram!\n\nCurtiu as dicas de compras no Magalu? Comente o que você pretende comprar nesta Black Friday!\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- tec friday\n- Magazine Luiza\n- cupom, desconto, promoção, oferta\n\n0 Comentário\n\n2 debatedores online2 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nBug de GTA 6 destrava fps no Xbox Series X\\|S e revela limites de desempenho 2.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 3.\\\\\n\\\\\nO que a volta de Jensen Huang significa para o futuro da Nvidia? 4.\\\\\n\\\\\nAs falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções 5.\\\\\n\\\\\nVivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink?\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/7KQUUQEHZJEOXAO4SQTYXOZ7PU.jpg?quality=80&auth=e8be9a7bcfbf3de2b56ce9d7535c03e37b315230f4d485250fc7f540f3d5712e&width=710",
-    "https://www.estadao.com.br/resizer/v2/M663Y36EUVBOXNDEHT6KFFPQAU.jpg?quality=80&auth=fdf1a7d2b6f23ac7def59cf2c909371274270c27f565ce2f0f65a5426c0e7fb6&width=1200&height=630&focal=631,360",
+    "https://www.estadao.com.br/resizer/v2/PMIEJLHQFJDJJGS7HR462QGR54.jpg?quality=80&auth=6c50e363d6acae8286a5f12bd334eb5fdfe154d5e691ccd2a617fab438222b67&width=710",
+    "https://www.estadao.com.br/resizer/v2/RNKCOX6OS5GGHPM5BZVS4TNH2E.jpg?quality=80&auth=8c54b82e68e013f21be45cc9f9070e10027e9e8a6177c4357eff05ac4e9612b5&width=1200&height=630&focal=505,165",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
     "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://www.estadao.com.br/resizer/v2/7KQUUQEHZJEOXAO4SQTYXOZ7PU.jpg?quality=80&auth=e8be9a7bcfbf3de2b56ce9d7535c03e37b315230f4d485250fc7f540f3d5712e&width=1200",
+    "https://www.estadao.com.br/resizer/v2/PMIEJLHQFJDJJGS7HR462QGR54.jpg?quality=80&auth=6c50e363d6acae8286a5f12bd334eb5fdfe154d5e691ccd2a617fab438222b67&width=1200",
     "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
-    "https://www.estadao.com.br/resizer/v2/I25OJG3C55DHDPE5LRN42AQRAQ.jpg?quality=80&auth=5f259a1eefd8d0fd31405f264b277abf0d4f3ff031834433ea5baace1139e648&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
-    "https://m.media-amazon.com/images/I/31ZoU0l69iL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/6dbbef1f98bdf05648f89d7ab2b103167e4baa082dafc99fa27e6cb1868974ac.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/e57db2c9ec9f44ea0d4658869535729b8870e9665cc35954872e66e0e8a12252.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg"
+    "https://www.estadao.com.br/resizer/v2/ANBN3XVGVVE2RARPFPYFZVBHYQ.jpg?quality=80&auth=1e86350b64029190020b57353fc331281c210bcc82f78b72f042922effbc1e1b&width=1200",
+    "https://www.estadao.com.br/resizer/v2/AAMKKEWM2BHWZKXXUJSCR4RG6A.jpeg?quality=80&auth=e4f20c3e0c2a5dd454d83f4e06e495e3bf2441648709633bb48259afe2683c6d&width=90&height=90&smart=true",
+    "https://www.estadao.com.br/resizer/v2/OU2T4CT3N5PCPOOLXRQYT2ZAPU.jpg?quality=80&auth=4ed5401ac3f3d6a30b4e315da09956ea78e34756016e7d3cdbf3691175a7cffb&width=90&height=90&smart=true",
+    "https://www.estadao.com.br/resizer/v2/QVKZLTCBCREOPFXZD6WO6SXZUA.jpg?quality=80&auth=f499e9f452c89c07296120b66d54a55175483924c4d1492beafcb00137deff5b&width=90&height=90&focal=1705,1031",
+    "https://www.estadao.com.br/resizer/v2/WDWSUHHTAZA4ZEVILH2WSCBZFM.jpg?quality=80&auth=fd195ad5c35e5fa345f4a503acb2666096c7973b467bf7224c21263bd3b4dbf8&width=1200",
+    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
     "Black",
     "Friday",
-    "Natura"
+    "Magazine"
    ],
    "searches": [
-    "black friday natura 2026",
-    "black friday natura",
-    "black friday natura 2025",
-    "black friday brasil"
+    "black friday magazine luiza"
    ]
   },
   {
-   "id": "255xgrokaideepfakesoregonvirginialawsuit",
-   "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-   "published": "2026-11-23T18:26:47+00:00",
-   "summary": "In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully […]",
-   "score": 7.26,
+   "id": "aijudgmentproblemcarbonremovalcropthreat",
+   "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+   "source": "Technologyreview",
+   "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+   "published": "2026-11-23T13:10:00+00:00",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good…",
+   "score": 8.86,
+   "why": [
+    "Em alta no Google: major",
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
+   "text": "Skip to Content\n\n_This is today's edition of_ _The Download_, _our weekday newsletter that provides a daily dose of what's going on in the world of technology._\n\n### **The most misunderstood graph in AI just got a major update**\n\nA new report from the AI evaluation nonprofit METR finds that some capabilities are improving exponentially—but models aren’t as good at tasks that require judgment as they are at coding.\n\nThe report updates METR’s widely shared time horizon plot, which tested models on a large suite of tasks. The new version adds more open-ended tasks, such as designing AI evaluations and scoring philosophical arguments.\n\nModels struggled with these tasks, which could prove crucial to automating research and development.\n\ncontent frame\n\n**An error has occurred**\n\n💥 Cyber Sale: Subscribe to save 50% and unlock 4 in-depth research reports + an insider video from our latest event.\n\nFind out where AI progress is running into tougher challenges.\n\n_—Grace Huckins_\n\n### **Why using rocks for carbon removal could eventually reduce crop growth**\n\nGoogle, Microsoft, and others are investing hundreds of millions of dollars in startups spreading crushed rock across farms to capture carbon from the air.\n\nThe approach, known as enhanced rock weathering, could also improve soil quality and boost crop yields.\n\nBut new research raises serious questions about how much material can be added to farmland before it starts reducing yields, _MIT Technology Review_ can exclusively report. The findings suggest the carbon removal potential could be far smaller than previously estimated.\n\nHere’s why major concerns are emerging about enhanced rock weathering.\n\n_—James Temple_\n\n**The must-reads**\n\n_I’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology._\n\n**1 AI may have cracked math's greatest unsolved problem** Anthropic’s Claude was used to prove the Riemann hypothesis. ( WSJ $)\n\n_\\+ Two groups have independently verified the proof._ ( Guardian)\n\n_\\+ It could be the biggest math breakthrough in decades._ ( New Scientist $)\n\n_\\+ AI may be changing who gets to do math._ ( MIT Technology Review)\n\ncontent frame\n\n**An error has occurred**\n\n[](https://www.technologyreview.com/subscribe/?itm_source=in-article&itm_medium=onsite&itm_campaign=InArticle-2026_CYBER_VIDEO-REPORTS&utm_content=CYBER26_VIDEO_WEBUNITS&_ptid=%7Bkpdx%7DAAAAwa5gOfrzgwoKV1VPQ05TVWdwdRIQbXd0dXlicmpoajVkM2F3dhoMRVhHRUk2ODdZME85IiUxODA1cWdnMGZzLTAwMDAzOGdhajVoNmJsNGUzcDM0bXZlcjdrKhpzaG93VGVtcGxhdGVLRlRaTVZCNFYyU1I0OTABOgxPVDFVS0dHWURBQkdCDU9UVk1DS0dJSUhYTFpSEnYthADwGXBhaWhvMWhzaVoOMTk1LjY0LjExOS4yMTViA2RsY2jqqJjYBnAzeAQ)\n\n**Limited time: Cyber sale**\n\n**Save 50% + get bonus AI content**\n\nSubscribe at our lowest rate to lock in a year's worth of cutting-edge tech news and insights on AI, climate, and biotech.\n\nCLAIM OFFER\n\n**2 The COP31 climate talks have collapsed after a fossil fuels row**\n\nThe EU rejected a deal it called “greenwashing.” ( NBC News)\n\n_\\+ Saudi Arabia, Russia, and India opposed mentioning fossil fuels._ ( BBC)\n\n_\\+ Calls are growing for “net negative” instead of just net zero._ ( Nature)\n\n_\\+ Last year’s talks avoided fossil fuels._ ( MIT Technology Review)\n\n**3 The woman at the center of Nvidia's scandal has ties to China's military** Firms in her family's network work with Chinese defense contractors. ( NYT $)\n\n_\\+ Her associate allegedly ran the chip smuggling behind the scenes. (_ WSJ $)\n\n_\\+ US intelligence says she was in touch with a Chinese spy official._ ( ABC)\n\n_\\+ Republicans are pushing a new AI strategy to counter Beijing._ ( Reuters $)\n\n**4 Hackers have breached the FBI’s criminal information database**\n\nIt contains information used by law enforcement at all levels. ( AP)\n\n_\\+ Hackers also breached an Agriculture Department system._ ( NBC News)\n\n_\\+ And the Austrian foreign ministry’s website._ ( Reuters $)\n\n**5 Russia, the US, and Israel have stalled global rules on “killer robots”**\n\nThe UK, Japan, South Korea, and Turkey also resisted binding rules. ( Politico)\n\n_\\+ Around 100 nations backed regulations, but arms producers balked. (_ CNBC)\n\n_\\+ Talks will continue through 2028._ ( AP)\n\n**6 Trump says he’ll ban US companies from building data centers abroad** He threatened them with a “tremendous tax.” ( CNBC)\n\n_\\+ Electricity is fuelling the data center backlash._ ( MIT Technology Review)\n\n**7 US lawmakers are nearing a deal to ban Chinese cars** They plan to prohibit sales of Chinese vehicles in the US. ( Quartz)\n\n**8 Trump’s visa crackdown has pushed tech workers to leave the US** It’s driving engineers and researchers overseas. ( Bloomberg $)\n\n**9 GLP-1 weight-loss drugs could free up farmland larger than Italy** Their use could transform the global food system. ( Conversation)\n\n_\\+ They may also slow biological aging._ ( MIT Technology Review)\n\n**10 BepiColombo has become the second spacecraft to orbit Mercury** Its probes will study the planet’s surface and surroundings. ( Nature)\n\n_\\+ Mercury’s ancient ice could hold clues to the origins of life._ ( New Yorker $)\n\n**Quote of the day**\n\ncontent frame\n\n**An error has occurred**\n\n[](https://www.technologyreview.com/subscribe/?itm_source=in-article&itm_medium=onsite&itm_campaign=InArticle-2026_CYBER_REPORTS&utm_content=CYBER26_REPORTS_WEBUNITS&_ptid=%7Bkpdx%7DAAAAwp3jqU_zhAoKV1VPQ05TVWdwdRIQbXd0dXlicmpoajVkM2F3dhoMRVhLTDRPOTlEMldNIiUxODA1cWdnMGZzLTAwMDAzOGdhajVoNjZmY2JmZ3Fxbjlmcm5nKhtzaG93VGVtcGxhdGVQVk8wU0lSVEJVSFkxOTMwAToMT1QxVUtHR1lEQUJHQg1PVFZENVZZM1lVMjhXUhJ2LYUA8BlwYWlobzFoc2laDjE5NS42NC4xMTkuMjE1YgNkbGNo6qiY2AZwJXgE)\n\n**Cyber sale**\n\n**Best offer: Save 50%**\n\nSubscribe for award-winning, expert tech reporting that keeps you informed and ahead. Plus, get 4 bonus AI research reports.\n\nCLAIM 50% OFF\n\n## **“It was the most expensive sex since Helen of Troy.”**\n\n—John Kennedy, US senator from Louisiana, tells NBC’s Meet the Press that Jensen Huang’s alleged affair could prove costly for efforts to prevent China from obtaining AI chips.\n\n**One more thing**\n\n#### **On the ground in Ukraine’s largest Starlink repair shop**\n\nStarlink is critical to Ukraine’s fight against Russia, but Donald Trump’s fickle foreign policy and reports of Elon Musk restricting Ukraine’s access to the service have cast the technology’s future in the country into doubt.\n\nFor now, Starlink access largely comes down to the unofficial community of users and engineers, including the expert “Dr. Starlink”—famous for his creative ways of customizing the systems—who have kept Ukraine in the fight, both on and off the front line.\n\nHe gave MIT Technology Review exclusive access to his unofficial Starlink repair workshop in the city of Lviv. Here’s what we learned.\n\n_—Charlie Metcalfe_\n\n**We can still have nice things**\n\n_A place for comfort, fun, and distraction to brighten up your day. (Got any ideas?_ _Drop me a line_ _.)_\n\n\\+ This otherworldly image of a porcelain crab has won the Oceania Photo Contest.\n\n\\+ Cracking a smile regularly may be good not just for your mood but also for your health.\n\n\\+ 95-year-old William Shatner is now performing Metallica covers with his band, the \\*uckers.\n\n\\+ Join a wingsuit champion on an exhilarating flight down a mountain road at more than 200km/h.\n\nhide\n\n### Deep Dive\n\n### The Download\n\n\\\\\n**The Download: the agentic web arrives and the drive for safer roads**\n\nPlus: A $1 trillion tech selloff has deepened fears of an AI bubble.\n\nBy\n\n- Thomas Macaulayarchive page\n\n\\\\\n**The Download: dead startups fueling AI and interspecies communication**\n\nPlus: Hackers have disrupted the US Federal Election Commission’s website.\n\nBy\n\n- Thomas Macaulayarchive page\n\n\\\\\n**The Download: testing tech promises and searching for cognitive immortality**\n\nPlus: Jensen Huang is considering a comeback as Nvidia CEO.\n\nBy\n\n- Thomas Macaulayarchive page\n\n\\\\\n**The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals**\n\nPlus: Binance has suffered the biggest crypto hack in history.\n\nBy\n\n- Thomas Macaulayarchive page\n\n### Stay connected\n\nIllustration by Rose Wong\n\n## Get the latest updates from  MIT Technology Review\n\nDiscover special offers, top stories,\nupcoming events, and more.\n\nEnter your email\n\nPrivacy Policy\n\nThank you for submitting your email!\n\nExplore more newsletters\n\nIt looks like something went wrong.\n\nWe’re having trouble saving your preferences.\nTry refreshing this page and updating them one\nmore time. If you continue to get this message,\nreach out to us at\ncustomer-service@technologyreview.com with a list of newsletters you’d like to receive.\n\ncontent frame\n\n**An error has occurred**\n\n# This is your first complimentary story\n\nExplore emerging technology with an MIT Technology Review subscription.\n\nSUBSCRIBE & SAVE 50%\nSign in\n\ncontent frame\n\n**An error has occurred**\n\nWait, don't go!\n\nUnlock 50% off + bonus AI content\n\nSubscribe at our best rate of the year for expert research and insight on what's next in tech.\n\nCLAIM OFFER\n\ncontent frame\n\n# An error has occurred\n\n— Logout\n\n# Subscribe Now!\n\nChoose from one of the options below\n\n# Pick a subscription that's right for you.\n\n|     |     |\n| --- | --- |\n| ## Zero<br>for | Subscribe now |\n\nAlready purchased?Log in to your account\n\n|     |     |\n| --- | --- |\n| Did you receive a voucher? | Redeem |\n\ncontent frame\n\n**An error has occurred**\n\nCYBER SALE 💥\n\nSave 50% + get bonus AI content\n\nSubscribe to unlock unlimited news & insights at half price. Plus, get 4 research reports + an event session recording.\n\nCLAIM OFFER",
+   "text_source": "firecrawl",
+   "images": [
+    "https://wp.technologyreview.com/wp-content/uploads/2026/11/metr2a.jpg?resize=1200,600",
+    "https://wp.technologyreview.com/wp-content/uploads/2025/08/starlink-grid-gradient.jpg?fit=1920,1280",
+    "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg",
+    "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg",
+    "https://wp.technologyreview.com/wp-content/uploads/2026/11/SPACESHIP-FINAL.webp",
+    "https://wp.technologyreview.com/wp-content/uploads/2026/10/261028_GLP1EatingDisorder.jpg",
+    "https://vx-piano.technologyreview.com/ml/cropped_WUOCNSUgpu_1_r5pgaj.png"
+   ],
+   "videos": [
+    "https://www.youtube.com/watch?v=yI1uNUdG5g8",
+    "https://www.youtube.com/watch?v=Aq_pI6fsHQo"
+   ],
+   "keywords": [
+    "Download",
+    "AI"
+   ],
+   "searches": [
+    "download aida64",
+    "download ai mod apk",
+    "download aimp pc 64 bit",
+    "download airbrush premium apk",
+    "download aion 2",
+    "download aimbot gta samp pc"
+   ]
+  },
+  {
+   "id": "ganvidiaacrescentar219bilhoesasuafortuna",
+   "title": "Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/23/pro/volta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna/",
+   "published": "2026-11-23T23:39:20+00:00",
+   "summary": "A fortuna de Jensen Huang, CEO da Nvidia, aumentou US$ 36,6 bilhões (cerca de R$ 219 bilhões) após o anúncio de seu retorno ao comando da fabricante de chips. Com a valorização, o patrimônio do executivo chegou a US$ 145,1 bilhões (aproximadamente R$ 867 bilhões), colocando-o na 12ª posição entre as pessoas mais ricas do […] O post Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua for",
+   "score": 6.36,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/spacex-e-processada-por-permitir-o-grok-criar-deepfakes-pornograficos-de-menores-de-idade/"
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/mercado/jensen-huang-volta-a-nvidia-apos-escandalo-de-espionagem-chinesa/"
+    },
+    {
+     "source": "Olhar Digital",
+     "url": "https://olhardigital.com.br/2026/11/23/colunistas/reviravolta-na-nvidia-por-que-jensen-huang-e-tao-necessario/"
     }
    ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- AI\n\n- News\n\n- Policy\n\n# Oregon and Virginia sue SpaceX over Grok’s porn deepfakes\n\nState AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’﻿\n\nState AGs called the weak safeguards built into Elon Musk’s AI image generator ‘not a failure but a feature.’﻿\n\nbyJess Weatherbed\n\nNov 23, 2026, 1:26 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments00Comments\n\nImage: Cath Virginia / The Verge \\| Photos from Getty Images\n\nPart Of\\\\\n\\\\\nThe latest on Grok’s gross AI deepfakes problem\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/jess-weatherbed)\n\nJess Weatherbedis a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.\n\nIn separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection laws by ignoring industry-standard safeguards and falsely promoting the safety of its X social media platform and Grok AI features. The complaint filed in Virginia accuses Musk of willfully ignoring growing concerns around AI-generated sexualized deepfakes, and “instead saw a market opportunity for more profits,” describing the weak safeguards around Grok as “not a failure but a feature.”\n\n“Time and again, xAI and X told consumers they were being protected from abuses. That was false. Instead, the tool permitted users to routinely create and circulate non-consensual intimate imagery and sexualized images, and child sexual abuse material (CSAM), causing harm to individuals and children,” Jones said in a press statement. “Companies that deploy powerful tools don’t get to ignore consumer safety and call it innovation.”\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n### Related\n\n- Teens sue Elon Musk’s xAI over Grok’s AI-generated CSAM\n- Tim Cook and Sundar Pichai are cowards\n- X’s deepfake machine is infuriating policymakers around the globe\n\nThe complaints largely center around Grok Imagine, a tool that allows Grok and X users to generate images and videos. In August 2025, Grok maker xAI (which Musk has since merged with SpaceX) launched a “spicy” mode for Grok Imagine that spat out sexualized content including nude deepfakes of celebrities like Taylor Swift. In January 2026, Grok gained a feature that allowed X users to instantly edit any image without requiring consent from the original poster — resulting in X becoming flooded with nonconsensual, sexualized deepfakes of adults and minors.\n\nxAI made several changes to restrict access to Grok image editing, moving some capabilities behind a paywall and blocking certain requests for sexual poses, swimwear, or explicit scenarios.\n\nSubscribe to The Vergeto continue reading.\n\n## More in: The latest on Grok’s gross AI deepfakes problem\n\nxAI’s last-minute scramble to stop Minnesota’s anti-nudification app law\n\nSarah JeongJul 29CommentsComment Icon Bubble49\n\nxAI sues a man for using Grok to generate CSAM ‘deepfakes’\n\nEmma RothJul 15CommentsComment Icon Bubble25\n\nGrok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.\n\nRobert HartApr 15CommentsComment Icon Bubble19\n\n## Most Popular\n\nMost Popular\n\n1. Jensen Huang is back as Nvidia’s CEO\n\n2. Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker\n\n3. The vibe-coding revolution is coming to all the gadgets\n\n4. Take-Two requests subpoenas over GTA VI gameplay leaks\n\n5. Teenage Engineering’s first CD player puts the spinning disc on display\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in AI\n\nWhite House brags that Trump was ‘totally involved’ in getting Jensen reinstated\n\nTech leaders are celebrating Jensen Huang’s return\n\nJensen Huang is back as Nvidia’s CEO\n\nMeta Muse can do your Black Friday shopping at Walmart\n\nWe haven’t seen the last of the major tech outages\n\nBinding of Isaac developer removes AI music from Repentance Plus\n\nWhite House brags that Trump was ‘totally involved’ in getting Jensen reinstated\n\nStevie Bonifield11:30 AM ESTCommentsComment Icon Bubble45\n\nTech leaders are celebrating Jensen Huang’s return\n\nGaby Del Valle11:14 AM ESTCommentsComment Icon Bubble34\n\nJensen Huang is back as Nvidia’s CEO\n\nEmma Roth9:04 AM ESTCommentsComment Icon Bubble367\n\nMeta Muse can do your Black Friday shopping at Walmart\n\nJess Weatherbed6:00 AM ESTCommentsComment Icon Bubble2\n\nWe haven’t seen the last of the major tech outages\n\nTerrence O'BrienNov 22CommentsComment Icon Bubble10\n\nBinding of Isaac developer removes AI music from Repentance Plus\n\nTerrence O'BrienNov 22CommentsComment Icon Bubble6\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n9:04 AM EST\n\nJensen Huang is back as Nvidia’s CEO\n\n10:00 AM EST\n\nHow one router caused the worst ground stop since 9/11﻿Video\n\n11:14 AM EST\n\nTech leaders are celebrating Jensen Huang’s return\n\n9:00 AM EST\n\nBlade Runner 2099 is an inventive twist on a cyberpunk classic\n\nNov 22\n\nThe vibe-coding revolution is coming to all the gadgets\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nContinue reading with a Verge subscriptionUnlock unlimited access to The Verge for just $2.\n\nSTART YOUR TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-6-1024x576.jpg",
+   "text": "- Pro\n\n# Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli23/11/2026 20:39\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nRetornar ao comando de uma das mais poderosas empresas de tecnologia do mundo fez (muito) bem ao bolso do CEO - Imagem: jamesonwu1972/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F&title=Volta+de+Jensen+Huang+%C3%A0+Nvidia+acrescenta+R%24+219+bilh%C3%B5es+%C3%A0+sua+fortuna%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F&text=Volta+de+Jensen+Huang+%C3%A0+Nvidia+acrescenta+R%24+219+bilh%C3%B5es+%C3%A0+sua+fortuna%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/23/pro/volta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nA fortuna de Jensen Huang, CEO da Nvidia, aumentou US$ 36,6 bilhões (cerca de R$ 219 bilhões) após o anúncio de seu retorno ao comando da fabricante de chips. Com a valorização, o patrimônio do executivo chegou a US$ 145,1 bilhões (aproximadamente R$ 867 bilhões), colocando-o na 12ª posição entre as pessoas mais ricas do mundo, segundo dados da Forbes divulgados nesta segunda-feira (23).\n\nContinua após a publicidade\n\nO salto ocorreu após as ações da Nvidia dispararem na bolsa estadunidense. Na abertura do pregão em Nova York (EUA), os papéis da companhia avançaram mais de 30%. Às 12h15, no horário de Brasília, a alta era de 32,52%, com as ações negociadas a US$ 166,35 (cerca de R$ 996). A empresa fechou com 31,48% de alta, com papéis negociados a US$ 165,05 (R$ 978,75).\n\nA reação do mercado também impulsionou os principais índices de Wall Street. No início das negociações, o Nasdaq 100 subiu 5,84%, enquanto o S&P 500 avançou 4% e o Dow Jones registrou alta de 2,42%.\n\nLeia também\n\n- \\\\\n**Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO** \\\\\n\\\\\nPro4 min\n- \\\\\n**Anthropic: IPO faz fortuna de fundadores disparar e pode enriquecer milhares** \\\\\n\\\\\nPro5 min\n- \\\\\n**Claude vs Starship: Anthropic supera SpaceX e faz maior IPO da história** \\\\\n\\\\\nPro3 min\n\n## Retorno de Jensen Huang movimenta ações da Nvidia\n\n- A Nvidia anunciou nesta segunda-feira o retorno imediato de Huang à presidência-executiva da companhia. A decisão foi aprovada por unanimidade pelo conselho de administração, após uma série de reuniões com o executivo;\n- A recondução representa mudança de posição da empresa, que havia descartado a possibilidade de seu retorno poucos dias antes;\n- Huang havia deixado o cargo em 12 de novembro, após a divulgação de informações sobre relacionamentos extraconjugais. Entre eles estava um suposto envolvimento com Alice Huang, empresária investigada por autoridades estadunidenses sob suspeita de ligação com atividades de espionagem para a China;\n- Durante o afastamento, Colette Kress, diretora financeira da Nvidia, assumiu interinamente o comando da companhia. Com a volta de Huang, ela continuará exercendo a função de CFO.\n\nRecondução unânime de Jensen Huang pelo conselho da Nvidia ocorreu após uma série de discussões e reuniões com o cofundador – Imagem: Mijansk786/Shutterstock\n\n**Leia mais:**\n\n- Alta da Nvidia impulsiona Nasdaq e ações de rivais de chips\n- “Serei um CEO melhor”, promete Jensen Huang em discurso a funcionários da Nvidia\n- EUA colocam empresa ligada a escândalo da Nvidia em lista comercial restrita\n\n## Conselho da Nvidia justifica decisão\n\nEm comunicado, Harvey Jones, presidente do conselho de administração da Nvidia, afirmou que a empresa está satisfeita com a transparência demonstrada por Huang durante o processo de avaliação de seu retorno.\n\n### Ofertas em Destaque\n\n‹›\n\nAmazon-32%\\\\\n\\\\\nProtetor Contra Surtos Elétricos (DPS) CLAMPER 127/220V, 20 Amperes...\\\\\n\\\\\nR$ 67,99\\\\\n\\\\\nR$ 45,99\\\\\n\\\\\nVer oferta Amazon-41%\\\\\n\\\\\nCelular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Câmera Tripla de 50...\\\\\n\\\\\nR$ 7.499,00\\\\\n\\\\\nR$ 4.443,00\\\\\n\\\\\nVer oferta Amazon-50%\\\\\n\\\\\nHeadset Gamer Sem Fio Logitech G733 7.1 Dolby Surround com Tecnolog...\\\\\n\\\\\nR$ 1.499,90\\\\\n\\\\\nR$ 748,41\\\\\n\\\\\nVer oferta Amazon-43%\\\\\n\\\\\nTP-Link EX3000 Roteador Wi-Fi 6 AX3000 Dual Band, 4 Portas Gigabit,...\\\\\n\\\\\nR$ 299,00\\\\\n\\\\\nR$ 170,05\\\\\n\\\\\nVer oferta Amazon-19%\\\\\n\\\\\nHisense Smart TV HD 32\" Polegadas 32A4NV \\| HDR10, DTS Virtual X, Co...\\\\\n\\\\\nR$ 1.149,00\\\\\n\\\\\nR$ 932,04\\\\\n\\\\\nVer oferta Amazon-20%\\\\\n\\\\\nSoundbar Samsung HW-Q990H, com 11.1.4 canais, Dolby Atmos® sem fio,...\\\\\n\\\\\nR$ 7.399,99\\\\\n\\\\\nR$ 5.949,00\\\\\n\\\\\nVer oferta Amazon-42%\\\\\n\\\\\nSamsung Tablet Galaxy Tab S10 FE+ 5G, Azul, 128GB, 8GB, Tela 13.1\" ...\\\\\n\\\\\nR$ 5.799,00\\\\\n\\\\\nR$ 3.349,00\\\\\n\\\\\nVer oferta Amazon-25%\\\\\n\\\\\nGarrafa De Tinta Original Epson Ecotank T544 Preto - T544122\\\\\n\\\\\nR$ 62,90\\\\\n\\\\\nR$ 47,09\\\\\n\\\\\nVer oferta Amazon-22%\\\\\n\\\\\nDuracell Pilhas Moeda CR2032 Pack 2 Unidades – Ideal para Placas Mã...\\\\\n\\\\\nR$ 24,90\\\\\n\\\\\nR$ 19,48\\\\\n\\\\\nVer oferta Amazon-12%\\\\\n\\\\\nSmart TV DLED 55 4K Multi Definition Android 11 4HDMI 2USB Wi-fi\\\\\n\\\\\nR$ 2.499,00\\\\\n\\\\\nR$ 2.199,00\\\\\n\\\\\nVer oferta Amazon-33%\\\\\n\\\\\nToca Discos, Sem Fio, Analógico e Digital (USB), Acionamento Direto...\\\\\n\\\\\nR$ 4.999,00\\\\\n\\\\\nR$ 3.373,66\\\\\n\\\\\nVer oferta Amazon-19%\\\\\n\\\\\nGeonav Power Bank, Carregador Portátil Universal 10.000mAh, Carga r...\\\\\n\\\\\nR$ 109,90\\\\\n\\\\\nR$ 88,90\\\\\n\\\\\nVer oferta\n\n“O conselho acredita que Jensen é a pessoa certa para liderar a Nvidia e que seu retorno atende aos interesses de nossos acionistas, funcionários, parceiros e clientes”, declarou Jones.\n\nA decisão também ocorreu após contatos com autoridades do governo estadunidense. A Nvidia informou que recebeu garantias de representantes de alto escalão dos Estados Unidos de que o retorno do executivo não representa um risco à segurança nacional.\n\nCom a recondução, Huang reassume o comando da empresa em meio à forte reação positiva do mercado financeiro, que elevou significativamente o valor de sua participação na fabricante de chips.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\nTags: Jensen Huang NVidia\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F&title=Volta+de+Jensen+Huang+%C3%A0+Nvidia+acrescenta+R%24+219+bilh%C3%B5es+%C3%A0+sua+fortuna%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F23%2Fpro%2Fvolta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna%2F&text=Volta+de+Jensen+Huang+%C3%A0+Nvidia+acrescenta+R%24+219+bilh%C3%B5es+%C3%A0+sua+fortuna%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/23/pro/volta-de-jensen-huang-a-nvidia-acrescentar-219-bilhoes-a-sua-fortuna/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProAtaque hacker à Binance: governo dos EUA busca recuperar fortuna bilionáriaRodrigo Mozelli \\\\\n\\\\\nProEUA colocam empresa ligada a escândalo da Nvidia em lista comercial restritaRodrigo Mozelli \\\\\n\\\\\nPro“Serei um CEO melhor”, promete Jensen Huang em discurso a funcionários da NvidiaRodrigo Mozelli \\\\\n\\\\\nProO que a ‘novela’ de Jensen Huang na Nvidia ensina sobre poder em big techsPedro Spadoni",
    "text_source": "firecrawl",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195820/JESSICA_WEATHERBED.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_05.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2250207971.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_01.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-6-1024x576.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/jensen_huang_-1920x1080.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/montagem_anthropic_spacex_dark.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic-sino.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/anthropic_ipo-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/nvidia-6-1024x576.jpg",
+    "https://m.media-amazon.com/images/I/31pYXfarH2L._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31jjwNObQEL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/410QZvnpIxL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/31EzAO69uZL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41c-rpxGb2L._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
-    "Virginia",
-    "SpaceX",
-    "Grok"
+    "Jensen",
+    "Huang",
+    "Nvidia"
    ],
-   "searches": []
+   "searches": [
+    "jensen huang nvidia",
+    "jensen huang nvidia rtx spark",
+    "jensen huang nvidia conference",
+    "jensen huang nvidia interview",
+    "jensen huang nvidia earnings call",
+    "jensen huang nvidia spark"
+   ]
   },
   {
    "id": "ovosprodutosmaisacessiveisnocomecode2027",
@@ -374,7 +415,7 @@
    "url": "https://www.estadao.com.br/tecmundo/produto-e-review/apple-deve-lancar-novos-produtos-mais-acessiveis-no-comeco-de-2027/",
    "published": "2026-11-23T14:00:00+00:00",
    "summary": "",
-   "score": 6.28,
+   "score": 5.76,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
@@ -408,13 +449,50 @@
     "2027"
    ],
    "searches": [
-    "2027 elantra n",
     "2027",
     "2027 kia telluride",
     "2027 silverado 1500",
     "2027 ford explorer",
-    "2027 toyota tundra"
+    "2027 toyota tundra",
+    "2027 hurricane season animation"
    ]
+  },
+  {
+   "id": "odefensordemodelosdeiaabertosdizemfontes",
+   "title": "Trump Vê Presidente da Nvidia Como Defensor de Modelos de IA Abertos, Dizem Fontes",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-tech/2026/11/trump-ve-presidente-da-nvidia-como-defensor-de-modelos-de-ia-abertos-dizem-fontes/",
+   "published": "2026-11-23T20:56:49+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fabricante de chips aposta em sistemas de inteligência artificial para ampliar o mercado de seus semicondutores e fortalecer posição na disputa global O post Trump Vê Presidente da Nvidia Como Defensor de Modelos de IA Abertos, Dizem Fontes apareceu primeiro em Forbes Brasil .",
+   "score": 4.49,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "1. Início\n/3. Forbes Tech\n/5. Trump Vê Presidente da Nvidia Como Defensor de Modelos de IA Abertos, Dizem Fontes\n\nREUTERS/Dado RuvicTrump e Vance avaliam que a liderança de Huang é importante para fortalecer o ecossistema de inteligência artificial dos Estados Unidos\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nO presidente dos Estados Unidos, Donald Trump, e o vice-presidente norte-americano, JD Vance, intervieram pessoalmente na decisão da Nvidia do fim de semana de reintegrar o presidente-executivo Jensen Huang, convencidos de que somente ele protegia os modelos de inteligência artificial abertos desenvolvidos no país, afirmaram fontes a par do assunto nesta segunda-feira (23).\n\nModelos de IA abertos são sistemas cujos componentes principais estão disponíveis publicamente para que os usuários possam baixá-los, modificá-los e adaptá-los para tarefas específicas.\n\nSeu crescimento tornou-se uma grande oportunidade de negócios para a Nvidia, pois amplia a demanda pelos chips e pela infraestrutura de computação da empresa para além de um pequeno grupo de grandes desenvolvedores de inteligência artificial.\n\nA China lidera o desenvolvimento de sistemas de código aberto, que estão ganhando espaço entre as empresas norte-americanas por serem mais baratos do que as ferramentas proprietárias de IA das principais empresas dos Estados Unidos, como OpenAI e Anthropic. Além disso, eles apresentam desempenho quase tão bom quanto os proprietários.\n\nA Nvidia tem sido uma das principais apoiadoras do ecossistema de inteligência artificial aberto norte-americana. Em agosto, a desenvolvedora de chips anunciou acordo para comprar a Hugging Face, uma plataforma que desenvolvedores utilizam para hospedar modelos de peso aberto, entre outros recursos relacionados à tecnologia. A Nvidia também é investidora da Reflection AI, uma empresa norte-americana que lançou seu primeiro modelo aberto em outubro.\n\nHuang e os lobistas da Nvidia também pressionaram os parlamentares dos Estados Unidos a apoiar o desenvolvimento da tecnologia de inteligência artificial de código aberto, com Huang escrevendo em uma carta no início deste ano que eles deveriam evitar “restrições prematuras” a tais ferramentas.\n\nHuang renunciou ao cargo de presidente-executivo no início deste mês, após escândalo de que ele se envolveu em vários casos extraconjugais, incluindo um com uma suposta espiã chinesa.\n\nA Reuters noticiou na quarta-feira (18) que o governo Trump estava considerando exigir que as empresas norte-americanas divulgassem publicamente o uso de modelos chineses de IA, incluindo modelos abertos, como parte de um esforço para reduzir a dependência da tecnologia chinesa.\n\nParlamentares republicanos têm repetido cada vez mais o argumento de que a inteligência artificial de código aberto é fundamental para os Estados Unidos competirem com a China. Na sexta-feira (20), dois importantes deputados republicanos pediram ao governo Trump ajuda para empresas norte-americanas desenvolverem modelos de IA abertos.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Agentes de IA\n- china\n- Donald Trump\n- estados unidos\n- inteligência artificial (IA)\\\"\")\n- Jensen Huang\n- Nvidia\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Após Superar R$ 6, Dólar Perde Força e Fecha Estável com Especulações sobre Nomes para Área Econômica**\n- \\\\\n\\\\\n**Ministro da Fazenda Prevê Superávit de até 2% do PIB Ao Fim do Mandato**\n- \\\\\n\\\\\n**Molina, da MBRF, Prevê um dos Melhores Natais para o Varejo com Recuo das Bets**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOAIN'T NOBODYCHAKA KHAN",
+   "text_source": "firecrawl",
+   "images": [
+    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-23T175518.678-1200x675.png",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-23T175518.678-860x484.png",
+    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
+    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/02/2-1-1-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/10/Novo-Tamanho-Site-2026-10-27T121909.647-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Marcos-Molina_MBRF_Divulg-2-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/10/146_CAPA_miniatura-225x300.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/09/145_CAPA-miniatura-225x300.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/capa-revista-edicao-144-225x300.jpeg",
+    "https://forbes.com.br/wp-content/uploads/2026/07/143_CAPA_miniatura-225x300.png"
+   ],
+   "videos": [],
+   "keywords": [
+    "Vê",
+    "Presidente",
+    "Nvidia"
+   ],
+   "searches": []
   },
   {
    "id": "iveandwalletformorepersonalizedresponses",
@@ -423,7 +501,7 @@
    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
    "published": "2026-11-23T19:14:46+00:00",
    "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-   "score": 4.91,
+   "score": 4.39,
    "why": [
     "Tema de alto interesse"
    ],
@@ -451,14 +529,7 @@
     "AI",
     "Mode"
    ],
-   "searches": [
-    "search ai mode",
-    "google search ai mode",
-    "ai search 3d model",
-    "google search ai mode ad",
-    "google search ai mode add",
-    "google search ai mode not showing"
-   ]
+   "searches": []
   },
   {
    "id": "eprecoesaimaisbaratoqueoiphone17comcupom",
@@ -467,7 +538,7 @@
    "url": "https://canaltech.com.br/smartphone/galaxy-s26-despenca-de-preco-e-sai-mais-barato-que-o-iphone-17-com-cupom/",
    "published": "2026-11-23T18:25:56+00:00",
    "summary": "O Galaxy S26 entrou em uma promoção bastante interessante no AliExpress e pode ser uma das melhores opções para quem procura um celular topo de linha sem gastar tanto. Com cupom de desconto, o smartphone da Samsung sai por R$ 3.729,72 em até 12 vezes de R$ 310,81 sem juros . Além do preço atrativo, a oferta inclui o Samsung Care+, serviço de proteção da fabricante. O valor coloca o Galaxy S26 abai",
-   "score": 4.86,
+   "score": 4.34,
    "why": [
     "Tema de alto interesse"
    ],
@@ -486,14 +557,7 @@
     "S26",
     "17"
    ],
-   "searches": [
-    "s26 17t",
-    "s26 17",
-    "17 e 26",
-    "s26 vs 17 e",
-    "s26 vs 17t",
-    "s26 vs 17t pro"
-   ]
+   "searches": []
   },
   {
    "id": "rmarsuasfotosemvideoscurtosmastemumporem",
@@ -502,7 +566,7 @@
    "url": "https://canaltech.com.br/software/one-ui-95-pode-transformar-suas-fotos-em-videos-curtos-mas-tem-um-porem/",
    "published": "2026-11-23T14:00:08+00:00",
    "summary": "A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de transformar fotos e vídeos da galeria do celular em clipes curtos . O “Shorts” foi encontrado na versão beta da One UI 9.5. Segundo informações divulgadas pelo SamMobile e pelo Android Authority nesta segunda-feira (23), a novidade utiliza o Galaxy AI para reunir imagens e vídeos do usuário em uma única produção. ",
-   "score": 4.58,
+   "score": 4.06,
    "why": [
     "Tema de alto interesse"
    ],
@@ -525,110 +589,26 @@
    "searches": []
   },
   {
-   "id": "osaneisvirarealidadeemonitoraatesuasaude",
-   "title": "Anel de O Senhor dos Anéis vira realidade e monitora até sua saúde",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/produtos/anel-de-o-senhor-dos-aneis-vira-realidade-e-monitora-ate-sua-saude/",
-   "published": "2026-11-23T13:14:48+00:00",
-   "summary": "O Um Anel de O Senhor dos Anéis ganhou uma versão que realmente pode ser usada no dia a dia, mas sem o poder de controlar a Terra-média. A RingConn lançou uma edição especial do seu anel inteligente Gen 3 , desenvolvida em parceria com a Warner Bros. e inspirada no artefato criado por J.R.R. Tolkien. Batizado de The One Ring , o dispositivo traz uma estrutura de titânio com runas élficas gravadas ",
-   "score": 4.53,
+   "id": "ardeepfakespornograficosdemenoresdeidade",
+   "title": "SpaceX É Processada por Permitir o Grok Criar Deepfakes Pornográficos de Menores de Idade",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-tech/2026/11/spacex-e-processada-por-permitir-o-grok-criar-deepfakes-pornograficos-de-menores-de-idade/",
+   "published": "2026-11-23T19:00:50+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estados da Virgínia e Oregon alegam que as imagens foram criadas usando o \"modo picante\" da inteligência artificial da empresa O post SpaceX É Processada por Permitir o Grok Criar Deepfakes Pornográficos de Menores de Idade apareceu primeiro em Forbes Brasil .",
+   "score": 3.77,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/UiXhhgeGfG39Y0hlxNiwo8PRa_E=/0x0/filters:format(webp):quality(85)/32713652-fd60-4507-b444-3aeda62d17fe.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Produtos\n\n# Anel de O Senhor dos Anéis vira realidade e monitora até sua saúde\n\nPor Renato Moura Jr. \\| 23/11/2026 às 10:14\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/dd64151d-bc2f-41c6-86eb-7f197532e25c.jpg)Divulgação/RingConn\n\nO Um Anel de O Senhor dos Anéis ganhou uma versão que realmente pode ser usada no dia a dia, mas sem o poder de controlar a Terra-média. A RingConn lançou uma edição especial do seu **anel inteligente Gen 3**, desenvolvida em parceria com a Warner Bros. e inspirada no artefato criado por J.R.R. Tolkien.\n\nContinua após a publicidade\n\nBatizado de **The One Ring**, o dispositivo traz uma estrutura de titânio com runas élficas gravadas a laser. O produto custa US$ 399 (cerca de R$ 2.400), valor um pouco superior ao da versão convencional, e também inclui uma embalagem temática, kit de medição personalizado e uma interface exclusiva da Terra-média no aplicativo para celular.\n\n- 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas\n\nApesar da aparência diferente, o hardware é o mesmo do RingConn Gen 3 tradicional. Isso significa que o acessório mantém os recursos de monitoramento de saúde da versão original.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO The One Ring tem apenas **2,3 mm de espessura e pesa entre 2,5 e 3,5 gramas**, dependendo do tamanho escolhido. Sua estrutura de titânio abriga sensores capazes de acompanhar frequência cardíaca, temperatura da pele e movimentos.\n\nEntre os recursos disponíveis estão o monitoramento de oxigenação do sangue, níveis de estresse, ciclos menstruais e padrões de apneia do sono. O acessório também identifica automaticamente o início de atividades físicas e acompanha tendências noturnas de pressão arterial por meio do recurso Vascular Health Insights.\n\nOutro diferencial é a presença de um pequeno motor de vibração. Com ele, o anel consegue enviar **alertas táteis diretamente ao dedo** quando identifica níveis elevados de estresse, longos períodos de inatividade ou bateria fraca.\n\nContinua após a publicidade\n\nOs dados podem ser sincronizados com Apple Health e Google Health Connect. Caso o usuário fique algum tempo sem conectar o dispositivo ao celular, o anel consegue armazenar até dez dias de informações.\n\n## Bateria dura até 14 dias\n\nA autonomia também é um dos destaques do acessório. Segundo a RingConn, o The One Ring oferece entre **11 e 14 dias de uso com os alertas de vibração desativados**, ou de 10 a 12 dias com o recurso ligado.\n\nO produto acompanha um estojo de carregamento sem fio, que pode manter até 150 dias de bateria em espera. Uma recarga completa do anel leva aproximadamente 90 minutos. Além disso, o dispositivo possui resistência à água de 10 ATM, permitindo utilizá-lo durante atividades aquáticas, incluindo natação.\n\nContinua após a publicidade\n\nAs pré-vendas do RingConn The One Ring começaram em 19 de novembro na América do Norte, Europa, Oriente Médio, África e região Ásia-Pacífico. Até o momento, não há confirmação de lançamento no Brasil.\n\n### Fonte\n\nRingConn\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/UiXhhgeGfG39Y0hlxNiwo8PRa_E=/0x0/filters:format(webp):quality(85)/32713652-fd60-4507-b444-3aeda62d17fe.jpg",
-    "https://tl.ctcdn.com.br/LxMhicFj4jnp6y_koIAGw-S7bEY=/1200x675/smart/filters:format(webp):quality(85)/dd64151d-bc2f-41c6-86eb-7f197532e25c.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/ELj0IkfQsptsMaeE-jYouduxbSg=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "O",
-    "Senhor",
-    "Anéis"
-   ],
-   "searches": []
-  },
-  {
-   "id": "s1040357nothingearnoteearbudsairecording",
-   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
-   "published": "2026-11-23T19:04:52+00:00",
-   "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable. Nothing CEO Carl Pei demonstrated the new device […]",
-   "score": 4.3,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable . Nothing CEO Carl Pei demonstrated the new device to Bloomberg , but said the company hasn't yet settled on a price ahead of a planned launch on December 8th. The report also says Nothing's rumored plans for an AI smartwatch and smart glasses are delayed, while it will be \"pursuing a more aggressive smartphone release schedule next y … Read the full story at The Verge.",
+   "image": "",
+   "text": "Forbes, a mais conceituada revista de negócios e economia do mundo. Os estados da Virgínia e do Oregon processaram a SpaceX, de Elon Musk, na segunda-feira (23), alegando que a empresa não impediu que a ferramenta de inteligência artificial Grok produzisse imagens sexualizadas de mulheres e crianças. Os processos alegam que as imagens foram criadas usando o “modo picante” do Grok Imagine, que “permitia especificamente a criação de imagens de nudez e outras reproduções sexualizadas”, disse o procurador-geral da Virgínia, Jay Jones, em um comunicado à imprensa. Em resposta aos processos judiciais, a SpaceX afirmou que qualquer pessoa que usou o Grok Imagine para criar conteúdo sexual envolvendo menores ou qualquer indivíduo sem consentimento, “o fez violando deliberadamente os Termos de Serviço e a empresa está trabalhando intensamente para contornar nossas medidas de segurança”. Os estados estão buscando compensação financeira pelas supostas violações, incluindo a restituição dos benefícios ou ganhos que a empresa obteve em decorrência das violações e multas civis para cada violação. Reportagem publicada originalmente em Forbes.com O post SpaceX É Processada por Permitir o Grok Criar Deepfakes Pornográficos de Menores de Idade apareceu primeiro em Forbes Brasil .",
    "text_source": "rss",
-   "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/nothing.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-   ],
+   "images": [],
    "videos": [],
    "keywords": [
-    "Ear",
-    "Note",
-    "AI"
-   ],
-   "searches": []
-  },
-  {
-   "id": "paraiphone18enovoipademacbookneopara2027",
-   "title": "Apple prepara iPhone 18e, novo iPad e MacBook Neo para 2027",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/23/reviews/apple-prepara-iphone-18e-novo-ipad-e-macbook-neo-para-2027/",
-   "published": "2026-11-23T18:44:56+00:00",
-   "summary": "A Apple deve distribuir lançamentos ao longo de 2027, começando por modelos mais acessíveis e avançando para novos iPhones, iPads e Macs O post Apple prepara iPhone 18e, novo iPad e MacBook Neo para 2027 apareceu primeiro em Olhar Digital .",
-   "score": 4.28,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/03/Apple-MacBook-Neo-color-lineup-260304-1024x682.jpg",
-   "text": "A Apple deve concentrar parte dos lançamentos de fevereiro e março de 2027 em produtos mais acessíveis, como o iPhone 18e, um novo iPad básico e a segunda geração do MacBook Neo. A mudança acompanha a estratégia anunciada pelo CEO John Ternus de distribuir novidades ao longo do ano, em vez de concentrá-las no tradicional evento de setembro. A segunda geração do MacBook Neo é esperada com o chip Apple A19 Pro, substituindo o A18 Pro presente no modelo original. – Imagem Apple Produtos mais baratos abrem o calendário de 2027 A mudança já apareceu na apresentação de setembro, que trouxe apenas os dois modelos de iPhone 18 Pro e o primeiro dobrável da Apple. Os demais modelos de iPhone ficaram para o ano seguinte. Segundo Mark Gurman, da Bloomberg , o próximo lançamento será o iPhone 18e, previsto para chegar entre fevereiro e março. O período coincide com a expectativa de lançamento do iOS 27 .4, atualização que costuma marcar uma etapa importante do ciclo do sistema. Recursos que não ficam prontos para a versão inicial, identificada pelo número .0, podem ser adiados para a versão .4. Além do smartphone, a Apple deve apresentar um novo iPad básico. O modelo atual foi atualizado pela última vez no início de 2025, quando recebeu o processador A16 no lugar do A14 e passou de 4 GB para 6 GB de memória RAM. Ele também é o último dispositivo da empresa sem suporte ao Apple Intelligence . A próxima geração deve trazer o chip Apple A19 e 8 GB de RAM. Também são esperados o chip Apple N1, com suporte ao Wi-Fi 7, e a opção do C1X, compatível com redes 5G abaixo de 6 GHz, nas versões com conexão celular. A segunda geração do MacBook Neo completa os lançamentos previstos para esse período. O notebook deve substituir o A18 Pro, utilizado no modelo original, pelo A19 Pro, chip da geração do iPhone 17 Pro. iPhone 18 e MacBook Air também devem chegar Na mesma época, mas provavelmente em um evento separado, a Apple deve apresentar o iPhone 18 convencional e uma nova geração do MacBook Air . O smartphone deve receber o processador Apple A20 e uma bateria maior. Rumores também apontam para um possível aumento de US$ 100 (cerca de R$ 590) no preço do aparelho. Já o MacBook Air deve estrear o chip Apple M7, que teria mais recursos de hardware dedicados ao processamento de inteligência artificial. Para o restante do primeiro semestre de 2027, a Apple também prepara um iPad Air com tela OLED, iPad Pro com chip M6 e o iPhone Air 2. – Amazon Outros lançamentos previstos para 2027 A primeira metade do ano também deve trazer um iPad Air com tela OLED, novos modelos de iPad Pro e o iPhone Air 2. Os tablets profissionais devem utilizar o processador M6, enquanto as versões lançadas em 2025 contam com o M5. Para o restante de 2027, Gurman aponta a chegada da geração iPhone 20, de uma nova linha Apple Watch , de óculos inteligentes e de AirPods equipados com câmeras. O post Apple prepara iPhone 18e, novo iPad e MacBook Neo para 2027 apareceu primeiro em Olhar Digital .",
-   "text_source": "rss",
-   "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/03/Apple-MacBook-Neo-color-lineup-260304-1024x682.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/Apple-iPhone-Air.avif"
-   ],
-   "videos": [],
-   "keywords": [
-    "MacBook",
-    "Neo",
-    "2027"
-   ],
-   "searches": []
-  },
-  {
-   "id": "aselecaodesmartwatchesempromocaonaamazon",
-   "title": "Hora de equipar o pulso: veja uma seleção de smartwatches em promoção na Amazon",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/23/reviews/hora-de-equipar-o-pulso-veja-uma-selecao-de-smartwatches-em-promocao-na-amazon/",
-   "published": "2026-11-23T16:54:21+00:00",
-   "summary": "Se você está de olho em um smartwatch novo, este é um bom momento para checar o que a Amazon tem disponível. Reunimos três opções que combinam design, recursos práticos e boa autonomia de bateria — do rastreador fitness da Samsung ao relógio com tela AMOLED grande da Kieslect. Confira: Samsung Galaxy Fit3 — Prata […] O post Hora de equipar o pulso: veja uma seleção de smartwatches em promoção na A",
-   "score": 4.16,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-   "text": "Se você está de olho em um smartwatch novo, este é um bom momento para checar o que a Amazon tem disponível. Reunimos três opções que combinam design, recursos práticos e boa autonomia de bateria — do rastreador fitness da Samsung ao relógio com tela AMOLED grande da Kieslect. Confira: Samsung Galaxy Fit3 — Grafite O Galaxy Fit3 trouxe um display de 1,6 polegadas em um corpo leve e compacto, ideal para quem quer monitoramento de saúde e atividades físicas sem abrir mão do conforto no pulso. O modelo na cor grafite tem acabamento discreto e elegante, combinando com diferentes estilos. Ver na Amazon → Samsung Galaxy Fit3 — Prata A versão prata do Galaxy Fit3 carrega os mesmos pontos fortes do modelo: tela de 1,6″, monitoramento contínuo de frequência cardíaca, acompanhamento do sono e integração com o ecossistema Samsung Health. Uma escolha sólida para quem busca praticidade no dia a dia. Ver na Amazon → Kieslect KS 2 — Tela AMOLED 2,1″ com Chamadas Bluetooth O Kieslect KS 2 apostou em uma tela AMOLED grande, de 2,1 polegadas, com boa legibilidade mesmo ao ar livre. A bateria de 300 mAh sustenta até 15 dias de uso, e o relógio oferece mais de 150 modos esportivos além de chamadas via Bluetooth — recursos que costumam aparecer em modelos mais caros. Ver na Amazon → Ofertas assim costumam ter estoque limitado e os preços podem mudar a qualquer momento. Se algum desses modelos chamou a atenção, vale conferir o link agora e garantir o seu antes que a oportunidade passe. Aviso: este artigo contém um ou mais links gerados a partir de um programa de afiliados. O valor não muda para você e o Olhar Digital poderá receber uma comissão. Nenhuma empresa participou da escolha para os links e não existiu aprovação prévia deste conteúdo, que segue independente como sempre foi. O post Hora de equipar o pulso: veja uma seleção de smartwatches em promoção na Amazon apareceu primeiro em Olhar Digital .",
-   "text_source": "rss",
-   "images": [
-    "https://m.media-amazon.com/images/I/31+UUSyz9uL._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/21wJ3h0U1KL._SL500_.jpg",
-    "https://m.media-amazon.com/images/I/41V+ktNtVrL._SL500_.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Amazon"
+    "É",
+    "Processada",
+    "Permitir"
    ],
    "searches": []
   },
@@ -639,7 +619,7 @@
    "url": "https://canaltech.com.br/software/novos-emojis-3d-do-android-vao-consumir-6gb-de-ram-google-explica-absurdo/",
    "published": "2026-11-23T15:03:00+00:00",
    "summary": "O Google esclareceu nesta segunda-feira (23) que os novos emojis 3D do Android não vão consumir 6 GB de memória RAM ou ocupar 10 GB de armazenamento , como sugeriam os requisitos divulgados pela própria empresa. O pacote completo de emojis ocupa menos de 220 MB. A explicação foi publicada por Mishaal Rahman, do Google, em uma discussão no Reddit, após usuários questionarem as especificações necess",
-   "score": 4.05,
+   "score": 3.52,
    "why": [
     "Tema de alto interesse"
    ],
@@ -659,6 +639,30 @@
     "Android",
     "RAM",
     "Google"
+   ],
+   "searches": []
+  },
+  {
+   "id": "sdanvidiaparachinadizsecretariodotesouro",
+   "title": "EUA Buscam Respostas sobre Venda de Chips da Nvidia para China, Diz Secretário do Tesouro",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-tech/2026/11/eua-buscam-respostas-sobre-venda-de-chips-da-nvidia-para-china-diz-secretario-do-tesouro/",
+   "published": "2026-11-23T14:47:01+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Após renúncia de Huang, o governo do presidente Donald Trump emitiu uma norma para restringir ainda mais o acesso a tecnologias avançadas de IA O post EUA Buscam Respostas sobre Venda de Chips da Nvidia para China, Diz Secretário do Tesouro apareceu primeiro em Forbes Brasil .",
+   "score": 3.51,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "Forbes, a mais conceituada revista de negócios e economia do mundo. O secretário do Tesouro dos Estados Unidos, Scott Bessent, afirmou no domingo (22) que o governo Trump ainda precisa de informações sobre as vendas de chips da Nvidia e vai descobrir quem era o responsável pela conformidade na empresa anteriormente liderada por Jensen Huang, que renunciou após um caso com uma suposta espiã chinesa. “Temos mantido contato com a administração provisória, com os diretores principais e com os advogados da empresa, e precisamos de respostas… cabe à Nvidia agir rapidamente nessa questão, pois queremos saber qual era a cultura da empresa”, disse Bessent ao programa “Face the Nation”, da CBS. Reportagens sobre o relacionamento de Huang com uma mulher que os serviços de inteligência dos Estados Unidos suspeitam ser uma espiã chinesa e seu caso extraconjugal com uma executiva da empresa levaram à sua renúncia e a investigações por parte de órgãos reguladores norte-americanos e do FBI, medidas do Congresso, uma revisão interna e uma proposta de ação coletiva por parte de investidores. Dias após a renúncia de Huang, o governo do presidente Donald Trump emitiu uma norma para restringir ainda mais o acesso a chips avançados de inteligência artificial de empresas como a Nvidia, reforçando os controles antes da viagem de Trump à China na semana passada para conversas com o presidente Xi Jinping. Bessent disse que o conselho de administração da fabricante de chips está trabalhando para determinar o que aconteceu e expressou confiança de que “chegará a respostas muito completas e sólidas”. “Precisamos saber quem era o responsável pelo compliance nessa questão”, disse Bessent. “Veremos qual nível da empresa tinha conhecimento disso. Foi nos níveis mais baixos? Foi no nível intermediário? Chegou até o topo?” Trump disse na sexta-feira (20) que gostaria de ver Huang se desculpar e retornar à Nvidia. Questionado se concordava com o presidente, Bessent disse que são necessárias mais informações. “Acho que precisamos ver de quem é a responsabilidade, em última instância.” O presidente do conselho da Nvidia, Harvey Jones, afirmou que o conselho não recontratará Huang. O post EUA Buscam Respostas sobre Venda de Chips da Nvidia para China, Diz Secretário do Tesouro apareceu primeiro em Forbes Brasil .",
+   "text_source": "rss",
+   "images": [],
+   "videos": [],
+   "keywords": [
+    "Buscam",
+    "Respostas",
+    "Venda"
    ],
    "searches": []
   }
