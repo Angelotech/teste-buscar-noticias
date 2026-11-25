@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-25T03:53:20.967665+00:00",
+ "generated_at": "2026-11-25T18:55:02.476750+00:00",
  "trends": [
   {
-   "term": "denver nuggets",
+   "term": "barcelona",
+   "traffic": 20000
+  },
+  {
+   "term": "barcelona x",
+   "traffic": 5000
+  },
+  {
+   "term": "reclamação",
    "traffic": 200
   },
   {
-   "term": "anthony davis",
-   "traffic": 100
+   "term": "hbo",
+   "traffic": 5000
   },
   {
-   "term": "tod",
-   "traffic": 100
-  },
-  {
-   "term": "kyshawn george",
-   "traffic": 100
-  },
-  {
-   "term": "inteligência artificial",
-   "traffic": 200
-  },
-  {
-   "term": "previsão do tempo santos",
-   "traffic": 100
-  },
-  {
-   "term": "pep guardiola",
-   "traffic": 2000
-  },
-  {
-   "term": "nuggets x mavericks",
+   "term": "jogo do barcelona",
    "traffic": 1000
   },
   {
-   "term": "manaus",
+   "term": "jogo barcelona",
    "traffic": 200
   },
   {
-   "term": "gta 7",
+   "term": "barcelona vs",
    "traffic": 200
+  },
+  {
+   "term": "slavia praga",
+   "traffic": 200
+  },
+  {
+   "term": "max",
+   "traffic": 200
+  },
+  {
+   "term": "villarreal",
+   "traffic": 1000
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 281,
-  "used_today": 8,
+  "used": 289,
+  "used_today": 16,
   "daily_allowance": 87
  },
  "sources": [
@@ -82,13 +82,13 @@
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 0,
-   "ok": false
+   "count": 11,
+   "ok": true
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 20,
+   "count": 21,
    "ok": true
   },
   {
@@ -112,7 +112,7 @@
   {
    "name": "Technologyreview",
    "feed": "https://www.technologyreview.com/feed",
-   "count": 6,
+   "count": 5,
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
   {
    "name": "Spaceflightnow",
    "feed": "https://spaceflightnow.com/feed/",
-   "count": 4,
+   "count": 3,
    "ok": true
   },
   {
@@ -149,57 +149,49 @@
  "manual": [],
  "stories": [
   {
-   "id": "ourogxboxallyxqualcomprarblackfriday2026",
-   "title": "ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026?",
+   "id": "riday2026quantovaleapenapagarxboxseriess",
+   "title": "Quanto vale à pena pagar no Xbox Series S na Black Friday 2026?",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/rog-xbox-ally-ou-rog-xbox-ally-x-qual-comprar-black-friday-2026/",
-   "published": "2026-11-24T22:00:03+00:00",
-   "summary": "ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026? Desde o seu lançamento, o ROG XBOX Ally se tornou o sonho de consumo para qualquer fã da plataforma da Microsoft. O console portátil traz o Windows otimizado para gaming , assim como carrega um potencial para rodar os principais jogos produzidos para o PC . Ainda que tenha o XBOX no nome, ele só roda títulos feitos para ",
-   "score": 13.03,
+   "url": "https://canaltech.com.br/games/black-friday-2026-quanto-vale-a-pena-pagar-xbox-series-s/",
+   "published": "2026-11-25T18:45:00+00:00",
+   "summary": "Quanto vale à pena pagar no Xbox Series S na Black Friday 2026? Lançado em novembro de 2020, o XBOX Series S foi uma das novidades da Microsoft para a 9ª geração de consoles . A proposta do pequeno monstrinho, como foi carinhosamente apelidado aqui no Brasil, era oferecer um jeito barato de aproveitar jogos atuais, aliado ao vasto catálogo do XBOX Game Pass. A missão do XBOX Series S, no entanto, ",
+   "score": 15.69,
    "why": [
-    "4 sites cobrindo",
+    "5 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/mercado/gemini-esta-com-50-de-desconto-na-black-friday-veja-como-aproveitar/"
+     "url": "https://canaltech.com.br/hardware/black-friday-2026-quanto-vale-a-pena-pagar-radeon-rx-9060-xt/"
     },
     {
      "source": "Canaltech",
-     "url": "https://canaltech.com.br/smartwatch/quanto-vale-a-pena-pagar-em-um-smartwatch-garmin-na-black-friday/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/mercado/claude-chatgpt-e-gemini-vao-ficar-mais-baratos-na-black-friday/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/eletro/ar-condicionado-de-9000-ou-12000-btus-qual-comprar-na-black-friday/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/produtos/quando-tem-promocao-na-shopee-veja-quando-comprar-mais-barato/"
+     "url": "https://canaltech.com.br/inteligencia-artificial/como-criar-alertas-de-preco-no-chatgpt-para-monitorar-ofertas-na-black-friday/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/quais-servicos-contratar-na-black-friday/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-fones-de-ouvido/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-do-magazine-luiza/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/ate-quanto-pagar-na-black-friday/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/selecao-tech-na-black-friday-do-meli-com-nintendo-oled-notebooks-e-mais/"
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/brasileiro-desconfia-cada-vez-mais-de-ofertas-na-black-friday-diz-procon-sp/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-da-vivara/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-da-shopee/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-tablets-para-estudar/"
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/black-friday-ao-vivo-vai-trazer-promocoes-cupons-e-especialistas-para-ajudar-nas-melhores-escolhas/"
+    },
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale"
     },
     {
      "source": "Popsci",
@@ -222,234 +214,354 @@
      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
     }
    ],
-   "image": "https://tl.ctcdn.com.br/lVAyEMFfdvmUQUUbME9P8RHa8y0=/1200x675/smart/filters:format(webp):quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Games\n\n# ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026?\n\nPor Diego Corumba • Editado por Jones Oliveira \\| 24/11/2026 às 19:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg)Eric Mockaitis/Canaltech\n\nDesde o seu lançamento, o **ROG XBOX Ally** se tornou o sonho de consumo para qualquer fã da plataforma da **Microsoft.** O console portátil traz o **Windows otimizado para gaming**, assim como carrega um **potencial para rodar os principais jogos produzidos para o PC**.\n\nContinua após a publicidade\n\nAinda que tenha o **XBOX** no nome, ele só roda títulos feitos para computador — fora o acesso que possui ao **XBOX Cloud Gaming** (que pode contar com alguns títulos compatíveis de sua biblioteca do console também). Seu objetivo é disputar espaço com produtos como o **Steam Deck** e **MSI Claw**.\n\nMuita gente sabe que ele foi lançado no **Brasil** com um valor bem alto em dezembro de 2025, o que **torna a Black Friday atual a primeira oportunidade de ver os dois modelos disponíveis em uma grande oferta** neste ano. Porém, em qual deles vale mais a pena investir o seu dinheiro?\n\nVeja **o que compensa mais na BF 2026 para você, o ROG XBOX Ally ou o ROG XBOX Ally X**. Entre economia e poder de fogo, saiba onde buscar o melhor custo-benefício:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Atenção ao ROG XBOX Ally\n\nO videogame portátil mais barato da linha, **o ROG XBOX Ally é a opção ideal para quem deseja jogar seus títulos para PC em qualquer lugar e sem os altos custos**. É uma decisão “sábia” para quem vê uma ausência de produtos como o MSI Claw e Steam Deck no mercado nacional.\n\nSua ficha técnica é composta por um processador **AMD Ryzen Z2** (com gráficos **AMD Radeon** embarcados), **16 GB de memória RAM LPDDR5X** e um **armazenamento de 512 GB**. Isso é mais do que o suficiente para aproveitar os últimos lançamentos, mas exige uma certa cautela.\n\nContinua após a publicidade\n\nCom 16 GB, muitas vezes você terá de equilibrar as configurações para não ultrapassar a sua capacidade ou superaquecer demais os outros componentes. Além disso, sem um cartão de expansão, **será difícil instalar tudo o que você quer em menos de 500 GB úteis** (que sobram do espaço utilizado no sistema operacional) do SSD.\n\nSua bateria também é um ponto de atenção que você precisa levar em consideração. **Ele suporta sessões curtas, entre 2 a 3 horas contínuas de jogo** (a depender da configuração e dos games) — nem mesmo uma tarde toda no aeroporto ou na sala de espera para atendimento médico.\n\n## O poder do ROG XBOX Ally X\n\nEquipado por um processador **AMD Ryzen Z2 AI Extreme**, **24 GB de memória RAM LPDDR5X** e com um **SSD de 1 TB**, o ROG XBOX Ally X é consideravelmente mais poderoso do que sua contraparte. Ele é feito para zerar suas preocupações com os títulos da plataforma, o famoso “basta instalar e jogar”.\n\nContinua após a publicidade\n\nSua **bateria é 30% maior do que o modelo padrão**, o que garante ao menos 1 hora a mais de gameplay — o que não é uma vantagem tão grande, mas já permite um sossego a mais antes de ter de conectá-lo ao carregador.\n\nTer componentes tão potentes também faz o ROG XBOX Ally X ser um “trambolho” em suas mãos em longas sessões. **O console portátil pesa 715 gramas**(45 gramas a mais que o dispositivo mais simples) e pode se tornar desconfortável.\n\nÉ possível afirmar que **ele é feito para o gamer entusiasta**, que não deseja perder nada em gráficos e taxa de quadros enquanto se aventura por diversos jogos. Por ter “o dobro” do poder da versão padrão, seu destaque é uma liberdade maior para aproveitar as obras com o hardware.\n\nContinua após a publicidade\n\n## Ponto em comum\n\nExceto pelos componentes internos, ambos os ROG XBOX Ally seguem o mesmo design para tudo. A **tela IPS de 7 polegadas com touch**, a conectividade via **Wi-Fi 6E** e o **sistema operacional Windows 11** permanecem os mesmos nos dois dispositivos.\n\nAlém disso, **no Brasil, você pode diferenciá-los pelas cores**. Enquanto o modelo comum é vendido na cor branca, a versão X chega apenas na cor preta. Inclusive, recentemente, foi disponibilizada **uma edição especial do “X” para celebrar o aniversário do XBOX** — a linha **X20,** com uma carcaça translúcida.\n\nLogo, você não terá diferenças gritantes no aspecto visual dos consoles portáteis, independentemente do que escolher. Você pode até usar a porta USB-C para ligá-los a uma dock e transmitir a sua imagem diretamente no monitor ou na TV.\n\nContinua após a publicidade\n\n## Preço do ROG XBOX Ally\n\nO maior desafio do console portátil é seu preço no nosso país. Enquanto o ROG XBOX Ally comum pode ser comprado pelo valor sugerido de **R$ 5.999**, a versão “X” é encontrada pelo custo mínimo de **R$ 8.999** — uma diferença de R$ 3 mil no bolso.\n\nNa Black Friday 2026, há esperanças de encontrá-los por um preço reduzido, mas não tenha muitas expectativas de que a queda seja brusca. Vivemos uma alta de memória RAM e armazenamento, o que tem elevado os custos de todos os eletrônicos do mercado desde o início do ano.\n\nContinua após a publicidade\n\nPara ter uma ideia, durante os últimos meses, o **ROG XBOX Ally atingiu o menor valor de R$ 3.699** (um desconto de 38% em relação ao seu preço sugerido). Já o **ROG XBOX Ally X registrou uma queda para R$ 7.599**(uma baixa de aproximadamente 15%).\n\nSe encontrar por estas quantias na loja da **ASUS** ou revenda oficial, será uma vantagem comprá-los. Menos do que isso, apesar de ser difícil, pode representar uma oportunidade de ouro para garantir o seu — porém, não tenha expectativa alta por isso.\n\n## Qual vale mais a pena?\n\nSe você for um jogador casual, tiver sua conta no Steam ou no XBOX e quiser aproveitar alguns títulos que tem disponível, o ROG XBOX Ally é a melhor opção que poderia buscar. Se não está interessado em jogos competitivos, ele também se encaixa bem na proposta.\n\nContinua após a publicidade\n\nContudo, se você tem um perfil mais competitivo e busca uma experiência “hardcore”, talvez o padrão te desaponte — e é exatamente o que te motivará a buscar o ROG XBOX Ally X. Ele entregará uma potência mais elevada, mais bateria e uma capacidade de “subir de nível” sem preocupações.\n\nPelo preço, caso não procure poder de fogo, comprá-lo pode ser um gasto acima do que está atrás. Exceto para os gamers hardcore  que desejam ter o gameplay em seu ápice, você pode seguir para a versão padrão que não terá qualquer arrependimento.\n\nJá entre o ROG XBOX Ally e o XBOX Series S, qual vale mais a pena comprar? Entenda como o console de mesa mais barato da Microsoft pode suprir a sua necessidade de jogar.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://tl.ctcdn.com.br/NeDMCBTiHRJqdNKKEsjYC9JLDnM=/1200x675/smart/filters:format(webp):quality(85)/e34078f3-eb55-4aad-a584-739ff1fdd865.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Games\n\n# Quanto vale à pena pagar no Xbox Series S na Black Friday 2026?\n\nPor Gabriel Cavalheiro • Editado por Jones Oliveira \\| 25/11/2026 às 15:45\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/e34078f3-eb55-4aad-a584-739ff1fdd865.png)Divulgação/Microsoft\n\nLançado em novembro de 2020, **o XBOX Series S foi uma das novidades da Microsoft para a 9ª geração de consoles**. A proposta do pequeno monstrinho, como foi carinhosamente apelidado aqui no Brasil, era oferecer um jeito barato de aproveitar jogos atuais, aliado ao vasto catálogo do XBOX Game Pass.\n\nContinua após a publicidade\n\n**A missão do XBOX Series S, no entanto, falhou em cerca de três anos.** Nesse período, a companhia subiu o preço do console inúmeras vezes. O cenário piorou ainda mais com a crise de componentes intensificada pela alta demanda de Inteligência Artificial.\n\nNo Brasil, a situação é ainda mais aterradora. O XBOX Series S simplesmente sumiu das prateleiras das principais varejistas do país, enquanto o site oficial da marca lista o hardware como esgotado.\n\nO péssimo timing acompanha o lançamento de GTA 6, que, curiosamente, conta com melhorias gráficas no XBOX Series S graças à tecnologia de upscaling FSR 4.1. No entanto, ao menos no Brasil, será difícil aproveitar o recurso caso você ainda não tenha um monstrinho na mesa.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n**A última esperança dos jogadores é a Black Friday**, embora seja difícil recordar qual foi a última vez que a Microsoft promoveu uma campanha dessas por aqui.\n\n- XBOX Series S com o melhor preço na Amazon\n- Compre o XBOX Series S no Mercado Livre antes que acabe!\n\n## **Para quem é o XBOX Series S?**\n\nContinua após a publicidade\n\n**O XBOX Series S foi pensado como uma forma acessível de entrar na nova geração**. É um console all-digital, o que significa que não possui leitor de discos. Além disso, ele conta com uma performance inferior à do XBOX Series X, embora a Microsoft exija que tudo que sai em um modelo chegue no outro sem cortes de conteúdo.\n\nInfelizmente, **o que deveria ser o console com melhor custo-benefício da geração**, em especial quando o Game Pass aparece na equação, se tornou uma das piores opções, ao menos no Brasil.\n\nO XBOX Series S, no entanto, é indicado para quem já possui uma biblioteca digital consolidada no ecossistema XBOX, em especial nos consoles antigos. Um dos destaques do hardware é justamente a retrocompatibilidade, que **permite rodar jogos do XBOX One, 360 e XBOX original**. Carregamentos velozes, HDR e Quick Resume também são alguns destaques que fazem do monstrinho uma boa opção, dependendo do preço.\n\nContinua após a publicidade\n\nNo fim das contas, **é bem provável que quem vai comprar um XBOX Series S são aqueles fãs da marca que já gostam dos consoles da Microsoft** e que ainda estão presos no XBOX One. Preço provavelmente não será uma variável aqui.\n\n## **Quanto vale a pena pagar no XBOX Series S na Black Friday 2026?**\n\nEm grandes varejistas, **o XBOX Series S aparece com preços acima do Nintendo Switch 2 e PlayStation 5**. É comum zapear pelas lojas e encontrar o console por **patamares acima dos R$ 4 mil e até R$ 5 mil**.\n\nPara efeito de comparação, nosso canal de promoções CT Ofertas não destaca descontos do XBOX Series S há anos. Da última vez, era possível encontrar o console entre R$ 1,7 mil e R$ 2,4 mil (bem distante do que vemos hoje em dia).\n\nContinua após a publicidade\n\n**Certas varejistas indicam que os estoques estão bem próximos do fim**, o que evidencia ainda mais a escassez e a falta de reabastecimento do console no mercado brasileiro.\n\nSe, por um milagre, a Microsoft reabastecer o mercado com novas unidades do hardware e promover uma campanha de Black Friday até o fim de novembro, é possível que vejamos alguns descontos camaradas no console. **Um preço justo pelo XBOX Series S na Black Friday seria de, no máximo, R$ 3,5 mil**.\n\nCaso os preços ultrapassem esse valor, **fica muito mais fácil adquirir um PlayStation 5 investindo um pouco mais** e aproveitar lançamentos como GTA 6, por exemplo.\n\nContinua após a publicidade\n\n## **O mercado de usados é a solução?**\n\nUma alternativa para adquirir o XBOX Series S por um preço um pouco mais justo é por meio do mercado de usados. Nesses casos, **é possível encontrar opções por valores abaixo de R$ 3 mil, mas todo o cuidado é pouco**.\n\nComprar consoles usados exige muito garimpo e pesquisa, tanto para não cair em golpes quanto para descolar bons descontos. O Canaltech produziu um guia com 5 cuidados ao comprar um XBOX Series S usado.\n\nOutra alternativa para conseguir um XBOX Series S no precinho é **caçar em lojas físicas especializadas em games**. Não é difícil encontrar um console na faixa dos R$ 2,9 mil, mas isso exige os mesmos cuidados de comprar hardware usado online.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/lVAyEMFfdvmUQUUbME9P8RHa8y0=/1200x675/smart/filters:format(webp):quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg",
+    "https://tl.ctcdn.com.br/NeDMCBTiHRJqdNKKEsjYC9JLDnM=/1200x675/smart/filters:format(webp):quality(85)/e34078f3-eb55-4aad-a584-739ff1fdd865.png",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/1-6tWXH026_tn7feE-S1QPuAn_k=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/3oquRFFCExr3GYIU6Hmn7_j0jD8=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "XBOX",
-    "Ally",
-    "ROG"
+    "Xbox",
+    "Series",
+    "S"
    ],
    "searches": [
-    "xbox ally rog",
-    "xbox ally rog x",
-    "xbox ally rog x gameplay",
-    "xbox ally rog review",
-    "rog xbox ally x 20",
-    "xbox ally rog x review"
+    "xbox series s",
+    "xbox series s vs xbox series x",
+    "xbox series s gta 6",
+    "xbox series s desbloqueado",
+    "xbox series s vs ps5",
+    "xbox series s fortnite"
    ]
   },
   {
-   "id": "espersonalizadascomsotaquetomevelocidade",
-   "title": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade",
+   "id": "perimentaisdeianomax2026vejaoquevemporai",
+   "title": "Adobe revela 10 ferramentas experimentais de IA no MAX 2026; veja o que vem por aí",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/apps/gemini-pode-ganhar-recurso-para-criar-vozes-personalizadas-com-sotaque-tom-e-velocidade/",
-   "published": "2026-11-24T23:01:00+00:00",
-   "summary": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade O Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar vozes personalizadas para a inteligência artificial (IA). A ferramenta deve funcionar por meio de comandos de texto, nos quais será possível descrever características como sotaque, tom de voz, velocidade da fala e entonação. As r",
-   "score": 10.85,
+   "url": "https://canaltech.com.br/inteligencia-artificial/adobe-revela-10-ferramentas-experimentais-de-ia-no-max-2026-veja-o-que-vem-por-ai/",
+   "published": "2026-11-25T14:12:00+00:00",
+   "summary": "Adobe revela 10 ferramentas experimentais de IA no MAX 2026; veja o que vem por aí A Adobe mostrou a prévia de algumas ferramentas de IA em desenvolvimento pela empresa durante o evento MAX 2026, nos Estados Unidos. As novidades passam por edição de vídeo entre takes, “interação” com personagens fictícios e melhorias na mixagem de som. Os recursos ainda não estão disponíveis, mas mostram o caminho",
+   "score": 10.86,
    "why": [
-    "Em alta no Google: inteligência artificial",
+    "Em alta no Google: max",
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade\n\nPor Marcelo Fischer \\| 24/11/2026 às 20:01\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png)Marcelo Salvatico/Canaltech\n\nO Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar **vozes personalizadas** para a inteligência artificial (IA). A ferramenta deve funcionar por meio de comandos de texto, nos quais será possível descrever características como sotaque, tom de voz, velocidade da fala e entonação.\n\nContinua após a publicidade\n\nAs referências à novidade foram identificadas pelo portal Android Authority nesta terça-feira (24), durante uma análise do código da versão 17.78.13 do aplicativo do Google para Android.\n\nA descoberta acontece pouco mais de uma semana após o Google começar a liberar 66 novas vozes regionais para o Gemini, incluindo opções em português brasileiro.\n\n## Como funcionará a criação de vozes no Gemini?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO menu de seleção de vozes do Gemini poderá ganhar uma opção chamada “Criar uma voz”. Ao acessá-la, o usuário encontrará um campo de texto para descrever como deseja que a IA fale.\n\nCaso o recurso funcione conforme sugerido pelo código, será possível utilizar comandos como:\n\n- “Quero uma voz com sotaque nordestino, tom descontraído e ritmo de fala mais lento”;\n\n- “Crie uma voz grave, com sotaque paulista e estilo de comunicação informal”;\n\n- “Quero uma voz suave, que fale pausadamente e tenha uma entonação animada”.\n\nO Google também trabalha em um botão chamado **“Surpreenda-me”**, que deverá gerar uma voz sem que o usuário precise fornecer instruções.\n\nContinua após a publicidade\n\n### Qual a diferença para os novos sotaques do Gemini?\n\nEm 16 de novembro, o Google começou a disponibilizar **66 novas vozes regionais** no aplicativo do Gemini para Android e iPhone (iOS), distribuídas entre sete variantes de idiomas.\n\nAs vozes foram desenvolvidas com características regionais de pronúncia, entonação e ritmo de fala. A opção selecionada pelo usuário é utilizada tanto nas conversas do Gemini Live quanto na leitura em voz alta das respostas do chatbot.\n\nContinua após a publicidade\n\nAtualmente, essas características são predefinidas pelo Google. Com a ferramenta em desenvolvimento, o usuário poderá combinar diferentes atributos vocais em uma mesma voz, de acordo com suas preferências.\n\n## Google já possui tecnologia para criar vozes com IA\n\nEm setembro, a empresa apresentou o **Gemini 3.8 Flash TTS (Text-to-Speech)**, modelo de IA especializado na conversão de texto em áudio que consegue gerar vozes originais a partir de descrições em mais de 100 idiomas e dialetos.\n\nO Google também oferece aos desenvolvedores uma ferramenta chamada Voice Remixing, que permite modificar características de vozes existentes, como sotaque, tonalidade e velocidade da fala.\n\nContinua após a publicidade\n\nAinda não está confirmado se essas tecnologias serão utilizadas na ferramenta de personalização de voz do Gemini.\n\nO Android Authority não conseguiu ativar o recurso durante seus testes. O Google também não informou se a novidade será exclusiva para assinantes de planos pagos, se haverá restrições de sotaques por região ou quando pretende disponibilizá-la.\n\n**Veja também:** Google libera novos sotaques regionais em português no Gemini; veja como ativar\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://tl.ctcdn.com.br/CQ2RnGSh6vMWJr3jlQ76qoB-W-8=/1200x675/smart/filters:format(webp):quality(85)/15671308-8a62-4126-b4b5-cec9ae119d8b.webp",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Inteligência Artificial\n\n# Adobe revela 10 ferramentas experimentais de IA no MAX 2026; veja o que vem por aí\n\nPor André Lourenti Magalhães • Editado por Jones Oliveira \\| 25/11/2026 às 11:12\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/15671308-8a62-4126-b4b5-cec9ae119d8b.webp)Divulgação/Adobe\n\nA Adobe mostrou a prévia de algumas ferramentas de IA em desenvolvimento pela empresa durante o evento MAX 2026, nos Estados Unidos. As novidades passam por edição de vídeo entre takes, “interação” com personagens fictícios e melhorias na mixagem de som.\n\nContinua após a publicidade\n\nOs recursos ainda não estão disponíveis, mas mostram o caminho que a companhia quer seguir no futuro com funções de IA integradas para a edição avançada de vídeos. Na parte das imagens, a Adobe também revelou uma nova plataforma do Firefly Design e mais ferramentas para criadores de conteúdo.\n\n## As 10 novidades de IA da Adobe para o futuro\n\nOs recursos são:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n- Project Scene Sweep\n\n- Project Screen Test\n\n- Project Live Set\n\n- Project On Cue\n\n- Project Sound Bender\n\n- Project Deep Brush\n\n- Project Sight Span\n\n- Project Hands On\n\n- Project Rinse Repeat\n\n- Project Link Up\n\nPara a edição de vídeos, o **Scene Sweep** permite aplicar os mesmos ajustes para todos os clipes filmados em tomadas diferentes e garantir consistência, enquanto o **Live** **Set** permite alterar elementos de um vídeo enquanto ele é reproduzido, com criações mais fluidas.\n\nO **Screen** **Test** é uma ferramenta na qual é possível criar um personagem fictício e “conversar” com ele para entender como aquele indivíduo pode se comportar em diferentes cenários do roteiro da trama. O **On Cue**, por sua vez, cria marcações para facilitar ações ou efeitos visuais.\n\nContinua após a publicidade\n\nAs novidades para áudio incluem o **Sound Bender**, para sincronizar o áudio mixado com uma tela interativa. Na edição de imagens, o **Deep** **Brush** é um pincel inteligente para entender a forma, cor e iluminação do quadro, enquanto o Sight Span permite “navegar” por uma imagem com comandos interativos.\n\nO **Hands On** é um modo com recursos para criar controles de edição na própria tela da imagem. Por fim, Rinse Repeat e Link Up trazem comandos mais intuitivos para aplicar as edições de um arquivo em outro quadro ou simplificar gestos.\n\nContinua após a publicidade\n\nAs ferramentas mencionadas seguem em testes e serão liberadas a partir dos próximos meses.  O evento ainda contou com uma parceria entre Adobe e Google para levar o Photoshop ao Gemini.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+    "https://tl.ctcdn.com.br/CQ2RnGSh6vMWJr3jlQ76qoB-W-8=/1200x675/smart/filters:format(webp):quality(85)/15671308-8a62-4126-b4b5-cec9ae119d8b.webp",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/gAgQk-TnVOnZ6gkzX4TrkyqHCNU=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/BQwZQ3TVWuOjVqZnfCWY-lE-OSg=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "Gemini",
-    "ganhar",
-    "recurso"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ochatgptcomalertasdeprecomashaumproblema",
-   "title": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/gpt-62-chega-aos-usuarios-do-chatgpt-com-alertas-de-preco-mas-ha-um-problema/",
-   "published": "2026-11-24T21:55:03+00:00",
-   "summary": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema A OpenAI começou a liberar nesta segunda-feira (23) o GPT-6.2 nas conversas convencionais do ChatGPT . A atualização promete melhorias na interpretação de imagens, no cumprimento de instruções complexas e nas pesquisas na internet, além de permitir que a IA sugira automaticamente a criação de alertas de preço. A novidad",
-   "score": 10.78,
-   "why": [
-    "Em alta no Google: inteligência artificial",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/3W7jqIkyvuBGZZhFrfyjakvq7DI=/1200x675/smart/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Inteligência Artificial\n\n# GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema\n\nPor Marcelo Fischer \\| 24/11/2026 às 18:55\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png)Marcelo Fischer/Canaltech\n\nA OpenAI começou a liberar nesta segunda-feira (23) o **GPT-6.2 nas conversas convencionais do ChatGPT**. A atualização promete melhorias na interpretação de imagens, no cumprimento de instruções complexas e nas pesquisas na internet, além de permitir que a IA sugira automaticamente a criação de alertas de preço.\n\nContinua após a publicidade\n\nA novidade está sendo distribuída mundialmente para assinantes dos planos **Plus, Pro, Business e Enterprise**. Usuários da versão gratuita e do ChatGPT Go, assinatura de entrada da plataforma, continuam utilizando o GPT-6.\n\nOs novos modelos de inteligência artificial (IA) da OpenAI foram apresentados em 17 de novembro, mas, até então, estavam disponíveis no ChatGPT Work, no Codex e na API da empresa.\n\n## ChatGPT ganha alertas de preço\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nUma das novidades destacadas pela OpenAI é a capacidade de identificar situações nas quais o usuário pode se beneficiar de um acompanhamento automático após o término da conversa.\n\nAo perguntar se determinado celular está em promoção, por exemplo, o ChatGPT poderá sugerir a **criação de um alerta** para quando o preço do produto diminuir.\n\nA possibilidade de monitorar preços já existia por meio das tarefas agendadas do ChatGPT. A novidade está na capacidade de a IA oferecer a ferramenta sem que o usuário precise solicitá-la diretamente.\n\nNos testes realizados pelo **Canaltech**, o recurso foi oferecido espontaneamente em duas de três conversas com o GPT-6.2.\n\nContinua após a publicidade\n\nAo pesquisar ofertas do Nintendo Switch 2 na Black Friday, o modo Instant apresentou um botão para ativar o monitoramento de preços. O mesmo comando, enviado anteriormente no modo de raciocínio Alto, não resultou na sugestão de um alerta.\n\nEm um terceiro teste, desta vez sobre ofertas do PlayStation 5 Slim, o GPT-6.2 no modo Alto também ofereceu a criação de uma tarefa de monitoramento.\n\nCom a autorização do usuário, o ChatGPT configurou pesquisas periódicas com critérios que incluíam preço máximo, disponibilidade em estoque, cupons e condições de pagamento. O recebimento de notificações sobre ofertas válidas ainda não foi confirmado nos testes.\n\nContinua após a publicidade\n\n## O que melhora com o GPT-6.2?\n\nA OpenAI apresentou dois modelos da nova geração em 17 de novembro:\n\n- **GPT-6.2 Astra:** voltado a tarefas mais complexas, como programação, pesquisas científicas e atividades profissionais;\n\n- **GPT-6.2 Sol:** desenvolvido para tarefas cotidianas e profissionais, com foco na eficiência computacional.\n\nA versão disponibilizada nas conversas convencionais do ChatGPT é baseada no Sol, com ajustes para interações do dia a dia.\n\nContinua após a publicidade\n\nNos testes internos divulgados pela OpenAI, o novo modelo apresentou os seguintes resultados em relação ao seu antecessor:\n\n|     |     |     |\n| --- | --- | --- |\n| **Teste** | **GPT-6** | **GPT-6.2** |\n| Interpretação de imagens | 47,4% | 71,7% |\n| Cumprimento de instruções complexas | 62,5% | 78,1% |\n| Tarefas de nível especializado | 52% | 65% |\n| Pesquisa na internet | 54,4% | 64,5% |\n\nAs avaliações foram conduzidas pela própria desenvolvedora e consideram diferentes níveis de raciocínio. Mesmo com a evolução, o GPT-6.2 falhou em aproximadamente uma a cada cinco avaliações de cumprimento de instruções complexas.\n\nNo anúncio original dos modelos, a OpenAI também reconheceu que Astra e Sol apresentaram, em dois testes, uma tendência maior a omitir obstáculos encontrados durante a execução de tarefas, como a ausência de arquivos necessários ou a indisponibilidade de ferramentas de pesquisa.\n\nContinua após a publicidade\n\n## Assinantes do ChatGPT Go ficam de fora\n\nAlém dos usuários da versão gratuita, os assinantes do ChatGPT Go ficaram de fora da atualização. A OpenAI ainda não informou quando pretende disponibilizar o GPT-6.2 nesses dois planos.\n\nOutra mudança que afeta os assinantes está prevista para dezembro. Os planos Plus, Pro e Business passarão a ter **limites de utilização compartilhados entre o ChatGPT e o Codex**, agente de programação da OpenAI.\n\nO consumo será contabilizado em tokens, unidades de informação processadas pelos modelos de IA. Atividades mais complexas realizadas no Codex poderão comprometer parte dos recursos disponíveis para outras tarefas no ChatGPT, e vice-versa.\n\nContinua após a publicidade\n\nAs conversas no modo Instant ficarão de fora dessa contabilização. A OpenAI ainda não detalhou a quantidade de recursos que será disponibilizada em cada assinatura após a mudança.\n\n**Veja também:** Como usar o ChatGPT: do cadastro básico aos melhores comandos (prompts)\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/3W7jqIkyvuBGZZhFrfyjakvq7DI=/1200x675/smart/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/FRK_AzSD7OvTzKpsAvr59o--vG0=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "2",
-    "ChatGPT"
-   ],
-   "searches": [
-    "2 chatgpt",
-    "2 chatgpt conversando",
-    "2 chatgpt talking to each other",
-    "2 chatgpt logo",
-    "2 chatgpt talking",
-    "chatgpt 2 storyboard"
-   ]
-  },
-  {
-   "id": "ememoriadasamsungate2029egerafilaate2031",
-   "title": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/",
-   "published": "2026-11-24T19:06:00+00:00",
-   "summary": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031 Comprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o setor de data center ficando com a maior parte da produção de DRAM, sobra cada vez menos para o mercado de consumo, algo que impacta a disponibilidade e o preço. A Samsung , uma das três maiores fabricantes desse componen",
-   "score": 10.6,
-   "why": [
-    "Em alta no Google: inteligência artificial",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/UYhVPEZI8VKYzCnyrImDHytr6yA=/1200x675/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Hardware\n\n# Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031\n\nPor Raphael Giannotti \\| 24/11/2026 às 16:06\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg)Samsung/Reprodução\n\nComprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o setor de data center ficando com a maior parte da produção de DRAM, sobra cada vez menos para o mercado de consumo, algo que impacta a disponibilidade e o preço. **A Samsung**, uma das três maiores fabricantes desse componente, **já tem pedidos fechados para o resto dessa década, direcionando boa parte da sua produção para os servidores**.\n\nContinua após a publicidade\n\nSegundo informações do portal sul-coreano Economy Tribune, a gigante já tem praticamente toda a sua capacidade de produção de semicondutores de memória reservada por meio de acordos para o período **entre 2027 e 2029**. Diante da escassez prolongada impulsionada pela corrida da inteligência artificial, **grandes compradores já negociam contratos de fornecimento de longo prazo que se estendem até 2031**.\n\nA demanda não se restringe às memórias HBM, essenciais para aceleradores de IA, **mas atinge também a DRAM convencional, usada em PCs e servidores comuns**, além de memórias NAND corporativas. No caso da DRAM, toda a capacidade de wafers prevista para 2027 já está praticamente esgotada, com o **crescimento anual de oferta limitado a uma faixa entre 20% e 25%**. Como a fabricação de chips HBM consome uma parcela muito maior das linhas de produção em comparação à memória comum, a priorização desse segmento acaba estrangulando ainda mais o mercado doméstico.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Preços protegidos e escassez agravada em 2027\n\nDurante a apresentação de resultados financeiros do terceiro trimestre, no fim de outubro, a Samsung revelou já ter fechado contratos de longo prazo com 10 grandes clientes e estar em negociação com outras 10 empresas, com a meta de **comprometer entre 60% e 70% de sua capacidade total nesse modelo até 2030**. Para se resguardar de oscilações futuras, a empresa tem incluído cláusulas de preço mínimo garantido e até pagamentos antecipados nas novas negociações.\n\nPara o consumidor e o mercado em geral, a situação atual deve piorar ainda mais antes de começar a melhorar. Atualmente, as principais fabricantes conseguem **atender apenas entre 60% e 70% da demanda real por memórias, índice que deve cair ainda mais ao longo de 2027**. No segmento de armazenamento, enquanto o atendimento para SSDs domésticos gira em torno de 70%, o setor corporativo mal ultrapassa os 50%, levando até mesmo concorrentes como a japonesa Kioxia a revisarem para cima suas projeções de demanda para o próximo ano.\n\n### Fonte\n\nEconomy Tribune\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/UYhVPEZI8VKYzCnyrImDHytr6yA=/1200x675/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/W37IDYDELZMO9TN1N-N-CHg56dA=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
+    "10",
     "IA",
-    "Samsung",
-    "2029"
+    "MAX"
    ],
    "searches": []
   },
   {
-   "id": "omandodanvidiagta6recebeatualizacaoemais",
-   "title": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-24-jensen-volta-ao-comando-da-nvidia-gta-6-recebe-atualizacao-e-mais/",
-   "published": "2026-11-25T00:44:00+00:00",
-   "summary": "",
-   "score": 9.65,
+   "id": "iganharversaovermelhaproductreddizgurman",
+   "title": "AirPods Max vai ganhar versão vermelha (PRODUCT)RED, diz Gurman",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/fone-de-ouvido/airpods-max-vai-ganhar-versao-vermelha-productred-diz-gurman/",
+   "published": "2026-11-25T12:06:38+00:00",
+   "summary": "AirPods Max vai ganhar versão vermelha (PRODUCT)RED, diz Gurman A Apple deve lançar uma versão vermelha dos AirPods Max 2 em 1º de dezembro, segundo informações do jornalista Mark Gurman. A novidade faz parte do retorno da linha (PRODUCT)RED , que também deve ganhar uma edição especial do HomePod mini 2 . Os lançamentos estão previstos para o Dia Mundial de Combate ao HIV. As novas versões devem t",
+   "score": 10.13,
    "why": [
-    "Em alta no Google: gta 7",
+    "Em alta no Google: max",
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150",
-   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\n24/11/2026 \\| 21h44\n\nNotícia de presente\n\nO Hoje no TecMundo desta terça-feira (24) chega com novidades importantes no mundo dos games e da tecnologia! Jensen Huang está de volta ao comando da Nvidia, menos de duas semanas após sua renúncia. A decisão foi aprovada por unanimidade pelo conselho e fez as ações da empresa dispararem quase 30% no pré-mercado.\n\nE tem mais: GTA 6 recebeu uma atualização para corrigir problemas que podiam comprometer o progresso dos jogadores, uma falha escondida no Linux por 11 anos pode derrubar servidores remotamente e o TikTok está preparando ferramentas para identificar vídeos gerados por inteligência artificial. Quer saber o que mais aconteceu? Então prepara o cafezinho e vem comigo para mais um Hoje no TecMundo!\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Resumo do Dia\n\n- **Bug de GTA 6 destrava FPS no Xbox Series X\\|S e revela limites de desempenho:** Uma falha relacionada ao Quick Resume permite ultrapassar o limite de 30 FPS de GTA 6 nos consoles da Microsoft. Em testes do Digital Foundry, o Xbox Series X chegou a 40 quadros por segundo ou mais em algumas situações, e até 60 FPS em um cenário específico. Porém, o desempenho não é estável e pode cair durante tiroteios, explosões e perseguições. No Xbox Series S, os ganhos são menores devido às limitações de hardware.\n- **O que a volta de Jensen Huang significa para o futuro da Nvidia?:** O cofundador retornou aos cargos de CEO, presidente e diretor do conselho da Nvidia, após uma decisão unânime. Huang havia renunciado menos de duas semanas antes, em meio a denúncias de relacionamentos extraconjugais e uma investigação envolvendo uma mulher suspeita de atuar como fonte de inteligência chinesa. As ações da empresa chegaram a subir quase 30% no pré-mercado. Para o setor de games, a volta pode ser positiva, já que Huang é apontado como defensor da continuidade das linhas GeForce e RTX. Mesmo assim, o executivo ainda deverá prestar esclarecimentos ao Congresso dos Estados Unidos, e as investigações internas continuam.\n- **Kindle de 10ª geração perde suporte de segurança:** A Amazon encerrará, em 31 de dezembro, o suporte garantido para atualizações de segurança dos modelos Kindle e Kindle Paperwhite de 10ª geração. Os aparelhos, lançados em 2018 e 2019, receberam cerca de sete a oito anos de suporte oficial. Apesar disso, continuarão funcionando normalmente, permitindo comprar, baixar e ler livros pela Kindle Store. A empresa também afirmou que alguns dispositivos podem receber atualizações mesmo após o fim do período garantido.\n- **Hacker vaza suposto executável de GTA 6:** O grupo Cyberleek divulgou um arquivo que afirma ser um executável da versão de Xbox do jogo. O TecMundo analisou o material, de aproximadamente 114 MB, e encontrou referências à Rockstar, ao Xbox e a um ambiente interno de desenvolvimento chamado Americas. Os indícios são compatíveis com uma versão em desenvolvimento, mas não comprovam que todo o arquivo seja legítimo. Usuários afirmaram ter iniciado parte do prólogo no Windows 11, mas o executável ainda exige adaptações para funcionar em computadores.\n- **One UI 9.5: confira os recursos descobertos no primeiro beta da Samsung:** A primeira versão de testes revelou novidades como o App Lock, que permite bloquear aplicativos com senha, PIN ou biometria, ocultando também notificações e widgets. O Tap to Share poderá facilitar o compartilhamento de arquivos ao aproximar dois celulares compatíveis. A atualização também traz personalização da tela de bloqueio, melhorias na câmera e mudanças no modo DeX, que passa a permitir dividir a tela entre até quatro aplicativos. O beta está restrito à linha Galaxy S26 e a alguns países, sem previsão oficial de lançamento no Brasil.\n- **GTA 6 recebe primeira atualização nos consoles** **:** O patch 01.002.002 chegou ao PlayStation 5 e Xbox Series X\\|S com cerca de 603 MB. A atualização corrige falhas no salvamento automático que poderiam fazer jogadores perderem o progresso de missões. Também resolve problemas com ligações importantes para avançar na história, erros no nível de procurado, travamentos e falhas em atividades da academia e na entrega de sacolas para receptadores.\n- **NoisyTCP: falha no Linux ficou escondida por 11 anos:** A vulnerabilidade foi descoberta pelo pesquisador Hyunwoo Kim e afeta praticamente todas as distribuições atuais do sistema. O problema está no gerenciamento de conexões de rede e pode ser explorado por meio de pacotes TCP adulterados. Quando o ataque funciona, o servidor pode sofrer um kernel panic, travando ou reiniciando completamente. A falha afeta ambientes que utilizam tecnologias como Apache, NGINX e SSH, mas não permite roubar dados nem executar códigos remotamente. Correções já começaram a ser distribuídas por empresas como Red Hat e Ubuntu.\n- **Diretor de Cyberpunk 2 brinca que jogo foi cancelado após GTA 6:** Igor Sarzyński, diretor criativo da sequência de Cyberpunk, publicou uma brincadeira nas redes sociais dizendo que o projeto teria sido cancelado depois de conhecer o novo jogo da Rockstar. O desenvolvedor elogiou a escala, a densidade e os detalhes de GTA 6, que chamou de uma das maiores conquistas artísticas da história. O co-CEO da CD Projekt RED também destacou o jogo como uma obra-prima. Apesar dos elogios, Sarzyński garantiu que Cyberpunk 2 continua em desenvolvimento e seguirá uma proposta própria.\n- **TikTok ganha detector de deepfakes:** A plataforma está desenvolvendo ferramentas para identificar vídeos feitos ou editados com inteligência artificial. O detector procura metadados Content Credentials, do padrão C2PA, e uma marca d’água invisível chamada VeraDura. Criadores elegíveis também poderão usar o Likeness Detection, recurso opcional que busca conteúdos gerados por IA com a imagem de uma pessoa sem autorização. A rede social ainda ampliou os controles parentais, permitindo que pais recebam alertas sobre buscas repetidas de adolescentes por termos relacionados à automutilação.\n\nE no Aconteceu na História, em 24 de novembro de 1998, a AOL anunciou a compra da Netscape, em uma das grandes movimentações empresariais da história da internet. A operação foi avaliada em aproximadamente US$ 4,2 bilhões. Curta o Hoje no TecMundo no Spotify e na Apple Podcasts. Ouça também o Sem Manual e o TecInverso. Até amanhã!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- big techs\n\n### Ofertas\n\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nSmartwatch Samsung Galaxy Watch8 LTE, 44mm\\\\\n\\\\\nPreço anterior ~~R$ 3.499,00~~ Preço R$ 1.538,50-56%\\\\\n\\\\\nAcessórios · Amazon\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nWhatsApp lança figurinhas com som e sem moldura branca; saiba como usar 2.\\\\\n\\\\\nApple prepara grande mudança no design dos iPhones 18e e Air 2, segundo site 3.\\\\\n\\\\\nBug de GTA 6 destrava fps no Xbox Series X\\|S e revela limites de desempenho [4.\\\\\n\\\\\nHome office: 130 vagas para trabalho remoto \\[24/11\\]](https://www.estadao.com.br/tecmundo/home-office-130-vagas-para-trabalho-remoto-2411/ \"Home office: 130 vagas para trabalho remoto [24/11]\") 5.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://tl.ctcdn.com.br/ChokQopcsrxbvTLjsyKv3Ev7M9k=/1200x675/smart/filters:format(webp):quality(85)/da33165d-5a10-421a-bf16-bb42e0e27ec7.jpeg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Fone de Ouvido\n\n# AirPods Max vai ganhar versão vermelha (PRODUCT)RED, diz Gurman\n\nPor Nathan Vieira \\| 25/11/2026 às 09:06\n\nCompartilhe:\n\nCompartilhar com WhatsappRED%2C%20diz%20Gurman%20https://ir.canalte.ch/ct-12271 \"Compartilhar com Whatsapp\")Compartilhar com FacebookCompartilhar com E-mailRED%2C%20diz%20Gurman&body=AirPods%20Max%20vai%20ganhar%20vers%C3%A3o%20vermelha%20(PRODUCT)RED%2C%20diz%20Gurman%0D%0A%0D%0A%20Veja%20o%20conte%C3%BAdo%20completo%20em%20https://ir.canalte.ch/ct-12271 \"Compartilhar com E-mail\")\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/da33165d-5a10-421a-bf16-bb42e0e27ec7.jpeg)Imagem gerada por IA\n\nA **Apple** deve lançar uma versão vermelha dos **AirPods Max 2** em 1º de dezembro, segundo informações do jornalista Mark Gurman. A novidade faz parte do retorno da linha **(PRODUCT)RED**, que também deve ganhar uma edição especial do **HomePod mini 2**. Os lançamentos estão previstos para o Dia Mundial de Combate ao HIV.\n\nContinua após a publicidade\n\nAs novas versões devem trazer apenas mudanças na cor, sem alterações nas especificações técnicas ou nos preços dos produtos.\n\n- 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas\n\nA tonalidade vermelha também marca o retorno de uma identidade visual que já apareceu em diferentes aparelhos da Apple, incluindo gerações anteriores do **iPhone** e do **iPod**.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Apple deve lançar AirPods Max 2 vermelho em dezembro\n\nDe acordo com Gurman, a Apple prepara o lançamento de versões vermelhas de dois produtos de seu catálogo: os fones de ouvido **AirPods Max 2** e a caixa de som **HomePod mini 2**.\n\nO lançamento também deve incluir dois acessórios vermelhos: uma alça para o estojo dos AirPods e uma pulseira esportiva para o Apple Watch.\n\n## O que é a linha (PRODUCT)RED da Apple?\n\nContinua após a publicidade\n\nA iniciativa **(PRODUCT)RED** ficou conhecida por levar a cor vermelha a produtos da Apple e direcionar parte do dinheiro arrecadado para ações de combate ao HIV/AIDS, especialmente em países africanos.\n\nDurante anos, a empresa lançou edições especiais de diferentes aparelhos, com destaque para os iPhones e iPods. O último dispositivo da marca com essa identidade visual teria sido lançado há cerca de quatro anos, antes de a Apple deixar de apostar na linha.\n\nVale observar que a compra de um produto (PRODUCT)RED está associada ao apoio financeiro a iniciativas sociais.\n\nContinua após a publicidade\n\nAinda não há indicação de que a Apple pretenda levar a novidade para outros produtos. O iPhone, por exemplo, ficou de fora dos lançamentos mencionados por Gurman.\n\nPor enquanto, a informação deve ser tratada como um rumor, já que a Apple ainda não confirmou oficialmente as edições especiais. E sobre o AirPods Max 2: novo fone da Apple chegou mais caro que iPhone no Brasil.\n\n### Fonte\n\nTech Radar\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150",
-    "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1200&height=630&focal=1393,316",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://e-afiliacao.estadao.com.br/storage/products/6dbbef1f98bdf05648f89d7ab2b103167e4baa082dafc99fa27e6cb1868974ac.jpg",
-    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
-    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg",
-    "https://m.media-amazon.com/images/I/31ZoU0l69iL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/b829335cdf4bf936b33ecb2225ded137ffa10dfa48029561d256c042659f5dc6.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/e57db2c9ec9f44ea0d4658869535729b8870e9665cc35954872e66e0e8a12252.jpg",
-    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg"
+    "https://tl.ctcdn.com.br/ChokQopcsrxbvTLjsyKv3Ev7M9k=/1200x675/smart/filters:format(webp):quality(85)/da33165d-5a10-421a-bf16-bb42e0e27ec7.jpeg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/-IcbN6yr6Gm7JEqNxmxyfY4OSaw=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "TecMundo",
-    "24",
-    "Jensen"
+    "Max",
+    "PRODUCT",
+    "RED"
+   ],
+   "searches": [
+    "iphone 17 pro max product red"
+   ]
+  },
+  {
+   "id": "la5primeiroslancamentosparaobrasilem2027",
+   "title": "Ford revela 5 primeiros lançamentos para o Brasil em 2027",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/carros/ford-revela-5-primeiros-lancamentos-para-o-brasil-em-2027/",
+   "published": "2026-11-25T17:31:36+00:00",
+   "summary": "Ford revela 5 primeiros lançamentos para o Brasil em 2027 A Ford fechou o ano satisfeita com o desempenho de seus principais modelos no mercado e, para manter o astral positivo, revelou, de uma só vez, os 5 primeiros lançamentos para 2027 no Brasil . Martin Galdeano, presidente da marca para a América do Sul, aproveitou a presença da imprensa especializada de Brasil e Argentina, em evento realizad",
+   "score": 9.06,
+   "why": [
+    "Em alta no Google: max"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/7A3LSv-g7VD3A9nPW0f6DRJsUOY=/1200x675/smart/filters:format(webp):quality(85)/1ceeb05b-93e1-46a9-8f92-f97e01a64e7a.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Carros\n\n# Ford revela 5 primeiros lançamentos para o Brasil em 2027\n\nPor Paulo Amaral \\| 25/11/2026 às 14:31\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Auto\n\n:quality(85)/1ceeb05b-93e1-46a9-8f92-f97e01a64e7a.png)Paulo Amaral/Canaltech\n\nA Ford fechou o ano satisfeita com o desempenho de seus principais modelos no mercado e, para manter o astral positivo, revelou, de uma só vez, os **5 primeiros lançamentos para 2027 no Brasil**.\n\nContinua após a publicidade\n\nMartin Galdeano, presidente da marca para a América do Sul, aproveitou a presença da imprensa especializada de Brasil e Argentina, em evento realizado nesta quarta-feira (25) para **confirmar parte das ações previstas para 2027**.\n\nO executivo apresentou, em tempo real, as **quatro novas versões do Territory, SUV médio da Ford**: Platinum (flex, a combustão), PHEV (híbrido plug-in flex), FHEV (híbrido flex) e Max PHEV (híbrido plug-in flex de 7 lugares).\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## SUV ultra-híbrido completa pacote da Ford\n\nAlém dos quatro novos integrantes da família Territory, todos previstos para chegar até o final de 2027, um **novo e imponente lançamento foi anunciado: Bronco Basecamp**.\n\nPrevisto para o último trimestre do ano que vem, o **SUV de grande porte chegará ao Brasil para introduzir uma nova tecnologia** ao portfólio da Ford e, também, oferecer opções para quem curte off-road, sem abrir mão do conforto e da confiabilidade da marca.\n\nContinua após a publicidade\n\nA Ford anunciou também o **início das vendas das novas versões da Ranger (Tremor e Raptor)**, programadas para o segundo trimestre, e a abertura da pré-venda da F-150 Raptor, mas ainda não deu maiores detalhes sobre os preços dos lançamentos.\n\nAproveite para conferir nossa matéria sobre a volta do Mustang Cobra ao portfólio da marca!\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/7A3LSv-g7VD3A9nPW0f6DRJsUOY=/1200x675/smart/filters:format(webp):quality(85)/1ceeb05b-93e1-46a9-8f92-f97e01a64e7a.png",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/olzm5jw8htmuaqiNYPKPyZUP26Y=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "5",
+    "Brasil",
+    "2027"
+   ],
+   "searches": [
+    "omoda 5 2027 brasil"
+   ]
+  },
+  {
+   "id": "leiqueprevemultasbilionariasparabigtechs",
+   "title": "Austrália aprova lei que prevê multas bilionárias para big techs",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/australia-aprova-lei-que-preve-multas-bilionarias-para-big-techs/",
+   "published": "2026-11-25T16:17:10+00:00",
+   "summary": "Nova regra amplia a responsabilidade das plataformas, mas provoca críticas sobre liberdade de expressão e poderes de fiscalização. O post Austrália aprova lei que prevê multas bilionárias para big techs apareceu primeiro em Olhar Digital .",
+   "score": 8.84,
+   "why": [
+    "3 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/big-techs/australia-aprova-lei-que-obriga-big-techs-a-remover-conteudos-prejudiciais/"
+    },
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-tech/2026/11/australia-aprova-lei-que-obriga-plataformas-da-internet-a-remover-conteudo-nocivo/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/big-techs-1-1024x604.jpg",
+   "text": "- Internet e Redes Sociais\n\n# Austrália aprova lei que prevê multas bilionárias para big techs\n\nNova regra amplia a responsabilidade das plataformas, mas provoca críticas sobre liberdade de expressão e poderes de fiscalização.\n\n[](https://olhardigital.com.br/author/valdir-antonelli/)\n\nValdir Antonelli25/11/2026 13:17\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nChamado de \"Dever de Cuidado Digital\", o texto entra em vigor daqui a um ano e substitui códigos de conduta para serviços online por lei ampla. - Imagem criada por inteligência artificial: Manus/Olhar Digital\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F&title=Austr%C3%A1lia+aprova+lei+que+prev%C3%AA+multas+bilion%C3%A1rias+para+big+techs%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F&text=Austr%C3%A1lia+aprova+lei+que+prev%C3%AA+multas+bilion%C3%A1rias+para+big+techs%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/australia-aprova-lei-que-preve-multas-bilionarias-para-big-techs/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Google\n\nver mais\n\nA Austrália aprovou uma lei que obriga empresas de internet a identificar e remover proativamente conteúdos e recursos prejudiciais, sob pena de multas de até 5% da receita global.\n\nContinua após a publicidade\n\nA medida amplia a responsabilidade das plataformas pela segurança dos usuários e enfrenta críticas de defensores da liberdade de expressão e de parte do setor. Chamada de Dever de Cuidado Digital, a legislação entrará em vigor daqui a um ano e substituirá códigos de conduta para serviços online por regras abrangentes. A iniciativa se soma à proibição de redes sociais para menores de 16 anos, adotada pelo país em 2025, e ao plano de exigir pagamento pelo uso de conteúdo jornalístico.\n\nA possibilidade de aplicação dessas multas já havia sido abordada pelo Olhar Digital em reportagem sobre a pressão do governo australiano sobre Google e Meta, diante da proposta de penalidades de até 5% da receita global.\n\nLeia também\n\n- \\\\\n**WhatsApp libera agendamento de mensagens para Android e iPhone** \\\\\n\\\\\nInternet e Redes Sociais2 min\n- \\\\\n**Atlético-MG x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão** \\\\\n\\\\\nInternet e Redes Sociais2 min\n- \\\\\n**PSG x Roma: onde assistir, horário e escalações do jogo da Champions League** \\\\\n\\\\\nInternet e Redes Sociais2 min\n\n_Big techs poderão enfrentar multas bilionárias na Austrália se descumprirem as novas regras de segurança digital._ – Imagem: gguy/Shutterstock\n\n## **Multas e debate sobre o alcance da norma**\n\nEm caso de descumprimento, as empresas estarão sujeitas a multas de até 5% do faturamento global ou 109 milhões de dólares australianos (cerca de R$ 420,7 milhões), prevalecendo o maior valor.\n\nA ministra das Comunicações, Anika Wells, classificou a aprovação como uma reforma histórica de segurança, comparável ao uso obrigatório do cinto de segurança, às embalagens neutras para cigarros e à reforma das leis sobre armas.\n\n“As grandes empresas de tecnologia não podem mais se iludir: elas são responsáveis por garantir a segurança dos australianos em suas plataformas, e nós as responsabilizaremos caso não cumpram essa obrigação”, declarou.\n\nApesar de empresas como Meta e Google, dona do YouTube, concordarem em geral com os objetivos de ampliar a proteção de crianças e adolescentes e reduzir a circulação de conteúdos prejudiciais, a maioria do setor se opôs à proposta. O argumento é que funcionários do governo poderiam decidir subjetivamente o que deve ser considerado prejudicial, levando as plataformas a remover mais publicações do que o necessário para evitar punições.\n\n_Meta e Google apoiam os objetivos de proteção, mas a maioria das empresas do setor se opôs à proposta australiana._ – Imagem: RixAiArt/Shutterstock\n\n## **Críticas às definições e à fiscalização**\n\nEntre os conteúdos abrangidos pela legislação estão materiais que incentivem ou promovam atitudes hostis contra as mulheres ou a igualdade de gênero, glorifiquem crimes ou estimulem acrobacias perigosas e práticas gravemente prejudiciais. Para defensores da liberdade de expressão, essas definições são amplas e permitem diferentes interpretações.\n\nAs críticas também envolvem os poderes concedidos aos reguladores. A legislação permite que eles utilizem contas anônimas para investigar possíveis irregularidades e acessem informações sobre o uso de serviços online, o que levantou preocupações relacionadas à privacidade.\n\nJennifer Duxbury, diretora-geral interina do grupo setorial DIGI, afirmou que a lei continua vaga e não esclarece como as empresas devem cumprir as obrigações nem de que maneira as novas regras tornarão os australianos mais seguros. Ela também questionou os poderes de fiscalização e seus possíveis impactos sobre a privacidade dos usuários.\n\nContinua após a publicidade\n\nEm posição favorável à medida, o Australia Institute, centro de estudos que fez campanha pela aprovação, considerou a legislação um marco global. Segundo a instituição, as penalidades elevadas podem dar às redes sociais o incentivo necessário para se comportarem adequadamente.\n\nValdir Antonelli\n\nValdir Antonelli é jornalista com especialização em marketing digital e consumo.\n\nVer todos os artigos →\n\nTags: Austrália big techs Google meta regulamentação\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F&title=Austr%C3%A1lia+aprova+lei+que+prev%C3%AA+multas+bilion%C3%A1rias+para+big+techs%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Faustralia-aprova-lei-que-preve-multas-bilionarias-para-big-techs%2F&text=Austr%C3%A1lia+aprova+lei+que+prev%C3%AA+multas+bilion%C3%A1rias+para+big+techs%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/australia-aprova-lei-que-preve-multas-bilionarias-para-big-techs/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nInternet e Redes SociaisWhatsApp libera agendamento de mensagens para Android e iPhoneValdir Antonelli \\\\\n\\\\\nInternet e Redes SociaisJogos de hoje (25/11/26): onde assistir futebol ao vivo e horários das partidasRodrigo Mozelli \\\\\n\\\\\nInternet e Redes SociaisAtlético-MG x Corinthians: onde assistir, horário e escalações do jogo do BrasileirãoEnzo Monteiro \\\\\n\\\\\nInternet e Redes SociaisPSG x Roma: onde assistir, horário e escalações do jogo da Champions LeagueEnzo Monteiro",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/big-techs-1-1024x604.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/bandeira-australia-servidores.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2025/07/valdir-antonelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/bandeira-australia-servidores.png",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/whatsapp-1-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Atltico-MG-x-Corinthians-1.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/psg-x-roma-1.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/big-techs-1-1024x604.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/05/Google-e-Meta-1024x576.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/whatsapp-1-2-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2024/06/futebol-streaming-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Atltico-MG-x-Corinthians-1-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/psg-x-roma-1-365x232.png"
+   ],
+   "videos": [],
+   "keywords": [
+    "Austrália",
+    "aprova",
+    "lei"
    ],
    "searches": []
   },
   {
-   "id": "h1041571jensenhuangallhandsnvidiaapology",
-   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-   "published": "2026-11-24T20:52:19+00:00",
-   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-   "score": 9.26,
+   "id": "agendamentodemensagensparaandroideiphone",
+   "title": "WhatsApp libera agendamento de mensagens para Android e iPhone",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/whatsapp-libera-agendamento-de-mensagens-para-android-e-iphone/",
+   "published": "2026-11-25T17:44:55+00:00",
+   "summary": "Recurso permite escolher quando textos, fotos e vídeos serão enviados e consultar ou apagar as mensagens antes da entrega O post WhatsApp libera agendamento de mensagens para Android e iPhone apareceu primeiro em Olhar Digital .",
+   "score": 6.63,
    "why": [
-    "3 sites cobrindo",
+    "2 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
-     "source": "Ars Technica",
-     "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-libera-agendamento-mensagens-como-usar/"
     }
    ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Tech\n\n- AI\n\n- Business\n\n# Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired\n\nIt’s also not because of ‘tech bro’ culture.\n\nIt’s also not because of ‘tech bro’ culture.\n\nbyEmma Roth\n\nNov 24, 2026, 3:02 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments4040Comments (All New)\n\nPhoto by Jens Kalaene/picture alliance via Getty Images\n\nPart Of\\\\\n\\\\\nNvidia CEO Jensen Huang is back. What happens next?\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nNvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from _Bloomberg_ _,_ _The New York Times_, and _The Handbasket’s_ Marisa Kabas.\n\nDuring the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement — an idea publicly promoted by Trump himself — “completely untrue.” He added, “Don’t think for a second politics played a role in the company. We are the most apolitical company,” according to Kabas.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nAlong with attempting to dismiss Trump’s involvement, Huang reportedly said he also didn’t return because he was a “tech bro” who was “above the law” or “above the code of conduct.” He added that, “no story has been more tortured than this one in human history,” Kabas reports. Instead, Huang said the Nvidia board “evaluated the entire situation,” while receiving assurance from the government that he posed no national security threat, according to the _NYT_.\n\nHuang resigned as CEO of Nvidia on November 12th, following reports of affairs with an alleged Chinese spy and two employees, including vice president of healthcare Kimberly Powell. On Monday, Nvidia announced that it had reinstated Huang as CEO, president, and member of the board — a decision the White House said Trump was “totally involved in.” Trump also confirmed that he worked with Vice President JD Vance and other officials to bring Huang back. A swath of tech leaders, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, and former White House AI czar David Sacks, were also in favor of Huang’s return.\n\n### Related\n\n- Welcome to elite impunity, Jensen Huang\n- Trump engineered a risky comeback for Jensen Huang\n- How Jensen Huang ended up as Nvidia CEO again\n\nIn a post on Truth Social, Trump said that the government “has no reason to believe” Huang’s return poses a risk to national security, adding that the US attorney general “does not possess evidence” that he engaged in “unlawful conduct.” Nvidia is still facing an investigation over its accounting practices, according to _Reuters_. The company is also carrying out its own internal investigation surrounding reports that Huang was the target of a Chinese spy plot. Huang is set to testify before Congress on December 1st to answer questions about national security concerns, and Democrats are already planning to press Huang about his return, as well as Trump’s involvement.\n\nEven after all this, Huang reportedly said he “doesn’t believe in succession planning.” He also acknowledged that he violated Nvidia’s code of conduct, adding that he is attending therapy daily, _Bloomberg_ reports. “I made some terrible mistakes,” Huang said, according to the _NYT_. “I was unfaithful to Lori, and I hurt my kids and of course, I hurt all of you.”\n\n40 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Emma Roth\n- AI\n\n- Business\n\n- News\n\n- Nvidia\n\n- Policy\n\n- Politics\n\n- Tech\n\n## More in: Nvidia CEO Jensen Huang is back. What happens next?\n\nDemocrats are trying to nail down the timeline of what Trump knew about Jensen Huang.\n\nLauren Feiner4:41 PM ESTCommentsComment Icon Bubble3\n\nToday’s Vergecast: Jensen Huang is Donald Trump’s Special Boy.\n\nDavid Pierce3:14 PM ESTCommentsComment Icon Bubble7\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nStevie Bonifield11:37 AM ESTCommentsComment Icon Bubble23\n\n## Most Popular\n\nMost Popular\n\n1. Welcome to elite impunity, Jensen Huang\n\n2. Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\n3. Google alternative Kagi launches an email service\n\n4. Ladybird, the first new browser engine in years, is now available to test\n\n5. HBO Max is offering one of the best Black Friday deals we’ve seen this year\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Tech\n\nHuawei found guilty of stealing trade secrets\n\nTikTok was down\n\nThe clock is running out for America’s most contentious spying law\n\nNow Firefox can select which sites use its VPN, and clear your browsing history with one click\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nJensen Huang deepfakes are the hot new AI slop\n\nHuawei found guilty of stealing trade secrets\n\nEmma Roth5:23 PM ESTCommentsComment Icon Bubble2\n\nTikTok was down\n\nJay Peters3:27 PM EST\n\nThe clock is running out for America’s most contentious spying law\n\nGaby Del Valle3:00 PM ESTCommentsComment Icon Bubble2\n\nNow Firefox can select which sites use its VPN, and clear your browsing history with one click\n\nStevie Bonifield1:44 PM ESTCommentsComment Icon Bubble2\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nStevie Bonifield11:37 AM ESTCommentsComment Icon Bubble23\n\nJensen Huang deepfakes are the hot new AI slop\n\nKat Tenbarge11:30 AM ESTCommentsComment Icon Bubble14\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n11:30 AM EST\n\nJensen Huang deepfakes are the hot new AI slop\n\n3:00 PM EST\n\nThe clock is running out for America’s most contentious spying law\n\n9:00 AM EST\n\nBambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\n6:25 PM EST\n\nWhy the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa\n\n1:15 PM EST\n\nDavid Fincher is being dragged for suspected use of AI in his latest film\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nYour free 30-day trial starts hereFor a limited time, unlock free access to The Verge from T-Mobile.\n\nSTART YOUR FREE TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/agendamento-whatsapp-1024x576.webp",
+   "text": "- Internet e Redes Sociais\n\n# WhatsApp libera agendamento de mensagens para Android e iPhone\n\nRecurso permite escolher quando textos, fotos e vídeos serão enviados e consultar ou apagar as mensagens antes da entrega\n\n[](https://olhardigital.com.br/author/valdir-antonelli/)\n\nValdir Antonelli25/11/2026 14:44\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nWhatsApp começa a liberar agendamento de mensagens de 10 minutos a 14 dias depois e envia mesmo com o telefone desligado ou sem rede. - Imagem: Samuel Boivin/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F&title=WhatsApp+libera+agendamento+de+mensagens+para+Android+e+iPhone%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F&text=WhatsApp+libera+agendamento+de+mensagens+para+Android+e+iPhone%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/whatsapp-libera-agendamento-de-mensagens-para-android-e-iphone/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Android\n\nver mais\n\nTudo sobre WhatsApp\n\nver mais\n\nO WhatsApp começou a liberar globalmente o agendamento de mensagens em conversas individuais e grupos. O recurso chega a usuários de celulares Android e iPhone (iOS) e permite programar envios com antecedência de 10 minutos a 14 dias.\n\nContinua após a publicidade\n\nA novidade já aparecia para parte dos brasileiros, mas o acesso ainda estava restrito a algumas contas e plataformas. Agora, a Meta amplia a distribuição da ferramenta.\n\n_Mensagens programadas pelo WhatsApp são enviadas mesmo quando o celular está desligado ou sem cobertura de rede._ – Imagem: Divulgação/WhatsAPP\n\n## Como funciona o agendamento de mensagens\n\nPara programar um envio, basta digitar o conteúdo e manter pressionado o botão de envio. O aplicativo permite escolher a data e o horário da entrega. A ferramenta aceita textos, fotos e vídeos.\n\nLeia também\n\n- \\\\\n**Austrália aprova lei que prevê multas bilionárias para big techs** \\\\\n\\\\\nInternet e Redes Sociais3 min\n- \\\\\n**Atlético-MG x Corinthians: onde assistir, horário e escalações do jogo do Brasileirão** \\\\\n\\\\\nInternet e Redes Sociais2 min\n- \\\\\n**PSG x Roma: onde assistir, horário e escalações do jogo da Champions League** \\\\\n\\\\\nInternet e Redes Sociais2 min\n\nUma característica importante é que as mensagens serão enviadas mesmo se o telefone estiver desligado ou sem cobertura de rede no horário programado. Os destinatários também não recebem uma indicação de que o conteúdo foi agendado: a mensagem chega como um envio comum.\n\nOs usuários poderão consultar as mensagens programadas na tela de informações de cada conversa e excluí-las antes do envio. Ainda não está claro se será possível modificar a data ou o horário de uma programação já criada.\n\nSegundo o WhatsApp, os envios mantêm a criptografia de ponta a ponta, proteção que impede que terceiros, incluindo a própria empresa, leiam o conteúdo das mensagens.\n\nNos grupos, há uma particularidade: somente os participantes que já faziam parte da conversa no momento do agendamento receberão a mensagem. Quem entrar posteriormente não terá acesso àquele envio programado, segundo informações do _WABetaInfo_.\n\n_Textos, fotos e vídeos podem ser programados para envio pelo WhatsApp, segundo a descrição do recurso._ – Imagem: Samuel Boivin / Shutterstock\n\n## Recurso já estava em testes no Brasil\n\nO Olhar Digital já havia informado que “O WhatsApp começou a liberar para alguns usuários no Brasil a função de agendar o envio de mensagens para dias e horários definidos”.\n\nNa ocasião, os testes permitiam programar várias mensagens pelo WhatsApp Web e, para algumas contas, pelo aplicativo para iPhone. A publicação também identificou limitações na antecedência mínima, nas datas disponíveis e nos formatos aceitos. A Meta ainda não havia esclarecido se essas restrições seriam mantidas na versão definitiva. Agora, com a distribuição global, o recurso passa a contemplar também usuários de Android.\n\nTelegram e Signal já oferecem o agendamento de mensagens há algum tempo, enquanto o WhatsApp chega depois dos concorrentes com essa funcionalidade.\n\nValdir Antonelli\n\nValdir Antonelli é jornalista com especialização em marketing digital e consumo.\n\nVer todos os artigos →\n\nTags: Android iPhone mensagens WhatsApp whatsapp we\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F&title=WhatsApp+libera+agendamento+de+mensagens+para+Android+e+iPhone%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Finternet-e-redes-sociais%2Fwhatsapp-libera-agendamento-de-mensagens-para-android-e-iphone%2F&text=WhatsApp+libera+agendamento+de+mensagens+para+Android+e+iPhone%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/internet-e-redes-sociais/whatsapp-libera-agendamento-de-mensagens-para-android-e-iphone/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nInternet e Redes SociaisAustrália aprova lei que prevê multas bilionárias para big techsValdir Antonelli \\\\\n\\\\\nInternet e Redes SociaisJogos de hoje (25/11/26): onde assistir futebol ao vivo e horários das partidasRodrigo Mozelli \\\\\n\\\\\nInternet e Redes SociaisAtlético-MG x Corinthians: onde assistir, horário e escalações do jogo do BrasileirãoEnzo Monteiro \\\\\n\\\\\nInternet e Redes SociaisPSG x Roma: onde assistir, horário e escalações do jogo da Champions LeagueEnzo Monteiro",
    "text_source": "firecrawl",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C1.2974525602559%2C100%2C78.525377525853&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C0.011019283746549%2C100%2C99.988980716253&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0%2C0.0041573127130619%2C100%2C99.991685374574&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=13.199575848363%2C13.009259259259%2C73.398441979885%2C86.990740740741&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0%2C2.0451339915374%2C100%2C95.909732016925&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=16.663894894395%2C0%2C66.672210211209%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/agendamento-whatsapp-1024x576.webp",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/whatsapp-1-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2025/07/valdir-antonelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/whatsapp-1-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/agendamento-whatsapp-1024x576.webp",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/bandeira-australia-servidores.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Atltico-MG-x-Corinthians-1.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/psg-x-roma-1.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/whatsapp-ciberseguranca-1024x681.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/bandeira-australia-servidores-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2024/06/futebol-streaming-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Atltico-MG-x-Corinthians-1-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/psg-x-roma-1-365x232.png"
    ],
    "videos": [],
    "keywords": [
-    "Huang",
-    "Nvidia",
-    "Trump"
+    "Android"
    ],
    "searches": [
-    "黃仁勳"
+    "android",
+    "android 17",
+    "android gamer",
+    "android auto",
+    "android 18",
+    "android para iphone"
    ]
   },
   {
-   "id": "oprogressodosportsdegta6paraopcacompanhe",
-   "title": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/site-mostra-ao-vivo-progresso-dos-ports-de-gta-6-para-o-pc-acompanhe/",
-   "published": "2026-11-24T23:20:00+00:00",
-   "summary": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe Jogadores agora podem acompanhar o progresso da recompilação de GTA 6 para o PC \"ao vivo\" por meio do site PortWatchVI. O portal monitora 30 projetos ao escanear toda a internet a cada três horas e marca o avanço deles por metas. O PortWatchVI mede o progresso do port não oficial de GTA 6 para PC por marcos. O executável jogado ",
-   "score": 8.87,
+   "id": "42071metaamazonmuseaishoppingdiscussions",
+   "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+   "published": "2026-11-25T14:12:33+00:00",
+   "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+   "score": 6.41,
    "why": [
-    "Em alta no Google: gta 7"
+    "2 sites cobrindo",
+    "Tema de alto interesse"
    ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe\n\nPor Gabriel Cavalheiro \\| 24/11/2026 às 20:20\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg)Reprodução/Rockstar Games\n\nJogadores agora podem acompanhar **o progresso da recompilação de GTA 6 para o PC \"ao vivo\"** por meio do site PortWatchVI. O portal monitora 30 projetos ao escanear toda a internet a cada três horas e marca o avanço deles por metas.\n\nContinua após a publicidade\n\nO PortWatchVI mede o progresso do port não oficial de GTA 6 para PC por marcos. O executável jogado representa 25%, o primeiro frame do jogo rodando, 40%, e entrar no menu principal, 55%. **Atualmente, a recompilação está em 72% graças ao desenvolvedor CGBJ, que já consegue rodar e jogar o título**.\n\nRelatos dos jogadores sugerem que já é possível andar pelo mundo aberto de Leonida e interagir com NPCs. Contudo, **a experiência ainda roda a apenas 4 FPS, sem texturas ou iluminação**.\n\nO port de GTA 6 para PC tem avançado rápido, um dia após o hacker CyberLeek liberar o arquivo .exe do jogo para XBOX Series X.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nOs próximos marcos do projeto são o jogo rodar a 30 FPS (o que representa um progresso de 85%) e, por fim, **o port chegar a um nível estável e jogável (100%)**. A esperança é que o port chegue antes do lançamento oficial de GTA 6 no PC, que analistas cravam que acontecerá antes do esperado.\n\n## **GTA 6 a 60 FPS no XBOX Series? Entenda**\n\nUma das vantagens que os usuários esperam de GTA 6 no PC é o maior leque de configurações e a possibilidade de destravar o jogo dos 30 FPS nos consoles da atual geração. No entanto, um bug no Quick Resume do XBOX destravou GTA 6 para rodar a até 60 FPS sem precisar de um port para computadore s.\n\n### Fonte\n\nNotebook Check\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    }
+   ],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Tech\n\n- AI\n\n- News\n\n# Amazon is reportedly in talks to end Muse AI shopping block\n\nAmazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune.\n\nAmazon is concerned that Muse AI could have an impact on its advertising revenue, according to Fortune.\n\nbyEmma Roth\n\nNov 25, 2026, 9:12 AM EST\n\n- Link\n\n- Share\n- Gift\n\nComments66Comments (All New)\n\nImage: The Verge, Getty Images, Meta\n\nPart Of\\\\\n\\\\\nAll the latest news on Meta’s cute, creepy Muse AI agent\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nAmazon has held talks about letting Meta’s Muse AI agent shop on its online marketplace, according to a report from _Fortune_. The discussions, which could end Amazon’s block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant’s advertising revenue.\n\nAs reported by _Fortune_, Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online marketplace. It’s also reportedly worried about the quality of the product search results that Muse will present to users, as well as whether the AI agent will affect Amazon’s relationship with customers. Neither Amazon nor Meta immediately responded to _The Verge_’s request for comment.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n### Related\n\n- AI agents are ready to shop. Some retailers are wary\n- Websites are closing their doors to AI agents\n\nThough some online retailers, such as Walmart, Best Buy, Gap, and Sephora, have opened their digital doors to AI agents like Muse, Amazon has been more hesitant. Amazon also blocked Perplexity’s AI agent from shopping on its site, and has instead focused on promoting its own Alexa for Shopping assistant, which customers can now text to shop on their behalf.\n\n6 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Emma Roth\n- AI\n\n- Amazon\n\n- Meta\n\n- News\n\n- Online Shopping\n\n- Tech\n\n## More in: All the latest news on Meta’s cute, creepy Muse AI agent\n\nYou can now DM your Muse AI agent on Instagram.\n\nJay PetersNov 24CommentsComment Icon Bubble6\n\nMeta’s Muse agent launches in the UK.\n\nDominic PrestonNov 24CommentsComment Icon Bubble2\n\nMeta Muse can do your Black Friday shopping at Walmart\n\nJess WeatherbedNov 23CommentsComment Icon Bubble2\n\n## Most Popular\n\nMost Popular\n\n1. GTA VI PC recompilation project shut down by Take-Two\n\n2. Microsoft declares ‘Code Red’ after huge Outlook outage\n\n3. Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\n4. The New York Times warns photographers not to update Photoshop over AI features\n\n5. US financial crimes bureau discloses ‘cybersecurity incident’\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Tech\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nTapo’s new indoor security camera includes a touchscreen for video calls\n\nHas vibe coding made open source the new normal for synths?\n\nMicrosoft declares ‘Code Red’ after huge Outlook outage\n\nUS financial crimes bureau discloses ‘cybersecurity incident’\n\nHuawei found guilty of stealing trade secrets\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nAndrew Webster9:00 AM ESTCommentsComment Icon Bubble1\n\nTapo’s new indoor security camera includes a touchscreen for video calls\n\nAndrew Liszewski8:30 AM EST\n\nHas vibe coding made open source the new normal for synths?\n\nTerrence O'Brien8:00 AM ESTCommentsComment Icon Bubble7\n\nMicrosoft declares ‘Code Red’ after huge Outlook outage\n\nTom Warren6:12 AM ESTCommentsComment Icon Bubble13\n\nUS financial crimes bureau discloses ‘cybersecurity incident’\n\nLauren FeinerNov 24CommentsComment Icon Bubble3\n\nHuawei found guilty of stealing trade secrets\n\nEmma RothNov 24CommentsComment Icon Bubble4\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\nNov 24\n\nJensen Huang deepfakes are the hot new AI slop\n\n8:00 AM EST\n\nHas vibe coding made open source the new normal for synths?\n\nNov 24\n\nThe clock is running out for America’s most contentious spying law\n\nNov 24\n\nWhy the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa\n\nNov 24\n\nDavid Fincher is being dragged for suspected use of AI in his latest film\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/thcHauvFF8aQLY9nPvT04V6SMmY=/640x360/smart/filters:format(webp"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&strip=all&crop=0%2C2.0451339915374%2C100%2C95.909732016925&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0%2C0.0041573127130619%2C100%2C99.991685374574&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&strip=all&crop=24.423697916667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tapo1.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "Muse",
+    "AI"
+   ],
+   "searches": []
+  },
+  {
+   "id": "lmantembloqueiodaferramentaantispamdatim",
+   "title": "Anatel mantém bloqueio da ferramenta AntiSpam da TIM",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/25/pro/anatel-mantem-bloqueio-da-ferramenta-antispam-da-tim/",
+   "published": "2026-11-25T18:09:39+00:00",
+   "summary": "A TIM poderá voltar a usar o AntiSpam se comprovar o cumprimento das exigências da Anatel, que prevê prazos para revisar bloqueios O post Anatel mantém bloqueio da ferramenta AntiSpam da TIM apareceu primeiro em Olhar Digital .",
+   "score": 5.95,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/anatel-mantem-suspensao-do-antispam-da-tim-e-rejeita-pedido-da-operadora/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/antispam-1024x683.jpg",
+   "text": "- Pro\n\n# Anatel mantém bloqueio da ferramenta AntiSpam da TIM\n\nA TIM poderá voltar a usar o AntiSpam se comprovar o cumprimento das exigências da Anatel, que prevê prazos para revisar bloqueios\n\n[](https://olhardigital.com.br/author/valdir-antonelli/)\n\nValdir Antonelli25/11/2026 15:09\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nA Anatel identificou falhas nos critérios de bloqueio e dificuldades para contestar restrições aplicadas pela ferramenta. - Imagem: Casimiro PT/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F&title=Anatel+mant%C3%A9m+bloqueio+da+ferramenta+AntiSpam+da+TIM%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F&text=Anatel+mant%C3%A9m+bloqueio+da+ferramenta+AntiSpam+da+TIM%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/pro/anatel-mantem-bloqueio-da-ferramenta-antispam-da-tim/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nA Anatel negou o pedido da TIM para suspender os efeitos da decisão que interrompeu sua ferramenta AntiSpam, usada para mitigar chamadas massivas.\n\nContinua após a publicidade\n\nCom isso, a suspensão cautelar continua em vigor, assim como a determinação para desbloquear os acessos atingidos exclusivamente pelo mecanismo.\n\n_Segundo a avaliação técnica da Anatel, falhas nos critérios e na revisão podiam afetar ligações de serviços públicos, saúde, urgência e emergência._ – Imagem: Andrew Angelov/Shutterstock\n\nComo mostrou o Olhar Digital, a Anatel havia determinado a suspensão preventiva do AntiSpam após identificar falhas nos critérios de bloqueio e restrições indevidas a serviços essenciais. A nova decisão mantém a medida após a TIM recorrer da determinação.\n\nLeia também\n\n- \\\\\n**Registros ligam empresas de Alice Huang a negócios de IA na China** \\\\\n\\\\\nPro4 min\n- \\\\\n**Justiça derruba liminar e restabelece regras para vale-refeição** \\\\\n\\\\\nPro2 min\n- \\\\\n**Resumo do OD: bomba nuclear espacial; desculpas de Huang; guerra do delivery** \\\\\n\\\\\nPro3 min\n\nA negativa consta do Despacho Decisório nº 58/2026/PR, assinado em 24 de novembro pelo presidente do Conselho Diretor da agência, Alexandre Freire. A medida cautelar original foi estabelecida pelo Despacho Decisório nº 106/2026/CIDC/SCI, que deu à operadora prazo de 24 horas para interromper o uso da ferramenta e desbloquear os códigos de acesso afetados.\n\n## Falhas apontadas pela Anatel\n\nA suspensão foi motivada por problemas na transparência dos critérios utilizados para bloquear chamadas, pela falta de informações completas sobre os acessos atingidos e pelas dificuldades oferecidas aos usuários para contestar as restrições e solicitar revisões.\n\nA análise técnica também identificou casos de bloqueio indevido de terminais abrangidos pelas exceções regulatórias. A situação exigiu a intervenção da própria Anatel para corrigir os bloqueios.\n\nAs dificuldades também envolviam os canais de contestação. Em consulta realizada em 11 de novembro, a área técnica não encontrou no portal da TIM orientações sobre como solicitar a revisão de bloqueios. A agência ainda apontou entraves decorrentes da exigência de encaminhar os pedidos por intermédio da prestadora de origem.\n\nSegundo a avaliação da Anatel, essas falhas poderiam comprometer comunicações legítimas, especialmente as relacionadas a serviços públicos, de saúde, urgência e emergência.\n\n_A ferramenta só poderá voltar a funcionar se a Anatel validar documentos que comprovem o cumprimento das exigências. Imagem: JOURNEY STUDIO7/Shutterstock_\n\n## Argumentos da TIM e decisão da agência\n\nNo recurso administrativo, a TIM afirmou ter adotado providências para cumprir as determinações, apresentado esclarecimentos sobre o funcionamento do AntiSpam e realizado ajustes tecnológicos. A empresa argumentou que a interrupção integral da ferramenta poderia deixar seus clientes mais expostos a chamadas massivas e potencialmente abusivas.\n\nA operadora pediu efeito suspensivo até o julgamento definitivo do recurso. Também solicitou prazo mínimo de 15 dias para implementar eventuais medidas corretivas e até cinco dias para que a Anatel analisasse as informações apresentadas.\n\nAo avaliar o pedido, Alexandre Freire considerou que os argumentos e as providências da empresa não demonstraram, em análise preliminar, que os riscos que motivaram a suspensão haviam sido superados. O presidente destacou que o bloqueio indevido de comunicações essenciais ultrapassa os interesses individuais dos usuários afetados e pode comprometer a continuidade de serviços públicos.\n\nContinua após a publicidade\n\nA decisão reforça que ferramentas próprias de mitigação de chamadas massivas devem respeitar critérios estabelecidos pela Anatel, como transparência, proporcionalidade, não discriminação, rastreabilidade e procedimentos acessíveis de contestação e revisão.\n\n## O que pode acontecer agora?\n\nConforme o Despacho Decisório nº 82/2026/RCTS/SRC, os pedidos de revisão de bloqueios devem ser resolvidos em até dez dias corridos. O prazo é reduzido para seis horas quando envolver usuários abrangidos pelas exceções previstas nos incisos I e II do artigo 7º do mesmo despacho.\n\nA negativa do efeito suspensivo não encerra o processo administrativo. A TIM poderá apresentar, a qualquer momento, documentos que comprovem o cumprimento integral das exigências regulatórias. Se a Anatel validar as informações, poderá revogar a medida cautelar e autorizar novamente o funcionamento do AntiSpam.\n\nContinua após a publicidade\n\nValdir Antonelli\n\nValdir Antonelli é jornalista com especialização em marketing digital e consumo.\n\nVer todos os artigos →\n\nTags: Anatel AntiSpam bloqueio Tim\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F&title=Anatel+mant%C3%A9m+bloqueio+da+ferramenta+AntiSpam+da+TIM%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F25%2Fpro%2Fanatel-mantem-bloqueio-da-ferramenta-antispam-da-tim%2F&text=Anatel+mant%C3%A9m+bloqueio+da+ferramenta+AntiSpam+da+TIM%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/25/pro/anatel-mantem-bloqueio-da-ferramenta-antispam-da-tim/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProMesmo sem quebrar, seu aparelho pode virar peso de papel a qualquer momentoPedro Spadoni \\\\\n\\\\\nProRegistros ligam empresas de Alice Huang a negócios de IA na ChinaValdir Antonelli \\\\\n\\\\\nProProjeto que regula big techs entra na pauta da CâmaraValdir Antonelli \\\\\n\\\\\nProJustiça derruba liminar e restabelece regras para vale-refeiçãoValdir Antonelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/antispam-1024x683.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/tim-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2025/07/valdir-antonelli-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/tim-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/antispam-1024x683.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-09-as-18.15.12-1.png",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/cartao-de-beneficios.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/bomba-nuclear-espaco.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2024/06/ligacao-indesejada.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Destaque-Obsolescencia-digital-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Captura-de-Tela-2026-11-09-as-18.15.12-1-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/big-techs-1-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/cartao-de-beneficios-365x232.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "AntiSpam",
+    "TIM"
+   ],
+   "searches": []
+  },
+  {
+   "id": "7milhoesquedajogadoresfortnitecallofduty",
+   "title": "GTA 6 vende 47,8 milhões de cópias e derruba audiência de Fortnite e Call of Duty",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/25/games-e-consoles/gta-6-vendas-47-milhoes-queda-jogadores-fortnite-call-of-duty/",
+   "published": "2026-11-25T18:00:00+00:00",
+   "summary": "Levantamento da Sensor Tower aponta que o jogo da Rockstar já está instalado em 35% dos consoles da atual geração e impactou o engajamento de títulos concorrentes O post GTA 6 vende 47,8 milhões de cópias e derruba audiência de Fortnite e Call of Duty apareceu primeiro em Olhar Digital .",
+   "score": 5.94,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-money/2026/11/gta-vi-vendeu-47-milhoes-de-copias-no-fim-de-semana-de-lancamento-e-tirou-jogadores-de-call-of-duty-e-fortnite/"
+    }
+   ],
+   "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Call-of-Duty-Modern-Warfare-II-PlayStation-1.jpg",
+   "text": "Grand Theft Auto VI ( GTA 6 ) vendeu aproximadamente 47,8 milhões de cópias até o fim de seu primeiro fim de semana, segundo estimativas da empresa de inteligência de mercado Sensor Tower, compartilhadas com a Forbes nesta terça-feira (24). O levantamento indica que o título da Rockstar Games já é o jogo mais vendido de 2026 e está instalado em aproximadamente 35% dos consoles da atual geração, incluindo PlayStation 5 e Xbox Series X|S . Além dos recordes comerciais, o lançamento também provocou mudanças nos hábitos de consumo dos jogadores, afetando o engajamento de algumas das maiores franquias da indústria. Call of Duty e Fortnite perdem jogadores após lançamento de GTA 6 Imagem: PlayStation/ Divulgação Segundo a Sensor Tower, o número de usuários ativos diariamente em outros jogos caiu significativamente após a chegada de GTA 6, em comparação com os 30 dias anteriores ao lançamento. Entre os títulos afetados estão: Call of Duty : queda de 46% nos usuários ativos diários, considerando jogadores de consoles e Steam ; Fortnite : redução de 25% nos usuários ativos diários. Os dados também revelam o elevado nível de engajamento dos jogadores com o novo título da Rockstar. Até a noite de domingo (22), aproximadamente 37% dos jogadores de GTA 6 já haviam acumulado mais de 20 horas de gameplay, enquanto 7% ultrapassaram as 40 horas. Os números reforçam como grandes lançamentos disputam não apenas o dinheiro dos consumidores, mas também seu tempo de entretenimento. Ainda não é possível determinar, entretanto, se a redução no engajamento dos concorrentes será temporária ou terá consequências de longo prazo. GTA 6 em números Imagem: Rockstar Games/ Divulgação Desde seu lançamento, em 19 de novembro, GTA 6 acumula marcas expressivas: 47,8 milhões de cópias vendidas até o primeiro domingo, segundo estimativas da Sensor Tower; US$ 3,8 bilhões em vendas estimadas no primeiro dia, segundo a Take-Two; Presença em aproximadamente 35% dos consoles da atual geração; 37% dos jogadores com mais de 20 horas de gameplay no primeiro fim de semana; 7% dos jogadores com mais de 40 horas de gameplay no mesmo período. Os números de vendas acumuladas divulgados pela Sensor Tower são estimativas de mercado e ainda não representam um balanço oficial da Rockstar Games ou da Take-Two Interactive . O post GTA 6 vende 47,8 milhões de cópias e derruba audiência de Fortnite e Call of Duty apareceu primeiro em Olhar Digital .",
+   "text_source": "rss",
+   "images": [
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Call-of-Duty-Modern-Warfare-II-PlayStation-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Jason_Duval_15-1-1024x576.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "6",
+    "47",
+    "8"
+   ],
+   "searches": []
+  },
+  {
+   "id": "ficialdegta6parapccriadoporjovemde15anos",
+   "title": "Rockstar derruba port não oficial de GTA 6 para PC criado por jovem de 15 anos",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/games/rockstar-derruba-port-nao-oficial-de-gta-6-para-pc-criado-por-jovem-de-15-anos/",
+   "published": "2026-11-25T12:37:00+00:00",
+   "summary": "Rockstar derruba port não oficial de GTA 6 para PC criado por jovem de 15 anos O foco da comunidade de emulação é levar o GTA 6 para o PC e os trabalhos já começaram. O primeiro deles, chamado de \"Project Leonida\", estava em andamento, com grande parte da comunidade o acompanhando de perto num canal do Discord. Porém tudo isso acabou, já que a Take-Two, dona da Rockstar, agiu e encerrou o trabalho",
+   "score": 5.61,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "Olhar Digital",
+     "url": "https://olhardigital.com.br/2026/11/25/games-e-consoles/gta-6-pc-take-two-derruba-project-leonida-github/"
+    }
+   ],
+   "image": "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
+   "text": "Rockstar derruba port não oficial de GTA 6 para PC criado por jovem de 15 anos O foco da comunidade de emulação é levar o GTA 6 para o PC e os trabalhos já começaram. O primeiro deles, chamado de \"Project Leonida\", estava em andamento, com grande parte da comunidade o acompanhando de perto num canal do Discord. Porém tudo isso acabou, já que a Take-Two, dona da Rockstar, agiu e encerrou o trabalho feito por um adolescente de 15 anos . Além de banir por dois anos a conta do jovem criador (NotRexed) e encerrar um servidor no Discord que já reunia quase 180 mil membros , uma notificação de DMCA derrubou o repositório principal no GitHub junto de uma rede com mais de 3.000 cópias derivadas . O argumento da empresa é que a iniciativa facilita a violação de direitos autorais ao utilizar os arquivos vazados da versão de Xbox Series . Outros projetos de GTA 6 no PC avançam O fim do Project Leonida, no entanto, está longe de significar o encerramento dessa corrida. Esse não era o único esforço de recompilação e emulação em andamento. Na verdade, a ofensiva da Take-Two apenas empurrou desenvolvedores paralelos para grupos privados, longe dos holofotes públicos. Segundo o rastreador comunitário PortWatchVI , que monitora 35 projetos diferentes, pelo menos seis compilações não oficiais já alcançaram trechos de gameplay , com algumas delas conseguindo concluir o prólogo de Lucia e chegar à primeira missão de Jason . Mais impressionante ainda é o salto visual obtido em menos de dois dias após o vazamento do executável de Xbox Series. Algumas compilações já conseguem traduzir shaders, carregar texturas completas, responder a comandos de controle e até ativar iluminação com Ray Tracing , aproximando a aparência da tela à dos consoles. Apesar do avanço estético surpreendente, a experiência ainda está longe de ser jogável no dia a dia: mesmo em máquinas robustas equipadas com GeForce RTX 5070 Ti e processador Ryzen 7 7800X3D, o título roda entre 1 e 5 quadros por segundo, exigindo um longo caminho de otimização de desempenho e estabilidade. Deixando o PC de lado, apesar do grande foco da Rockstar em divulgar o GTA 6 no PS5, é o Xbox Series X que entrega vantagem no game .",
+   "text_source": "rss",
+   "images": [
+    "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg"
    ],
    "videos": [],
    "keywords": [
@@ -460,143 +572,56 @@
    "searches": []
   },
   {
-   "id": "egta6escondeladocrueldaindustriadosgames",
-   "title": "Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/",
-   "published": "2026-11-24T22:41:22+00:00",
-   "summary": "GTA 6 promete faturar bilhões, mas desenvolvedores enfrentam demissões, jornadas excessivas e insegurança profissional. O post Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games apareceu primeiro em Olhar Digital .",
-   "score": 8.83,
+   "id": "cursodeiaquemelhorafotoscomzoomnocelular",
+   "title": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/software/one-ui-95-vai-ganhar-recurso-de-ia-que-melhora-fotos-com-zoom-no-celular/",
+   "published": "2026-11-25T18:20:03+00:00",
+   "summary": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de melhorar a qualidade de fotografias tiradas com zoom nos celulares Galaxy. O “ Zoom Enhancer” permitirá aprimorar a nitidez de imagens diretamente na Galeria do celular, mesmo após a captura. A novidade foi identificada pelo SamMobile nesta ",
+   "score": 4.96,
    "why": [
-    "Em alta no Google: gta 7"
+    "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Cover_Art_Poster-1-1-748x1024.jpg",
-   "text": "- Games e Consoles\n\n# Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games\n\nGTA 6 promete faturar bilhões, mas desenvolvedores enfrentam demissões, jornadas excessivas e insegurança profissional.\n\n[](https://olhardigital.com.br/author/flavia-correia/)\n\nFlavia Correia24/11/2026 19:41, atualizada em 24/11/2026 19:53\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nPor trás do sucesso bilionário de GTA 6, desenvolvedores enfrentam jornadas exaustivas, insegurança profissional e desafios na luta por direitos. - Crédito: Imagem gerada por IA\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&title=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&text=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nO lançamento do Grand Theft Auto VI (GTA 6) é um dos acontecimentos mais esperados da história dos videogames. Depois de mais de uma década de desenvolvimento, a expectativa é que o novo título da Rockstar Games movimente bilhões. Mas, por trás dessa produção de cifras astronômicas, existe uma realidade...\n\n### Conteúdo exclusivo para assinantes\n\nEste artigo é exclusivo para membros do **Clube Olhar Digital**. Assine o plano Prime e tenha acesso ilimitado.\n\n- Navegue sem anúncios\n- Conteúdos e newsletters exclusivas\n- Cursos gratuitos e descontos em cursos Prime\n- Comunidade ativa e eventos especiais\n\nAssinar Prime Já sou assinante — Entrar\n\nPagamento seguro Acesso imediato Cancele quando quiser\n\nFlavia Correia\n\nFlávia Correia é jornalista do Olhar Digital, cobrindo Ciência e Espaço.\n\nLeia também\n\n- \\\\\n**Switch chega a 157,2 milhões e fica a 2,8 milhões do PS2, mas o relógio corre contra o recorde** \\\\\n\\\\\nGames e Consoles4 min\n- \\\\\n**GTA 6 recebe patch 01.002.002 com 7 correções: crashes, autosave e ligações que travavam a história** \\\\\n\\\\\nGames e Consoles3 min\n- \\\\\n**Beyond the Dark: Nightwatch review: o terror que só funciona a dois no Switch 2** \\\\\n\\\\\nGames e Consoles13 min\n\nVer todos os artigos →\n\n**Amazon Prime também é feito para jogadores!**\n\nTodo mês, obtenha itens exclusivos, jogos grátis,\numa assinatura gratuita na Twitch.tv e muito mais\ncom sua assinatura **Prime**.\nClique **aqui** para um teste gratuito de 30 dias.\n\nTags: Games GTA GTA 6 indústria de games Mercado de games\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&title=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&text=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nGames e ConsolesPreview abxylute M6 — hands-on do protótipoChibi Martins \\\\\n\\\\\nGames e ConsolesLogitech G lança teclado G316 X 75 no Brasil com 8 kHz, switches hot-swappable e display LED por R$ 584,90Eduarda Saturnino \\\\\n\\\\\nGames e ConsolesGTA VI na Twitch: Brasil entra no top 5 de audiência e Alanzoka é o 2º maior streamer do jogo no mundoEduarda Saturnino \\\\\n\\\\\nGames e ConsolesStreamer zera GTA 6 em menos de 40 horas e reivindica recorde mundialRachele Victoria",
-   "text_source": "firecrawl",
+   "image": "https://tl.ctcdn.com.br/3hShOrfeLCWGiatLHyRK_9fThpU=/1200x675/smart/filters:format(webp):quality(85)/1f9fa76d-6cab-43ef-a9cb-9242363bc6fc.png",
+   "text": "One UI 9.5 vai ganhar recurso de IA que melhora fotos com zoom no celular A Samsung está desenvolvendo uma ferramenta de inteligência artificial (IA) capaz de melhorar a qualidade de fotografias tiradas com zoom nos celulares Galaxy. O “ Zoom Enhancer” permitirá aprimorar a nitidez de imagens diretamente na Galeria do celular, mesmo após a captura. A novidade foi identificada pelo SamMobile nesta quarta-feira (25) na primeira versão beta da One UI 9.5 para a linha Galaxy S26. A ferramenta ainda está oculta no sistema e não pode ser acessada pelos participantes do programa de testes. Como funciona o Zoom Enhancer da Samsung? Diferentemente do zoom óptico, que utiliza as lentes da câmera para aproximar uma cena, o zoom digital recorta e amplia uma parte da imagem capturada pelo sensor. Esse processo pode resultar na perda de detalhes e na redução da nitidez da fotografia. O Zoom Enhancer utilizará o Galaxy AI para aprimorar tanto fotos tiradas com altos níveis de zoom quanto imagens de baixa resolução. Após ativar o recurso nas configurações da Galeria, o aplicativo deverá identificar automaticamente fotografias que podem ser aprimoradas e sugerir a edição. Nos exemplos divulgados pelo SamMobile, a ferramenta conseguiu reduzir os ruídos presentes na fotografia, mas apresentou uma melhora pouco significativa no nível de detalhes. A própria Samsung alerta que os detalhes gerados pela IA podem ser diferentes daqueles presentes na cena original . Isso significa que a ferramenta pode recriar elementos e texturas que não foram registrados com precisão pela câmera. Após o processamento, será possível comparar a imagem original com a versão aprimorada, salvar o resultado na Galeria ou compartilhá-lo. O Android Authority também identificou que a ferramenta depende do processamento em nuvem. Segundo informações encontradas na interface do recurso, a Samsung não armazenará as imagens processadas em seus servidores. Zoom Enhancer será um recurso pago? A Samsung está desenvolvendo uma possível assinatura chamada Galaxy AI Premium , que deverá oferecer ferramentas mais avançadas de inteligência artificial e limites maiores de utilização. A fabricante já informou que os recursos básicos do Galaxy AI continuarão gratuitos, mas que novas funcionalidades poderão ser pagas. Ainda não há confirmação de que o Zoom Enhancer fará parte da assinatura. One UI 9.5 terá novidades na câmera Além do Zoom Enhancer, outras ferramentas relacionadas à fotografia foram anunciadas ou identificadas na nova versão do sistema: Reformulação do aplicativo Câmera , com botões maiores e configurações personalizáveis nos modos Pro e Vídeo Pro; Captura de fotografias panorâmicas de até 360 graus , utilizando as câmeras frontal e traseira do celular; Criação de vídeos curtos com IA , a partir de fotos e vídeos armazenados na Galeria. A One UI 9.5 está em fase beta em seis países, e o Brasil ainda não faz parte do programa de testes. A expectativa é que a versão estável seja lançada no início de 2027, junto à linha Galaxy S27. Veja também: Quando a One UI 9.5 será lançada?",
+   "text_source": "rss",
    "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/Cover_Art_Poster-1-1-748x1024.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/Contraste-entre-luxo-e-desenvolvimento-de-games-GTA.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2022/08/foto-flavia-perfil-1-150x150.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Contraste-entre-luxo-e-desenvolvimento-de-games-GTA.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Templates-Imagens-para-matria-Portal-1.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Comprimir-IMGs-4.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/ca89b23ec9b92b21fafcd6ea657731100c7bf85277e88719bc924b4e3457d271.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/imagem_1200px-365x232.png",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Comprimir-IMGs-1-5-365x232.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Templates-Imagens-para-matria-Portal-2-365x232.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Vice_City_04-1-365x232.jpg"
+    "https://tl.ctcdn.com.br/3hShOrfeLCWGiatLHyRK_9fThpU=/1200x675/smart/filters:format(webp):quality(85)/1f9fa76d-6cab-43ef-a9cb-9242363bc6fc.png",
+    "https://tl.ctcdn.com.br/17kjakgmvsnXqtq8nha0hGh5qTY=/0x0/filters:format(webp):quality(85)/73d52b62-8b36-4304-99e9-1df4ba5956ae.jpeg"
    ],
    "videos": [],
    "keywords": [
-    "GTA",
-    "6"
+    "UI",
+    "9",
+    "5"
    ],
    "searches": []
   },
   {
-   "id": "compilationprojectleonidatakedowntaketwo",
-   "title": "GTA VI PC recompilation project shut down by Take-Two",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-   "published": "2026-11-24T22:00:24+00:00",
-   "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]",
-   "score": 8.78,
+   "id": "sepreparamparavendermenoscelularesem2027",
+   "title": "Apple, Samsung e Xiaomi se preparam para vender menos celulares em 2027",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/smartphone/apple-samsung-e-xiaomi-se-preparam-para-vender-menos-celulares-em-2027/",
+   "published": "2026-11-25T17:05:24+00:00",
+   "summary": "Apple, Samsung e Xiaomi se preparam para vender menos celulares em 2027 Apple, Samsung, Xiaomi e outras grandes fabricantes de smartphones estão revendo suas expectativas para 2027 e planejam enviar menos aparelhos ao mercado. Segundo informações publicadas pelo portal chinês Jiemian News, o aumento dos custos de componentes e a redução do poder de compra dos consumidores estão levando as empresas",
+   "score": 4.89,
    "why": [
-    "Em alta no Google: gta 7"
+    "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over the summer, published a full Xbox build of the game earlier this week. The leak has kicked recompilation efforts up a notch, as modders race to reverse-engineer the game's code and rebuild it into native PC code. Some have manag … Read the full story at The Verge.",
+   "image": "https://tl.ctcdn.com.br/zJr9hEHwYIhCGKOxuz3M8CgQgyU=/1200x675/smart/filters:format(webp):quality(85)/7d9bfed8-b4d7-499d-baf4-b3f235b1a1be.jpeg",
+   "text": "Apple, Samsung e Xiaomi se preparam para vender menos celulares em 2027 Apple, Samsung, Xiaomi e outras grandes fabricantes de smartphones estão revendo suas expectativas para 2027 e planejam enviar menos aparelhos ao mercado. Segundo informações publicadas pelo portal chinês Jiemian News, o aumento dos custos de componentes e a redução do poder de compra dos consumidores estão levando as empresas a adotar metas mais conservadoras. A Apple, por exemplo, teria reduzido sua meta de remessas de aproximadamente 233 milhões de iPhones em 2026 para 220 milhões em 2027 , uma queda de 5,6%. A Samsung também estaria planejando um corte, passando de 232 milhões para 210 milhões de celulares, o equivalente a uma redução de 9,5%. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A situação seria ainda mais difícil para algumas fabricantes chinesas . A Xiaomi teria diminuído sua meta de 120 milhões para 90 milhões de aparelhos, uma queda de 25% . Já a Oppo planeja passar de 105 milhões para 90 milhões de unidades, redução de 14%. Entre as marcas citadas no relatório, a Vivo aparece com a maior redução prevista. A fabricante teria diminuído sua meta de aproximadamente 85 milhões de celulares em 2026 para 60 milhões em 2027 , uma queda de 29%. A Motorola, que pertence à Lenovo, também estaria se preparando para um ano mais fraco. A meta da empresa teria passado de 50 milhões para 40 milhões de aparelhos, redução de 20%. A Huawei, por sua vez, pretende enviar menos de 50 milhões de unidades, contra aproximadamente 60 milhões previstos para 2026. Isso representa um corte de pelo menos 16%. A Honor é a única grande fabricante citada que teria mantido sua meta, em cerca de 50 milhões de smartphones para o próximo ano. É importante destacar que os números representam metas internas de remessas , não necessariamente a quantidade de celulares efetivamente vendida aos consumidores. Além disso, as empresas não confirmaram oficialmente os dados. Crise de memória pressiona fabricantes de celulares O principal motivo para a revisão das metas seria o aumento dos custos de fabricação, especialmente de componentes de memória RAM e armazenamento. A demanda crescente por chips para servidores de inteligência artificial estaria pressionando a oferta disponível para outros segmentos da indústria. Com componentes mais caros, as fabricantes precisam decidir entre absorver parte dos custos, reduzir suas margens de lucro ou repassar os aumentos ao consumidor . A última alternativa pode dificultar ainda mais a venda de celulares, principalmente nos segmentos de entrada e intermediário. Uma previsão divulgada pela Counterpoint Research em 25 de novembro também aponta para um cenário complicado: a consultoria estima que as remessas globais de smartphones caiam 14% em 2026 e mais 6% em 2027 . A expectativa é de recuperação de 6% em 2028, conforme as condições de fornecimento de memória melhorem. Outro fator é que os smartphones atuais recebem atualizações por mais tempo e oferecem vida útil maior, reduzindo a necessidade de trocar de aparelho todos os anos. Com preços pressionados e consumidores adiando a compra de novos modelos, o setor pode enfrentar mais um período de desaceleração.",
    "text_source": "rss",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    "https://tl.ctcdn.com.br/zJr9hEHwYIhCGKOxuz3M8CgQgyU=/1200x675/smart/filters:format(webp):quality(85)/7d9bfed8-b4d7-499d-baf4-b3f235b1a1be.jpeg",
+    "https://tl.ctcdn.com.br/9I1ug3eVG9aukmDMbm69qjlkEkQ=/0x0/filters:format(webp):quality(85)/30e26927-09e4-447c-a6e5-495082f81160.webp"
    ],
    "videos": [],
    "keywords": [
-    "VI",
-    "PC",
-    "Take-Two"
-   ],
-   "searches": []
-  },
-  {
-   "id": "nemgta6vejaondeencontraroeastereggderdr2",
-   "title": "Como conseguir o chapéu de Arthur Morgan em GTA 6? Veja onde encontrar o easter egg de RDR 2",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/como-conseguir-o-chapeu-de-arthur-morgan-em-gta-6-veja-onde-encontrar-o-easter-egg-de-rdr-2/",
-   "published": "2026-11-24T21:15:00+00:00",
-   "summary": "",
-   "score": 8.74,
-   "why": [
-    "Em alta no Google: gta 7"
-   ],
-   "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/R7ACHZWOAFE5JO2UFYK72L5DVY.jpg?quality=80&auth=55c88958a39b193e3eec5c6799a11d22097ac1f3b462b866cc347daffced21bb&width=710",
-   "text": "Há tempos, fãs de GTA 6 levantam a teoria de que Jason Duval, um dos protagonistas do jogo, seria descendente de Arthur Morgan, de Red Dead Redemption 2 . As comparações entre os personagens ganharam força por conta de suas aparências e comportamentos — embora a Rockstar ainda não tenha confirmado qualquer ligação entre eles. Embora a teoria continue sem comprovação, GTA 6 inclui algumas referências ao universo de Red Dead Redemption 2 . Uma delas é o próprio chapéu de Arthur Morgan, um belo easter egg para os fãs que pode ser encontrado e comprado durante a aventura por Leonida. O item não aparece com o nome do protagonista de Red Dead Redemption 2 , mas pode ser adquirido por Jason e Lucia e adicionado permanentemente ao guarda-roupa dos personagens. Confira abaixo onde encontrar o chapéu! Chapéu de Arthur Morgan pode ser encontrado em venda de garagem em GTA 6. Foto: Rockstar/Divulgação Como conseguir o chapéu de Arthur Morgan em GTA 6? O chapéu de Arthur está disponível em uma venda de garagem ao sul de Port Gellhorn. O local pode ser identificado pelos balões que ficam flutuando do lado de fora, indicando que há produtos à venda. Ao chegar nessa garagem, procure um sofá no fundo do espaço. Em cima dele, próximo a um estojo de guitarra, estará o chapéu de couro marrom usado por Arthur Morgan em Red Dead Redemption 2 . O chapéu de Arthur está disponível em uma venda de garagem ao sul de Port Gellhorn. Foto: Rockstar/Divulgação No jogo, o acessório aparece com o nome “Chapéu de Cowboy Genuíno”, na variação de couro marrom. Basta conversar com a vendedora para comprar o item, cujo preço pode variar: em alguns relatos, ele custa US$ 35 — mas outros jogadores encontraram valores diferentes. Depois da compra, o chapéu fica disponível permanentemente no guarda-roupa e no inventário de roupas dos protagonistas. Durante a interação, a vendedora ainda comenta que não sabe de onde veio o acessório — mas certamente é uma pequena referência ao Red Dead Redemption 2 . GTA 6 também tem outros easter eggs de Red Dead Redemption 2 O chapéu de Arthur Morgan não é a única referência a Red Dead Redemption 2 encontrada em GTA 6 . No escritório de Brian Heder, na marina de Brian, em Key Lento, os jogadores podem encontrar o livro fictício The Cowboy’s Prayer Is to Die Young , escrito por Elijah G. Rubens. A obra acompanha a história de Rust McCreary e menciona Flaco Hernández, personagem que Arthur pode encontrar em Red Dead Redemption 2 . O texto descreve a morte de Flaco na neve, com um tiro na testa, e também cita regiões como New Austin, Blackwater, Armadillo, Ambarino e Chuparosa. Outra homenagem de RDR 2 que aparece em GTA 6 pode ser encontrada no campo de minigolfe Frontier Adventure Golf, em Waning Sands. Foto: Rockstar/Divulgação Outra homenagem aparece no campo de minigolfe Frontier Adventure Golf, em Waning Sands. Por lá, um chihuahua carrega um pequeno boneco de Arthur Morgan, chamado “RIDE ‘EM CHIHUAHUA” e descrito como um cachorro minúsculo montado por um caubói ainda menor. Além disso, GTA 6 também apresenta placas de veículos com o nome New Austin, uma das regiões de Red Dead Redemption 2 . Apesar das referências, os detalhes não confirmam que as duas franquias compartilham o mesmo universo, especialmente porque existem diferenças entre os mundos apresentados nos jogos. Por enquanto, o mais seguro é interpretar essas aparições como homenagens da Rockstar aos fãs de Red Dead Redemption 2 . E você, já encontrou algum desses easter eggs em GTA 6 ? Conte pra gente nas redes sociais do VOXL !",
-   "text_source": "rss",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/R7ACHZWOAFE5JO2UFYK72L5DVY.jpg?quality=80&auth=55c88958a39b193e3eec5c6799a11d22097ac1f3b462b866cc347daffced21bb&width=710",
-    "https://www.estadao.com.br/resizer/v2/UGYIRES7VFF73LRKGKNBPRR7LE.jpg?quality=80&auth=7f91d83310dc0d407f45c42ca04f0f3aa3431129b331699e1e3db79b2a238ff2&width=710",
-    "https://www.estadao.com.br/resizer/v2/RIWWUCOZT5BBRNQP4XUTPAYXSA.jpg?quality=80&auth=18a4ae04217159c77be9239e84f956325018122b4ece0c0a5301fe681c338ff1&width=710"
-   ],
-   "videos": [],
-   "keywords": [
-    "Arthur",
-    "Morgan",
-    "GTA"
-   ],
-   "searches": []
-  },
-  {
-   "id": "entarofocostaminaevidaemgta6confiraoguia",
-   "title": "Como aumentar o foco, stamina e vida em GTA 6? Confira o guia",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/como-aumentar-o-foco-stamina-e-vida-em-gta-6-confira-o-guia/",
-   "published": "2026-11-24T20:15:00+00:00",
-   "summary": "",
-   "score": 8.67,
-   "why": [
-    "Em alta no Google: gta 7"
-   ],
-   "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/FNSLWUJBNRADFPTEMV57XMCVSY.jpg?quality=80&auth=7d0df796ab38d7ed7059ec6b10fa01df87c8ff679871b7aeac3c97c1a1ab5f86&width=710",
-   "text": "GTA 6 finalmente está disponível e jogadores do mundo inteiro já estão acompanhando a jornada de Jason e Lucia em Vice City. Com tantas atividades espalhadas pelo mapa, também é importante ficar de olho nos atributos dos protagonistas para aproveitar melhor o gameplay. Entre as dúvidas mais comuns estão as formas de aumentar a vida, a stamina e o foco dos personagens. Cada um desses atributos impacta diretamente o desempenho durante combates, fugas e outras atividades do jogo. Pensando nisso, o VOXL preparou um pequeno guia para te explicar como funciona o aplicativo de condicionamento físico de GTA 6 e o que você precisa fazer para desenvolver cada um desses atributos. Como usar o app fitness de GTA 6? O aplicativo de condicionamento físico fica disponível no celular dos personagens e permite acompanhar os níveis de vida, stamina e foco de Jason e Lucia. Embora alguns alimentos e bebidas ofereçam melhorias temporárias, é necessário realizar atividades específicas para evoluir esses atributos permanentemente. Outros minijogos e atividades também ajudam a evoluir essa habilidade, com ganhos que variam conforme a modalidade. Confira algumas das melhores opções para aumentar o foco de Jason e Lucia: Pesca — Cada peixe capturado concede aproximadamente 5% de progresso. Desafios no estande de tiro — Cada desafio oferece pelo menos 4% de foco, mesmo quando não é concluído com sucesso. Meditação — Completar uma sessão em um dos locais específicos rende cerca de 12% de progresso. Bilhar — Disputar uma partida de bilhar contra um NPC aumenta o foco em aproximadamente 8%. O treino livre não conta para a evolução. Minigolfe — Completar um desafio de nove buracos concede cerca de 10% de foco. Combates contra inimigos — Dependendo do perfil criminoso do personagem, acertar pontos fracos ou realizar tiros na cabeça pode render 1% por disparo. O ganho depende do tipo de personagem e de o adversário ser violento contra você. Lembrando que atacar civis aleatoriamente não aumenta o atributo. E você, já está jogando GTA 6 ? Conta pra gente nas redes sociais do VOXL o que está achando da experiência com Jason e Lucia!",
-   "text_source": "rss",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/FNSLWUJBNRADFPTEMV57XMCVSY.jpg?quality=80&auth=7d0df796ab38d7ed7059ec6b10fa01df87c8ff679871b7aeac3c97c1a1ab5f86&width=710"
-   ],
-   "videos": [],
-   "keywords": [
-    "GTA",
-    "6",
-    "Confira"
-   ],
-   "searches": []
-  },
-  {
-   "id": "mentodahistoriadaplaystationconfirmasony",
-   "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony/",
-   "published": "2026-11-24T19:15:00+00:00",
-   "summary": "",
-   "score": 8.61,
-   "why": [
-    "Em alta no Google: gta 7"
-   ],
-   "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/7V2H3NXWRZFNXIA4XIOKUIIRSQ.jpg?quality=80&auth=b407ac11a3358153753f05b73a899c57339881e144a4c3107ccc7f609a676772&width=710",
-   "text": "GTA 6 finalmente chegou ao PS5 e Xbox Series X|S na última quinta-feira (19), reunindo milhões de jogadores ao redor do mundo. Além da grande procura pelo novo jogo da Rockstar, a sequência também conquistou uma recepção positiva no Metacritic, tornando-se o único título do século XXI a alcançar média de 99 pontos no agregador . Agora, a Sony confirmou mais um marco para a aventura de Jason e Lucia: GTA 6 se tornou o maior lançamento da história da PlayStation . Segundo a empresa, mais de 39 milhões de jogadores já aproveitaram o game no PS5 desde a estreia. Os números foram divulgados em uma publicação no blog oficial da PlayStation , que também revelou recordes de horas jogadas e consoles conectados durante o período de lançamento. A marca certamente reforça o desempenho comercial do título, que já havia estabelecido recordes de vendas logo no primeiro dia. 39 milhões de jogadores já aproveitaram GTA 6 no PS5 Segundo a Sony, mais de 39 milhões de jogadores únicos experimentaram GTA 6 no PS5 desde o lançamento. A empresa classificou o resultado como “o maior lançamento da história do PlayStation”, considerando as três décadas e cinco gerações de consoles da marca. Os dados divulgados pela companhia consideram o período entre a estreia, em 19 de novembro, e o dia 22. Nesse intervalo, os jogadores acumularam 683 milhões de horas de gameplay no console, com uma média de 17,4 horas explorando o estado de Leonida por pessoa. A Sony também confirmou que GTA 6 estabeleceu um novo recorde de jogadores simultâneos em um único jogo na história do PlayStation. A marca superou os números anteriores de títulos multiplayer, gratuitos e até mesmo experiências para um jogador. Outro dado destacado pela empresa foi o número de consoles conectados. Durante o período de lançamento, a PlayStation registrou seu maior volume de PS5 online em um único dia desde a chegada do console, desconsiderando o período de festas de fim de ano. Além disso, GTA 6 foi o primeiro jogo executado em 70% dos novos PS5 conectados entre a estreia e 22 de novembro. GTA 6 já vendeu mais de 32 milhões de cópias, segundo Take-Two GTA 6 já vendeu mais de 32 milhões de cópias, segundo Take-Two. Foto: Rockstar/Divulgação O desempenho também acompanha os números divulgados anteriormente pela Rockstar e pela Take-Two . As empresas afirmaram na última sexta (20) que GTA 6 vendeu mais de 32 milhões de cópias em pré-venda e arrecadou US$ 3,79 bilhões no primeiro dia. De acordo com a publisher, o resultado representa um novo recorde de estreia para um produto de entretenimento em qualquer mídia. A empresa também destacou a recepção da crítica, com o jogo alcançando “aclamação universal” e respeitáveis 99 pontos de média no Metacritic. Para se ter noção do feito, GTA 5 arrecadou US$ 1 bilhão nos primeiros três dias de disponibilidade quando foi lançado em 2013. Já Vingadores: Ultimato , um dos maiores sucessos do cinema, levou cinco dias para atingir a mesma marca mundialmente. A Sony aproveitou a publicação para agradecer aos jogadores e parabenizar a Rockstar pelo resultado. “Obrigado por fazer parte deste momento”, declarou a empresa, que também destacou a parceria entre as duas companhias — iniciada ainda na época de GTA 3 no PlayStation 2. E você, já está se aventurando por Leonida em GTA 6 ? Conte nas redes sociais do VOXL o que está achando do novo jogo da Rockstar!",
-   "text_source": "rss",
-   "images": [
-    "https://www.estadao.com.br/resizer/v2/7V2H3NXWRZFNXIA4XIOKUIIRSQ.jpg?quality=80&auth=b407ac11a3358153753f05b73a899c57339881e144a4c3107ccc7f609a676772&width=710"
-   ],
-   "videos": [],
-   "keywords": [
-    "6",
-    "PlayStation",
-    "Sony"
+    "Samsung",
+    "Xiaomi",
+    "2027"
    ],
    "searches": []
   }
