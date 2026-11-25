@@ -1,52 +1,52 @@
 {
- "generated_at": "2026-11-24T19:49:33.720863+00:00",
+ "generated_at": "2026-11-25T03:53:20.967665+00:00",
  "trends": [
   {
-   "term": "psv",
+   "term": "denver nuggets",
    "traffic": 200
   },
   {
-   "term": "rb leipzig x lens",
-   "traffic": 1000
+   "term": "anthony davis",
+   "traffic": 100
   },
   {
-   "term": "rumble",
-   "traffic": 500
+   "term": "tod",
+   "traffic": 100
   },
   {
-   "term": "wolves x derby county",
+   "term": "kyshawn george",
+   "traffic": 100
+  },
+  {
+   "term": "inteligência artificial",
    "traffic": 200
   },
   {
-   "term": "afogamento",
-   "traffic": 200
+   "term": "previsão do tempo santos",
+   "traffic": 100
   },
   {
-   "term": "real madrid - psv",
+   "term": "pep guardiola",
    "traffic": 2000
   },
   {
-   "term": "rockstar games",
+   "term": "nuggets x mavericks",
    "traffic": 1000
   },
   {
-   "term": "cicinho",
+   "term": "manaus",
    "traffic": 200
   },
   {
-   "term": "arsenal x borussia",
-   "traffic": 20000
-  },
-  {
-   "term": "city x napoli",
-   "traffic": 10000
+   "term": "gta 7",
+   "traffic": 200
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 273,
-  "used_today": 13,
-  "daily_allowance": 77
+  "used": 281,
+  "used_today": 8,
+  "daily_allowance": 87
  },
  "sources": [
   {
@@ -82,13 +82,13 @@
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 8,
-   "ok": true
+   "count": 0,
+   "ok": false
   },
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 16,
+   "count": 20,
    "ok": true
   },
   {
@@ -149,18 +149,22 @@
  "manual": [],
  "stories": [
   {
-   "id": "edescontonablackfridayvejacomoaproveitar",
-   "title": "Gemini está com 50% de desconto na Black Friday; veja como aproveitar",
+   "id": "ourogxboxallyxqualcomprarblackfriday2026",
+   "title": "ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026?",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/mercado/gemini-esta-com-50-de-desconto-na-black-friday-veja-como-aproveitar/",
-   "published": "2026-11-24T19:30:03+00:00",
-   "summary": "Gemini está com 50% de desconto na Black Friday; veja como aproveitar O Google antecipou suas ofertas de Black Friday e está oferecendo descontos de até 50% nas assinaturas do Gemini . A promoção contempla os planos Google AI Plus e Google AI Pro e, neste primeiro momento, está disponível para quem já assina algum serviço de inteligência artificial (IA) ou armazenamento em nuvem da empresa. Em con",
-   "score": 19.98,
+   "url": "https://canaltech.com.br/games/rog-xbox-ally-ou-rog-xbox-ally-x-qual-comprar-black-friday-2026/",
+   "published": "2026-11-24T22:00:03+00:00",
+   "summary": "ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026? Desde o seu lançamento, o ROG XBOX Ally se tornou o sonho de consumo para qualquer fã da plataforma da Microsoft. O console portátil traz o Windows otimizado para gaming , assim como carrega um potencial para rodar os principais jogos produzidos para o PC . Ainda que tenha o XBOX no nome, ele só roda títulos feitos para ",
+   "score": 13.03,
    "why": [
-    "6 sites cobrindo",
+    "4 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/mercado/gemini-esta-com-50-de-desconto-na-black-friday-veja-como-aproveitar/"
+    },
     {
      "source": "Canaltech",
      "url": "https://canaltech.com.br/smartwatch/quanto-vale-a-pena-pagar-em-um-smartwatch-garmin-na-black-friday/"
@@ -178,16 +182,8 @@
      "url": "https://canaltech.com.br/produtos/quando-tem-promocao-na-shopee-veja-quando-comprar-mais-barato/"
     },
     {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/smartphone/qual-samsung-comprar-na-black-friday-7-galaxy-por-faixa-de-preco/"
-    },
-    {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/24/reviews/resident-evil-halo-e-mais-confira-uma-selecao-de-jogos-xbox-em-promocao-na-amazon/"
-    },
-    {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/24/reviews/gta-vi-spider-man-2-e-mais-selecao-de-jogos-ps5-em-promocao-na-amazon-3/"
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/quais-servicos-contratar-na-black-friday/"
     },
     {
      "source": "TecMundo",
@@ -206,292 +202,254 @@
      "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-tablets-para-estudar/"
     },
     {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026"
-    },
-    {
      "source": "Popsci",
-     "url": "https://www.popsci.com/gear/amazon-black-friday-audio-deals-2026/"
+     "url": "https://www.popsci.com/gear/best-home-depot-power-tool-black-friday-deals-2026/"
     },
     {
      "source": "Popsci",
      "url": "https://www.popsci.com/gear/arcteryx-black-friday-sale-2026/"
     },
     {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-tech/2026/11/saiba-como-conseguir-o-melhor-final-em-gta-6/"
-    }
-   ],
-   "image": "https://tl.ctcdn.com.br/lkDJlD1nFsQU_VMKNvHLGg5LrMM=/1200x675/smart/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Mercado\n\n# Gemini está com 50% de desconto na Black Friday; veja como aproveitar\n\nPor Marcelo Fischer \\| 24/11/2026 às 16:30\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg)Solen Feyissa/Unsplash\n\nO Google antecipou suas ofertas de Black Friday e está oferecendo **descontos de até 50% nas assinaturas do Gemini**. A promoção contempla os planos Google AI Plus e Google AI Pro e, neste primeiro momento, está disponível para quem já assina algum serviço de inteligência artificial (IA) ou armazenamento em nuvem da empresa.\n\nContinua após a publicidade\n\nEm consultas realizadas pelo **Canaltech** nesta terça-feira (24), a assinatura anual do Google AI Pro apareceu por R$ 484,90, ante os R$ 969,90 cobrados normalmente. O valor promocional equivale a **R$ 40,41 por mês**, embora a cobrança seja anual.\n\nO desconto é válido durante os primeiros 12 meses de assinatura. Após esse período, **o plano será renovado pelo preço regular**, conforme as condições apresentadas na contratação.\n\n## Quem pode aproveitar a Black Friday do Gemini?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nSegundo Vikas Kansal, responsável pelo produto de assinaturas de IA do Google, o acesso antecipado às ofertas acontece entre os dias 20 e 26 de novembro. As condições da promoção variam conforme o plano contratado atualmente pelo usuário.\n\nO desconto de 50% no Google AI Pro foi identificado pelo **Canaltech** em duas contas distintas, incluindo uma com assinatura do Google AI Plus de 400 GB, que custa R$ 24,99 por mês.\n\nQuem ainda não possui uma assinatura do Google também deverá receber ofertas a partir desta sexta-feira (27), data oficial da Black Friday. A empresa ainda não detalhou os descontos para esse público.\n\nContinua após a publicidade\n\n## O que está incluso no Google AI Pro?\n\nCom a promoção, a assinatura anual do Google AI Pro chega a ficar mais barata que a modalidade de 2 TB do Google AI Plus, oferecida por R$ 499,90 ao ano nas consultas realizadas pelo Canaltech.\n\nAlém dos **5 TB de armazenamento em nuvem** para Google Fotos, Drive e Gmail, o AI Pro oferece acesso ao Gemini 4 Neon e limites de utilização do chatbot quatro vezes maiores em relação à versão gratuita.\n\nA assinatura também inclui o plano individual do YouTube Premium Lite, que permite assistir à maioria dos vídeos da plataforma sem anúncios.\n\nContinua após a publicidade\n\nConfira algumas diferenças entre os planos:\n\n|     |     |     |\n| --- | --- | --- |\n| **Benefício** | **Google AI Plus (2 TB)** | **Google AI Pro (5 TB)** |\n| Preço anual encontrado | R$ 499,90 | R$ 484,90 |\n| Armazenamento | 2 TB | 5 TB |\n| Modelo de IA | Gemini 4 Hydrogen | Gemini 4 Neon e Hydrogen |\n| Limites de uso do Gemini | 2x | 4x |\n| Créditos do Google Flow | 200 | 1.000 |\n| YouTube Premium Lite incluso | Não | Sim |\n\nOs limites de uso têm como referência a versão gratuita do Gemini.\n\n## Como resgatar o desconto do Gemini na Black Friday?\n\nContinua após a publicidade\n\nPara verificar se a promoção está disponível para sua conta, siga os passos abaixo:\n\n1. Acesse a página de assinaturas do Google ( one.google.com/ai);\n\n2. Faça login com sua conta Google;\n\n3. Confira os planos com desconto disponíveis;\n\n4. Selecione “Fazer upgrade” na assinatura desejada;\n\n5. Confira as condições da oferta e finalize a contratação.\n\nAntes de assinar, verifique o valor que será cobrado após o término da promoção e as condições de renovação automática.\n\n**Veja também:** Como usar o Google Gemini: guia completo de recursos no celular e no navegador\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/lkDJlD1nFsQU_VMKNvHLGg5LrMM=/1200x675/smart/filters:format(webp):quality(85)/b92fa583-0522-43cb-909b-96b77ee2ee8c.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/EkfHuYIse78sbmV1P-T3kF31LB8=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "50",
-    "Black",
-    "Friday"
-   ],
-   "searches": []
-  },
-  {
-   "id": "gecomentertainment1041362tidalaimusicban",
-   "title": "Tidal will start banning AI-generated music next month",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-   "published": "2026-11-24T17:17:09+00:00",
-   "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-   "score": 9.54,
-   "why": [
-    "3 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/amazon-black-friday-deals-2026/"
+    },
     {
-     "source": "Ars Technica",
-     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/"
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/amazon-black-friday-audio-deals-2026/"
     },
     {
      "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+     "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/"
     }
    ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Entertainment\n\n- AI\n\n- News\n\n# Tidal will start banning AI-generated music next month\n\nThe music streaming platform estimates that it will delete 29 million songs as a result of the AI ban.\n\nThe music streaming platform estimates that it will delete 29 million songs as a result of the AI ban.\n\nbyEmma Roth\n\nNov 24, 2026, 12:17 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments66Comments (All New)\n\nImage: The Verge\n\nPart Of\\\\\n\\\\\nAll the latest in AI ‘music’\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nTidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.\n\nThe move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more “drastic” measure, as AI music made up 43 percent of the tracks distributed to the platform in the last 90 days. “We believe this will resonate with both artists and listeners alike, as 96% of all AI-generated songs receive zero plays at all,” Andersen adds.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nBandcamp similarly banned AI music earlier this year, while other music streaming platforms attempt to address a flood of AI songs by applying new labels or removing them from user algorithms. Spotify recently announced that it removed 50 million AI slop and spam tracks from recommendations over the past year, and also launched new “AI persona” badges for artists that use an AI identity. YouTube has rolled out AI music labels as well, while Apple Music is planning to launch AI labels this year. Meanwhile, Deezer is giving users the option to filter out AI music.\n\n### Related\n\n- AI music is flooding streaming services — but who wants it?\n- Suno is a music copyright nightmare\n\n“Wholly AI-generated music intended to mislead listeners and impersonate artists is another serious problem that has only increased in scale: It diverts streams and royalties away from the artists, and confuses fans,” Tidal says in a separate post on X.\n\nThe platform is also going to ban music distributors from submitting AI songs, using the AI detection tool Ircam Amplify and metadata checks to reject submissions generated solely with AI. Tidal notes that it won’t ban songs made with the assistance of AI tools, as long as AI doesn’t make up the “sole output.”\n\n6 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Emma Roth\n- AI\n\n- Entertainment\n\n- Music\n\n- News\n\n- Tidal\n\n## More in: All the latest in AI ‘music’\n\nDistroKid hands over info about AI detection tool to UMG and Sony.\n\nTerrence O'BrienNov 19\n\nSpotify’s deepfake protection tool is rolling out to all artists.\n\nEmma RothNov 17CommentsComment Icon Bubble2\n\nElvis and Eminem rights holders are suing Suno\n\nTerrence O'BrienNov 8CommentsComment Icon Bubble4\n\n## Most Popular\n\nMost Popular\n\n1. Welcome to elite impunity, Jensen Huang\n\n2. Google alternative Kagi launches an email service\n\n3. Ladybird, the first new browser engine in years, is now available to test\n\n4. HBO Max is offering one of the best Black Friday deals we’ve seen this year\n\n5. How Jensen Huang ended up as Nvidia CEO again\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Entertainment\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nApple renews Ted Lasso for season 5\n\nNew magical shows worth watching instead of Harry Potter\n\nGTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’\n\nBlade Runner 2099 is an inventive twist on a cyberpunk classic\n\nBinding of Isaac developer removes AI music from Repentance Plus\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nJay PetersNov 23CommentsComment Icon Bubble7\n\nApple renews Ted Lasso for season 5\n\nAndrew WebsterNov 23CommentsComment Icon Bubble5\n\nNew magical shows worth watching instead of Harry Potter\n\nCharles Pulliam-MooreNov 23CommentsComment Icon Bubble18\n\nGTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’\n\nJay PetersNov 23CommentsComment Icon Bubble13\n\nBlade Runner 2099 is an inventive twist on a cyberpunk classic\n\nAndrew WebsterNov 23CommentsComment Icon Bubble9\n\nBinding of Isaac developer removes AI music from Repentance Plus\n\nTerrence O'BrienNov 22CommentsComment Icon Bubble7\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\nTwo hours ago\n\nJensen Huang deepfakes are the hot new AI slop\n\nNov 23\n\nTrump engineered a risky comeback for Jensen Huang\n\n9:00 AM EST\n\nBambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\nNov 23\n\nWelcome to elite impunity, Jensen Huang\n\nNov 23\n\nAI data centers throw another wrench into chaotic UN climate talks\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
+   "image": "https://tl.ctcdn.com.br/lVAyEMFfdvmUQUUbME9P8RHa8y0=/1200x675/smart/filters:format(webp):quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Games\n\n# ROG XBOX Ally ou ROG XBOX Ally X: qual portátil comprar na Black Friday 2026?\n\nPor Diego Corumba • Editado por Jones Oliveira \\| 24/11/2026 às 19:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg)Eric Mockaitis/Canaltech\n\nDesde o seu lançamento, o **ROG XBOX Ally** se tornou o sonho de consumo para qualquer fã da plataforma da **Microsoft.** O console portátil traz o **Windows otimizado para gaming**, assim como carrega um **potencial para rodar os principais jogos produzidos para o PC**.\n\nContinua após a publicidade\n\nAinda que tenha o **XBOX** no nome, ele só roda títulos feitos para computador — fora o acesso que possui ao **XBOX Cloud Gaming** (que pode contar com alguns títulos compatíveis de sua biblioteca do console também). Seu objetivo é disputar espaço com produtos como o **Steam Deck** e **MSI Claw**.\n\nMuita gente sabe que ele foi lançado no **Brasil** com um valor bem alto em dezembro de 2025, o que **torna a Black Friday atual a primeira oportunidade de ver os dois modelos disponíveis em uma grande oferta** neste ano. Porém, em qual deles vale mais a pena investir o seu dinheiro?\n\nVeja **o que compensa mais na BF 2026 para você, o ROG XBOX Ally ou o ROG XBOX Ally X**. Entre economia e poder de fogo, saiba onde buscar o melhor custo-benefício:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Atenção ao ROG XBOX Ally\n\nO videogame portátil mais barato da linha, **o ROG XBOX Ally é a opção ideal para quem deseja jogar seus títulos para PC em qualquer lugar e sem os altos custos**. É uma decisão “sábia” para quem vê uma ausência de produtos como o MSI Claw e Steam Deck no mercado nacional.\n\nSua ficha técnica é composta por um processador **AMD Ryzen Z2** (com gráficos **AMD Radeon** embarcados), **16 GB de memória RAM LPDDR5X** e um **armazenamento de 512 GB**. Isso é mais do que o suficiente para aproveitar os últimos lançamentos, mas exige uma certa cautela.\n\nContinua após a publicidade\n\nCom 16 GB, muitas vezes você terá de equilibrar as configurações para não ultrapassar a sua capacidade ou superaquecer demais os outros componentes. Além disso, sem um cartão de expansão, **será difícil instalar tudo o que você quer em menos de 500 GB úteis** (que sobram do espaço utilizado no sistema operacional) do SSD.\n\nSua bateria também é um ponto de atenção que você precisa levar em consideração. **Ele suporta sessões curtas, entre 2 a 3 horas contínuas de jogo** (a depender da configuração e dos games) — nem mesmo uma tarde toda no aeroporto ou na sala de espera para atendimento médico.\n\n## O poder do ROG XBOX Ally X\n\nEquipado por um processador **AMD Ryzen Z2 AI Extreme**, **24 GB de memória RAM LPDDR5X** e com um **SSD de 1 TB**, o ROG XBOX Ally X é consideravelmente mais poderoso do que sua contraparte. Ele é feito para zerar suas preocupações com os títulos da plataforma, o famoso “basta instalar e jogar”.\n\nContinua após a publicidade\n\nSua **bateria é 30% maior do que o modelo padrão**, o que garante ao menos 1 hora a mais de gameplay — o que não é uma vantagem tão grande, mas já permite um sossego a mais antes de ter de conectá-lo ao carregador.\n\nTer componentes tão potentes também faz o ROG XBOX Ally X ser um “trambolho” em suas mãos em longas sessões. **O console portátil pesa 715 gramas**(45 gramas a mais que o dispositivo mais simples) e pode se tornar desconfortável.\n\nÉ possível afirmar que **ele é feito para o gamer entusiasta**, que não deseja perder nada em gráficos e taxa de quadros enquanto se aventura por diversos jogos. Por ter “o dobro” do poder da versão padrão, seu destaque é uma liberdade maior para aproveitar as obras com o hardware.\n\nContinua após a publicidade\n\n## Ponto em comum\n\nExceto pelos componentes internos, ambos os ROG XBOX Ally seguem o mesmo design para tudo. A **tela IPS de 7 polegadas com touch**, a conectividade via **Wi-Fi 6E** e o **sistema operacional Windows 11** permanecem os mesmos nos dois dispositivos.\n\nAlém disso, **no Brasil, você pode diferenciá-los pelas cores**. Enquanto o modelo comum é vendido na cor branca, a versão X chega apenas na cor preta. Inclusive, recentemente, foi disponibilizada **uma edição especial do “X” para celebrar o aniversário do XBOX** — a linha **X20,** com uma carcaça translúcida.\n\nLogo, você não terá diferenças gritantes no aspecto visual dos consoles portáteis, independentemente do que escolher. Você pode até usar a porta USB-C para ligá-los a uma dock e transmitir a sua imagem diretamente no monitor ou na TV.\n\nContinua após a publicidade\n\n## Preço do ROG XBOX Ally\n\nO maior desafio do console portátil é seu preço no nosso país. Enquanto o ROG XBOX Ally comum pode ser comprado pelo valor sugerido de **R$ 5.999**, a versão “X” é encontrada pelo custo mínimo de **R$ 8.999** — uma diferença de R$ 3 mil no bolso.\n\nNa Black Friday 2026, há esperanças de encontrá-los por um preço reduzido, mas não tenha muitas expectativas de que a queda seja brusca. Vivemos uma alta de memória RAM e armazenamento, o que tem elevado os custos de todos os eletrônicos do mercado desde o início do ano.\n\nContinua após a publicidade\n\nPara ter uma ideia, durante os últimos meses, o **ROG XBOX Ally atingiu o menor valor de R$ 3.699** (um desconto de 38% em relação ao seu preço sugerido). Já o **ROG XBOX Ally X registrou uma queda para R$ 7.599**(uma baixa de aproximadamente 15%).\n\nSe encontrar por estas quantias na loja da **ASUS** ou revenda oficial, será uma vantagem comprá-los. Menos do que isso, apesar de ser difícil, pode representar uma oportunidade de ouro para garantir o seu — porém, não tenha expectativa alta por isso.\n\n## Qual vale mais a pena?\n\nSe você for um jogador casual, tiver sua conta no Steam ou no XBOX e quiser aproveitar alguns títulos que tem disponível, o ROG XBOX Ally é a melhor opção que poderia buscar. Se não está interessado em jogos competitivos, ele também se encaixa bem na proposta.\n\nContinua após a publicidade\n\nContudo, se você tem um perfil mais competitivo e busca uma experiência “hardcore”, talvez o padrão te desaponte — e é exatamente o que te motivará a buscar o ROG XBOX Ally X. Ele entregará uma potência mais elevada, mais bateria e uma capacidade de “subir de nível” sem preocupações.\n\nPelo preço, caso não procure poder de fogo, comprá-lo pode ser um gasto acima do que está atrás. Exceto para os gamers hardcore  que desejam ter o gameplay em seu ápice, você pode seguir para a versão padrão que não terá qualquer arrependimento.\n\nJá entre o ROG XBOX Ally e o XBOX Series S, qual vale mais a pena comprar? Entenda como o console de mesa mais barato da Microsoft pode suprir a sua necessidade de jogar.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&strip=all&crop=1.8624641833811%2C0%2C96.275071633238%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-23-at-2.08.20-PM.png?quality=90&strip=all&crop=0%2C3.2808398950131%2C100%2C93.438320209974&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a2099a4ca189-screenshotUrl.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/BLDR_S1_UT_241030_ENOCLA_00065_R21_3000.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=21.875%2C0%2C56.25%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&strip=all&crop=17.908309455587%2C0%2C64.183381088825%2C100&w=2400"
+    "https://tl.ctcdn.com.br/lVAyEMFfdvmUQUUbME9P8RHa8y0=/1200x675/smart/filters:format(webp):quality(85)/21eb21e8-6d31-4eb3-850a-7a81204c9b7b.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/1-6tWXH026_tn7feE-S1QPuAn_k=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "AI-generated"
+    "XBOX",
+    "Ally",
+    "ROG"
    ],
    "searches": [
-    "ai-generated",
-    "ai-generated videos",
-    "ai-generated music",
-    "ai-generated music video",
-    "ai-generated content",
-    "ai-generated film"
+    "xbox ally rog",
+    "xbox ally rog x",
+    "xbox ally rog x gameplay",
+    "xbox ally rog review",
+    "rog xbox ally x 20",
+    "xbox ally rog x review"
    ]
   },
   {
-   "id": "doporcausadegta6vejaoquehaportrasdoviral",
-   "title": "Casais estão mesmo terminando por causa de GTA 6? Veja o que há por trás do viral",
+   "id": "espersonalizadascomsotaquetomevelocidade",
+   "title": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/casais-estao-mesmo-terminando-por-causa-de-gta-6-veja-o-que-ha-por-tras-do-viral/",
-   "published": "2026-11-24T18:15:03+00:00",
-   "summary": "Casais estão mesmo terminando por causa de GTA 6? Veja o que há por trás do viral Diversas publicações sobre términos de relacionamentos motivados por GTA 6 estão surgindo nas redes sociais desde o lançamento do jogo em 19 de novembro. O relacionamento entre Jason e Lucia seria um dos motivos , bem como cenas de nudez, clubes de strip e a personagem Mandy. Em GTA 6, os jogadores acompanham o casal",
-   "score": 9.4,
+   "url": "https://canaltech.com.br/apps/gemini-pode-ganhar-recurso-para-criar-vozes-personalizadas-com-sotaque-tom-e-velocidade/",
+   "published": "2026-11-24T23:01:00+00:00",
+   "summary": "Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade O Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar vozes personalizadas para a inteligência artificial (IA). A ferramenta deve funcionar por meio de comandos de texto, nos quais será possível descrever características como sotaque, tom de voz, velocidade da fala e entonação. As r",
+   "score": 10.85,
    "why": [
-    "Em alta no Google: rockstar games"
+    "Em alta no Google: inteligência artificial",
+    "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/EbYca351uyEQkyw02B_9ZMeBxMk=/1200x675/smart/filters:format(webp):quality(85)/e64a22b8-eaab-4e73-8124-6167b2c471a3.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Casais estão mesmo terminando por causa de GTA 6? Veja o que há por trás do viral\n\nPor Gabriel Cavalheiro \\| 24/11/2026 às 15:15\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/e64a22b8-eaab-4e73-8124-6167b2c471a3.jpg)Rockstar/Reprodução\n\nDiversas publicações sobre términos de relacionamentos motivados por GTA 6 estão surgindo nas redes sociais desde o lançamento do jogo em 19 de novembro. **O relacionamento entre Jason e Lucia seria um dos motivos**, bem como cenas de nudez, clubes de strip e a personagem Mandy.\n\nContinua após a publicidade\n\nEm GTA 6, **os jogadores acompanham o casal de criminosos profissionais Jason e Lucia**. Para fortalecer essa relação, eles podem investir em interações como encontros, presentes ou cenas sexuais, itens que supostamente têm irritado namoradas no Instagram, TikTok e X.\n\nNa verdade, mesmo antes do lançamento do jogo, uma mecânica de namoro em GTA 6 divulgada em setembro virou polêmica e fez parceiras proibirem o game. \"É traição.\"\n\nUm levantamento da YouGov publicado em outubro de 2026 apontou que **19% dos entrevistados afirmaram que \"não ficariam bem\"** com seus parceiros dedicando tempo a relacionamentos fictícios nos videogames.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nÉ importante notar, no entanto, que **nem todas as publicações são verdadeiras**. Algumas delas não passam de encenações para conseguir engajamento e até afirmam, em suas respectivas descrições, ser apenas uma brincadeira.\n\n## **Cenas de sexo em GTA 6 foram um desafio para a Rockstar Games**\n\n**Embora a relação entre Jason e Lucia, sexo e clubes de strip possam irritar algumas pessoas**, a Rockstar Games parece ter investido um tempo considerável nesses trechos. De acordo com o vice-presidente de animação do estúdio, Mark Tennant, cenas de sexo entre o casal em GTA 6 foram \"extremamente difíceis\" de fazer.\n\n### Fonte\n\nIGN\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Gemini pode ganhar recurso para criar vozes personalizadas com sotaque, tom e velocidade\n\nPor Marcelo Fischer \\| 24/11/2026 às 20:01\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png)Marcelo Salvatico/Canaltech\n\nO Google está desenvolvendo um recurso que permitirá aos usuários do Gemini criar **vozes personalizadas** para a inteligência artificial (IA). A ferramenta deve funcionar por meio de comandos de texto, nos quais será possível descrever características como sotaque, tom de voz, velocidade da fala e entonação.\n\nContinua após a publicidade\n\nAs referências à novidade foram identificadas pelo portal Android Authority nesta terça-feira (24), durante uma análise do código da versão 17.78.13 do aplicativo do Google para Android.\n\nA descoberta acontece pouco mais de uma semana após o Google começar a liberar 66 novas vozes regionais para o Gemini, incluindo opções em português brasileiro.\n\n## Como funcionará a criação de vozes no Gemini?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO menu de seleção de vozes do Gemini poderá ganhar uma opção chamada “Criar uma voz”. Ao acessá-la, o usuário encontrará um campo de texto para descrever como deseja que a IA fale.\n\nCaso o recurso funcione conforme sugerido pelo código, será possível utilizar comandos como:\n\n- “Quero uma voz com sotaque nordestino, tom descontraído e ritmo de fala mais lento”;\n\n- “Crie uma voz grave, com sotaque paulista e estilo de comunicação informal”;\n\n- “Quero uma voz suave, que fale pausadamente e tenha uma entonação animada”.\n\nO Google também trabalha em um botão chamado **“Surpreenda-me”**, que deverá gerar uma voz sem que o usuário precise fornecer instruções.\n\nContinua após a publicidade\n\n### Qual a diferença para os novos sotaques do Gemini?\n\nEm 16 de novembro, o Google começou a disponibilizar **66 novas vozes regionais** no aplicativo do Gemini para Android e iPhone (iOS), distribuídas entre sete variantes de idiomas.\n\nAs vozes foram desenvolvidas com características regionais de pronúncia, entonação e ritmo de fala. A opção selecionada pelo usuário é utilizada tanto nas conversas do Gemini Live quanto na leitura em voz alta das respostas do chatbot.\n\nContinua após a publicidade\n\nAtualmente, essas características são predefinidas pelo Google. Com a ferramenta em desenvolvimento, o usuário poderá combinar diferentes atributos vocais em uma mesma voz, de acordo com suas preferências.\n\n## Google já possui tecnologia para criar vozes com IA\n\nEm setembro, a empresa apresentou o **Gemini 3.8 Flash TTS (Text-to-Speech)**, modelo de IA especializado na conversão de texto em áudio que consegue gerar vozes originais a partir de descrições em mais de 100 idiomas e dialetos.\n\nO Google também oferece aos desenvolvedores uma ferramenta chamada Voice Remixing, que permite modificar características de vozes existentes, como sotaque, tonalidade e velocidade da fala.\n\nContinua após a publicidade\n\nAinda não está confirmado se essas tecnologias serão utilizadas na ferramenta de personalização de voz do Gemini.\n\nO Android Authority não conseguiu ativar o recurso durante seus testes. O Google também não informou se a novidade será exclusiva para assinantes de planos pagos, se haverá restrições de sotaques por região ou quando pretende disponibilizá-la.\n\n**Veja também:** Google libera novos sotaques regionais em português no Gemini; veja como ativar\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/EbYca351uyEQkyw02B_9ZMeBxMk=/1200x675/smart/filters:format(webp):quality(85)/e64a22b8-eaab-4e73-8124-6167b2c471a3.jpg",
+    "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/bQ1I8BTM1v9GE9_a1taN7ZmdSAM=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/gAgQk-TnVOnZ6gkzX4TrkyqHCNU=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "GTA",
-    "6",
-    "Veja"
+    "Gemini",
+    "ganhar",
+    "recurso"
    ],
    "searches": []
   },
   {
-   "id": "direitosdefilmeeseriedereddeadredemption",
-   "title": "Rockstar negocia direitos de filme e série de Red Dead Redemption",
+   "id": "ochatgptcomalertasdeprecomashaumproblema",
+   "title": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/entretenimento/rockstar-negocia-direitos-de-filme-e-serie-de-red-dead-redemption/",
-   "published": "2026-11-24T17:23:00+00:00",
-   "summary": "Rockstar negocia direitos de filme e série de Red Dead Redemption A Rockstar Games busca ativamente estúdios interessados em produzir uma adaptação de Red Dead Redemption — sua franquia realista de velho-oeste. Rumores apontam que a desenvolvedora tenta negociar o licenciamento da propriedade intelectual por US$ 100 milhões. As informações foram divulgadas pelo The Ankler, que indica que nenhuma p",
-   "score": 9.35,
+   "url": "https://canaltech.com.br/inteligencia-artificial/gpt-62-chega-aos-usuarios-do-chatgpt-com-alertas-de-preco-mas-ha-um-problema/",
+   "published": "2026-11-24T21:55:03+00:00",
+   "summary": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema A OpenAI começou a liberar nesta segunda-feira (23) o GPT-6.2 nas conversas convencionais do ChatGPT . A atualização promete melhorias na interpretação de imagens, no cumprimento de instruções complexas e nas pesquisas na internet, além de permitir que a IA sugira automaticamente a criação de alertas de preço. A novidad",
+   "score": 10.78,
    "why": [
-    "Em alta no Google: rockstar games"
+    "Em alta no Google: inteligência artificial",
+    "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Z8SyUTyAROc3Mx_tnja6SNm8rTA=/1200x675/smart/filters:format(webp):quality(85)/29db5098-dd18-49c3-9912-6a386e61d9e3.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Entretenimento\n\n# Rockstar negocia direitos de filme e série de Red Dead Redemption\n\nPor Diego Corumba \\| 24/11/2026 às 14:23\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/29db5098-dd18-49c3-9912-6a386e61d9e3.jpg)Divulgação/Rockstar\n\nA **Rockstar Games** busca ativamente estúdios interessados em produzir uma adaptação de **Red Dead Redemption** — sua franquia realista de velho-oeste. Rumores apontam que a desenvolvedora tenta negociar o licenciamento da propriedade intelectual por US$ 100 milhões.\n\nContinua após a publicidade\n\nAs informações foram divulgadas pelo The Ankler, que indica que nenhuma produtora adquiriu o projeto ainda. Porém, a iniciativa de levar a saga para Hollywood pode ser genuína, principalmente quando se veem tantas versões ganharem destaque. Só em 2026, vimos **Resident Evil**, **Street Fighter** e **Mortal Kombat II** nas telonas.\n\nO valor cobrado pela companhia é visto como “barato”, já que a Amazon pagou US$ 250 milhões em 2017 apenas para ter o direito de fazer uma série de **O Senhor dos Anéis**. Vale lembrar que o **Red Dead Redemption 2** (2018) é um sucesso estrondoso, com 85 milhões de jogadores — o 3º mais vendido da história.\n\nDe acordo com o vazamento, ela busca opções nos cinemas e em séries televisivas. Na prática, não há um formato “fechado”, e o estúdio norte-americano apenas quer ver as histórias de Arthur Morgan e John Marston ganharem vida de algum modo.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nApesar do impacto de GTA 6, a Rockstar tenta vender apenas a ideia para Red Dead Redemption. Isso centraliza as decisões em torno de **Grand Theft Auto dentro** da desenvolvedora, assim como não prende seus personagens ou histórias ao que ocorre em filmes ou seriados.\n\n## Red Dead Redemption segue a indústria\n\nO que o estúdio busca é o mesmo patamar que já foi consolidado por produções como **The Last of Us** e **Fallout.** Ambas as franquias transitaram bem para outra mídia, o que justifica o súbito interesse em levar uma de suas narrativas a formatos diferentes.\n\nContinua após a publicidade\n\nPor falar em séries, os próximos anos serão recheados de adaptações: **Tomb Raider** e **God of War**, por exemplo, estão nas mãos da Amazon. **Far Cry** também será transportado para as telas pela FX.\n\nNos cinemas, uma versão de Red Dead Redemption pode disputar espaço com **Call of Duty**, **The Legend of Zelda** e as sequências de **Sonic the Hedgehog** e **Um Filme Minecraft**. Porém, a desenvolvedora precisa primeiro encontrar um aliado entre os grandes estúdios de Hollywood.\n\nAlém disso, apesar do teor violento que a franquia possui, ela passa mais livremente do que outras marcas com as quais trabalha — como o próprio GTA e até **Bully,** que poderia render toda a revolta dos anos 2000 de volta (algo que a Rockstar tentará evitar).\n\nConfira quais são as 8 melhores adaptações de games lançadas em 2026, o que aumenta as expectativas para acompanhar a jornada de Red Dead Redemption em um breve futuro.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://tl.ctcdn.com.br/3W7jqIkyvuBGZZhFrfyjakvq7DI=/1200x675/smart/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Inteligência Artificial\n\n# GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema\n\nPor Marcelo Fischer \\| 24/11/2026 às 18:55\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png)Marcelo Fischer/Canaltech\n\nA OpenAI começou a liberar nesta segunda-feira (23) o **GPT-6.2 nas conversas convencionais do ChatGPT**. A atualização promete melhorias na interpretação de imagens, no cumprimento de instruções complexas e nas pesquisas na internet, além de permitir que a IA sugira automaticamente a criação de alertas de preço.\n\nContinua após a publicidade\n\nA novidade está sendo distribuída mundialmente para assinantes dos planos **Plus, Pro, Business e Enterprise**. Usuários da versão gratuita e do ChatGPT Go, assinatura de entrada da plataforma, continuam utilizando o GPT-6.\n\nOs novos modelos de inteligência artificial (IA) da OpenAI foram apresentados em 17 de novembro, mas, até então, estavam disponíveis no ChatGPT Work, no Codex e na API da empresa.\n\n## ChatGPT ganha alertas de preço\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nUma das novidades destacadas pela OpenAI é a capacidade de identificar situações nas quais o usuário pode se beneficiar de um acompanhamento automático após o término da conversa.\n\nAo perguntar se determinado celular está em promoção, por exemplo, o ChatGPT poderá sugerir a **criação de um alerta** para quando o preço do produto diminuir.\n\nA possibilidade de monitorar preços já existia por meio das tarefas agendadas do ChatGPT. A novidade está na capacidade de a IA oferecer a ferramenta sem que o usuário precise solicitá-la diretamente.\n\nNos testes realizados pelo **Canaltech**, o recurso foi oferecido espontaneamente em duas de três conversas com o GPT-6.2.\n\nContinua após a publicidade\n\nAo pesquisar ofertas do Nintendo Switch 2 na Black Friday, o modo Instant apresentou um botão para ativar o monitoramento de preços. O mesmo comando, enviado anteriormente no modo de raciocínio Alto, não resultou na sugestão de um alerta.\n\nEm um terceiro teste, desta vez sobre ofertas do PlayStation 5 Slim, o GPT-6.2 no modo Alto também ofereceu a criação de uma tarefa de monitoramento.\n\nCom a autorização do usuário, o ChatGPT configurou pesquisas periódicas com critérios que incluíam preço máximo, disponibilidade em estoque, cupons e condições de pagamento. O recebimento de notificações sobre ofertas válidas ainda não foi confirmado nos testes.\n\nContinua após a publicidade\n\n## O que melhora com o GPT-6.2?\n\nA OpenAI apresentou dois modelos da nova geração em 17 de novembro:\n\n- **GPT-6.2 Astra:** voltado a tarefas mais complexas, como programação, pesquisas científicas e atividades profissionais;\n\n- **GPT-6.2 Sol:** desenvolvido para tarefas cotidianas e profissionais, com foco na eficiência computacional.\n\nA versão disponibilizada nas conversas convencionais do ChatGPT é baseada no Sol, com ajustes para interações do dia a dia.\n\nContinua após a publicidade\n\nNos testes internos divulgados pela OpenAI, o novo modelo apresentou os seguintes resultados em relação ao seu antecessor:\n\n|     |     |     |\n| --- | --- | --- |\n| **Teste** | **GPT-6** | **GPT-6.2** |\n| Interpretação de imagens | 47,4% | 71,7% |\n| Cumprimento de instruções complexas | 62,5% | 78,1% |\n| Tarefas de nível especializado | 52% | 65% |\n| Pesquisa na internet | 54,4% | 64,5% |\n\nAs avaliações foram conduzidas pela própria desenvolvedora e consideram diferentes níveis de raciocínio. Mesmo com a evolução, o GPT-6.2 falhou em aproximadamente uma a cada cinco avaliações de cumprimento de instruções complexas.\n\nNo anúncio original dos modelos, a OpenAI também reconheceu que Astra e Sol apresentaram, em dois testes, uma tendência maior a omitir obstáculos encontrados durante a execução de tarefas, como a ausência de arquivos necessários ou a indisponibilidade de ferramentas de pesquisa.\n\nContinua após a publicidade\n\n## Assinantes do ChatGPT Go ficam de fora\n\nAlém dos usuários da versão gratuita, os assinantes do ChatGPT Go ficaram de fora da atualização. A OpenAI ainda não informou quando pretende disponibilizar o GPT-6.2 nesses dois planos.\n\nOutra mudança que afeta os assinantes está prevista para dezembro. Os planos Plus, Pro e Business passarão a ter **limites de utilização compartilhados entre o ChatGPT e o Codex**, agente de programação da OpenAI.\n\nO consumo será contabilizado em tokens, unidades de informação processadas pelos modelos de IA. Atividades mais complexas realizadas no Codex poderão comprometer parte dos recursos disponíveis para outras tarefas no ChatGPT, e vice-versa.\n\nContinua após a publicidade\n\nAs conversas no modo Instant ficarão de fora dessa contabilização. A OpenAI ainda não detalhou a quantidade de recursos que será disponibilizada em cada assinatura após a mudança.\n\n**Veja também:** Como usar o ChatGPT: do cadastro básico aos melhores comandos (prompts)\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/Z8SyUTyAROc3Mx_tnja6SNm8rTA=/1200x675/smart/filters:format(webp):quality(85)/29db5098-dd18-49c3-9912-6a386e61d9e3.jpg",
+    "https://tl.ctcdn.com.br/3W7jqIkyvuBGZZhFrfyjakvq7DI=/1200x675/smart/filters:format(webp):quality(85)/18446ab6-fd96-4ef4-ad57-251e00fc4358.png",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/ivMp2cghR-h81o09fFncF4JNo4I=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/FRK_AzSD7OvTzKpsAvr59o--vG0=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "Red",
-    "Dead",
-    "Redemption"
+    "2",
+    "ChatGPT"
    ],
    "searches": [
-    "red dead redemption 2",
-    "red dead redemption",
-    "red dead redemption 1",
-    "red dead redemption 2 gameplay",
-    "red dead redemption 2 online",
-    "red dead redemption 2 trailer"
+    "2 chatgpt",
+    "2 chatgpt conversando",
+    "2 chatgpt talking to each other",
+    "2 chatgpt logo",
+    "2 chatgpt talking",
+    "chatgpt 2 storyboard"
    ]
   },
   {
-   "id": "logiacelebramretornodejensenhuanganvidia",
-   "title": "Executivos de tecnologia celebram retorno de Jensen Huang à Nvidia",
+   "id": "ememoriadasamsungate2029egerafilaate2031",
+   "title": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/hardware/corrida-da-ia-esgota-fabricas-de-memoria-da-samsung-ate-2029-e-gera-fila-ate-2031/",
+   "published": "2026-11-24T19:06:00+00:00",
+   "summary": "Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031 Comprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o setor de data center ficando com a maior parte da produção de DRAM, sobra cada vez menos para o mercado de consumo, algo que impacta a disponibilidade e o preço. A Samsung , uma das três maiores fabricantes desse componen",
+   "score": 10.6,
+   "why": [
+    "Em alta no Google: inteligência artificial",
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/UYhVPEZI8VKYzCnyrImDHytr6yA=/1200x675/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Hardware\n\n# Corrida da IA esgota fábricas de memória da Samsung até 2029 e gera fila até 2031\n\nPor Raphael Giannotti \\| 24/11/2026 às 16:06\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg)Samsung/Reprodução\n\nComprar memória RAM em 2026 se tornou algo muito difícil por conta dos preços nas alturas. Com o setor de data center ficando com a maior parte da produção de DRAM, sobra cada vez menos para o mercado de consumo, algo que impacta a disponibilidade e o preço. **A Samsung**, uma das três maiores fabricantes desse componente, **já tem pedidos fechados para o resto dessa década, direcionando boa parte da sua produção para os servidores**.\n\nContinua após a publicidade\n\nSegundo informações do portal sul-coreano Economy Tribune, a gigante já tem praticamente toda a sua capacidade de produção de semicondutores de memória reservada por meio de acordos para o período **entre 2027 e 2029**. Diante da escassez prolongada impulsionada pela corrida da inteligência artificial, **grandes compradores já negociam contratos de fornecimento de longo prazo que se estendem até 2031**.\n\nA demanda não se restringe às memórias HBM, essenciais para aceleradores de IA, **mas atinge também a DRAM convencional, usada em PCs e servidores comuns**, além de memórias NAND corporativas. No caso da DRAM, toda a capacidade de wafers prevista para 2027 já está praticamente esgotada, com o **crescimento anual de oferta limitado a uma faixa entre 20% e 25%**. Como a fabricação de chips HBM consome uma parcela muito maior das linhas de produção em comparação à memória comum, a priorização desse segmento acaba estrangulando ainda mais o mercado doméstico.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Preços protegidos e escassez agravada em 2027\n\nDurante a apresentação de resultados financeiros do terceiro trimestre, no fim de outubro, a Samsung revelou já ter fechado contratos de longo prazo com 10 grandes clientes e estar em negociação com outras 10 empresas, com a meta de **comprometer entre 60% e 70% de sua capacidade total nesse modelo até 2030**. Para se resguardar de oscilações futuras, a empresa tem incluído cláusulas de preço mínimo garantido e até pagamentos antecipados nas novas negociações.\n\nPara o consumidor e o mercado em geral, a situação atual deve piorar ainda mais antes de começar a melhorar. Atualmente, as principais fabricantes conseguem **atender apenas entre 60% e 70% da demanda real por memórias, índice que deve cair ainda mais ao longo de 2027**. No segmento de armazenamento, enquanto o atendimento para SSDs domésticos gira em torno de 70%, o setor corporativo mal ultrapassa os 50%, levando até mesmo concorrentes como a japonesa Kioxia a revisarem para cima suas projeções de demanda para o próximo ano.\n\n### Fonte\n\nEconomy Tribune\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/UYhVPEZI8VKYzCnyrImDHytr6yA=/1200x675/smart/filters:format(webp):quality(85)/9e17cdf6-cf9b-44da-a2f1-fed325af4455.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/W37IDYDELZMO9TN1N-N-CHg56dA=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "IA",
+    "Samsung",
+    "2029"
+   ],
+   "searches": []
+  },
+  {
+   "id": "omandodanvidiagta6recebeatualizacaoemais",
+   "title": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/big-techs/trump-e-executivos-de-tecnologia-celebram-retorno-de-jensen-huang-a-nvidia/",
-   "published": "2026-11-24T09:00:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-24-jensen-volta-ao-comando-da-nvidia-gta-6-recebe-atualizacao-e-mais/",
+   "published": "2026-11-25T00:44:00+00:00",
    "summary": "",
-   "score": 9.02,
+   "score": 9.65,
+   "why": [
+    "Em alta no Google: gta 7",
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150",
+   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\n24/11/2026 \\| 21h44\n\nNotícia de presente\n\nO Hoje no TecMundo desta terça-feira (24) chega com novidades importantes no mundo dos games e da tecnologia! Jensen Huang está de volta ao comando da Nvidia, menos de duas semanas após sua renúncia. A decisão foi aprovada por unanimidade pelo conselho e fez as ações da empresa dispararem quase 30% no pré-mercado.\n\nE tem mais: GTA 6 recebeu uma atualização para corrigir problemas que podiam comprometer o progresso dos jogadores, uma falha escondida no Linux por 11 anos pode derrubar servidores remotamente e o TikTok está preparando ferramentas para identificar vídeos gerados por inteligência artificial. Quer saber o que mais aconteceu? Então prepara o cafezinho e vem comigo para mais um Hoje no TecMundo!\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Resumo do Dia\n\n- **Bug de GTA 6 destrava FPS no Xbox Series X\\|S e revela limites de desempenho:** Uma falha relacionada ao Quick Resume permite ultrapassar o limite de 30 FPS de GTA 6 nos consoles da Microsoft. Em testes do Digital Foundry, o Xbox Series X chegou a 40 quadros por segundo ou mais em algumas situações, e até 60 FPS em um cenário específico. Porém, o desempenho não é estável e pode cair durante tiroteios, explosões e perseguições. No Xbox Series S, os ganhos são menores devido às limitações de hardware.\n- **O que a volta de Jensen Huang significa para o futuro da Nvidia?:** O cofundador retornou aos cargos de CEO, presidente e diretor do conselho da Nvidia, após uma decisão unânime. Huang havia renunciado menos de duas semanas antes, em meio a denúncias de relacionamentos extraconjugais e uma investigação envolvendo uma mulher suspeita de atuar como fonte de inteligência chinesa. As ações da empresa chegaram a subir quase 30% no pré-mercado. Para o setor de games, a volta pode ser positiva, já que Huang é apontado como defensor da continuidade das linhas GeForce e RTX. Mesmo assim, o executivo ainda deverá prestar esclarecimentos ao Congresso dos Estados Unidos, e as investigações internas continuam.\n- **Kindle de 10ª geração perde suporte de segurança:** A Amazon encerrará, em 31 de dezembro, o suporte garantido para atualizações de segurança dos modelos Kindle e Kindle Paperwhite de 10ª geração. Os aparelhos, lançados em 2018 e 2019, receberam cerca de sete a oito anos de suporte oficial. Apesar disso, continuarão funcionando normalmente, permitindo comprar, baixar e ler livros pela Kindle Store. A empresa também afirmou que alguns dispositivos podem receber atualizações mesmo após o fim do período garantido.\n- **Hacker vaza suposto executável de GTA 6:** O grupo Cyberleek divulgou um arquivo que afirma ser um executável da versão de Xbox do jogo. O TecMundo analisou o material, de aproximadamente 114 MB, e encontrou referências à Rockstar, ao Xbox e a um ambiente interno de desenvolvimento chamado Americas. Os indícios são compatíveis com uma versão em desenvolvimento, mas não comprovam que todo o arquivo seja legítimo. Usuários afirmaram ter iniciado parte do prólogo no Windows 11, mas o executável ainda exige adaptações para funcionar em computadores.\n- **One UI 9.5: confira os recursos descobertos no primeiro beta da Samsung:** A primeira versão de testes revelou novidades como o App Lock, que permite bloquear aplicativos com senha, PIN ou biometria, ocultando também notificações e widgets. O Tap to Share poderá facilitar o compartilhamento de arquivos ao aproximar dois celulares compatíveis. A atualização também traz personalização da tela de bloqueio, melhorias na câmera e mudanças no modo DeX, que passa a permitir dividir a tela entre até quatro aplicativos. O beta está restrito à linha Galaxy S26 e a alguns países, sem previsão oficial de lançamento no Brasil.\n- **GTA 6 recebe primeira atualização nos consoles** **:** O patch 01.002.002 chegou ao PlayStation 5 e Xbox Series X\\|S com cerca de 603 MB. A atualização corrige falhas no salvamento automático que poderiam fazer jogadores perderem o progresso de missões. Também resolve problemas com ligações importantes para avançar na história, erros no nível de procurado, travamentos e falhas em atividades da academia e na entrega de sacolas para receptadores.\n- **NoisyTCP: falha no Linux ficou escondida por 11 anos:** A vulnerabilidade foi descoberta pelo pesquisador Hyunwoo Kim e afeta praticamente todas as distribuições atuais do sistema. O problema está no gerenciamento de conexões de rede e pode ser explorado por meio de pacotes TCP adulterados. Quando o ataque funciona, o servidor pode sofrer um kernel panic, travando ou reiniciando completamente. A falha afeta ambientes que utilizam tecnologias como Apache, NGINX e SSH, mas não permite roubar dados nem executar códigos remotamente. Correções já começaram a ser distribuídas por empresas como Red Hat e Ubuntu.\n- **Diretor de Cyberpunk 2 brinca que jogo foi cancelado após GTA 6:** Igor Sarzyński, diretor criativo da sequência de Cyberpunk, publicou uma brincadeira nas redes sociais dizendo que o projeto teria sido cancelado depois de conhecer o novo jogo da Rockstar. O desenvolvedor elogiou a escala, a densidade e os detalhes de GTA 6, que chamou de uma das maiores conquistas artísticas da história. O co-CEO da CD Projekt RED também destacou o jogo como uma obra-prima. Apesar dos elogios, Sarzyński garantiu que Cyberpunk 2 continua em desenvolvimento e seguirá uma proposta própria.\n- **TikTok ganha detector de deepfakes:** A plataforma está desenvolvendo ferramentas para identificar vídeos feitos ou editados com inteligência artificial. O detector procura metadados Content Credentials, do padrão C2PA, e uma marca d’água invisível chamada VeraDura. Criadores elegíveis também poderão usar o Likeness Detection, recurso opcional que busca conteúdos gerados por IA com a imagem de uma pessoa sem autorização. A rede social ainda ampliou os controles parentais, permitindo que pais recebam alertas sobre buscas repetidas de adolescentes por termos relacionados à automutilação.\n\nE no Aconteceu na História, em 24 de novembro de 1998, a AOL anunciou a compra da Netscape, em uma das grandes movimentações empresariais da história da internet. A operação foi avaliada em aproximadamente US$ 4,2 bilhões. Curta o Hoje no TecMundo no Spotify e na Apple Podcasts. Ouça também o Sem Manual e o TecInverso. Até amanhã!\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- big techs\n\n### Ofertas\n\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 4.063,44-14%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nSmartwatch Samsung Galaxy Watch8 LTE, 44mm\\\\\n\\\\\nPreço anterior ~~R$ 3.499,00~~ Preço R$ 1.538,50-56%\\\\\n\\\\\nAcessórios · Amazon\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nWhatsApp lança figurinhas com som e sem moldura branca; saiba como usar 2.\\\\\n\\\\\nApple prepara grande mudança no design dos iPhones 18e e Air 2, segundo site 3.\\\\\n\\\\\nBug de GTA 6 destrava fps no Xbox Series X\\|S e revela limites de desempenho [4.\\\\\n\\\\\nHome office: 130 vagas para trabalho remoto \\[24/11\\]](https://www.estadao.com.br/tecmundo/home-office-130-vagas-para-trabalho-remoto-2411/ \"Home office: 130 vagas para trabalho remoto [24/11]\") 5.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1150",
+    "https://www.estadao.com.br/resizer/v2/ERRSSYJAOVEPVNLY47JAT4IZBE.jpeg?quality=80&auth=5dd81b680a7f6fd1f1b7fd89920f37d153c7a7d8eec5c259d62d0ce67fc906a2&width=1200&height=630&focal=1393,316",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
+    "https://e-afiliacao.estadao.com.br/storage/products/6dbbef1f98bdf05648f89d7ab2b103167e4baa082dafc99fa27e6cb1868974ac.jpg",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
+    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg",
+    "https://m.media-amazon.com/images/I/31ZoU0l69iL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/b829335cdf4bf936b33ecb2225ded137ffa10dfa48029561d256c042659f5dc6.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/e57db2c9ec9f44ea0d4658869535729b8870e9665cc35954872e66e0e8a12252.jpg",
+    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "TecMundo",
+    "24",
+    "Jensen"
+   ],
+   "searches": []
+  },
+  {
+   "id": "h1041571jensenhuangallhandsnvidiaapology",
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "published": "2026-11-24T20:52:19+00:00",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+   "score": 9.26,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/big-techs/hoje-no-tecmundo-23-jensen-huang-volta-a-nvidia-gta-6-bate-recorde-e-mais/"
-    },
     {
      "source": "Ars Technica",
      "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
     },
     {
      "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/"
+    },
+    {
+     "source": "Techcrunch",
      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/"
-    },
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/D4CHGJEGFZAY3N3C2SHCYAMDAE.jpg?quality=80&auth=4d8680a4347687ab5f057531451ebf977aee2176d212520e7d00f2b682d483b6&width=1150",
-   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPor André Luiz Dias Gonçalves\n\n24/11/2026 \\| 06h00\n\nNotícia de presente\n\nHoje no TecMundo (23): Jensen Huang volta à Nvidia, GTA 6 bate recorde e mais\n\nConfirmada na segunda-feira (23), a volta de Jensen Huang ao cargo de CEO da Nvidia foi bastante comemorada pelo presidente dos Estados Unidos, Donald Trump, e por executivos de grandes empresas de tecnologia. **Elon Musk e Sam Altman estão entre os que se manifestaram**.\n\nRenunciando após a divulgação de casos extraconjugais, incluindo a relação com uma suposta espiã chinesa, e a queda nas ações da companhia, ele **ficou menos de duas semanas ausente da direção da empresa que ajudou a fundar em 1993**. Enquanto estava fora, a fabricante de GPUs foi comandada interinamente por Colette Kress, que retorna à função de diretora financeira.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### “O erro foi corrigido”\n\nUm dos mais entusiasmados com a volta de Huang à Nvidia, Musk abordou o assunto por meio de diversas postagens ao longo do dia em seu perfil oficial no X. Em uma delas, o CEO da SpaceX disse que “O erro foi corrigido”, **reagindo ao post da gigante dos semicondutores anunciando o retorno**.\n\n- O chefe da Tesla também afirmou que **todos os seus conhecidos na Nvidia “queriam que Jensen voltasse”**, respondendo às imagens compartilhadas por Gavin Baker, diretor de investimentos da Atreides Management;\n- Na gravação em questão, Huang é aplaudido por funcionários na sede da Nvidia quando retornava ao trabalho;\n- Baker também comentou, em tom de brincadeira, que **compraria uma jaqueta de couro semelhante à utilizada por Huang**;\n- Já Sam Altman, CEO da OpenAI, escreveu “Jensen!” em sua conta no X logo após a confirmação do retorno.\n\nPUBLICIDADE\n\nAnteriormente, Altman havia demonstrado preocupação com as mudanças na empresa que se tornou uma das principais fornecedoras para a indústria de IA. De acordo com ele, **a saída representava uma perda importante para o setor**.\n\nQuem também celebrou a volta do CEO foi **Tim Sweeney**, chefe da Epic Games, fazendo uma referência à jaqueta que se tornou a marca de Huang. O investidor **Bill Ackman**, que criticou o conselho da Nvidia pela saída do executivo, foi outro que compartilhou os vídeos da recepção na sede da companhia.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\n### “Tesouro nacional”\n\nJá Trump publicou uma longa mensagem parabenizando o CEO, **afirmando que ele é “um grande patriota e um tesouro nacional”**. Ainda conforme o presidente americano, a decisão de reintegração do executivo foi “correta e apropriada”, como destaca a postagem na Truth Social.\n\nPUBLICIDADE\n\nAlém do texto, **o republicano publicou uma montagem com Huang segurando um sutiã**. O conteúdo foi baseado em uma foto na qual Trump aparece protegido por seguranças após sofrer um atentado durante comício realizado na Pensilvânia, em 2024.\n\nSiga no TecMundo e saiba o que significa o retorno do CEO para o futuro da Nvidia.\n\nCom informações de _The Verge_.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Jensen Huang\n- NVIDIA\n- Elon Musk\n- Donald Trump\n\n0 Comentário\n\n34 debatedores online34 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nBug de GTA 6 destrava fps no Xbox Series X\\|S e revela limites de desempenho 2.\\\\\n\\\\\nHacker vaza suposto arquivo executável de GTA 6 3.\\\\\n\\\\\nExecutivos de tecnologia celebram retorno de Jensen Huang à Nvidia 4.\\\\\n\\\\\nMega data centers no Brasil: uma ameaça? 5.\\\\\n\\\\\nJá é Black na Centauro: tem tênis e itens esportivos com até 70% off\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Tech\n\n- AI\n\n- Business\n\n# Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired\n\nIt’s also not because of ‘tech bro’ culture.\n\nIt’s also not because of ‘tech bro’ culture.\n\nbyEmma Roth\n\nNov 24, 2026, 3:02 PM EST\n\n- Link\n\n- Share\n- Gift\n\nComments4040Comments (All New)\n\nPhoto by Jens Kalaene/picture alliance via Getty Images\n\nPart Of\\\\\n\\\\\nNvidia CEO Jensen Huang is back. What happens next?\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/emma-roth)\n\nEmma Rothis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\n\nNvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from _Bloomberg_ _,_ _The New York Times_, and _The Handbasket’s_ Marisa Kabas.\n\nDuring the meeting, Huang reportedly called claims that President Donald Trump was directly involved in his reinstatement — an idea publicly promoted by Trump himself — “completely untrue.” He added, “Don’t think for a second politics played a role in the company. We are the most apolitical company,” according to Kabas.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nAlong with attempting to dismiss Trump’s involvement, Huang reportedly said he also didn’t return because he was a “tech bro” who was “above the law” or “above the code of conduct.” He added that, “no story has been more tortured than this one in human history,” Kabas reports. Instead, Huang said the Nvidia board “evaluated the entire situation,” while receiving assurance from the government that he posed no national security threat, according to the _NYT_.\n\nHuang resigned as CEO of Nvidia on November 12th, following reports of affairs with an alleged Chinese spy and two employees, including vice president of healthcare Kimberly Powell. On Monday, Nvidia announced that it had reinstated Huang as CEO, president, and member of the board — a decision the White House said Trump was “totally involved in.” Trump also confirmed that he worked with Vice President JD Vance and other officials to bring Huang back. A swath of tech leaders, including Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney, and former White House AI czar David Sacks, were also in favor of Huang’s return.\n\n### Related\n\n- Welcome to elite impunity, Jensen Huang\n- Trump engineered a risky comeback for Jensen Huang\n- How Jensen Huang ended up as Nvidia CEO again\n\nIn a post on Truth Social, Trump said that the government “has no reason to believe” Huang’s return poses a risk to national security, adding that the US attorney general “does not possess evidence” that he engaged in “unlawful conduct.” Nvidia is still facing an investigation over its accounting practices, according to _Reuters_. The company is also carrying out its own internal investigation surrounding reports that Huang was the target of a Chinese spy plot. Huang is set to testify before Congress on December 1st to answer questions about national security concerns, and Democrats are already planning to press Huang about his return, as well as Trump’s involvement.\n\nEven after all this, Huang reportedly said he “doesn’t believe in succession planning.” He also acknowledged that he violated Nvidia’s code of conduct, adding that he is attending therapy daily, _Bloomberg_ reports. “I made some terrible mistakes,” Huang said, according to the _NYT_. “I was unfaithful to Lori, and I hurt my kids and of course, I hurt all of you.”\n\n40 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Emma Roth\n- AI\n\n- Business\n\n- News\n\n- Nvidia\n\n- Policy\n\n- Politics\n\n- Tech\n\n## More in: Nvidia CEO Jensen Huang is back. What happens next?\n\nDemocrats are trying to nail down the timeline of what Trump knew about Jensen Huang.\n\nLauren Feiner4:41 PM ESTCommentsComment Icon Bubble3\n\nToday’s Vergecast: Jensen Huang is Donald Trump’s Special Boy.\n\nDavid Pierce3:14 PM ESTCommentsComment Icon Bubble7\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nStevie Bonifield11:37 AM ESTCommentsComment Icon Bubble23\n\n## Most Popular\n\nMost Popular\n\n1. Welcome to elite impunity, Jensen Huang\n\n2. Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\n3. Google alternative Kagi launches an email service\n\n4. Ladybird, the first new browser engine in years, is now available to test\n\n5. HBO Max is offering one of the best Black Friday deals we’ve seen this year\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Tech\n\nHuawei found guilty of stealing trade secrets\n\nTikTok was down\n\nThe clock is running out for America’s most contentious spying law\n\nNow Firefox can select which sites use its VPN, and clear your browsing history with one click\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nJensen Huang deepfakes are the hot new AI slop\n\nHuawei found guilty of stealing trade secrets\n\nEmma Roth5:23 PM ESTCommentsComment Icon Bubble2\n\nTikTok was down\n\nJay Peters3:27 PM EST\n\nThe clock is running out for America’s most contentious spying law\n\nGaby Del Valle3:00 PM ESTCommentsComment Icon Bubble2\n\nNow Firefox can select which sites use its VPN, and clear your browsing history with one click\n\nStevie Bonifield1:44 PM ESTCommentsComment Icon Bubble2\n\nUS Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nStevie Bonifield11:37 AM ESTCommentsComment Icon Bubble23\n\nJensen Huang deepfakes are the hot new AI slop\n\nKat Tenbarge11:30 AM ESTCommentsComment Icon Bubble14\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n11:30 AM EST\n\nJensen Huang deepfakes are the hot new AI slop\n\n3:00 PM EST\n\nThe clock is running out for America’s most contentious spying law\n\n9:00 AM EST\n\nBambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\n6:25 PM EST\n\nWhy the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa\n\n1:15 PM EST\n\nDavid Fincher is being dragged for suspected use of AI in his latest film\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nYour free 30-day trial starts hereFor a limited time, unlock free access to The Verge from T-Mobile.\n\nSTART YOUR FREE TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/D4CHGJEGFZAY3N3C2SHCYAMDAE.jpg?quality=80&auth=4d8680a4347687ab5f057531451ebf977aee2176d212520e7d00f2b682d483b6&width=1150",
-    "https://www.estadao.com.br/resizer/v2/D4CHGJEGFZAY3N3C2SHCYAMDAE.jpg?quality=80&auth=4d8680a4347687ab5f057531451ebf977aee2176d212520e7d00f2b682d483b6&width=1200&height=630&focal=1113,711",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FUEXZ4KUAO5FGNLP4MV7EF2GHYI.png?quality=80&auth=fd23adfe9245fb8376aeb2b8e0626809beda900f1711bdd1703675ab2f447060&width=60&height=60&smart=true",
-    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fd32dgtrnmhd45e.cloudfront.net%2F11-23-2026%2Ft_3d975f64c2ab403fb9a88e222bcf011e_name_WhatsApp_Image_2026_11_23_at_16_15_10.jpeg?quality=80&auth=86ed5ed470eaac45ae7eee8a0859edd63f729d39d7b227ed99515137d001fdbb&width=520&height=292&smart=true",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-banner.png",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C1.2974525602559%2C100%2C78.525377525853&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C0.011019283746549%2C100%2C99.988980716253&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0%2C0.0041573127130619%2C100%2C99.991685374574&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=13.199575848363%2C13.009259259259%2C73.398441979885%2C86.990740740741&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jensen_huang_AI_deepfakes.jpg?quality=90&strip=all&crop=0%2C2.0451339915374%2C100%2C95.909732016925&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=16.663894894395%2C0%2C66.672210211209%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
    ],
    "videos": [],
    "keywords": [
-    "Jensen",
     "Huang",
-    "Nvidia"
+    "Nvidia",
+    "Trump"
    ],
    "searches": [
-    "jensen huang nvidia",
-    "jensen huang nvidia rtx spark",
-    "jensen huang nvidia conference",
-    "jensen huang nvidia interview",
-    "jensen huang nvidia earnings call",
-    "jensen huang nvidia spark"
+    "黃仁勳"
    ]
   },
   {
-   "id": "270nvidiamegaspeedcommercedeptentitylist",
-   "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-   "published": "2026-11-24T17:28:09+00:00",
-   "summary": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by Semafor, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after […]",
-   "score": 6.55,
-   "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
-    }
-   ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Policy\n\n- Business\n\n- News\n\n# US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia\n\nThe Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal.\n\nThe Trump administration backed the Nvidia CEO’s return while restricting trade with the Singaporean AI firm linked to the scandal.\n\nbyStevie Bonifield\n\nNov 24, 2026, 11:37 AM EST\n\n- Link\n\n- Share\n- Gift\n\nComments99Comments (All New)\n\nImage: Bloomberg via Getty Images\n\nPart Of\\\\\n\\\\\nNvidia CEO Jensen Huang is back. What happens next?\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/stevie-bonifield)\n\nStevie Bonifieldis a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\n\nAs Jensen Huang returns to his post as Nvidia’s CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlier by _Semafor_, Commerce Secretary Howard Lutnick had faced increasing pressure to list the company after news reports revealed Huang’s affair with Alice Huang, a former Megaspeed executive, and that US officials suspected her of being a Chinese intelligence asset.\n\nThe Commerce Department said in a filing that it’s adding Megaspeed and its affiliates in Malaysia and Thailand to the list “because of the significant risk of these entities being or becoming involved in the diversion of advanced computing commodities to unauthorized end uses or end users.” It has been investigating Megaspeed since 2024 for allegedly smuggling advanced AI chips to China, where companies are banned from buying them directly. The _The New York Times_ mentions how a Commerce Department official’s visit to a Megaspeed data center in Malaysia found servers packed in boxes instead of being used, adding to the smuggling suspicions.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nThe _Times_ also notes that the Commerce Department will now be responsible for enforcing trade restrictions on Megaspeed, after facing accusations that Lutnick was too close to Huang and Nvidia, and failed to adequately police its chip sales to China.\n\nThe DOJ said last week that it has taken over the Commerce Department’s investigation, but it’s still “ongoing.” The department also recently added a rule aimed at blocking a loophole that could allow Chinese firms to access banned AI chips remotely. According to the DOJ, Nvidia added Megaspeed to its no-sell list last year after the Commerce Department requested Nvidia’s records on its “direct or indirect” sales to the company.\n\n9 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Stevie Bonifield\n- Business\n\n- News\n\n- Nvidia\n\n- Policy\n\n- Tech\n\n## More in: Nvidia CEO Jensen Huang is back. What happens next?\n\nTrump engineered a risky comeback for Jensen Huang\n\nLauren Feiner and Hayden FieldNov 23CommentsComment Icon Bubble40\n\nWelcome to elite impunity, Jensen Huang\n\nElizabeth LopattoNov 23CommentsComment Icon Bubble233\n\nHere’s Trump discussing the Jensen Huang situation on TV for 10 minutes.\n\nStevie BonifieldNov 23CommentsComment Icon Bubble4\n\n## Most Popular\n\nMost Popular\n\n1. Welcome to elite impunity, Jensen Huang\n\n2. Google alternative Kagi launches an email service\n\n3. Ladybird, the first new browser engine in years, is now available to test\n\n4. HBO Max is offering one of the best Black Friday deals we’ve seen this year\n\n5. Take-Two requests subpoenas over GTA VI gameplay leaks\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Policy\n\nTrump engineered a risky comeback for Jensen Huang\n\nNvidia CEO Jensen Huang is back. What happens next?\n\nWelcome to elite impunity, Jensen Huang\n\nAI data centers throw another wrench into chaotic UN climate talks\n\nHow Jensen Huang ended up as Nvidia CEO again\n\nOregon and Virginia sue SpaceX over Grok’s porn deepfakes\n\nTrump engineered a risky comeback for Jensen Huang\n\nLauren Feiner and Hayden FieldNov 23CommentsComment Icon Bubble40\n\nNvidia CEO Jensen Huang is back. What happens next?\n\nRichard LawlerTwo hours agoCommentsComment Icon Bubble1\n\nWelcome to elite impunity, Jensen Huang\n\nElizabeth LopattoNov 23CommentsComment Icon Bubble233\n\nAI data centers throw another wrench into chaotic UN climate talks\n\nJustine CalmaNov 23CommentsComment Icon Bubble7\n\nHow Jensen Huang ended up as Nvidia CEO again\n\nEmma RothNov 23CommentsComment Icon Bubble52\n\nOregon and Virginia sue SpaceX over Grok’s porn deepfakes\n\nJess WeatherbedNov 23CommentsComment Icon Bubble1\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\nTwo hours ago\n\nJensen Huang deepfakes are the hot new AI slop\n\nNov 23\n\nTrump engineered a risky comeback for Jensen Huang\n\n9:00 AM EST\n\nBambu’s five-nozzle P3C isn’t quite the 3D printer I expected\n\nNov 23\n\nWelcome to elite impunity, Jensen Huang\n\nNov 23\n\nAI data centers throw another wrench into chaotic UN climate talks\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
-   "text_source": "firecrawl",
-   "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2292676553.jpg?quality=90&strip=all&crop=0%2C0.02498750624688%2C100%2C99.950024987506&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0%2C1.9053044689201%2C100%2C96.18939106216&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C2.0451339915374%2C100%2C95.909732016925&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306098413.jpg?quality=90&strip=all&crop=0%2C0.022790909682882%2C100%2C99.954418180634&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_04.jpg?quality=90&strip=all&crop=0%2C0.43731778425656%2C100%2C99.125364431487&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK419_DEEPFAKE_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=15.346143722032%2C0%2C69.307712555936%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
-   ],
-   "videos": [],
-   "keywords": [
-    "Commerce",
-    "Department",
-    "Megaspeed"
-   ],
-   "searches": []
-  },
-  {
-   "id": "pidogracasavazamentodebuilddexboxseriesx",
-   "title": "Port de GTA 6 para PC avança rápido graças a vazamento de build de Xbox Series X",
+   "id": "oprogressodosportsdegta6paraopcacompanhe",
+   "title": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/port-de-gta-6-para-pc-avanca-rapido-gracas-a-vazamento-de-build-de-xbox-series-x/",
-   "published": "2026-11-24T16:09:00+00:00",
-   "summary": "Port de GTA 6 para PC avança rápido graças a vazamento de build de Xbox Series X Apesar de 2026 ter tido grandes nomes como The Legend of Zelda: Ocarina of Time Remake e GTA 6 , o cenário de emulação tem sido um dos grandes destaques, com evoluções em tempo recorde. Em poucos dias, o game da Nintendo foi emulado e ganhou port para PC. Agora, chegou a vez do título da Rockstar, que já aparece sendo",
-   "score": 6.47,
+   "url": "https://canaltech.com.br/games/site-mostra-ao-vivo-progresso-dos-ports-de-gta-6-para-o-pc-acompanhe/",
+   "published": "2026-11-24T23:20:00+00:00",
+   "summary": "Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe Jogadores agora podem acompanhar o progresso da recompilação de GTA 6 para o PC \"ao vivo\" por meio do site PortWatchVI. O portal monitora 30 projetos ao escanear toda a internet a cada três horas e marca o avanço deles por metas. O PortWatchVI mede o progresso do port não oficial de GTA 6 para PC por marcos. O executável jogado ",
+   "score": 8.87,
    "why": [
-    "2 sites cobrindo",
-    "Tema de alto interesse"
+    "Em alta no Google: gta 7"
    ],
-   "also_in": [
-    {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/24/games-e-consoles/gta-6-pc-vazamento-xbox-inteligencia-artificial/"
-    }
-   ],
-   "image": "https://tl.ctcdn.com.br/-Jbwaeubjne1UWRxg-OmgBDe0jI=/1200x675/smart/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
-   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Port de GTA 6 para PC avança rápido graças a vazamento de build de Xbox Series X\n\nPor Raphael Giannotti \\| 24/11/2026 às 13:09 • Atualizado 24/11/2026 às 15:07\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg)Reprodução/Rockstar Games\n\nApesar de 2026 ter tido grandes nomes como The Legend of Zelda: Ocarina of Time Remake e **GTA 6**, o cenário de emulação tem sido um dos grandes destaques, com evoluções em tempo recorde. Em poucos dias, o game da Nintendo foi emulado e ganhou port para PC. Agora, chegou a vez do **título da Rockstar, que já aparece sendo emulado, embora em um estado ainda não jogável**.\n\nContinua após a publicidade\n\nA comunidade atribui o início dos trabalhos do port não oficial de GTA 6 para PC ao vazamento da build de Xbox Series X feita pelo leaker CyberLeek. Isso aconteceu ontem (23) e diversos projetos de emulação do game já começaram. Um deles chegou no menu inicial do jogo, mas um outro, chamado de **CGBJ, já mostra o gameplay inicial de Lucia na prisão, mesmo que a pouquíssimos quadros por segundo e com os gráficos bastante limitados**.\n\nAlém do CGBJ, outros quatro projetos disputam espaço nessa corrida: TuxBox e Xbox2Windows já conseguem inicializar o jogo e exibir os primeiros quadros, enquanto Victory e XCL avançaram até a tela inicial. Na compilação mais recente do CGBJ, já **é possível movimentar a personagem com um controle, interagir com NPCs e abrir o menu**, embora existam vários problemas gráficos.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## Foco em otimização deve começar em breve\n\nPara a comunidade de modders, o uso de ferramentas de inteligência artificial e a semelhança entre o hardware dos consoles atuais e o PC estão encurtando drasticamente o tempo necessário para fazer o jogo funcionar. Enquanto um dos líderes do projeto Leonida, que acabou encerrado após pressão, estimava pelo menos uma semana para tornar o game minimamente jogável, desenvolvedores ligados aos novos ports dizem que **os shaders já começam a ser renderizados corretamente, deixando a otimização de performance como o próximo grande passo**.\n\nAo mesmo tempo em que provoca a Take-Two  afirmando que ordens judiciais não conseguem apagar o que já está na internet, o vazamento abre um novo flanco de dor de cabeça para a publisher. Com a versão oficial de GTA 6 para PCs sequer anunciada até o momento, o ritmo veloz dos projetos não oficiais pode pressionar a Rockstar a acelerar seus planos para o PC. É esperar para ver.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
+   "text": "Parceiro\n\n26/11Não perca a Black Friday 2026 do Canaltech!Não perca: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Site mostra ao vivo progresso dos ports de GTA 6 para o PC; acompanhe\n\nPor Gabriel Cavalheiro \\| 24/11/2026 às 20:20\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg)Reprodução/Rockstar Games\n\nJogadores agora podem acompanhar **o progresso da recompilação de GTA 6 para o PC \"ao vivo\"** por meio do site PortWatchVI. O portal monitora 30 projetos ao escanear toda a internet a cada três horas e marca o avanço deles por metas.\n\nContinua após a publicidade\n\nO PortWatchVI mede o progresso do port não oficial de GTA 6 para PC por marcos. O executável jogado representa 25%, o primeiro frame do jogo rodando, 40%, e entrar no menu principal, 55%. **Atualmente, a recompilação está em 72% graças ao desenvolvedor CGBJ, que já consegue rodar e jogar o título**.\n\nRelatos dos jogadores sugerem que já é possível andar pelo mundo aberto de Leonida e interagir com NPCs. Contudo, **a experiência ainda roda a apenas 4 FPS, sem texturas ou iluminação**.\n\nO port de GTA 6 para PC tem avançado rápido, um dia após o hacker CyberLeek liberar o arquivo .exe do jogo para XBOX Series X.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nOs próximos marcos do projeto são o jogo rodar a 30 FPS (o que representa um progresso de 85%) e, por fim, **o port chegar a um nível estável e jogável (100%)**. A esperança é que o port chegue antes do lançamento oficial de GTA 6 no PC, que analistas cravam que acontecerá antes do esperado.\n\n## **GTA 6 a 60 FPS no XBOX Series? Entenda**\n\nUma das vantagens que os usuários esperam de GTA 6 no PC é o maior leque de configurações e a possibilidade de destravar o jogo dos 30 FPS nos consoles da atual geração. No entanto, um bug no Quick Resume do XBOX destravou GTA 6 para rodar a até 60 FPS sem precisar de um port para computadore s.\n\n### Fonte\n\nNotebook Check\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/-Jbwaeubjne1UWRxg-OmgBDe0jI=/1200x675/smart/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
+    "https://tl.ctcdn.com.br/8PN9WFpNqWxfHLtBDUr0h5pOmrQ=/1200x675/smart/filters:format(webp):quality(85)/ac236a17-ceae-4021-9246-e7d0f7545016.jpg",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/9Por12dqM1kDIaC3o8_eLbObHlI=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/thcHauvFF8aQLY9nPvT04V6SMmY=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
@@ -502,162 +460,143 @@
    "searches": []
   },
   {
-   "id": "figurinhascomsomvejacomofuncionaorecurso",
-   "title": "WhatsApp ganha figurinhas com som; veja como funciona o recurso",
+   "id": "egta6escondeladocrueldaindustriadosgames",
+   "title": "Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games",
    "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/24/internet-e-redes-sociais/whatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso/",
-   "published": "2026-11-24T17:16:09+00:00",
-   "summary": "O novo formato permite ouvir o áudio tocando na própria figurinha, sem abrir um arquivo separado na conversa do WhatsApp O post WhatsApp ganha figurinhas com som; veja como funciona o recurso apareceu primeiro em Olhar Digital .",
-   "score": 5.84,
+   "url": "https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/",
+   "published": "2026-11-24T22:41:22+00:00",
+   "summary": "GTA 6 promete faturar bilhões, mas desenvolvedores enfrentam demissões, jornadas excessivas e insegurança profissional. O post Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games apareceu primeiro em Olhar Digital .",
+   "score": 8.83,
    "why": [
-    "2 sites cobrindo"
+    "Em alta no Google: gta 7"
    ],
-   "also_in": [
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/whatsapp-lanca-figurinhas-com-som-sem-moldura-branca/"
-    }
-   ],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/figuinhasonoroa_blur_sticker-1024x541.jpg",
-   "text": "- Internet e Redes Sociais\n\n# WhatsApp ganha figurinhas com som; veja como funciona o recurso\n\nO novo formato permite ouvir o áudio tocando na própria figurinha, sem abrir um arquivo separado na conversa do WhatsApp\n\n[](https://olhardigital.com.br/author/valdir-antonelli/)\n\nValdir Antonelli, editado por Ana Luiza Figueiredo24/11/2026 14:16, atualizada em 24/11/2026 15:14\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nAs figurinhas sonoras já circulam entre usuários, mas a novidade ainda não tem confirmação de liberação geral. - Imagem: Mamun\\_Sheikh/Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F&title=WhatsApp+ganha+figurinhas+com+som%3B+veja+como+funciona+o+recurso%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F&text=WhatsApp+ganha+figurinhas+com+som%3B+veja+como+funciona+o+recurso%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/internet-e-redes-sociais/whatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre WhatsApp\n\nver mais\n\nO WhatsApp ampliou as possibilidades de interação nas conversas com figurinhas que combinam imagens e trechos de áudio. O formato permite compartilhar reações e memes sonoros diretamente nos chats, sem precisar enviar uma mensagem de voz separada.\n\nContinua após a publicidade\n\n**A novidade está sendo liberada para um número maior de usuários da versão beta do aplicativo, antes de um possível lançamento geral.** As figurinhas com som acrescentam uma nova dimensão aos stickers tradicionais. Além de reproduzir o áudio ao serem tocadas, elas mantêm recursos de controle de volume e respeitam as configurações de som do celular.\n\n_A indicação sobre a figurinha ajuda a reconhecer quais stickers possuem som antes de tocar para reproduzir o áudio no bate-papo._ – Imagem: Reprodução/Whatsapp\n\n## **Como funcionam as figurinhas com som?**\n\nAs figurinhas estão entre os recursos mais utilizados nas conversas pelo WhatsApp. Com o novo formato, os usuários também podem compartilhar imagens acompanhadas de pequenos trechos de áudio, tornando as reações mais expressivas em conversas individuais e grupos.\n\nLeia também\n\n- \\\\\n**Spotify está de volta após instabilidade nesta terça (24)** \\\\\n\\\\\nInternet e Redes Sociais2 min\n- \\\\\n**Chapecoense x Palmeiras: onde assistir, horário e escalações do jogo do Brasileirão** \\\\\n\\\\\nInternet e Redes Sociais2 min\n- \\\\\n**Manchester City x Napoli: onde assistir, horário e escalações do jogo da Champions League** \\\\\n\\\\\nInternet e Redes Sociais2 min\n\nPara ouvir o som, basta tocar sobre a figurinha na conversa. Um ícone de áudio exibido sobre a imagem ajuda a identificar quais stickers têm som. Diferentemente de uma mensagem de voz convencional, o áudio fica associado à própria figurinha, sem precisar abrir um arquivo separado.\n\nA novidade gerou comentários sobre o possível excesso de sons em conversas de grupo. Entre as preocupações mencionadas nas redes sociais está a possibilidade de que o envio frequente de figurinhas sonoras torne os bate-papos mais barulhentos. No entanto, a reprodução não acontece automaticamente quando o usuário abre uma conversa. É necessário tocar sobre a figurinha para ouvir o conteúdo, o que evita que sons sejam reproduzidos sem a ação do destinatário.\n\nSegundo o WABetaInfo, tanto a imagem quanto a faixa de áudio são protegidas pela criptografia de ponta a ponta do WhatsApp. Isso significa que o conteúdo conta com a mesma proteção aplicada às mensagens trocadas pelo aplicativo.\n\nO funcionamento também considera as configurações de som do aparelho. Quando o celular está no modo silencioso, as figurinhas são reproduzidas sem áudio. O usuário também pode silenciar uma figurinha pelo ícone de volume exibido sobre ela. A preferência fica registrada para as próximas reproduções, até que seja alterada.\n\n_As figurinhas sonoras juntam imagem e áudio no mesmo sticker, vinculando o som à própria figurinha de um jeito diferente de uma mensagem de voz._ – Imagem: Samuel Boivin/Shutterstock\n\n## **WhatsApp também prepara criação de figurinhas personalizadas**\n\nAlém de compartilhar figurinhas sonoras, os usuários poderão contar com ferramentas para criar seus próprios stickers com áudio. De acordo com o WABetaInfo, a proposta é permitir a combinação de uma figurinha com um trecho de som para formar um novo conteúdo.\n\nUma das possibilidades mencionadas pela publicação é transformar um vídeo em uma figurinha animada e associá-la a um áudio. Dessa forma, o usuário poderá criar reações personalizadas que reúnam movimento e som, em vez de depender apenas dos modelos disponíveis.\n\nEssa possibilidade amplia o uso das figurinhas como forma de comunicação nas conversas. Um meme, uma reação ou uma animação poderá transmitir uma expressão acompanhada de áudio, sem que seja necessário gravar ou encaminhar uma mensagem de voz.\n\nContinua após a publicidade\n\n## Recurso ainda está em fase de testes\n\nA ampliação da distribuição permite que mais pessoas experimentem as figurinhas com áudio antes de um lançamento oficial. Usuários de diferentes partes do mundo já começaram a compartilhar capturas de tela da novidade nas redes sociais.\n\nMesmo usuários que ainda não conseguem criar as figurinhas com som podem utilizar as criadas por terceiros. Em testes realizados pelo **Olhar Digital**, o envio e o recebimento das figurinhas com som funcionaram tanto em celulares Android quanto iOS. Ainda assim, o WhatsApp não confirmou uma data para disponibilizar o recurso a todos os usuários.\n\nValdir Antonelli\n\nValdir Antonelli é jornalista com especialização em marketing digital e consumo.\n\nVer todos os artigos →\n\nAna Luiza Figueiredo\n\nAna Figueiredo é editora de tecnologia do Olhar Digital. É formada em Jornalismo pela Universidade Federal de Uberlândia (UFU).\n\nVer todos os artigos →\n\nTags: Figurinhas com som stickers WhatsApp\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F&title=WhatsApp+ganha+figurinhas+com+som%3B+veja+como+funciona+o+recurso%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Finternet-e-redes-sociais%2Fwhatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso%2F&text=WhatsApp+ganha+figurinhas+com+som%3B+veja+como+funciona+o+recurso%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/internet-e-redes-sociais/whatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nInternet e Redes SociaisSpotify está de volta após instabilidade nesta terça (24)Ana Luiza Figueiredo \\\\\n\\\\\nInternet e Redes SociaisJogos de hoje (24/11/26): onde assistir futebol ao vivo e horários das partidasRodrigo Mozelli \\\\\n\\\\\nInternet e Redes SociaisChapecoense x Palmeiras: onde assistir, horário e escalações do jogo do BrasileirãoMatheus Labourdette \\\\\n\\\\\nInternet e Redes SociaisManchester City x Napoli: onde assistir, horário e escalações do jogo da Champions LeagueMatheus Labourdette",
+   "also_in": [],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/Cover_Art_Poster-1-1-748x1024.jpg",
+   "text": "- Games e Consoles\n\n# Sucesso bilionário de GTA 6 esconde lado cruel da indústria dos games\n\nGTA 6 promete faturar bilhões, mas desenvolvedores enfrentam demissões, jornadas excessivas e insegurança profissional.\n\n[](https://olhardigital.com.br/author/flavia-correia/)\n\nFlavia Correia24/11/2026 19:41, atualizada em 24/11/2026 19:53\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nPor trás do sucesso bilionário de GTA 6, desenvolvedores enfrentam jornadas exaustivas, insegurança profissional e desafios na luta por direitos. - Crédito: Imagem gerada por IA\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&title=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&text=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nO lançamento do Grand Theft Auto VI (GTA 6) é um dos acontecimentos mais esperados da história dos videogames. Depois de mais de uma década de desenvolvimento, a expectativa é que o novo título da Rockstar Games movimente bilhões. Mas, por trás dessa produção de cifras astronômicas, existe uma realidade...\n\n### Conteúdo exclusivo para assinantes\n\nEste artigo é exclusivo para membros do **Clube Olhar Digital**. Assine o plano Prime e tenha acesso ilimitado.\n\n- Navegue sem anúncios\n- Conteúdos e newsletters exclusivas\n- Cursos gratuitos e descontos em cursos Prime\n- Comunidade ativa e eventos especiais\n\nAssinar Prime Já sou assinante — Entrar\n\nPagamento seguro Acesso imediato Cancele quando quiser\n\nFlavia Correia\n\nFlávia Correia é jornalista do Olhar Digital, cobrindo Ciência e Espaço.\n\nLeia também\n\n- \\\\\n**Switch chega a 157,2 milhões e fica a 2,8 milhões do PS2, mas o relógio corre contra o recorde** \\\\\n\\\\\nGames e Consoles4 min\n- \\\\\n**GTA 6 recebe patch 01.002.002 com 7 correções: crashes, autosave e ligações que travavam a história** \\\\\n\\\\\nGames e Consoles3 min\n- \\\\\n**Beyond the Dark: Nightwatch review: o terror que só funciona a dois no Switch 2** \\\\\n\\\\\nGames e Consoles13 min\n\nVer todos os artigos →\n\n**Amazon Prime também é feito para jogadores!**\n\nTodo mês, obtenha itens exclusivos, jogos grátis,\numa assinatura gratuita na Twitch.tv e muito mais\ncom sua assinatura **Prime**.\nClique **aqui** para um teste gratuito de 30 dias.\n\nTags: Games GTA GTA 6 indústria de games Mercado de games\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&title=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F24%2Fgames-e-consoles%2Fsucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games%2F&text=Sucesso+bilion%C3%A1rio+de+GTA+6+esconde+lado+cruel+da+ind%C3%BAstria+dos+games%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/24/games-e-consoles/sucesso-bilionario-de-gta-6-esconde-lado-cruel-da-industria-dos-games/ \"Compartilhar por email\")\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nGames e ConsolesPreview abxylute M6 — hands-on do protótipoChibi Martins \\\\\n\\\\\nGames e ConsolesLogitech G lança teclado G316 X 75 no Brasil com 8 kHz, switches hot-swappable e display LED por R$ 584,90Eduarda Saturnino \\\\\n\\\\\nGames e ConsolesGTA VI na Twitch: Brasil entra no top 5 de audiência e Alanzoka é o 2º maior streamer do jogo no mundoEduarda Saturnino \\\\\n\\\\\nGames e ConsolesStreamer zera GTA 6 em menos de 40 horas e reivindica recorde mundialRachele Victoria",
    "text_source": "firecrawl",
    "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/figuinhasonoroa_blur_sticker-1024x541.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/whatsapp-1-1-1.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2025/07/valdir-antonelli-150x150.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/whatsapp-1-1-1.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/figuinhasonoroa_blur_sticker-1024x541.jpg",
-    "https://olhardigital.com.br/wp-content/uploads/2025/11/spotifys.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Chapecoense-x-Palmeiras-scaled.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2025/09/manchester-city-x-napoli.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/whatsapp-1-1024x681.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2022/10/analuiza-150x150.png",
-    "https://img.odcdn.com.br/wp-content/uploads/2025/11/spotifys-365x232.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2024/06/futebol-streaming-365x232.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Chapecoense-x-Palmeiras-365x232.jpg"
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/Cover_Art_Poster-1-1-748x1024.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/Contraste-entre-luxo-e-desenvolvimento-de-games-GTA.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2022/08/foto-flavia-perfil-1-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Contraste-entre-luxo-e-desenvolvimento-de-games-GTA.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Templates-Imagens-para-matria-Portal-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Comprimir-IMGs-4.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/ca89b23ec9b92b21fafcd6ea657731100c7bf85277e88719bc924b4e3457d271.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/imagem_1200px-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Comprimir-IMGs-1-5-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/OD-Templates-Imagens-para-matria-Portal-2-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Vice_City_04-1-365x232.jpg"
    ],
    "videos": [],
    "keywords": [
-    "WhatsApp",
-    "ganha",
-    "figurinhas"
+    "GTA",
+    "6"
    ],
    "searches": []
   },
   {
-   "id": "amentodahistoriadoplaystationvejanumeros",
-   "title": "GTA 6 é o maior lançamento da história do PlayStation; veja números",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/gta-6-e-o-maior-lancamento-da-historia-do-playstation-veja-numeros/",
-   "published": "2026-11-24T14:28:00+00:00",
-   "summary": "GTA 6 é o maior lançamento da história do PlayStation; veja números A Sony Interactive Entertainment (SIE) divulgou na segunda-feira (23) que GTA 6 foi o maior lançamento de toda a história do PlayStation. De acordo com os dados apresentados no PS Blog, a obra já atraiu 39 milhões de jogadores desde sua estreia . Apenas no título já são acumuladas 683 milhões de horas de gameplay — uma média de 17",
-   "score": 5.67,
+   "id": "compilationprojectleonidatakedowntaketwo",
+   "title": "GTA VI PC recompilation project shut down by Take-Two",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+   "published": "2026-11-24T22:00:24+00:00",
+   "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build […]",
+   "score": 8.78,
    "why": [
-    "2 sites cobrindo"
+    "Em alta no Google: gta 7"
    ],
-   "also_in": [
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony/"
-    }
-   ],
-   "image": "https://tl.ctcdn.com.br/vqzRUSUXncPqEWb8Jmu5moH3BU0=/1200x675/smart/filters:format(webp):quality(85)/38f20498-751f-4c1f-939b-497b79a658df.jpg",
-   "text": "GTA 6 é o maior lançamento da história do PlayStation; veja números A Sony Interactive Entertainment (SIE) divulgou na segunda-feira (23) que GTA 6 foi o maior lançamento de toda a história do PlayStation. De acordo com os dados apresentados no PS Blog, a obra já atraiu 39 milhões de jogadores desde sua estreia . Apenas no título já são acumuladas 683 milhões de horas de gameplay — uma média de 17,5 horas por usuário . Além disso, a companhia japonesa também afirmou que o novo Grand Theft Auto foi o primeiro game jogado em 70% dos videogames vendidos recentemente . Até o momento, a Microsoft ou a divisão XBOX não se pronunciaram sobre o impacto do lançamento em suas plataformas. Neste caso, é ainda mais curioso — já que, além do XBOX Series, a obra também está disponível em nuvem no XBOX One via XBOX Cloud Gaming . Já no PS5, a Sony celebra: os números foram maiores do que todos os demais recordes passados, o que inclui experiências multiplayer, free-to-play e suas próprias estreias de estúdios first-party. Na prática, é uma afirmação estrondosa que solidifica a aclamação que a Rockstar tem recebido. A desenvolvedora também comemora as vendas, já que GTA 6, apenas na pré-venda, alcançou a marca de 32,5 milhões de unidades vendidas — muito mais do que o total de Sekiro: Shadows Die Twice (2019), Zelda: Ocarina of Time (1998) e Persona 5 (2016) . Recordes de Grand Theft Auto VI A Rockstar é uma máquina de produzir sucessos e o seu novo título mostra isso de todas as formas. Não apenas o jogo conseguiu vendas absolutas, mas também a trilha sonora bateu recordes em plataformas de streaming, a exemplo do Spotify . Além disso, o game foi um dos mais assistidos de todos os tempos em redes como a Twitch — o que é um feito e tanto. Só no YouTube, por exemplo, foram 40 bilhões de visualizações e ele conquistou um lugar de destaque em todas as frentes em que foi inserido. Inclusive, para celebrar o lançamento, o PS5 Pro ganhou edição especial incrível de GTA 6, mas Sony não vai vendê-la . Assistir ao vídeo",
+   "also_in": [],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was designed to translate a leaked GTA VI Xbox build to run natively on Windows. Cyberleek, the leaker who posted multiple GTA VI gameplay videos over the summer, published a full Xbox build of the game earlier this week. The leak has kicked recompilation efforts up a notch, as modders race to reverse-engineer the game's code and rebuild it into native PC code. Some have manag … Read the full story at The Verge.",
    "text_source": "rss",
    "images": [
-    "https://tl.ctcdn.com.br/vqzRUSUXncPqEWb8Jmu5moH3BU0=/1200x675/smart/filters:format(webp):quality(85)/38f20498-751f-4c1f-939b-497b79a658df.jpg",
-    "https://i.ytimg.com/vi/rz1B4B2yBZY/hqdefault.jpg"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
    ],
-   "videos": [
-    "https://www.youtube.com/watch?v=rz1B4B2yBZY"
+   "videos": [],
+   "keywords": [
+    "VI",
+    "PC",
+    "Take-Two"
    ],
+   "searches": []
+  },
+  {
+   "id": "nemgta6vejaondeencontraroeastereggderdr2",
+   "title": "Como conseguir o chapéu de Arthur Morgan em GTA 6? Veja onde encontrar o easter egg de RDR 2",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/voxel/como-conseguir-o-chapeu-de-arthur-morgan-em-gta-6-veja-onde-encontrar-o-easter-egg-de-rdr-2/",
+   "published": "2026-11-24T21:15:00+00:00",
+   "summary": "",
+   "score": 8.74,
+   "why": [
+    "Em alta no Google: gta 7"
+   ],
+   "also_in": [],
+   "image": "https://www.estadao.com.br/resizer/v2/R7ACHZWOAFE5JO2UFYK72L5DVY.jpg?quality=80&auth=55c88958a39b193e3eec5c6799a11d22097ac1f3b462b866cc347daffced21bb&width=710",
+   "text": "Há tempos, fãs de GTA 6 levantam a teoria de que Jason Duval, um dos protagonistas do jogo, seria descendente de Arthur Morgan, de Red Dead Redemption 2 . As comparações entre os personagens ganharam força por conta de suas aparências e comportamentos — embora a Rockstar ainda não tenha confirmado qualquer ligação entre eles. Embora a teoria continue sem comprovação, GTA 6 inclui algumas referências ao universo de Red Dead Redemption 2 . Uma delas é o próprio chapéu de Arthur Morgan, um belo easter egg para os fãs que pode ser encontrado e comprado durante a aventura por Leonida. O item não aparece com o nome do protagonista de Red Dead Redemption 2 , mas pode ser adquirido por Jason e Lucia e adicionado permanentemente ao guarda-roupa dos personagens. Confira abaixo onde encontrar o chapéu! Chapéu de Arthur Morgan pode ser encontrado em venda de garagem em GTA 6. Foto: Rockstar/Divulgação Como conseguir o chapéu de Arthur Morgan em GTA 6? O chapéu de Arthur está disponível em uma venda de garagem ao sul de Port Gellhorn. O local pode ser identificado pelos balões que ficam flutuando do lado de fora, indicando que há produtos à venda. Ao chegar nessa garagem, procure um sofá no fundo do espaço. Em cima dele, próximo a um estojo de guitarra, estará o chapéu de couro marrom usado por Arthur Morgan em Red Dead Redemption 2 . O chapéu de Arthur está disponível em uma venda de garagem ao sul de Port Gellhorn. Foto: Rockstar/Divulgação No jogo, o acessório aparece com o nome “Chapéu de Cowboy Genuíno”, na variação de couro marrom. Basta conversar com a vendedora para comprar o item, cujo preço pode variar: em alguns relatos, ele custa US$ 35 — mas outros jogadores encontraram valores diferentes. Depois da compra, o chapéu fica disponível permanentemente no guarda-roupa e no inventário de roupas dos protagonistas. Durante a interação, a vendedora ainda comenta que não sabe de onde veio o acessório — mas certamente é uma pequena referência ao Red Dead Redemption 2 . GTA 6 também tem outros easter eggs de Red Dead Redemption 2 O chapéu de Arthur Morgan não é a única referência a Red Dead Redemption 2 encontrada em GTA 6 . No escritório de Brian Heder, na marina de Brian, em Key Lento, os jogadores podem encontrar o livro fictício The Cowboy’s Prayer Is to Die Young , escrito por Elijah G. Rubens. A obra acompanha a história de Rust McCreary e menciona Flaco Hernández, personagem que Arthur pode encontrar em Red Dead Redemption 2 . O texto descreve a morte de Flaco na neve, com um tiro na testa, e também cita regiões como New Austin, Blackwater, Armadillo, Ambarino e Chuparosa. Outra homenagem de RDR 2 que aparece em GTA 6 pode ser encontrada no campo de minigolfe Frontier Adventure Golf, em Waning Sands. Foto: Rockstar/Divulgação Outra homenagem aparece no campo de minigolfe Frontier Adventure Golf, em Waning Sands. Por lá, um chihuahua carrega um pequeno boneco de Arthur Morgan, chamado “RIDE ‘EM CHIHUAHUA” e descrito como um cachorro minúsculo montado por um caubói ainda menor. Além disso, GTA 6 também apresenta placas de veículos com o nome New Austin, uma das regiões de Red Dead Redemption 2 . Apesar das referências, os detalhes não confirmam que as duas franquias compartilham o mesmo universo, especialmente porque existem diferenças entre os mundos apresentados nos jogos. Por enquanto, o mais seguro é interpretar essas aparições como homenagens da Rockstar aos fãs de Red Dead Redemption 2 . E você, já encontrou algum desses easter eggs em GTA 6 ? Conte pra gente nas redes sociais do VOXL !",
+   "text_source": "rss",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/R7ACHZWOAFE5JO2UFYK72L5DVY.jpg?quality=80&auth=55c88958a39b193e3eec5c6799a11d22097ac1f3b462b866cc347daffced21bb&width=710",
+    "https://www.estadao.com.br/resizer/v2/UGYIRES7VFF73LRKGKNBPRR7LE.jpg?quality=80&auth=7f91d83310dc0d407f45c42ca04f0f3aa3431129b331699e1e3db79b2a238ff2&width=710",
+    "https://www.estadao.com.br/resizer/v2/RIWWUCOZT5BBRNQP4XUTPAYXSA.jpg?quality=80&auth=18a4ae04217159c77be9239e84f956325018122b4ece0c0a5301fe681c338ff1&width=710"
+   ],
+   "videos": [],
+   "keywords": [
+    "Arthur",
+    "Morgan",
+    "GTA"
+   ],
+   "searches": []
+  },
+  {
+   "id": "entarofocostaminaevidaemgta6confiraoguia",
+   "title": "Como aumentar o foco, stamina e vida em GTA 6? Confira o guia",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/voxel/como-aumentar-o-foco-stamina-e-vida-em-gta-6-confira-o-guia/",
+   "published": "2026-11-24T20:15:00+00:00",
+   "summary": "",
+   "score": 8.67,
+   "why": [
+    "Em alta no Google: gta 7"
+   ],
+   "also_in": [],
+   "image": "https://www.estadao.com.br/resizer/v2/FNSLWUJBNRADFPTEMV57XMCVSY.jpg?quality=80&auth=7d0df796ab38d7ed7059ec6b10fa01df87c8ff679871b7aeac3c97c1a1ab5f86&width=710",
+   "text": "GTA 6 finalmente está disponível e jogadores do mundo inteiro já estão acompanhando a jornada de Jason e Lucia em Vice City. Com tantas atividades espalhadas pelo mapa, também é importante ficar de olho nos atributos dos protagonistas para aproveitar melhor o gameplay. Entre as dúvidas mais comuns estão as formas de aumentar a vida, a stamina e o foco dos personagens. Cada um desses atributos impacta diretamente o desempenho durante combates, fugas e outras atividades do jogo. Pensando nisso, o VOXL preparou um pequeno guia para te explicar como funciona o aplicativo de condicionamento físico de GTA 6 e o que você precisa fazer para desenvolver cada um desses atributos. Como usar o app fitness de GTA 6? O aplicativo de condicionamento físico fica disponível no celular dos personagens e permite acompanhar os níveis de vida, stamina e foco de Jason e Lucia. Embora alguns alimentos e bebidas ofereçam melhorias temporárias, é necessário realizar atividades específicas para evoluir esses atributos permanentemente. Outros minijogos e atividades também ajudam a evoluir essa habilidade, com ganhos que variam conforme a modalidade. Confira algumas das melhores opções para aumentar o foco de Jason e Lucia: Pesca — Cada peixe capturado concede aproximadamente 5% de progresso. Desafios no estande de tiro — Cada desafio oferece pelo menos 4% de foco, mesmo quando não é concluído com sucesso. Meditação — Completar uma sessão em um dos locais específicos rende cerca de 12% de progresso. Bilhar — Disputar uma partida de bilhar contra um NPC aumenta o foco em aproximadamente 8%. O treino livre não conta para a evolução. Minigolfe — Completar um desafio de nove buracos concede cerca de 10% de foco. Combates contra inimigos — Dependendo do perfil criminoso do personagem, acertar pontos fracos ou realizar tiros na cabeça pode render 1% por disparo. O ganho depende do tipo de personagem e de o adversário ser violento contra você. Lembrando que atacar civis aleatoriamente não aumenta o atributo. E você, já está jogando GTA 6 ? Conta pra gente nas redes sociais do VOXL o que está achando da experiência com Jason e Lucia!",
+   "text_source": "rss",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/FNSLWUJBNRADFPTEMV57XMCVSY.jpg?quality=80&auth=7d0df796ab38d7ed7059ec6b10fa01df87c8ff679871b7aeac3c97c1a1ab5f86&width=710"
+   ],
+   "videos": [],
+   "keywords": [
+    "GTA",
+    "6",
+    "Confira"
+   ],
+   "searches": []
+  },
+  {
+   "id": "mentodahistoriadaplaystationconfirmasony",
+   "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony/",
+   "published": "2026-11-24T19:15:00+00:00",
+   "summary": "",
+   "score": 8.61,
+   "why": [
+    "Em alta no Google: gta 7"
+   ],
+   "also_in": [],
+   "image": "https://www.estadao.com.br/resizer/v2/7V2H3NXWRZFNXIA4XIOKUIIRSQ.jpg?quality=80&auth=b407ac11a3358153753f05b73a899c57339881e144a4c3107ccc7f609a676772&width=710",
+   "text": "GTA 6 finalmente chegou ao PS5 e Xbox Series X|S na última quinta-feira (19), reunindo milhões de jogadores ao redor do mundo. Além da grande procura pelo novo jogo da Rockstar, a sequência também conquistou uma recepção positiva no Metacritic, tornando-se o único título do século XXI a alcançar média de 99 pontos no agregador . Agora, a Sony confirmou mais um marco para a aventura de Jason e Lucia: GTA 6 se tornou o maior lançamento da história da PlayStation . Segundo a empresa, mais de 39 milhões de jogadores já aproveitaram o game no PS5 desde a estreia. Os números foram divulgados em uma publicação no blog oficial da PlayStation , que também revelou recordes de horas jogadas e consoles conectados durante o período de lançamento. A marca certamente reforça o desempenho comercial do título, que já havia estabelecido recordes de vendas logo no primeiro dia. 39 milhões de jogadores já aproveitaram GTA 6 no PS5 Segundo a Sony, mais de 39 milhões de jogadores únicos experimentaram GTA 6 no PS5 desde o lançamento. A empresa classificou o resultado como “o maior lançamento da história do PlayStation”, considerando as três décadas e cinco gerações de consoles da marca. Os dados divulgados pela companhia consideram o período entre a estreia, em 19 de novembro, e o dia 22. Nesse intervalo, os jogadores acumularam 683 milhões de horas de gameplay no console, com uma média de 17,4 horas explorando o estado de Leonida por pessoa. A Sony também confirmou que GTA 6 estabeleceu um novo recorde de jogadores simultâneos em um único jogo na história do PlayStation. A marca superou os números anteriores de títulos multiplayer, gratuitos e até mesmo experiências para um jogador. Outro dado destacado pela empresa foi o número de consoles conectados. Durante o período de lançamento, a PlayStation registrou seu maior volume de PS5 online em um único dia desde a chegada do console, desconsiderando o período de festas de fim de ano. Além disso, GTA 6 foi o primeiro jogo executado em 70% dos novos PS5 conectados entre a estreia e 22 de novembro. GTA 6 já vendeu mais de 32 milhões de cópias, segundo Take-Two GTA 6 já vendeu mais de 32 milhões de cópias, segundo Take-Two. Foto: Rockstar/Divulgação O desempenho também acompanha os números divulgados anteriormente pela Rockstar e pela Take-Two . As empresas afirmaram na última sexta (20) que GTA 6 vendeu mais de 32 milhões de cópias em pré-venda e arrecadou US$ 3,79 bilhões no primeiro dia. De acordo com a publisher, o resultado representa um novo recorde de estreia para um produto de entretenimento em qualquer mídia. A empresa também destacou a recepção da crítica, com o jogo alcançando “aclamação universal” e respeitáveis 99 pontos de média no Metacritic. Para se ter noção do feito, GTA 5 arrecadou US$ 1 bilhão nos primeiros três dias de disponibilidade quando foi lançado em 2013. Já Vingadores: Ultimato , um dos maiores sucessos do cinema, levou cinco dias para atingir a mesma marca mundialmente. A Sony aproveitou a publicação para agradecer aos jogadores e parabenizar a Rockstar pelo resultado. “Obrigado por fazer parte deste momento”, declarou a empresa, que também destacou a parceria entre as duas companhias — iniciada ainda na época de GTA 3 no PlayStation 2. E você, já está se aventurando por Leonida em GTA 6 ? Conte nas redes sociais do VOXL o que está achando do novo jogo da Rockstar!",
+   "text_source": "rss",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/7V2H3NXWRZFNXIA4XIOKUIIRSQ.jpg?quality=80&auth=b407ac11a3358153753f05b73a899c57339881e144a4c3107ccc7f609a676772&width=710"
+   ],
+   "videos": [],
    "keywords": [
     "6",
-    "PlayStation"
-   ],
-   "searches": []
-  },
-  {
-   "id": "roadstervoadorolheparaoqueestadentrodele",
-   "title": "Esqueça o Tesla Roadster voador: olhe para o que está dentro dele",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/mercado/esqueca-o-tesla-roadster-voador-olhe-para-o-que-esta-dentro-dele/",
-   "published": "2026-11-24T19:18:23+00:00",
-   "summary": "Esqueça o Tesla Roadster voador: olhe para o que está dentro dele Uma base de testes da SpaceX no Texas foi palco de uma cena incomum: um veículo subiu uma rampa curva até ficar de cabeça para baixo , preso à pista por sucção . Na sequência, saltou, girou no ar e pousou com firmeza, após sobrevoar um Cybertruck e outros modelos da marca. Era a demonstração do novo Tesla Roadster, transmitida ao vi",
-   "score": 4.97,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Co59l54T0im5QJBO3q2Akt9jKWA=/1200x675/smart/filters:format(webp):quality(85)/46bf208a-2bc3-443e-ae63-34ba4b0fae0e.png",
-   "text": "Esqueça o Tesla Roadster voador: olhe para o que está dentro dele Uma base de testes da SpaceX no Texas foi palco de uma cena incomum: um veículo subiu uma rampa curva até ficar de cabeça para baixo , preso à pista por sucção . Na sequência, saltou, girou no ar e pousou com firmeza, após sobrevoar um Cybertruck e outros modelos da marca. Era a demonstração do novo Tesla Roadster, transmitida ao vivo na rede social X. Pelo cronômetro da própria montadora, o esportivo atingiu a marca de 0 a 100 km/h em 0,81 segundo. Elon Musk celebrou o feito com o anúncio de que o futuro finalmente ganhou carros voadores. Antes de qualquer entusiasmo desmedido, convém manter os pés no chão. O Roadster surgiu pela primeira vez em 2017, com entregas prometidas para 2020. Levantamento do portal Electrek aponta pelo menos seis adiamentos de produção e sete datas de apresentação oficial até agora. A nova previsão mira 2028. Chris Rosales, analista da plataforma Edmunds e presente no local, constatou que a unidade em voo operava via controle remoto, sem condutor a bordo. A própria fabricante admite a ausência de homologação da versão Rocket para vias públicas. O portal The Verge resumiu o evento como um espetáculo acrobático à parte do lançamento formal de um produto de prateleira. A leitura procede, mas cumpre exatamente o papel da ousadia corporativa. A quebra de paradigmas compõe a assinatura das companhias de Musk. A exibição prática de um conceito até então improvável mobiliza consumidores, desafia concorrentes e instiga mentes criativas. Esta análise, contudo, dispensa os holofotes sobre o chassi do veículo. O valor real repousa na engenharia instalada debaixo da lataria. O que há debaixo do capô O elemento mais curioso concentra-se nos propulsores de gás frio ( cold gas thrusters ). O mecanismo não queima combustível fóssil e opera a partir de ar comprimido armazenado em dois tanques de altíssima pressão , com cerca de 250 kg de ar distribuídos por dez bocais, segundo apuração técnica do The Drive. O próprio sistema recarrega os reservatórios. A Tesla estima a geração de empuxo entre quatro e cinco vezes superior ao limite de atrito dos pneus contra o asfalto. Trata-se de uma tecnologia nascida no ambiente dos foguetes orbitais, já antecipada por Musk em 2018 como o pacote SpaceX para a linha automotiva. O segundo pilar técnico reside nas ventoinhas de fluxo reverso, capazes de gerar até 2 G de força descendente por sucção aerodinâmica , elemento responsável por manter o veículo colado à pista de ponta-cabeça. Por fim, a arquitetura digital adota o controle integral por atuadores eletrônicos (drive-by-wire): volante, pedais de freio e acelerador dispensam qualquer ligação mecânica física com as rodas ou cilindros mestres. Todos os comandos operam por pulsos digitais. Isoladas, nenhuma dessas soluções representa novidade absoluta para a engenharia moderna. A relevância reside na integração cruzada de ferramentas criadas para outros ecossistemas . Uma empresa de exploração espacial cedeu ativos intelectuais e soluções físicas a uma montadora de carros elétricos. Essa circulação fluida de conhecimento entre setores distintos constitui a verdadeira entrega da demonstração. O modelo replica o método científico do conceituado Instituto Weizmann, em Israel. Por lá, cientistas de especialidades antagônicas ocupam o mesmo campus físico e compartilham áreas de convivência diária, em uma rede com mais de 120 núcleos interdisciplinares. A consulta direta entre um físico e o laboratório vizinho de biologia celular representa a regra do cotidiano acadêmico, nunca a exceção. A aplicação prática fora das pistas As ventoinhas de sucção ilustram esse potencial. O monitoramento de torres de telecomunicações, pás de turbinas eólicas ou cascos de grandes embarcações ainda depende de equipes humanas expostas a riscos severos em trabalho com cordas. A instalação dessa tecnologia em robôs modulares com aderência magnética ou por vácuo reduz o custo operacional e elimina o risco à vida humana. O mesmo raciocínio aplica-se aos propulsores de gás frio. Veículos aéreos não tripulados e drones de logística enfrentam instabilidade severa sob rajadas de vento em corredores urbanos. Um sistema autônomo de estabilização pneumática, livre de faíscas e sem queima de combustível inflamável , atende com precisão a drones de carga, veículos autônomos de resgate e equipamentos que operam em refinarias ou atmosferas explosivas. A arquitetura by-wire acoplada à teleoperação remota aponta para a mesma fronteira. A automação completa já remodela a extração mineral em minas profundas e a lida de maquinários no campo, segmentos em que a escala geográfica do Brasil exige autonomia com segurança e controle à distância. A Tesla não precisa liderar essas frentes industriais. Quando uma tecnologia ganha tração em um produto de apelo midiático global, a curva de custo despenca, a cadeia de suprimentos se expande e a adoção por terceiros acelera . O fenômeno repete a trajetória das células de íon de lítio, que deixaram os computadores portáteis e telefones celulares para viabilizar a eletrificação do transporte terrestre. A dúvida central dispensa o cumprimento do cronograma de 2028: a corrida real pertence a quem souber capturar essas patentes e aplicá-las em gargalos produtivos negligenciados pelo mercado. O histórico de promessas de entrega do modelo acumula quase uma década de atraso. Ainda assim, a ambição de quem mira a quebra de recordes e entrega metade do caminho supera o marasmo de quem nada projeta. O ecossistema brasileiro de adaptação O Brasil detém capacidade ímpar de adaptação tecnológica. A engenharia local desenvolveu os motores bicombustíveis flex fuel, estruturou a solidez do ecossistema de liquidação instantânea do Pix e permitiu à Embrapa converter o solo ácido do cerrado na principal potência agropecuária exportadora do planeta. Capacidade técnica e massa cinzenta existem com sobra. O gargalo reside na timidez em aproximar indústrias complementares e no medo de realizar testes públicos com margem para erro controlado. A entrega operacional costuma ser alta, mas a disposição ao risco criativo ainda é comedida. Antes do acionamento dos propulsores no Texas, o aviso aos espectadores reforçou que a margem de falha existia e que a plateia ocupava uma zona segura. A postura carrega uma lição objetiva: inovação real exige testes práticos, identificação rápida de gargalos e reinício imediato. Para líderes, engenheiros e empreendedores, cinco diretrizes orientam essa esteira: Priorize a infraestrutura tecnológica, não o fetiche do produto. O chassi do veículo pode sofrer novos adiamentos no cronograma comercial, mas os propulsores pneumáticos, sensores e ventoinhas de alta sucção permanecem como ativos reais de engenharia. Cruze fronteiras industriais. As respostas para as dores do agronegócio encontram respaldo frequente na aviônica, assim como os desafios da logística terrestre dialogam diretamente com a ciência espacial. Ancore a inovação em dores estruturais do país. Malhas viárias degradadas, conectividade intermitente em rodovias, distâncias continentais e vastas áreas rurais sem infraestrutura física formam mercados gigantescos para quem desenvolve automação robusta. Valide protótipos de forma ágil com o usuário final. Erros em estágios iniciais de desenvolvimento custam barato e aceleram o aprendizado da equipe técnica. Preze pelo rigor no cumprimento de prazos comerciais. A capacidade visionária merece admiração e estudo; o desprezo pelos cronogramas contratuais deve ficar de fora da gestão séria de negócios. O futuro da mobilidade e da automação não será decidido por acrobacias em pistas de teste, mas pela capacidade de converter conceitos audaciosos em soluções escaláveis para a economia real. Olhar além da casca do Roadster é reconhecer que as tecnologias mais valiosas do mercado muitas vezes já existem, apenas aguardam a aplicação certa . Para a indústria nacional, o desafio não é inventar a roda do zero, mas conectar as pontas da ciência com ousadia e disciplina técnica para transformar a realidade da ponta. Assistir ao vídeo",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/Co59l54T0im5QJBO3q2Akt9jKWA=/1200x675/smart/filters:format(webp):quality(85)/46bf208a-2bc3-443e-ae63-34ba4b0fae0e.png",
-    "https://tl.ctcdn.com.br/gTbgXkzczNtczDVKE3LRDCxUsFU=/0x0/filters:format(webp):quality(85)/005439b6-7de1-4540-8122-46fb1202aa7d.png",
-    "https://tl.ctcdn.com.br/ll8usfl2AfnvE7nR1i2fMizp_rg=/0x0/filters:format(webp):quality(85)/d96b918d-2e5e-4c82-b954-1cbc99f79698.png",
-    "https://i.ytimg.com/vi/7p5LxFdc-Qg/hqdefault.jpg"
-   ],
-   "videos": [
-    "https://www.youtube.com/watch?v=7p5LxFdc-Qg"
-   ],
-   "keywords": [
-    "Tesla",
-    "Roadster"
-   ],
-   "searches": []
-  },
-  {
-   "id": "consultarseusarquivoseatedadosdacarteira",
-   "title": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/",
-   "published": "2026-11-24T19:15:03+00:00",
-   "summary": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira O Google anunciou nesta segunda-feira (23) que o Modo IA da Pesquisa poderá acessar informações do Google Drive, da Carteira do Google e do Gemini para personalizar suas respostas. A novidade permite que a ferramenta considere documentos pessoais, hábitos de consumo e conversas anteriores ao responder a uma pesquisa. A integraçã",
-   "score": 4.96,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/d0iloAPrat_BTRTS7k6SNBpX580=/1200x675/smart/filters:format(webp):quality(85)/7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png",
-   "text": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira O Google anunciou nesta segunda-feira (23) que o Modo IA da Pesquisa poderá acessar informações do Google Drive, da Carteira do Google e do Gemini para personalizar suas respostas. A novidade permite que a ferramenta considere documentos pessoais, hábitos de consumo e conversas anteriores ao responder a uma pesquisa. A integração com a Carteira do Google já começou a ser liberada, enquanto o suporte ao Drive e ao Gemini chegará nas próximas semanas. Os três aplicativos passam a integrar a Inteligência Personalizada , recurso que já utiliza informações do Gmail, Google Agenda e Google Fotos. A conexão com os aplicativos é opcional e depende da autorização do usuário. A Inteligência Personalizada da Pesquisa está disponível no Brasil, mas o Google ainda não confirmou quando as novas integrações chegarão ao país. Como o Google vai usar seus dados nas pesquisas? Com acesso à Carteira do Google (Google Wallet) , o Modo IA poderá analisar informações sobre transações financeiras, identificar oportunidades de reduzir gastos e auxiliar no planejamento do orçamento pessoal. Também será possível pedir sugestões para aproveitar benefícios dos cartões de crédito cadastrados na plataforma, como cashback, pontos e vantagens relacionadas a viagens. Segundo o Google, o Modo IA terá acesso apenas para leitura dessas informações, sem permissão para movimentar dinheiro ou realizar investimentos . A conexão de contas bancárias à Carteira por meio do serviço Plaid, que fornece dados de transações e saldos, está restrita aos Estados Unidos. Já a integração com o Google Drive permitirá que a IA consulte informações distribuídas entre documentos, planilhas e arquivos em PDF. Um dos exemplos citados pela empresa é a elaboração de um planejamento personalizado para a declaração do imposto de renda. O Gemini também poderá compartilhar o contexto de suas conversas com o Modo IA. Dessa forma, uma pesquisa poderá dar continuidade a um assunto discutido anteriormente no chatbot, sem que o usuário precise fornecer novamente as mesmas informações. É possível impedir o acesso aos seus documentos? O usuário pode autorizar ou desativar a conexão com os aplicativos a qualquer momento. Para isso, basta seguir os passos abaixo: Acesse as configurações de personalização da Pesquisa Google ( google.com/search-personalization ); Entre em “Inteligência personalizada adicional”; Selecione “Apps de conteúdo conectados”; Conecte ou desconecte os serviços desejados. O Google afirma que não utiliza diretamente os arquivos do Drive ou as informações financeiras da Carteira para treinar seus modelos de IA. A documentação da empresa, contudo, prevê o uso de resumos, trechos e informações extraídas dos dados pessoais para treinamento e revisão humana. Desconectar um aplicativo também não exclui automaticamente as informações já armazenadas no histórico da Pesquisa. Essa exclusão deve ser feita separadamente na página Minha atividade. Veja também: Como adicionar o passaporte à Carteira do Google",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/d0iloAPrat_BTRTS7k6SNBpX580=/1200x675/smart/filters:format(webp):quality(85)/7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png",
-    "https://tl.ctcdn.com.br/nOlOebiBwHg-zXHpXPVEhMpoNKE=/0x0/filters:format(webp):quality(85)/203c6fe7-5d86-4af1-85e2-285ec5738e91.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "IA",
-    "Google",
-    "Carteira"
-   ],
-   "searches": []
-  },
-  {
-   "id": "kodaktemteladekindlemostrafotoscoloridas",
-   "title": "Chaveiro rastreador da Kodak tem tela de Kindle mostra fotos coloridas",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/produtos/chaveiro-rastreador-da-kodak-tem-tela-de-kindle-mostra-fotos-coloridas/",
-   "published": "2026-11-24T19:07:26+00:00",
-   "summary": "Chaveiro rastreador da Kodak tem tela de Kindle mostra fotos coloridas A Kodak anunciou o lançamento do Kodak SlideTag , chaveiro que também funciona como uma pequena moldura digital para fotos. O acessório combina rastreamento Bluetooth com uma tela colorida de tinta eletrônica , tecnologia semelhante à usada nos leitores digitais Kindle, para exibir imagens e outros conteúdos em um formato compa",
-   "score": 4.96,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/gGbiWXHvM4iV9dEpe553BzfdLXY=/1200x675/smart/filters:format(webp):quality(85)/a001a2df-1fdf-4867-98d5-15ae046f0711.png",
-   "text": "Chaveiro rastreador da Kodak tem tela de Kindle mostra fotos coloridas A Kodak anunciou o lançamento do Kodak SlideTag , chaveiro que também funciona como uma pequena moldura digital para fotos. O acessório combina rastreamento Bluetooth com uma tela colorida de tinta eletrônica , tecnologia semelhante à usada nos leitores digitais Kindle, para exibir imagens e outros conteúdos em um formato compacto. Desenvolvido pela Reto, empresa que produz acessórios licenciados da Kodak, o SlideTag tem visual inspirado nos suportes de slides Kodachrome de 1935. O aparelho mede 39,3 x 46 x 7,58 mm e pesa 16,6 gramas , dimensões que permitem prendê-lo tanto a um conjunto de chaves como na bolsa. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Além do chaveiro, cada caixa acompanha uma bateria CR2032, um acessório para prender o produto e um conjunto de itens colecionáveis chamado Kodak Memory Pocket . O pacote inclui ainda um pôster com as versões do SlideTag, uma tira de filme em miniatura e uma moldura de slide colecionável. A linha tem oito modelos regulares e uma edição secreta com acabamento metálico. Como os produtos são vendidos em caixas-surpresa, o comprador recebe uma versão aleatória e não pode escolher previamente o acabamento. Tela E Ink exibe fotos e outros conteúdos O painel E Ink do chaveiro tem 1,54 polegada, reproduz seis cores e oferece resolução de 240 x 240 pixels . Por utilizar papel eletrônico, as imagens apresentam aparência levemente granulada, com definição inferior à de telas convencionais. A personalização do conteúdo exibido na tela é feita pelo aplicativo Kodak Memory Link , que permite enviar imagens diretamente do celular. O usuário pode carregar até 12 fotografias e criar uma apresentação em sequência , além de programar a exibição de conteúdos com uma função de calendário. O visor também pode mostrar listas de tarefas, contagens regressivas, códigos QR e informações de contato . Outra característica da tinta eletrônica é manter a última imagem exibida mesmo quando o chaveiro está desconectado ou desligado, sem precisar consumir energia continuamente para conservar o conteúdo. Rastreador funciona com redes da Apple e Google Na função de localização, o SlideTag é compatível com as redes Apple Find My e Google Find Hub . O acessório utiliza Bluetooth 5.4, tem alcance de rastreamento de até 30 metros em áreas abertas e inclui um alerta sonoro de 75 decibéis para ajudar a encontrar objetos próximos. Para aproveitar os recursos completos, o produto exige que o smartphone conte com iOS 26 ou posterior ou Android 9 ou mais recente. A conexão com o celular também depende da ativação do Bluetooth e das permissões de localização e acesso às fotos. No campo da resistência, o chaveiro tem certificação IP54 contra poeira e respingos , e sua alimentação fica por conta de uma bateria CR2032 substituível , que já acompanha o produto. O Kodak SlideTag aparece na loja oficial internacional da empresa por US$ 34,99 (cerca de R$ 206,09 na cotação atual) . O site da companhia, no entando, ainda não exibe o Brasil como destino para entregas internacionais do chaveiro tecnológico. Outra novidade recente da Kodak foi a PixPro FZ155 , câmera que lembra as clássicas Sony Cyber-shot.",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/gGbiWXHvM4iV9dEpe553BzfdLXY=/1200x675/smart/filters:format(webp):quality(85)/a001a2df-1fdf-4867-98d5-15ae046f0711.png",
-    "https://tl.ctcdn.com.br/cHzijac74PQDSTHRQxhTfvDf93M=/0x0/filters:format(webp):quality(85)/dc193b0c-37be-4af0-b01d-7df01697f104.webp",
-    "https://tl.ctcdn.com.br/fazFFvLxai-20Xn8x7XrsaNqrkY=/0x0/filters:format(webp):quality(85)/a997de0a-9353-49cb-a6f5-d49e8e8e9d12.webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Kodak",
-    "Kindle"
+    "PlayStation",
+    "Sony"
    ],
    "searches": []
   }
