@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-26T14:39:31.885110+00:00",
+ "generated_at": "2026-11-26T18:44:19.196190+00:00",
  "trends": [
   {
-   "term": "al fateh x al-riyadh",
-   "traffic": 2000
-  },
-  {
-   "term": "geraldo alckmin",
-   "traffic": 200
-  },
-  {
-   "term": "sucuri",
+   "term": "crédito",
    "traffic": 1000
   },
   {
-   "term": "taylor swift",
+   "term": "ingressos corinthians",
+   "traffic": 5000
+  },
+  {
+   "term": "union x lech poznań",
    "traffic": 200
   },
   {
-   "term": "ge vasco",
+   "term": "gremio novorizontino",
    "traffic": 200
   },
   {
-   "term": "david vasco",
-   "traffic": 2000
+   "term": "grand theft auto",
+   "traffic": 1000
   },
   {
-   "term": "imigração e alfândega dos eua",
+   "term": "bournemouth",
+   "traffic": 1000
+  },
+  {
+   "term": "fk kauno zalgiris riga fc 26/11/2026",
    "traffic": 200
   },
   {
-   "term": "ford",
+   "term": "union saint-gilloise",
    "traffic": 200
   },
   {
-   "term": "ipca",
-   "traffic": 500
+   "term": "ajax",
+   "traffic": 200
   },
   {
-   "term": "wesley frança",
+   "term": "rodrigo villagra",
    "traffic": 200
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 304,
-  "used_today": 15,
+  "used": 311,
+  "used_today": 22,
   "daily_allowance": 102
  },
  "sources": [
@@ -76,7 +76,7 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 20,
+   "count": 19,
    "ok": true
   },
   {
@@ -88,7 +88,7 @@
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 22,
+   "count": 19,
    "ok": true
   },
   {
@@ -149,25 +149,20 @@
  "manual": [],
  "stories": [
   {
-   "id": "iday2026quantovaleapenapagarradeonrx9070",
-   "title": "Quanto vale à pena pagar na Radeon RX 9070 na Black Friday 2026?",
+   "id": "ridayquantovaleapenapagarnintendoswitch2",
+   "title": "Quanto vale a pena pagar no Nintendo Switch 2 na Black Friday 2026",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/hardware/black-friday-2026-quanto-vale-a-pena-pagar-radeon-rx-9070/",
-   "published": "2026-11-26T13:45:00+00:00",
-   "summary": "Quanto vale à pena pagar na Radeon RX 9070 na Black Friday 2026? Na atual geração de placas de vídeo, a família Radeon RX 9070 é o que a AMD tem de melhor para oferecer. Com três GPUs diferentes hoje, o modelo intermediário, que se encaixa abaixo da XT e acima da GRE, é uma opção sólida para jogos pesados em 1440p , brigando direto com a GeForce RTX 5070, mas oferecendo 4 GB a mais de memória de v",
-   "score": 12.64,
+   "url": "https://canaltech.com.br/games/black-friday-quanto-vale-a-pena-pagar-nintendo-switch-2/",
+   "published": "2026-11-26T18:35:00+00:00",
+   "summary": "Quanto vale a pena pagar no Nintendo Switch 2 na Black Friday 2026 O Nintendo Switch 2 foi lançado em 2025 e logo alcançou o topo da lista de desejos da maioria esmagadora dos gamers. O console, além de contar com sucessos como The Legend of Zelda: Ocarina of Time e Pokémon Pokopia , guarda muito potencial para seus próximos títulos. Porém, melhor do que apenas comprá-lo é esperar por uma oferta o",
+   "score": 11.99,
    "why": [
-    "4 sites cobrindo",
-    "Tema de alto interesse"
+    "4 sites cobrindo"
    ],
    "also_in": [
     {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/26/games-e-consoles/black-friday-2026-melhores-ofertas-jogos/"
-    },
-    {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/26/games-e-consoles/black-friday-2026-melhores-ofertas-consoles-perifericos-games/"
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/hardware/black-friday-2026-quanto-vale-a-pena-pagar-radeon-rx-9070/"
     },
     {
      "source": "TecMundo",
@@ -182,28 +177,24 @@
      "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/lojas-falsas-lideram-golpes-antes-da-black-friday/"
     },
     {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-mais-jogos-com-ate-95-off-na-black-friday-do-xbox-confira/"
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale"
     },
     {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/produto-e-review/motorola-signature-2025-ate-quanto-vale-a-pena-pagar-na-black-friday/"
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
     },
     {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-samsung-tem-celulares-tvs-e-mais-com-ate-60-off/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/black-friday-golpe-imita-mercado-livre-para-roubar-dados-e-senhas-do-cartao/"
-    },
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/ia-vai-ajudar-publico-a-encontrar-melhores-precos-e-promocoes-na-tec-friday-do-estadao/"
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026"
     },
     {
      "source": "Popsci",
      "url": "https://www.popsci.com/gear/best-black-friday-deals-2026/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-dewalt-black-friday-deals/"
     },
     {
      "source": "Popsci",
@@ -222,53 +213,54 @@
      "url": "https://www.popsci.com/gear/amazon-black-friday-audio-deals-2026/"
     }
    ],
-   "image": "https://tl.ctcdn.com.br/SAVImrXzbllb7ElmDZlS1HpPV8k=/1200x675/smart/filters:format(webp):quality(85)/cb08bcc8-104b-4ce2-9b0d-0f5a1abcb0d9.jpg",
-   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Hardware\n\n# Quanto vale à pena pagar na Radeon RX 9070 na Black Friday 2026?\n\nPor Raphael Giannotti • Editado por Jones Oliveira \\| 26/11/2026 às 10:45\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/cb08bcc8-104b-4ce2-9b0d-0f5a1abcb0d9.jpg)AMD/Reprodução\n\nNa atual geração de placas de vídeo, a família **Radeon RX 9070** é o que a AMD tem de melhor para oferecer. Com três GPUs diferentes hoje, o modelo intermediário, que se encaixa abaixo da XT e acima da GRE, é uma opção sólida para **jogos pesados em 1440p**, brigando direto com a GeForce RTX 5070, mas **oferecendo 4 GB a mais de memória de vídeo**.\n\nContinua após a publicidade\n\nCom a Black Friday chegando, ela pode ser uma opção para você que busca desempenho gráfico em um upgrade ou se está montando um PC do zero. Infelizmente, com a atual crise de hardware, essa placa encareceu consideravelmente, então vamos guiá-lo sobre o que esperar para o evento quando falamos desse produto.\n\n## O que a Radeon RX 9070 entrega de desempenho?\n\nA Radeon RX 9070 é uma placa de vídeo que entrega **ótimo desempenho em Quad HD** com todas as configurações gráficas no máximo (ou perto disso) e ainda tem **fôlego para encarar jogos em 4K**, especialmente quando combinada com o FSR 4. Com as evoluções da arquitetura RDNA 4, essa GPU tem **ótima capacidade em Ray Tracing e tem muita folga em jogos em rasterização**.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nOutro grande destaque do modelo é a sua generosa capacidade de memória de vídeo, entregando **16 GB**, quantidade essencial para encarar 1440p folgado e para subir para 4K. Com **hardware para aceleração de IA** e o suporte ao FSR 4, essa GPU é capaz de entregar ótima qualidade gráfica mesmo com upscaling ativado, assim como a rival RTX 5070 (que tem 12 GB) com DLSS 4.\n\n## Preço atual x Preço esperado para a Black Friday\n\nAtualmente, o menor preço encontrado para a Radeon RX 9070 no varejo nacional gira **em torno de R$ 6.100**, variando conforme o modelo e a loja. Contudo, esse patamar atual está bem acima do que a placa já demonstrou ser capaz de custar em outros momentos, exigindo cautela antes de fechar a compra.\n\nContinua após a publicidade\n\nPara a Black Friday, a expectativa é que a RX 9070 receba **descontos entre 15% e 30%** sobre os valores praticados hoje. Vale lembrar que a RX 9070 já registrou um **menor preço histórico de R$ 3.699 em julho de 2026**, número que serve como referência importante para medir o real tamanho dos descontos durante o evento.\n\n## Por quanto vale a pena fechar negócio na Black Friday?\n\nDiante do cenário atual do mercado e das oscilações recentes de estoque, o preço ideal para garantir a Radeon RX 9070 na Black Friday fica na faixa **entre R$ 4.500 e R$ 5.200**. Encontrar a placa dentro dessa faixa ou ainda por menos de R$ 4.500 representa uma excelente oportunidade para montar um setup de alto desempenho com ótima vida útil.\n\nContinua após a publicidade\n\nPara acompanhar a variação de preços até o dia do evento, vale a pena monitorar as principais lojas do varejo:\n\n- Compre a Radeon RX 9070 no KaBuM!\n- Compre a Radeon RX 9070 na Amazon\n- Compre a Radeon RX 9070 no Magalu\n- Compre a Radeon RX 9070 no Mercado Livre\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://tl.ctcdn.com.br/MBB0CRI-PmoEj2mHMKH0fooSL5s=/1200x675/smart/filters:format(webp):quality(85)/55afcf0a-0dcb-4ef7-a178-a771fea3df0a.jpg",
+   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Games\n\n# Quanto vale a pena pagar no Nintendo Switch 2 na Black Friday 2026\n\nPor Diego Corumba • Editado por Jones Oliveira \\| 26/11/2026 às 15:35\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/55afcf0a-0dcb-4ef7-a178-a771fea3df0a.jpg)Eric Mockaitis/Canaltech\n\nO **Nintendo Switch 2** foi lançado em 2025 e logo alcançou o topo da lista de desejos da maioria esmagadora dos gamers. O console, além de contar com sucessos como **The Legend of Zelda: Ocarina of Time** e **Pokémon Pokopia**, guarda muito potencial para seus próximos títulos.\n\nContinua após a publicidade\n\nPorém, melhor do que apenas comprá-lo é esperar por uma oferta ou cupom que derrube o seu preço o máximo possível. E **existe oportunidade melhor para ver o valor despencar do que a Black Friday?** A edição de 2026 pode trazer a grande oportunidade para a aquisição do console híbrido.\n\nO videogame da Big N pode ser visto apenas como um upgrade do seu antecessor, mas traz diversos atrativos que chamam a atenção: além dos próprios jogos, temos o comando por **mouse do Joy-Con 2**, **GameChat** e o **microfone embutido**— que reforça seu perfil multiplayer.\n\nContudo, **quanto vale a pena pagar no Nintendo Switch na Black Friday 2026**? Veja quanto o valor dele pode cair e qual será o melhor momento para garantir o dispositivo mais desejado da indústria dos games:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## O preço sugerido do Switch 2\n\nComo o mercado enfrenta uma grande crise de memórias RAM e armazenamento, ajustes foram apresentados nos valores dos principais videogames do mercado. Com o console híbrido da Big N, não foi diferente: se antes ele era visto por R$ 4.499, **agora seu valor sugerido é de R$ 4.599**.\n\nNão foi um salto expressivo neste ano, mas **ainda assim um peso maior na carteira sempre preocupa** — principalmente quando ele custa um gás de cozinha a mais ou um azeite de oliva extravirgem. Na prática, muitos terão de economizar um pouco mais para garantir o seu neste custo.\n\nContinua após a publicidade\n\n## Promoções em vista\n\nDurante todo o período de 2026, o Nintendo Switch 2 não teve grandes quedas com cupons e ofertas. Ele geralmente pode ser achado por **R$ 4.000** nas lojas, mas abaixo deste preço é muito difícil de ser visto. Quando disponível, ocorre sob condições complexas — como por meio de pagamento PIX, à vista.\n\nNo início do ano, ele alcançou o valor mais baixo neste recorte por meio de compra direta em aplicativo com cupom (um combo raro, diga-se de passagem). Deste modo, **o console híbrido podia ser encontrado por volta de R$ 3.500 com um jogo incluso no pacote**, que podia ser Mario Kart World ou Pokémon Legends Z-A.\n\nSe levarmos em consideração que cada título desses custa entre R$ 389,90 e R$ 439,90 separadamente, a promoção se torna ainda mais atrativa — até porque muitos compraram o videogame para jogar um deles. Ainda assim, **não é uma quantia tão acessível quanto foi vista no PS5 no mesmo espaço de tempo**.\n\nContinua após a publicidade\n\n## O que esperar da Black Friday 2026?\n\nNas próximas semanas, promoções e cupons começarão a aparecer com cada vez mais frequência. Se você busca um Switch 2, possivelmente terá algo em torno do que já foi visto nos últimos meses — com valores em torno de R$ 3.500.\n\nSe você vir o videogame à venda por esse preço ou menor (em lojas confiáveis), vale a pena garantir o seu. Ainda que exista esperança de vê-lo por quantias mais baixas, **a crise de componentes não deixa muita margem para esperar por algo de R$ 3.000 ou menos**.\n\nContinua após a publicidade\n\nA situação se complica com o preço sugerido de seus jogos. Caso você queira jogar o grande lançamento da companhia neste ano, The Legend of Zelda: Ocarina of Time, terá de desembolsar mais R$ 329,90 (versão digital) ou R$ 439,90 (edição física).\n\nNeste caso, **atente-se bastante a promoções e cupons oferecidos por lojas como KaBuM! e Magazine Luiza** — para que a aquisição dos games não pese diretamente naquilo que você economizou no hardware.\n\n## Vale a pena comprar o Switch 2?\n\nPor fim, você deve se questionar o quanto vale a pena para você comprar o Switch 2 por estes valores. É um excelente videogame, principalmente para quem ama as franquias exclusivas da Nintendo e busca seus grandes sucessos.\n\nContinua após a publicidade\n\nMesmo assim, é importante que você leve em consideração todos os fatores: recursos, formato híbrido, desempenho e outros que ele apresenta em comparação ao PS5 e XBOX Series. Se obras como **Super Mario Bros, Pokémon, Xenoblade, The Legend of Zelda** e mais não são a sua praia, você pode querer reconsiderar.\n\nPor outro lado, poder levar o seu dispositivo para qualquer lugar e ter os maiores mascotes do mundo dos jogos na palma das mãos ou a um controle de distância, essa vantagem nenhum concorrente supera. Fora a assinatura do **Switch Online**, que permite acesso a um vasto catálogo retrô da história da Big N.\n\nÉ bom estar atento aos preços do Nintendo Switch 2, mas também pense muito o quanto o videogame tem a agregar neste momento. Se está na expectativa por **Pokémon Ventos & Ondas** em 2027, por exemplo, ele é muito indicado. No entanto, se ficar com **GTA 6** na cabeça, repense o que te atrai nesta plataforma.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/SAVImrXzbllb7ElmDZlS1HpPV8k=/1200x675/smart/filters:format(webp):quality(85)/cb08bcc8-104b-4ce2-9b0d-0f5a1abcb0d9.jpg",
+    "https://tl.ctcdn.com.br/MBB0CRI-PmoEj2mHMKH0fooSL5s=/1200x675/smart/filters:format(webp):quality(85)/55afcf0a-0dcb-4ef7-a178-a771fea3df0a.jpg",
     "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/rqYPuIQziAMGuWF3SQoYb-dKDDg=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/gDJRJ-qIn_mxS5lYfSH3CiREKys=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "Radeon",
-    "RX",
-    "9070"
+    "Nintendo",
+    "Switch",
+    "2"
    ],
    "searches": [
-    "radeon rx 9070 xt",
-    "radeon rx 9070",
-    "radeon rx 9070 gre",
-    "radeon rx 9070 xt vs 5070 ti",
-    "radeon rx 9070 xt gaming oc 16gb",
-    "radeon rx 9070 xt 16gb"
+    "nintendo switch 2",
+    "nintendo switch 2 resort",
+    "nintendo switch 2 unboxing",
+    "nintendo switch 2 desbloqueado",
+    "nintendo switch 2 vale a pena",
+    "nintendo switch 2 games"
    ]
   },
   {
-   "id": "1ipca15sobe022emnovembroabaixodoesperado",
-   "title": "IPCA-15 Sobe 0,22% em Novembro, Abaixo do Esperado",
+   "id": "vidiapodeestarcomprometidopodecortarnota",
+   "title": "S&P Alerta Que Conselho da Nvidia Pode Estar Comprometido, Pode Cortar Nota",
    "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-money/2026/11/ipca-15-sobe-022-em-novembro-abaixo-do-esperado/",
-   "published": "2026-11-26T13:06:08+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Apesar da desaceleração da inflação, a taxa em 12 meses chegou a 4,64% em novembro, acima do teto da meta oficial O post IPCA-15 Sobe 0,22% em Novembro, Abaixo do Esperado apareceu primeiro em Forbes Brasil .",
-   "score": 9.25,
+   "url": "https://forbes.com.br/forbes-tech/2026/11/sp-alerta-que-conselho-da-nvidia-pode-estar-comprometido-pode-cortar-nota/",
+   "published": "2026-11-26T14:51:46+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Agência colocou a recomendação de crédito da fabricante de chips em observação por até 90 dias, citando dúvidas sobre a independência do conselho e as práticas de governança O post S&P Alerta Que Conselho da Nvidia Pode Estar Comprometido, Pode Cortar Nota apareceu primeiro em Forbes Brasil .",
+   "score": 9.96,
    "why": [
-    "Em alta no Google: ipca"
+    "Em alta no Google: crédito",
+    "Tema de alto interesse"
    ],
    "also_in": [],
    "image": "",
-   "text": "Widget Tape de Cotações\n\n\\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.232,5R\\\\\n\\\\\n+58,4(+0,81%) \\\\\n\\\\\nBitcoinMercado aberto\\\\\n\\\\\n60.720R\\\\\n\\\\\n+338(+0,56%) \\\\\n\\\\\nEthereumMercado aberto\\\\\n\\\\\n1.698,5R\\\\\n\\\\\n+7,5(+0,44%) \\\\\n\\\\\nDólar x RealMercado aberto\\\\\n\\\\\n5,7187R\\\\\n\\\\\n−0,1021(−1,75%) \\\\\n\\\\\nDólar x EuroMercado aberto\\\\\n\\\\\n0,9102R\\\\\n\\\\\n−0,0009(−0,10%)\n\n\\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.232,5R\\\\\n\\\\\n+58,4(+0,81%) \\\\\n\\\\\nBitcoinMercado aberto\\\\\n\\\\\n60.720R\\\\\n\\\\\n+338(+0,56%) \\\\\n\\\\\nEthereumMercado aberto\\\\\n\\\\\n1.698,5R\\\\\n\\\\\n+7,5(+0,44%) \\\\\n\\\\\nDólar x RealMercado aberto\\\\\n\\\\\n5,7187R\\\\\n\\\\\n−0,1021(−1,75%) \\\\\n\\\\\nDólar x EuroMercado aberto\\\\\n\\\\\n0,9102R\\\\\n\\\\\n−0,0009(−0,10%) \\\\\n\\\\\nS&P 500 IndexMercado aberto\\\\\n\\\\\n7.232,5R\\\\\n\\\\\n+58,4(+0,81%)\n\nVisite o TradingView — plataforma de gráficos financeiros e comunidade de negociação\n\n1. Início\n/3. Forbes Money\n/5. IPCA-15 Sobe 0,22% em Novembro, Abaixo do Esperado\n\nGetty ImagesDetalhe de tomates maduros em estufa: destaque do período foi o avanço de 1,51% de Alimentação e Bebidas\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nA **alta do IPCA-15** desacelerou em novembro com queda nos custos dos transportes, embora os **preços dos alimentos** sigam pressionados, com a taxa em 12 meses do índice cheio permanecendo relativamente estável e abaixo do esperado.\n\nO **Índice Nacional de Preços ao Consumidor Amplo-15 (IPCA-15)** subiu 0,22% em novembro, depois de alta de 0,32% em outubro, abaixo da expectativa de avanço de 0,34% apontada em pesquisa da Reuters com economistas.\n\nOs dados divulgados nesta quinta-feira pelo **Instituto Brasileiro de Geografia e Estatística (IBGE)** mostraram ainda que a taxa em 12 meses chegou a 4,64% em novembro, ante 4,62% no mês anterior, e também aquém da projeção de 4,78% na pesquisa.\n\nAssim, **a inflação segue acima do teto da meta oficial** — 3% medido pelo IPCA, com margem de 1,5 ponto percentual para mais ou menos.\n\nA inflação elevada vem sendo um ponto de destaque para o Banco Central, que no início do mês manteve a taxa de juros Selic em 13,75% ao ano, prevendo inflação mais alta nos próximos anos e deixando em aberto o que fará à frente ao citar uma ampliação das incertezas e um cenário desafiador para a política monetária.\n\nNa ata desse encontro, o BC disse que identificou impacto “relevante” de choques de oferta simultâneos sobre os preços no país e persistência de pressões de demanda sobre a inflação.\n\nEm novembro, cinco dos nove grupos pesquisados tiveram alta, com destaque para o avanço de 1,51% de Alimentação e Bebidas. A alimentação no domicílio subiu 2,02%, com aumentos do tomate (38,92%), da cebola (17,43%), das carnes (3,65%) e do arroz (3,38%).\n\nTambém pesaram os avanços de 0,88% nos preços do grupo Comunicação e de 0,49% das Despesas pessoais.\n\nJá o grupo Transportes apresentou recuo de 0,71% em novembro, com quedas nos preços das passagens aéreas (-9,57%) e dos combustíveis (-0,95%). Os preços da gasolina caíram 1,23%, ajudando a compensar os aumentos de gás veicular (1,06%), etanol (0,76%) e óleo diesel (0,09%).\n\nHabitação também recuou, em 0,14%, com queda de 0,85% da energia elétrica residencial em meio à bandeira verde nas contas de energia elétrica, sem cobrança adicional para os consumidores.\n\nA projeção de analistas para a inflação ao consumidor na pesquisa Focus divulgada pelo Banco Central é de 5,15% este ano, segundo o levantamento mais recente, recuando a 5,12% em 2027.\n\nO IPCA-15 estima a variação de preços coletados entre meados do mês anterior até meados do mês de referência na comparação com o período imediatamente antecedente.\n\nSiga o canal da Forbes Money no WhatsApp e receba as principais notícias de economia e mercado financeiro.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Dados do IPCA-15\n- IBGE\n- Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15)\\\"\")\n- inflação\n- IPCA-15\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Cosan Negocia Reduzir Participação na Rumo, Compass e Moove, Dizem Fontes**\n- \\\\\n\\\\\n**IA Como Capacitadora: Uma Nova Conversa para a América Latina**\n- \\\\\n\\\\\n**Caviar, Academia sobre Rodas e Biblioteca Particular: Veja os Carrinhos Mais Legais dos Hotéis de Luxo**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOSIGN YOUR NAMETERENCE TRENT D'ARBY",
+   "text": "1. Início\n/3. Forbes Tech\n/5. S&P Alerta Que Conselho da Nvidia Pode Estar Comprometido, Pode Cortar Nota\n\nREUTERS/Ann WangEnquanto agência avalia redução, a Moody's manteve sua classificação e perspectiva estável, apesar das incertezas regulatórias\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nA S&P Global Ratings colocou nesta quarta-feira (25) a recomendação de crédito da Nvidia em observação para um possível rebaixamento, afirmando que a saída e a posterior reintegração do presidente-executivo da companhia revelaram pontos fracos na gestão da fabricante de chips e na supervisão do conselho de administração.\n\n“Acreditamos que o longo mandato de certos membros do conselho possa ter comprometido sua independência. As práticas de governança corporativa da empresa também podem não ter acompanhado o rápido crescimento da Nvidia e seu papel como facilitadora tecnológica global essencial”, afirmou a agência de classificação de risco.\n\nA decisão da S&P ocorre em meio a um período turbulento para a liderança da Nvidia. O conselho de administração da empresa reintegrou o presidente-executivo Jensen Huang no início desta semana, dias depois de ele ter renunciado após revelações de casos extraconjugais com subordinadas diretas, bem como com uma empresária chinesa que, segundo a inteligência dos Estados Unidos, seria uma espiã de Pequim.\n\nCríticos e parlamentares norte-americanos se mostraram veementemente contra a reintegração do executivo, questionando a independência do conselho, cujo presidente recém-eleito havia dito aos investidores na semana passada que a Nvidia não recontrataria Huang porque seu comportamento pessoal era incompatível com o código de conduta da empresa.\n\nAo reintegrar Huang na segunda-feira (23), a Nvidia omitiu qualquer menção aos seus casos extraconjugais, afirmando, em vez disso, que a decisão foi “baseada em informações do governo dos Estados Unidos”, mesmo enquanto um comitê independente do conselho continuava sua investigação sobre denúncias envolvendo ele e uma suposta operação de inteligência estrangeira.\n\nA Reuters informou na quarta-feira (25) que o Departamento de Justiça dos Estados Unidos, não conduziu uma investigação formal sobre Huang antes do presidente norte-americano, Donald Trump, pressionar pelo retorno do executivo à presidência da Nvidia, segundo três fontes a par do assunto.\n\nEm vez disso, o departamento concluiu que não há evidências de que Huang tenha violado qualquer lei com base nas investigações em andamento sobre dois clientes da Nvidia, a Super Micro e a Megaspeed International, suspeitas de contrabandear microchips avançados para a China. Essa conclusão está sujeita a alterações à medida que as investigações continuam.\n\nAtualmente, a Nvidia possui recomendação “AA” da S&P, o que indica grande capacidade da empresa cumprir seus compromissos financeiros. A recomendação mais alta é “AAA”.\n\nA S&P afirmou que poderá cortar a nota da Nvidia nos próximos 90 dias, mas espera que qualquer possível rebaixamento se limite a um nível, a menos que investigações e outras divulgações prejudiquem a reputação da empresa ou suas perspectivas de negócios.\n\nEnquanto isso, a Moody’s afirmou nesta quarta-feira (25) que o retorno de Huang ameniza a incerteza de curto prazo em torno da execução dos negócios da Nvidia e elimina o risco operacional associado à nomeação de um novo líder para a fabricante de chips.\n\nA agência afirmou que a recomendação Aa1 da Nvidia e a perspectiva estável permanecem inalteradas, mas acrescentou que persistem incertezas relacionadas à governança e à regulamentação.\n\nA Nvidia tem desempenhado um papel fundamental no financiamento do setor de inteligência artificial, financiando startups, empresas de computação em nuvem e projetos de data centers, que, por sua vez, gastam grande parte desse capital em chips da própria Nvidia e outros microprocessadores.\n\nOs complexos acordos de financiamento aumentaram a exposição da Nvidia a uma possível desaceleração do setor, afirmam analistas.\n\nSeparadamente, o Wall Street Journal noticiou nesta quarta-feira (25) que autoridades norte-americanas não encontraram evidências de que a executiva de tecnologia Alice Huang tenha sido instruída por Pequim a espionar Jensen Huang. O jornal citou fontes a par de uma reunião confidencial.\n\nAutoridades da agência de espionagem dos Estados unidos, CIA; da polícia federal do país, FBI; do Escritório do Diretor de Inteligência Nacional e da Agência de Segurança Nacional (NSA) mantiveram reuniões com comissões de inteligência do Congresso norte-americano e com os líderes parlamentares do país, segundo o jornal.\n\nAs autoridades afirmaram que Alice Huang entrou em contato com a agência de espionagem chinesa durante o caso, mas não encontraram indícios de que ela tenha fornecido informações de inteligência significativas, disse o jornal.\n\nA Nvidia e as agências não responderam imediatamente a um pedido da Reuters para comentário. A Reuters não conseguiu verificar a reportagem de forma independente.\n\nA reportagem afirma que as evidências atuais sugerem que Alice Huang e Jensen Huang possam ter tido um relacionamento amoroso, mas que não se tratou de uma ação coordenada pela China, e que novas informações poderiam alterar essa avaliação.\n\nA reunião informativa também observou que Kang Wei, descrito ao “Journal” como marido de Alice Huang por pessoas que os conhecem, era um agente do Ministério de Segurança do Estado da China que mantinha contato frequente com o serviço de inteligência chinês.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Chips de IA\n- conselho\n- Donald Trump\n- Governo americano\n- Jensen Huang\n- Nvidia\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**“Pode Refletir até na Inflação”, Diz CEO da Embraer sobre Tarifa dos EUA**\n- \\\\\n\\\\\n**Amenidades Inspiradas em Hotéis e Residências Impulsionam a Volta Aos Escritórios**\n- \\\\\n\\\\\n**IPCA-15 Dá Alívio, Mas Economistas Veem Selic Alta por Mais Tempo**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOYEAR OF THE CATAL STEWART",
    "text_source": "firecrawl",
    "images": [
-    "https://forbes.com.br/wp-content/uploads/2026/07/agro_tomates_estufa_01.07.2026-1200x675.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/07/agro_tomates_estufa_01.07.2026-860x484.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-26T113408.984-1200x675.png",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-26T113408.984-860x484.png",
     "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
     "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
     "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/cosan-1-1-300x200.webp",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-24T173653.138-300x200.png",
-    "https://forbes.com.br/wp-content/uploads/2026/10/CARRINHO-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/9-1-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-85-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-2026-11-10T132305.862-300x200.png",
     "https://forbes.com.br/wp-content/uploads/2026/10/146_CAPA_miniatura-225x300.jpg",
     "https://forbes.com.br/wp-content/uploads/2026/09/145_CAPA-miniatura-225x300.jpg",
     "https://forbes.com.br/wp-content/uploads/2026/08/capa-revista-edicao-144-225x300.jpeg",
@@ -276,11 +268,172 @@
    ],
    "videos": [],
    "keywords": [
-    "Sobe",
-    "0",
-    "22"
+    "P",
+    "Alerta",
+    "Que"
    ],
    "searches": []
+  },
+  {
+   "id": "heftautoviproveswhyefficiencyisntavirtue",
+   "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "source": "Techcrunch",
+   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+   "published": "2026-11-26T16:00:00+00:00",
+   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+   "score": 9.33,
+   "why": [
+    "Em alta no Google: grand theft auto"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "Skip to content\n\n**Image Credits:** Rockstar Games\n\nGaming\n\nShare on FacebookShare on XShare on LinkedInShare on RedditShare over EmailCopy Share Link\n\n# As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue\n\nAmanda Silberling\n\n8:00 AM PST · November 26, 2026\n\nShare on FacebookShare on XShare on LinkedInShare on RedditShare over EmailCopy Share Link\n\nIt should have been impossible for “Grand Theft Auto VI” (GTA VI) to live up to the hype. Fans waited 13 years for the newest installment in the crime-adventure franchise, and Rockstar Games exceeded even those inconceivable expectations when the game finally came out last week.\n\nGTA VI launched as the highest-rated game of all time on Metacritic and made $3.79 billion on release day to mark what could be the biggest entertainment event ever – more massive than “Avengers: Endgame” ( $2.9 billion) or Taylor Swift’s Eras tour ( $2 billion).\n\nThe 13-year wait certainly fueled the frenzy, and sales, around GTA VI, but some fans craved GTA VI because of what it represents in the emerging era of AI.\n\nEven the biggest workaholics among us – startup founders – scheduled time off to play the game, including Spiry co-founder Dima Beseda, who told TechCrunch, “I reshuffled my workload to free up time around the weekends and even booked vitamin IV drips to keep my energy up.”\n\nYet some players felt a sense of anticipatory nostalgia as they wiped away a layer of dust on their Xbox to play the game they’d been looking forward to since they were kids.\n\n“We do have a view that GTA is likely to be the last game of its kind to be made this way,” Ben Feder, managing partner at TIRTA Ventures and former CEO of Rockstar parent company Take-Two Interactive, told TechCrunch.\n\nThat’s because GTA VI was created entirely without generative AI.\n\nWhy the data center you dread might never even be built \\| Equity Podcast\n\n0 seconds of 31 minutes, 45 secondsVolume 0%\n\nPress shift question mark to access a list of keyboard shortcuts\n\nKeyboard ShortcutsEnabledDisabled\n\nShortcuts Open/Close/ or ?\n\nPlay/PauseSPACE\n\nIncrease Volume↑\n\nDecrease Volume↓\n\nSeek Forward→\n\nSeek Backward←\n\nCaptions On/Offc\n\nFullscreen/Exit Fullscreenf\n\nMute/Unmutem\n\nDecrease Caption Size-\n\nIncrease Caption Size\\+ or =\n\nSeek %0-9\n\nLive\n\n00:00\n\n31:45\n\n31:45\n\nThis video file cannot be played.(Error Code: 232011)\n\n“We’re kind of at this technological moment where this way of developing has sort of reached its natural frontier,” Feder said. “I don’t think you can say that games like this will always be around.”\n\nAs millions of people immersed themselves in Vice City, the tech industry witnessed another long-awaited moment: Anthropic became the first major AI lab to go public. At Nasdaq HQ, Anthropic executives gathered to celebrate the Claude maker’s $81.3 billion IPO. At virtually the same moment that Anthropic broke the record for the largest IPO ever, GTA VI was also breaking records with the highest-rated and best-selling game launch of all time.\n\nBut when the Anthropic team rang the bell on Thursday, the sound also signaled the end of an era in video game development, and perhaps even in the arts at large.\n\nThe AI industry operates with efficiency as its north star. The promise of this technology is that we will be able to automate so much work that we can expand the capabilities of humanity, avoiding needless time spent tinkering with ultimately fruitless ideas. Instead, a prompt goes into an LLM, and a response is spat out.\n\nThis technological revolution exploded into the world with some soul-crushing side effects: children are inundated with mind-numbing slop on YouTube, lawyers cite nonexistent cases in court, and tech companies like Meta lay off tens of thousands of people as part of a corporate-branded “ Year of Efficiency.” But against the backdrop of the AI industry’s first major IPO, Rockstar has unveiled a game that about 5,000 people labored over for more than a decade.\n\nThe final product is breathtaking, looking so lifelike that it can be hard to distinguish gameplay footage from real life. These sprawling open-world games are usually made possible by procedurally generating new landscapes and objects, but Rockstar has taken the time to painstakingly craft every detail of the world, even developing 30,000 different nonplayable characters with unique appearances and personalities.\n\nReddit - The heart of the internet Skip to main content\n\n[](https://www.reddit.com/r/GTA6/?utm_source=embedv2&utm_medium=post_embed&utm_content=header&embed_host_url=https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/)\n\nGTA6Join\n\nPosted by\nPastaCheed\n·\n15 days ago\n\n* * *\n\n**Real life vs Game Footage side by side**\n\nView on Reddit\n\n0:000:00 / 0:00\n\nSorry, something went wrong when loading this video.\n\nView in app\n\n16K upvotesCommentCopy link\n\nView 994 comments\n\nThe video game industry is already grappling with the threat of AI. Google’s Project Genie, which launched earlier this year, allows users to create and wander around 3D worlds generated from prompts to an LLM. The stock prices of several video game companies faltered around the time of Project Genie’s release, perhaps because of investors’ uncertainty about the future relevance of video game developers.\n\n“The notion that somehow new tools would allow an individual to push a button and generate a hit, market a hit, and bring it to many millions of consumers around the world, it’s a laughable notion,” Take-Two Interactive CEO Strauss Zelnick said at the time. “It’s just never been the case with entertainment.”\n\nZelnick’s fellow tech CEOs see different future, though. On a Meta earnings call this year, CEO Mark Zuckerberg promised that, “soon, you’ll have an AI that understands you and \\[can\\] even generate great personalized content for you.”\n\nElon Musk even went as far as proposing that a game like GTA VI could be made with AI.\n\n“You won’t even have to ask,” Musk wrote on X. “AI will figure what video game you’d like best.”\n\nThis is the paradox of “ Grandthropic” week. GTA VI is so impressively vast and captivating because its developers could make mistakes, experiment, and rework ideas, even if that meant delaying the game (twice). GTA VI was incubated with the exact inefficiencies that investors hope AI companies like Anthropic can help eradicate.\n\n“Plenty of fantastic art — video games and elsewhere — almost by definition has to be created slowly, and there’s something to having that kind of inefficiency around it,” Feder said. “Creative output requires deletion, right? Getting to kind of a masterpiece oftentimes requires an enormous amount of deletion. And when you’re talking about a game of the kind of complexity we’re talking about, that kind of deletion ends up being very expensive, and it is by definition not efficient.”\n\nGTA VI reeks of its own humanity – every small detail is loaded with intention, but it’s this impressive precision that keeps the world abuzz, triggering the kind of monocultural moment that has become increasingly rare in a media landscape that revolves around highly personalized social media algorithms.\n\nThe game forces the player to slow down, which is either frustrating or genius, depending on your sense of humor. People waited more than three presidential terms for the next installment in a high-octane action franchise, only to download a 212 GB behemoth of a game in which your earliest missions involve driving around doing errands and putting up drywall to make your girlfriend happy. Don’t worry — there are still car chases and shootouts — but in a moment when AI feels suffocating, GTA VI is such an artistic achievement that it is reaching audiences that don’t even like violent video games.\n\nThe ultimate fantasy of GTA VI is no longer to role-play as a criminal — the fantasy is just taking your time to relish the mundane and explore an expansive world that developers were given the time and space to perfect.\n\nTopics\n\nAI, Anthropic, Gaming, grand theft auto\n\n_When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence._\n\nShare on FacebookShare on XShare on LinkedInShare on RedditShare over EmailCopy Share Link\n\nAmanda Silberling\n\nSenior Writer\n\nAmanda Silberling on TwitterAmanda Silberling on BlueskyAmanda Silberling on Linkedin\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\nView Bio\n\n2027\n\n**San Francisco**\n\n**Get an Early Peek at the Next TechCrunch Disrupt**\n\nDisrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.\n\n**Sign up for our waitlist**\n\n**Register Now**\n\n## Most Popular\n\n- ### The canceled Tesla Cybertruck is the fastest-selling used truck in America\n\n  - Kirsten Korosec\n\n- ### Figma employee sues, alleging company forced her to confront harassers\n\n  - Dominic-Madori Davis\n\n- ### Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n\n  - Sarah Perez\n\n- ### Can a TV be too large? An investigation\n\n  - Lucas Ropek\n\n- ### A tale of two Nvidias\n\n  - Anthony Ha\n\n- ### Startup sues Apple in India over tap-to-share contacts feature\n\n  - Jagmeet Singh\n\n- ### AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too\n\n  - Tim Fernholz\n\nKeep reading\n\n**Image Credits:** Benjamin Girette/Bloomberg / Getty Images\n\nAI\n\nShare on FacebookShare on XShare on LinkedInShare on RedditShare over EmailCopy Share Link\n\n# Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’\n\nRebecca Bellan\n\n11:44 AM PST · November 25, 2026\n\nAnthropic CEO Dario Amodei is pushing back against claims that Anthropic believes we should “surrender human free will” to AI systems. In a long X post on Wednesday, Amodei called the suggestion “absurd.”\n\n“We should never sacrifice legitimacy or self-determination at the altar of efficiency or security,” he wrote. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea…No one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different.”\n\nThe statement comes after a growing chorus from Anthropic rivals suggesting that human agency could be at risk if AI is developed irresponsibly. Earlier this month, OpenAI CEO Sam Altman said he wanted to ensure people continue to have “agency over the future.”\n\nMeta’s chief AI officer Alexandr Wang also wrote in an essay on X that we “should not be okay with a ‘handover’ of society to AI.”\n\n“It is hard to imagine a world where humanity can maintain control over fully unconstrained recursive self-improvement,” Wang wrote. “Now that we are at a point where the scientific and technical problems on capability progress are likely solved, we must not only make progress in the extremely urgent areas of safety, alignment, and security, but we have to start thinking through how we progress thoughtfully.”\n\nBut in published essays, Amodei claims he has repeatedly advocated for democratic oversight of AI, saying the technology should strengthen democratic institutions and that humans should retain ultimate decision-making power.\n\nAmodei noted that there’s a difference between surrendering human free will broadly and the idea that “as AI systems advance, they become capable of doing _specific_ tasks in a more automated way.” As examples, he gave AI driving a car, designing a cancer drug, or writing end-to-end software.\n\nWhy the data center you dread might never even be built \\| Equity Podcast\n\n0 seconds of 31 minutes, 45 secondsVolume 0%\n\nPress shift question mark to access a list of keyboard shortcuts\n\nKeyboard ShortcutsEnabledDisabled\n\nShortcuts Open/Close/ or ?\n\nPlay/PauseSPACE\n\nIncrease Volume↑\n\nDecrease Volume↓\n\nSeek Forward→\n\nSeek Backward←\n\nCaptions On/Offc\n\nFullscreen/Exit Fullscreenf\n\nMute/Unmutem\n\nDecrease Caption Size-\n\nIncrease Caption Size\\+ or =\n\nSeek %0-9\n\nLive\n\n00:00\n\n31:45\n\n31:45\n\nThis video file cannot be played.(Error Code: 232011)\n\nAmodei suggested drawing a line at recursive self-improvement (RSI), or AI that can improve itself without human assistance. Many safety experts see RSI as inevitably leading to a loss of human control, a point Amodei implicitly acknowledged, writing, “we may want limits on this process.”\n\nStill, Anthropic is laying the groundwork for RSI by incorporating AI into an increasing share of its own research and development. The company said in June that Claude authored more than 80% of the code merged into Anthropic’s codebase. An independent assessment published this month by AI safety research nonprofit METR found that Anthropic’s models are improving at about twice their historical rate, primarily driven by AI-assisted research.\n\nIn its own IPO filings, Anthropic describes how each successive generation of Claude accelerates the development of the next, a process it refers to as “closing the loop.”\n\n“As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding,” Amodei wrote.\n\nThe problem with “meaningful human supervision or understanding” is that AI is already advancing faster than engineers and safety experts can fully audit it, leaving them increasingly reliant on other AI systems to act as judge and jury. The issue compounds when AI models engage in deceptive behavior, particularly when they recognize they’re being evaluated, making them harder to trust and control.\n\nStill, Anthropic is by no means the only company that is pursuing RSI or building AI systems to automate more and more human tasks. This week, OpenAI claimed to have solved one of the biggest open problems in computer science — the exact speed limit of matrix multiplication, which is the mathematical engine behind modern computing, including deep learning and physics simulations.\n\nIn his post, Amodei accused competitors of engaging in a “vibes-based commercial and political positioning,” disingenuously throwing around phrases like “human control and agency” or “AI should just be a tool” without approaching the AI race any differently.\n\n“Certainly the products that they offer don’t differ materially in their orientation towards ",
+   "text_source": "firecrawl",
+   "images": [
+    "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+    "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?w=1024",
+    "https://external-preview.redd.it/real-life-vs-game-footage-side-by-side-v0-NnRjamxoZmFpMTFpMT0S1Z8HFJQgjQFp6ux5YtcSqhPf6swB5AwRSD6hThU_.png?width=640&crop=smart&format=pjpg&auto=webp&s=4b272a556780f4cf682cc98c3f56cddbb18a5f73",
+    "https://techcrunch.com/wp-content/uploads/2024/05/AS-headshot-2026-5-e1784563584242.jpg?w=150",
+    "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "https://techcrunch.com/wp-content/uploads/2025/04/RebeccaBellan_default-large-1-e1787760589727.jpg?w=150",
+    "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296543552.jpg?w=1024",
+    "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?w=708",
+    "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?w=708",
+    "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?w=708",
+    "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?w=1024",
+    "https://techcrunch.com/wp-content/uploads/2025/01/Connie-Loizos-1.jpg?w=150"
+   ],
+   "videos": [
+    "https://www.youtube.com/watch?v=Uw-WaQWk-1Q"
+   ],
+   "keywords": [
+    "Anthropic",
+    "IPOs",
+    "Grand"
+   ],
+   "searches": [
+    "anthropic",
+    "anthropic ai"
+   ]
+  },
+  {
+   "id": "omgames1043169rockstargamesunionvoteiwgb",
+   "title": "GTA VI developers vote against unionization",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+   "published": "2026-11-26T15:55:24+00:00",
+   "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]",
+   "score": 9.32,
+   "why": [
+    "Em alta no Google: grand theft auto"
+   ],
+   "also_in": [],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Gaming\n\n- Business\n\n- News\n\n# GTA VI developers vote against unionization\n\nWorkers voted 75 percent against the IWGB recognition agreement.\n\nWorkers voted 75 percent against the IWGB recognition agreement.\n\nbyDominic Preston\n\nNov 26, 2026, 10:55 AM EST\n\n- Link\n\n- Share\n- Gift\n\nComments55Comments (All New)\n\nImage: Rockstar Games\n\nPart Of\\\\\n\\\\\nGrand Theft Auto VI has arrived\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/dominic-preston)\n\nDominic Prestonis a news editor with over a decade’s experience in journalism. He previously worked at _Android Police_ and _Tech Advisor_.\n\nWorkers at _Grand Theft Auto VI_ developer Rockstar Games won’t unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition.\n\nVoting ran from November 12th through 26th, covering the launch of _GTA VI_. If successful, the vote would have established a formal framework for collective negotiation with the studio over pay, overtime, bonuses, leave, and pensions, along with a right to consultation over future changes including AI implementation and layoffs. Without it, Rockstar won’t have an obligation to meet union representatives, though workers and union members can still lobby for change informally.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n“For anyone at Rockstar who believes in a fairer workplace, a fairer sector and a fairer society - this isn’t a sign to retreat, it’s a sign to double down on what we stand for,” IWGB said in a statement sent to _The Verge_. “Hundreds of our coworkers voted in favour of our union at Rockstar, yet sadly we recognise we have more work to do to build understanding and win the trust of more of our colleagues. We’re ready to put in the effort to make that happen.”\n\nWhen Rockstar fired 31 IWGB members last year, the union accused it of “the most blatant and ruthless act of union busting in the history of the games industry.” That case has gone to a UK employment tribunal, with a judgment still pending.\n\n“We are extraordinarily proud of our team, the culture we’ve built together and the launch of _Grand Theft Auto VI_,” Rockstar head of publishing Jennifer Kolbe told _Bloomberg News_. “This result reflects our team’s strong support for continuing the direct relationships, collaboration and open dialogue that have helped make Rockstar Games so innovative and strong. As we look ahead, we’re excited to build on all we’ve accomplished together.”\n\n5 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Dominic Preston\n- Business\n\n- Gaming\n\n- News\n\n## More in: Grand Theft Auto VI has arrived\n\nWhy GTA VI’s version of Florida feels so real\n\nAndrew Webster10:00 AM ESTCommentsComment Icon Bubble2\n\nGTA VI PC recompilation project shut down by Take-Two\n\nTom WarrenNov 24CommentsComment Icon Bubble110\n\nYou can now stream GTA VI to your PS5 or PlayStation Portal.\n\nJay PetersNov 24CommentsComment Icon Bubble3\n\n## Most Popular\n\nMost Popular\n\n1. Microsoft declares ‘Code Red’ after huge Outlook outage\n\n2. 1Password breach leaked customer names and emails, but not passwords\n\n3. GTA VI PC recompilation project shut down by Take-Two\n\n4. The New York Times warns photographers not to update Photoshop over AI features\n\n5. Has vibe coding made open source the new normal for synths?\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Gaming\n\nWhy GTA VI’s version of Florida feels so real\n\nGTA VI PC recompilation project shut down by Take-Two\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nGTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’\n\nMy trusty 27-inch Alienware QD-OLED gaming monitor is just $280\n\nSamsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99\n\nWhy GTA VI’s version of Florida feels so real\n\nAndrew Webster10:00 AM ESTCommentsComment Icon Bubble2\n\nGTA VI PC recompilation project shut down by Take-Two\n\nTom WarrenNov 24CommentsComment Icon Bubble110\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nJay PetersNov 23CommentsComment Icon Bubble8\n\nGTA VI’s pretentious puzzler makes indie developers feel ‘part of larger culture’\n\nJay PetersNov 23CommentsComment Icon Bubble14\n\nMy trusty 27-inch Alienware QD-OLED gaming monitor is just $280\n\nCameron FaulknerNov 23CommentsComment Icon Bubble6\n\nSamsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99\n\nTerrence O'BrienNov 23\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n7:00 AM EST\n\nWaymo conquered city streets — why does it keep stumbling on freeways?\n\n10:00 AM EST\n\nWhy GTA VI’s version of Florida feels so real\n\n9:00 AM EST\n\nSamsung’s R95H TV shows what RGB LED is capable of\n\nNov 25\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nNov 24\n\nWhy the US Army blew up nearly 10,000 pounds of unstable explosives in Iowa\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)\n\nYour free 30-day trial starts hereFor a limited time, unlock free access to The Verge from T-Mobile.\n\nSTART YOUR FREE TRIAL\n\nAlready a subscriber?Sign inBack to The Verge Homepage",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/DOM_BLURPLE-1.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a2099a4ca189-screenshotUrl.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw1.jpg?quality=90&strip=all&crop=0%2C0.005698005698008%2C100%2C99.988603988604&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&strip=all&crop=0.087719298245617%2C0%2C99.824561403509%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=21.875%2C0%2C56.25%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=17.303921568627%2C0%2C65.392156862745%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "VI"
+   ],
+   "searches": [
+    "vintage culture",
+    "vingadores doomsday",
+    "victor e leo",
+    "vingadores doomsday trailer",
+    "videos engraçados",
+    "vitória mineblox"
+   ]
+  },
+  {
+   "id": "elonavegadorsemprecisardeps5ouassinatura",
+   "title": "Site deixa jogar GTA 6 de graça pelo navegador sem precisar de PS5 ou assinatura",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/games/site-deixa-jogar-gta-6-de-graca-pelo-navegador-sem-precisar-de-ps5-ou-assinatura/",
+   "published": "2026-11-26T14:48:00+00:00",
+   "summary": "Site deixa jogar GTA 6 de graça pelo navegador sem precisar de PS5 ou assinatura Um site chamado PlayMyPS5 permite que usuários acessem um console remotamente, o que garante um pouco de gameplay de GTA 6 sem ter de comprar o videogame, o título ou ter uma conta na PlayStation Network e assinatura da PS Plus. Basta conectar-se à plataforma para cadastrar o seu nome/apelido e aguardar pela sua vez. ",
+   "score": 9.25,
+   "why": [
+    "Em alta no Google: grand theft auto"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/61sORBr8pEWAJxB7hBPMZsKiZJ8=/1200x675/smart/filters:format(webp):quality(85)/fe3d6235-6aa3-4b7c-8c4b-f19fdbbcc928.jpg",
+   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Site deixa jogar GTA 6 de graça pelo navegador sem precisar de PS5 ou assinatura\n\nPor Diego Corumba \\| 26/11/2026 às 11:48\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/fe3d6235-6aa3-4b7c-8c4b-f19fdbbcc928.jpg)Divulgação/Rockstar\n\nUm site chamado **PlayMyPS5** permite que usuários acessem um console remotamente, o que **garante um pouco de gameplay de GTA 6** sem ter de comprar o videogame, o título ou ter uma conta na PlayStation Network e assinatura da PS Plus.\n\nContinua após a publicidade\n\nBasta conectar-se à plataforma para cadastrar o seu nome/apelido e aguardar pela sua vez. Além disso, mesmo com uso do navegador, é possível jogar com o controle, teclado, mouse ou a tela de toque de qualquer dispositivo (como smartphones e tablets).\n\nO **PlayStation 5** pode ser de qualquer pessoa, em qualquer lugar do planeta — e permite rodar os games disponíveis no hardware, por meio do **PS Remote Play**. O grande atrativo é **a disponibilidade de Grand Theft Auto VI entre o que é oferecido**.\n\nPorém, isso não ocorre sem alguns problemas técnicos. Além de exigir que você esteja conectado à internet por toda a experiência, é possível notar uma alta latência (resposta aos comandos) e uma resolução muito mais baixa do que o videogame pode oferecer.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nCaso se interesse, é bom prestar atenção nas duas maiores desvantagens do serviço: **cada pessoa pode jogar por um total de apenas 5 minutos** e a própria Sony possui normas contra o compartilhamento público dos jogos presentes em sua plataforma — com consequências severas para apoiadores.\n\n## A democratização de GTA 6\n\nAinda que o PlayMyPS5 (com uso do PS Remote) seja uma boa ideia à primeira vista, vale destacar o fato de que a equipe tenta monetizar a utilização via arrecadações voluntárias. Embora a organização afirme que o objetivo é adquirir outros consoles para reduzir o tempo de espera, não é uma proposta confiável.\n\nContinua após a publicidade\n\nAlém disso, nada impede que os operadores já faturem por outros meios. Enquanto os usuários esperam para se divertir, eles podem ver outros jogarem ao mesmo tempo em que aproveitam um chat ao vivo no **YouTube, Twitch** e **Kick** — o que deixa toda a ideia um pouco mais nebulosa do que um simples favor à comunidade.\n\nA opção “mais barata” para jogar Grand Theft Auto VI continua a ser o **XBOX One**. Mesmo que você tenha de pagar pelo título completo, possuir o console da geração anterior com o **XBOX Cloud Gaming** permite explorar Leonida com Jason e Lucia de forma econômica.\n\nAinda assim, GTA 6 é o maior lançamento da história do PlayStation; veja números de como o título alavancou as vendas de consoles também.\n\n### Fonte\n\nPlayMyPS5\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/61sORBr8pEWAJxB7hBPMZsKiZJ8=/1200x675/smart/filters:format(webp):quality(85)/fe3d6235-6aa3-4b7c-8c4b-f19fdbbcc928.jpg",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/tlKOEhuoZfSXfwueML-_agNE8Dc=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "GTA",
+    "6",
+    "PS5"
+   ],
+   "searches": [
+    "gta 6 ps5 desbloqueado",
+    "gta 6 ps5 vs xbox series x",
+    "gta 6 ps5",
+    "gta 6 ps5 pro",
+    "gta 6 ps5 vs ps5 pro",
+    "gta 6 ps5 controller"
+   ]
+  },
+  {
+   "id": "rgecomentertainment1042629gta6citydesign",
+   "title": "Why GTA VI’s version of Florida feels so real",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+   "published": "2026-11-25T22:18:23+00:00",
+   "summary": "There are plenty of reasons why Grand Theft Auto VI is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The GTA series is unmatched when it comes to re-creating the feeling of a bustling, real-world […]",
+   "score": 8.22,
+   "why": [
+    "Em alta no Google: grand theft auto"
+   ],
+   "also_in": [],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Entertainment\n\n- Gaming\n\n- Report\n\n# Why GTA VI’s version of Florida feels so real\n\nVirtual city expert Emma Fraser explains what makes Rockstar’s latest open world work.\n\nbyAndrew Webster\n\nNov 26, 2026, 10:00 AM EST\n\n- Link\n\n- Share\n- Gift\n\nComments00Comments\n\nImage: Rockstar Games via The Verge\n\nPart Of\\\\\n\\\\\nGrand Theft Auto VI has arrived\\\\\n\\\\\nsee all updates\n\n[](https://www.theverge.com/authors/andrew-webster)\n\nAndrew Websteris an entertainment editor covering streaming, virtual worlds, and every single Pokémon video game. Andrew joined The Verge in 2012, writing over 4,000 stories.\n\nThere are plenty of reasons why _Grand Theft Auto VI_ is so popular: the 13 years of anticipation, the relatable lead characters and romantic storyline, the sheer level of depth. But another major factor is the sense of place. The _GTA_ series is unmatched when it comes to re-creating the feeling of a bustling, real-world city, and _GTA VI_’s fictional rendition of Florida is the studio’s most lifelike setting yet. It has functioning buses and trains, plentiful buildings you can go into and explore, residents you can chat with, and huge areas where you can interact with wildlife far away from the bright lights of the Miami-like Vice City. For Emma Fraser, an assistant professor at UC Berkeley who studies urban ruins and virtual cities, the sense of realism has created a unique sensation while playing.\n\n“There’s something about this particular game that is really discombobulating and distracting in a sense,” she says. “Because you have these moments where you think, ‘I’m in a place, I’m experiencing a location.’ You comprehend intellectually that it’s not real or that it’s at best a representation, but you still have this feeling in your brain and you’ll still dream about being in that place.”\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\n### Related\n\n- Grand Theft Auto VI does something impossible — it lives up to the hype\n- ‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet\n\nFraser teaches courses on topics including urban geography and virtual worlds and has written papers exploring topics like “mapping in the digital age” and “the virtual spectacle of the end of the city.” She says she started researching video game cities in part because, despite their influence and reach, they’re an underexplored space in academia. “I’m a geographer, and geographers are obsessed with cities,” she explains. “So much of geography is thinking about: How do we imagine cities? How do we navigate cities? How do we build cities? How do we map cities? And video games have all of that, but they’re not taken that seriously as an academic interest.”\n\n[](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbf258053-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Rockstar Games via The Verge\n\nLike much of the world, she’s been looking forward to _GTA VI_ for years, particularly because of Rockstar’s on-the-ground approach to research. Before development on the game began, developers from the studio traveled to Florida to get an accurate picture. As _GTA VI_ producer Rob Nelson told me, the starting point for the game was the setting, rather than the story or characters. “We just went around to feel it out,” he said. “Go to the Everglades, go to the Keys, go to the city, as many places as we can, and start thinking about what aspects of the place we want to incorporate.”\n\nWhile there are plenty of open-world games, many of the most successful — from _Elden Ring_ to _The Witcher_ — are sent in fantastical spaces. _GTA_ stands apart in how its various settings look and feel true to the real world. And Fraser believes that this is one of the key reasons the series has such universal appeal. “You know immediately how to function in a city,” she explains. “You know there’s going to be law enforcement, there are going to be city blocks, there are going to be pedestrians, cars, and buses. It’s this really interesting environment that gives you a lot of possibilities to get a player more immersed in your world, because they already know a lot about a city as a general concept.”\n\n“You can’t hold a whole city in your mind at one time.”\n\nFraser describes _GTA VI_’s world as having “implied expansiveness.” It’s not a one-to-one re-creation of the real location. There are plenty of things missing; you don’t see schools or daycares, and parking spaces are relatively sparse. But the game gets enough details right to be recognizable. Fraser explains that as long as certain parts of the city look correct — the lighting, the coastline, the decoration of street corners, the major arterial roads — that’s enough to convince people that they’re in something resembling Miami.\n\n“You can’t hold a whole city in your mind at one time,” she says. “Instead it’s these highlights. What \\[Rockstar\\] do very successfully in the game is those snapshots. They’ve got far more content that is recognizable as Florida or Miami than they’ve been able to fit into previous games. So it’s a much more overwhelming sense of being in that place.” The “implied expansiveness” also comes in the form of dialogue, radio programs, and TV shows that suggest a much bigger world by discussing places and moments that exist outside of the game you can actually explore.\n\n[](https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbef79438-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100)\n\nImage: Rockstar Games via The Verge\n\nThis level of verisimilitude — combined with the fact that players can explore the city from multiple perspectives, everything from walking to flying a plane — has led to an experience that Fraser likens to virtual tourism, which can result in all kinds of different playstyles. “Some tourists are going to blow a lot of money on taxis and get to wherever they’re going as fast as they can,” she explains, “and some people just like sitting on a bus or a train and getting to know a place.” Similarly, there are certain players who will just experience the story and play through the main missions, and others who will get lost in side activities like bird watching.\n\n“Some people just like sitting on a bus or a train and getting to know a place”\n\nWhat’s also notable about _GTA VI_ is how its relationship-focused premise is motivating some players to experience the world in a much less violent way. And that includes how they move through the city. Some people are driving more carefully to avoid killing civilians, while others are exploring spaces while both characters hang out together. “In the first few games, you’re this empty vessel. You’re a criminal, you’re doing criminal things,” says Fraser. “Whereas with _GTA VI_ your motivation and the way you think about your character is really important.”\n\nNow that the game is out and millions of players are venturing through Vice City, Fraser is hoping to use it to research the ways that real and virtual worlds intersect when it comes to how we navigate cities. _GTA VI_ offers a lot of choice in this regard; you can still steal a Lambo and speed through the streets, but you can also hop on a train, put on some headphones, and listen to a podcast while getting where you need to be. “Because this world is so fully furnished, and you have so many options, you might start to import your own real-world practices into the game,” she says.\n\nBut at this point, what has struck her most is the attention to detail that separates the universe of _GTA VI_ from its contemporaries. “You can’t just generate a generic city and stick icons in, which is what a lot of games do,” she explains. “You aren’t going to get a sense of a real place if you do it that way.”\n\n0 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Andrew Webster\n- Entertainment\n\n- Gaming\n\n- Interview\n\n- Report\n\n## More in: Grand Theft Auto VI has arrived\n\nGTA VI PC recompilation project shut down by Take-Two\n\nTom WarrenNov 24CommentsComment Icon Bubble107\n\nYou can now stream GTA VI to your PS5 or PlayStation Portal.\n\nJay PetersNov 24CommentsComment Icon Bubble2\n\nMore than 39 million unique players tried GTA VI on PS5.\n\nJay PetersNov 23CommentsComment Icon Bubble14\n\n## Most Popular\n\nMost Popular\n\n1. Microsoft declares ‘Code Red’ after huge Outlook outage\n\n2. 1Password breach leaked customer names and emails, but not passwords\n\n3. GTA VI PC recompilation project shut down by Take-Two\n\n4. The New York Times warns photographers not to update Photoshop over AI features\n\n5. Has vibe coding made open source the new normal for synths?\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Entertainment\n\nGoogle’s patent for custom AI video feeds paints a bleak picture of entertainment’s future\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nGTA VI PC recompilation project shut down by Take-Two\n\nDavid Fincher is being dragged for suspected use of AI in his latest film\n\nTidal will start banning AI-generated music next month\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nGoogle’s patent for custom AI video feeds paints a bleak picture of entertainment’s future\n\nCharles Pulliam-MooreNov 25CommentsComment Icon Bubble19\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nAndrew WebsterNov 25CommentsComment Icon Bubble8\n\nGTA VI PC recompilation project shut down by Take-Two\n\nTom WarrenNov 24CommentsComment Icon Bubble107\n\nDavid Fincher is being dragged for suspected use of AI in his latest film\n\nCharles Pulliam-MooreNov 24CommentsComment Icon Bubble65\n\nTidal will start banning AI-generated music next month\n\nEmma RothNov 24CommentsComment Icon Bubble18\n\nThe hacker behind early GTA VI leaks has been sentenced — and released\n\nJay PetersNov 23CommentsComment Icon Bubble8\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\n7:00 AM EST\n\nWaymo conquered city streets — why does it keep stumbling on freeways?\n\nTwo hours ago\n\nSamsung’s R95H TV shows what RGB LED is capable of\n\nNov 25\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nNov 24\n\nWhy the US Army blew up nearly 10,000 pounds of unstable explosives in Iowa\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to buil",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=21.875%2C0%2C56.25%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195977/akrales220919_5191_3621.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbf258053-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbef79438-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=4.8349391105966%2C3.7218027238494%2C89.8369943374%2C91.658221639303&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Michelle_Yeoh_as_Olwen_in_Blade_Runner_2099_-_Credit_Clay_Enos_for_Prime_3000.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_A.jpg?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/UFP25_R4_Rec709_2p4gamma_6188x3240_20260828.0363314_R2.jpg?quality=90&strip=all&crop=28.620867750067%2C0%2C62.760138279163%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "GTA",
+    "VI",
+    "Florida"
+   ],
+   "searches": [
+    "gta vi florida",
+    "gta vi florida joker"
+   ]
   },
   {
    "id": "thorizedspacextodeploy1millionsatellites",
@@ -289,7 +442,7 @@
    "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
    "published": "2026-11-25T18:22:38+00:00",
    "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
-   "score": 8.43,
+   "score": 8.18,
    "why": [
     "3 sites cobrindo",
     "Tema de alto interesse"
@@ -321,46 +474,85 @@
    "searches": []
   },
   {
-   "id": "cteraisalestateagsblocksellinguserschats",
-   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-   "published": "2026-11-26T09:54:40+00:00",
-   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
-   "score": 6.4,
+   "id": "okdellcore3nablackfridayemate12xsemjuros",
+   "title": "Amazon derruba preço do notebook Dell Core 3 na Black Friday em até 12x sem juros",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/notebook/amazon-derruba-preco-do-notebook-dell-core-3-na-black-friday-em-ate-12x-sem-juros/",
+   "published": "2026-11-26T17:25:43+00:00",
+   "summary": "Amazon derruba preço do notebook Dell Core 3 na Black Friday em até 12x sem juros Se você está precisando trocar de computador para estudar ou trabalhar sem gastar uma fortuna, a hora de agir chegou . A Amazon derrubou o preço do notebook Dell Core 3 8GB RAM 512GB SSD Tela 15.6, que sai de R$ 4.399 por apenas 12x de R$ 224,99 (totalizando R$ 2.699,88) na Black Friday. Para garantir esse desconto p",
+   "score": 6.62,
    "why": [
     "2 sites cobrindo",
     "Tema de alto interesse"
    ],
    "also_in": [
     {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+     "source": "Olhar Digital",
+     "url": "https://olhardigital.com.br/2026/11/26/pro/black-friday-como-nao-cair-em-armadilhas-na-compra-de-eletrodomesticos-inteligentes/"
     }
    ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Policy\n\n- AI\n\n- News\n\n# 42 state AGs are trying to stop Character.AI from selling users’ chats\n\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\n\nA bipartisan coalition of AGs say Character.AI is planning to sell the personal data of minors to the highest bidder.\n\nbyTerrence O'Brien\n\nNov 26, 2026, 4:54 AM EST\n\n- Link\n\n- Share\n- Gift\n\nComments22Comments (All New)\n\nImage: Cath Virginia / The Verge\n\n[](https://www.theverge.com/authors/terrence-obrien)\n\nTerrence O'Brienis the Verge’s weekend editor. He’s covered the tech industry for over 18 years and knows a thing or two about synths.\n\nA coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off “the private chat histories of more than 21 million U.S. accounts — more than 2.1 million of them registered to minors — with no safeguards for the people whose conversations are being sold.”\n\nIn October, Character.AI filed for bankruptcy following years of scandals and legal challenges, including from Disney. Disney ended up buying some of the company’s assets and hiring its CEO, Karandeep Anand, in a sort of “acquihire” arrangement that will also see “a number of Character.AI’s technical team” join the entertainment giant. The Disney deal also faced opposition from a similarly broad coalition of AGs.\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nThe main point of contention with Character.AI’s plan to sell its chat data is that it offers no protections for users. The AGs say there are no requirements that the buyer honor existing privacy policies, no avenues for users to delete their data, and no inherent limits on what a buyer could do with that data, including selling it on to yet another party. It doesn’t help that the first bidder has a limited paper trail, having only been established on November 13th, 2026, with no parent company or investors listed.\n\nSome states, including New York, Connecticut, California, and Colorado, have also passed laws regulating chatbots that Character.AI may be in violation of when they go into effect on January 1st, 2027.\n\n2 Comments\n\n**Follow topics and authors** from this story to see more like this in your personalized homepage feed and to receive email updates.\n\n- Terrence O'Brien\n- AI\n\n- Law\n\n- News\n\n- Policy\n\n## Most Popular\n\nMost Popular\n\n1. Microsoft declares ‘Code Red’ after huge Outlook outage\n\n2. 1Password breach leaked customer names and emails, but not passwords\n\n3. GTA VI PC recompilation project shut down by Take-Two\n\n4. The New York Times warns photographers not to update Photoshop over AI features\n\n5. Has vibe coding made open source the new normal for synths?\n\n## The Verge Daily\n\nA free daily digest of the news that matters most.\n\nEmail (required)\n\nSign Up\n\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\\\\\n\\\\\n\n## More in Policy\n\nAmazon loses its latest attempt to get out of handling more recall notices\n\nEPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa\n\nUS financial crimes bureau discloses ‘cybersecurity incident’\n\nWhy the US Army blew up nearly 10,000 pounds of unstable explosives in Iowa\n\nHuawei found guilty of stealing trade secrets\n\nJensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired\n\nAmazon loses its latest attempt to get out of handling more recall notices\n\nEmma RothNov 25CommentsComment Icon Bubble4\n\nEPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa\n\nAndrew LiszewskiNov 25CommentsComment Icon Bubble13\n\nUS financial crimes bureau discloses ‘cybersecurity incident’\n\nLauren FeinerNov 24CommentsComment Icon Bubble3\n\nWhy the US Army blew up nearly 10,000 pounds of unstable explosives in Iowa\n\nJustine CalmaNov 24CommentsComment Icon Bubble19\n\nHuawei found guilty of stealing trade secrets\n\nEmma RothNov 24CommentsComment Icon Bubble4\n\nJensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired\n\nEmma RothNov 24CommentsComment Icon Bubble68\n\nAdvertiser Content From\\\\\n\\\\\n\\\\\n\\\\\nThis is the title for the native ad\n\n## Top Stories\n\nTwo hours ago\n\nWaymo conquered city streets — why does it keep stumbling on freeways?\n\nNov 25\n\nThe loneliest peptide party in New York\n\nNov 25\n\nMicrosoft declares ‘Code Red’ after huge Outlook outage\n\nNov 25\n\n‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV\n\nNov 24\n\nWhy the US Army blew up nearly 10,000 pounds of unstable explosives in Iowa\n\nNotifications Drawer\n\nThe VergeThe Verge logo.\n\nSign in to see your notifications or create an account to join the conversation.\n\nSign in\n\n## Privacy Center\n\nWhen you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.\n\nCookie Policy\nVendor List\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Strictly Necessary Cookies\n\nEssential\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n- ##### Functional Cookies\n\nEssential\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\nView Vendor Details\n\n#### Allow the Sale or Sharing/Targeted Advertising\n\nAllow the Sale or Sharing/Targeted Advertising\n\nAs a valued user, we are providing you the ability to opt-out from the sharing of your personal information to advertisers and social media companies at any time across business platform, services, businesses and devices. You can opt-out of the sharing of your personal information by using this toggle switch. For more information on your rights and options see our privacy notice.\n\n- ##### Performance Cookies\n\nSwitch Label\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n- ##### Social Media & Embedded Content\n\nSwitch Label\n\nContent embedded on our sites (e.g. social media posts, video clips, polls and games) originates from third party sources such as social media platforms, video sharing sites, or other third party websites. When this content loads on pages you visit, any cookies or similar tracking technologies set by the third party source in connection with that content may also load. Vox Media doesn't set these cookies and doesn't control them. These cookies may be capable of tracking your browser across sites and/or building a profile of your interests. Not allowing these cookies will impact what content you can see and engage with on our sites.\n\n- ##### Targeting Cookies\n\nSwitch Label\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\nView Vendor Details\n\nBack Button\n\n### Vendors List\n\nSearch Icon\n\nFilter Icon\n\nClear\n\n- checkbox labellabel\n\nApplyCancel\n\nConsentLeg.Interest\n\ncheckbox labellabel\n\ncheckbox labellabel\n\ncheckbox labellabel\n\nReject AllConfirm My Choices\n\n[](https://www.onetrust.com/products/cookie-consent/)",
+   "image": "https://tl.ctcdn.com.br/ttsWQu_Bu_azVCx7GSsS3u7vc5Q=/1200x675/smart/filters:format(webp):quality(85)/c6aacbb7-ad43-44fa-9b5c-2414cd171624.png",
+   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Notebook\n\n# Amazon derruba preço do notebook Dell Core 3 na Black Friday em até 12x sem juros\n\nPor Canaltech Ofertas \\| 26/11/2026 às 14:25\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/c6aacbb7-ad43-44fa-9b5c-2414cd171624.png)Divulgação/Dell\n\nSe você está precisando trocar de computador para estudar ou trabalhar sem gastar uma fortuna, **a hora de agir chegou**. A Amazon derrubou o preço do notebook Dell Core 3 8GB RAM 512GB SSD Tela 15.6, que sai de R$ 4.399 por apenas 12x de R$ 224,99 (totalizando R$ 2.699,88) na Black Friday.\n\nContinua após a publicidade\n\nPara garantir esse desconto pesado de quase R$ 1.700, basta aplicar o cupom 25IMPERDIVEL na hora de fechar o pedido. Como o estoque promocional de Black Friday costuma esgotar rápido, garanta já o seu antes que o preço suba.\n\n👉 Compre o Notebook Dell 512GB em 12x de R$ 224,99 na Amazon com o cupom 25IMPERDIVEL\n\n## Como é o notebook Dell Core 3\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO grande destaque desse modelo é o equilíbrio para a **rotina diária de produtividade**. Equipado com processador Intel Core 3 e 8 GB de memória RAM, ele entrega fôlego de sobra para navegar com várias abas abertas, editar documentos, participar de videochamadas e assistir a aulas online sem engasgos.\n\nOutro ponto forte é o armazenamento em SSD de 512 GB. Na prática, isso significa que o sistema liga em poucos segundos, os programas abrem rapidamente e você ainda tem espaço generoso para guardar arquivos, trabalhos e vídeos sem precisar depender da nuvem o tempo todo.\n\nPara completar o pacote, a tela de 15,6 polegadas oferece uma **área de visualização ampla e confortável** para ler textos longos ou dividir a tela entre duas janelas, evitando aquele cansaço visual típico de telas muito pequenas.\n\nContinua após a publicidade\n\n## Vale a pena comprar o notebook Dell Core 3?\n\nQuem já comprou o modelo na Amazon confirma que ele **cumpre muito bem o que promete** para o dia a dia. Nas avaliações, compradores destacam que o notebook atende perfeitamente às necessidades educacionais, como fazer anotações em sala de aula e estudar para provas, além de elogiar a boa autonomia de bateria, que aguenta longas sessões longe da tomada.\n\nVale manter o pé no chão e alinhar as expectativas: esse não é um notebook gamer nem uma máquina voltada para edição pesada de vídeos. O foco aqui é ser um companheiro confiável, leve nas tarefas cotidianas e com a durabilidade já conhecida da Dell.\n\nContinua após a publicidade\n\nConsiderando que o valor original passa dos R$ 4.300 e agora ele aparece por 12x de R$ 224,99 usando o código 25IMPERDIVEL, o custo-benefício fica difícil de bater. Aproveite a condição especial de Black Friday enquanto o cupom ainda está ativo.\n\n🛒 Garanta agora o Notebook Dell Core 3 com desconto na Amazon (Cupom: 25IMPERDIVEL)\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/TERRENCE_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0%2C0.02891844997108%2C100%2C99.942163100058&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_B.png?quality=90&strip=all&crop=0.95588235294118%2C0%2C98.088235294118%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305973751.jpg?quality=90&strip=all&crop=0.0051996672212979%2C0%2C99.989600665557%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302952808.jpg?quality=90&strip=all&crop=0%2C0.0041573127130619%2C100%2C99.991685374574&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0%2C0.011019283746549%2C100%2C99.988980716253&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=16.64737654321%2C0%2C66.70524691358%2C100&w=2400"
+    "https://tl.ctcdn.com.br/ttsWQu_Bu_azVCx7GSsS3u7vc5Q=/1200x675/smart/filters:format(webp):quality(85)/c6aacbb7-ad43-44fa-9b5c-2414cd171624.png",
+    "https://canaltech.com.br/images/bf2026/black-friday.png",
+    "https://tl.ctcdn.com.br/D8qH8VY2U0z2fKuec6VjGcSxb9U=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "AGs",
-    "Character",
-    "AI"
+    "Dell",
+    "Core",
+    "3"
+   ],
+   "searches": []
+  },
+  {
+   "id": "esdaspacexpreocupaastronomossaibaoporque",
+   "title": "Aprovação de novo projeto de satélites da SpaceX preocupa astrônomos; saiba o porquê",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/ciencia-e-espaco/aprovacao-de-novo-projeto-de-satelites-da-spacex-preocupa-astronomos-saiba-o-porque/",
+   "published": "2026-11-26T17:41:45+00:00",
+   "summary": "Aprovação de novo projeto de satélites da SpaceX preocupa astrônomos; saiba o porquê A Comissão Federal de Comunicação (FCC), agência reguladora de telecomunicações nos Estados Unidos, acaba de conceder a SpaceX a aprovação para lançar um milhão dos satélites Starmind . Com o “sinal verde”, a empresa de Elon Musk fica liberada para levar os data-centers de inteligência artificial ao espaço. “Esta ",
+   "score": 4.93,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/VCUjDu0Sw_wUhBBCckFplwNjRAA=/1200x675/smart/filters:format(webp):quality(85)/561c1c01-c1a5-4ab4-af94-41edc6166db3.png",
+   "text": "Aprovação de novo projeto de satélites da SpaceX preocupa astrônomos; saiba o porquê A Comissão Federal de Comunicação (FCC), agência reguladora de telecomunicações nos Estados Unidos, acaba de conceder a SpaceX a aprovação para lançar um milhão dos satélites Starmind . Com o “sinal verde”, a empresa de Elon Musk fica liberada para levar os data-centers de inteligência artificial ao espaço. “Esta ação abre uma nova fronteira para a infraestrutura computacional necessária para alimentar a liderança e crescimento dos Estados Unidos”, declarou Brendan Carr, diretor do FCC. “Ao levar a capacidade computacional para além da Terra, a SpaceX e seus muitos concorrentes que trabalham em seus próprios centros de dados orbitais estão atendendo às demandas do momento”, acrescentou. Se tudo correr conforme o planejado, a SpaceX deve lançar a primeira leva dos satélites Starmind no terceiro trimestre do ano que vem . Os novos equipamentos vão ao espaço com o foguete Starship — que, aliás, já lançou mais de 20 da nova geração de satélites Starlink nos últimos testes de voo realizados. O que é a Starmind da SpaceX Para entender melhor a proposta dos Starmind, vale resgatar brevemente os planos da SpaceX, que vem delineando sua estratégia de negócios com foco em inteligência artificial. Atualmente, a empresa de Elon Musk vem mirando o que enxerga como um “mercado de US$ 28,5 trilhões a longo prazo” , enquanto US$ 23 trilhões do total seriam destinados à aplicação de IA no setor corporativo. É aqui que entra a Starmind. Para o bilionário, o espaço é o futuro da inteligência artificial: por lá, dá para captar energia solar livremente, e não há riscos de divergências em solo sobre obras ou instalações de data centers — é daí que vêm os números ambiciosos da empresa. Para comparação, considere que a era espacial começou em 1957; desde então, a humanidade já lançou mais de 28 mil satélites. A maior constelação em funcionamento atualmente é a Starlink , com cerca de 11 mil unidades; segundo a SpaceX, a meta é expandir a próxima geração da constelação para cerca de 100 mil satélites. Por isso, a aprovação foi recebida com receio pela comunidade científica . “Esse projeto teria não apenas consequências profundas para a astronomia, mas também iria fundamentalmente alterar o céu noturno para todas as pessoas no planeta”, observou Andreas Kaufer, diretor geral do Observatório Europeu do Sul. “Essa aprovação destaca a necessidade urgente de mecanismos internacionais capazes de avaliar atividades cujos impactos se estendem bem além de fronteiras nacionais e afetam um bem comum global”.",
+   "text_source": "rss",
+   "images": [
+    "https://tl.ctcdn.com.br/VCUjDu0Sw_wUhBBCckFplwNjRAA=/1200x675/smart/filters:format(webp):quality(85)/561c1c01-c1a5-4ab4-af94-41edc6166db3.png",
+    "https://tl.ctcdn.com.br/sFjMJVmVHYLCXVwrhuSYtu7MtJs=/0x0/filters:format(webp):quality(85)/9a0a693b-7526-41f2-b3ca-20bae2a539f8.png"
+   ],
+   "videos": [],
+   "keywords": [
+    "SpaceX"
+   ],
+   "searches": []
+  },
+  {
+   "id": "daspacexparacadacriancadoseuaporapoioaia",
+   "title": "Elon Musk Promete Duas Ações da SpaceX para Cada Criança dos EUA por Apoio À IA",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-tech/2026/11/elon-musk-promete-duas-acoes-da-spacex-para-cada-crianca-dos-eua-por-apoio-a-ia/",
+   "published": "2026-11-26T17:14:02+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. FCC autorizou a empresa a lançar uma constelação de até 1 milhão de satélites para atender à demanda por processamento de inteligência artificial O post Elon Musk Promete Duas Ações da SpaceX para Cada Criança dos EUA por Apoio À IA apareceu primeiro em Forbes Brasil .",
+   "score": 4.91,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "Forbes, a mais conceituada revista de negócios e economia do mundo. Elon Musk planeja presentear cada criança nos Estados Unidos com duas ações da SpaceX, em uma tentativa de conquistar apoio público para seus negócios de satélites e inteligência artificial durante um período de intenso escrutínio público e político sobre o setor de tecnologia. A pessoa mais rica do mundo anunciou a doação de ações, que totaliza cerca de US$18 bilhões, na véspera do Dia de Ação de Graças e poucas horas depois de a SpaceX ter obtido, na quarta-feira (25), a aprovação do país para lançar 1 milhão de satélites destinados a data centers no espaço. Musk busca expandir o papel da SpaceX no setor de IA, mesmo com o rápido crescimento da infraestrutura de computação gerando preocupações sobre seu impacto ambiental e a influência econômica e política dos bilionários do setor de tecnologia. Candidatos do Partido Democrata opositores ao desenvolvimento de data centers estiveram entre os maiores vencedores nas eleições legislativas de meio de mandato dos Estados Unidos deste mês. “A iniciativa claramente ajuda a ampliar a participação do público na história da SpaceX”, disse Chez Anbu, chefe de consultoria patrimonial do OCBC em Cingapura, nesta quinta-feira (26). “Dar às crianças uma participação econômica direta na empresa cria uma narrativa poderosa em torno de uma participação mais ampla nos benefícios da IA e da economia espacial”, acrescentou Anbu. A Comissão Federal de Comunicações dos Estados Unidos (FCC) informou que aprovou a proposta de constelação de satélites da SpaceX para ajudar a atender à demanda em rápido crescimento por computação de IA. Os astrônomos há muito se preocupam com tais desenvolvimentos no espaço, e a Sociedade Astronômica norte-americana disse estar “desanimada e consternada” com a decisão da FCC. A sociedade alertou que a constelação proposta “prejudicaria significativamente décadas de investimento federal em instalações astronômicas” e a capacidade dos astrônomos e do público de apreciar e estudar o céu noturno. O post Elon Musk Promete Duas Ações da SpaceX para Cada Criança dos EUA por Apoio À IA apareceu primeiro em Forbes Brasil .",
+   "text_source": "rss",
+   "images": [],
+   "videos": [],
+   "keywords": [
+    "Musk",
+    "Promete",
+    "Duas"
    ],
    "searches": []
   },
@@ -371,7 +563,7 @@
    "url": "https://canaltech.com.br/smartphone/magalu-derruba-preco-do-iphone-16e-com-carregador-por-52-de-desconto/",
    "published": "2026-11-26T14:37:55+00:00",
    "summary": "Magalu derruba preço do iPhone 16e com carregador por 52% de desconto Chegou a hora de entrar no ecossistema da Maçã ou trocar de celular sem comprometer o orçamento. O Apple iPhone 16e de 128 GB (na cor preta), acompanhado do carregador original Apple USB-C de 20 W , apareceu em uma condição raríssima para quem busca desempenho moderno e economia real. Enquanto o combo costuma ser vendido por R$ ",
-   "score": 5.0,
+   "score": 4.74,
    "why": [
     "Tema de alto interesse"
    ],
@@ -388,14 +580,7 @@
    "keywords": [
     "52"
    ],
-   "searches": [
-    "528hz",
-    "52",
-    "528hz frequency",
-    "525 harpa crista",
-    "520",
-    "526 harpa cristã"
-   ]
+   "searches": []
   },
   {
    "id": "sunggalaxybuds4pronochaocomcupomespecial",
@@ -404,7 +589,7 @@
    "url": "https://canaltech.com.br/fone-de-ouvido/mercado-livre-joga-preco-do-samsung-galaxy-buds4-pro-no-chao-com-cupom-especial/",
    "published": "2026-11-26T14:12:05+00:00",
    "summary": "Mercado Livre joga preço do Samsung Galaxy Buds4 Pro no chão com cupom especial Se você quer ouvir suas músicas ou trabalhar focado sem o barulho do trânsito e do escritório atrapalhando, essa é a chance certa de investir em um fone topo de linha. O Samsung Galaxy Buds4 Pro acaba de entrar em oferta no Mercado Livre por R$ 991,75 usando o cupom VIPTECH, com pagamento facilitado em até 15x de R$ 66",
-   "score": 4.97,
+   "score": 4.72,
    "why": [
     "Tema de alto interesse"
    ],
@@ -422,169 +607,6 @@
     "Livre",
     "Samsung",
     "Galaxy"
-   ],
-   "searches": []
-  },
-  {
-   "id": "custamaisder13milemedicaoespecialdenatal",
-   "title": "Galaxy S26 Ultra de ouro custa mais de R$ 13 mil em edição especial de Natal",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/galaxy-s26-ultra-de-ouro-custa-mais-de-r-13-mil-em-edicao-especial-de-natal/",
-   "published": "2026-11-26T13:29:28+00:00",
-   "summary": "Galaxy S26 Ultra de ouro custa mais de R$ 13 mil em edição especial de Natal O Galaxy S26 Ultra ganhou uma versão de luxo banhada a ouro 24 quilates que custa a partir de R$ 15,3 mil. A edição especial é uma criação da Goldgenie , empresa especializada em personalizar eletrônicos com metais preciosos. A novidade também chega ao Galaxy Z Fold 8 Ultra , que tem preço inicial de aproximadamente R$ 25",
-   "score": 4.93,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/8fzyboqUmtp2WjlupKdoFh6iEHI=/1200x675/smart/filters:format(webp):quality(85)/a796a2ad-90c5-4c5d-a06e-49a9f336a9ab.jpg",
-   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Smartphone\n\n# Galaxy S26 Ultra de ouro custa mais de R$ 13 mil em edição especial de Natal\n\nPor Nathan Vieira \\| 26/11/2026 às 10:29\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/a796a2ad-90c5-4c5d-a06e-49a9f336a9ab.jpg)Divulgação/Goldgenie\n\nO **Galaxy S26 Ultra** ganhou uma versão de luxo banhada a ouro 24 quilates que custa a partir de R$ 15,3 mil. A edição especial é uma criação da **Goldgenie**, empresa especializada em personalizar eletrônicos com metais preciosos. A novidade também chega ao **Galaxy Z Fold 8 Ultra**, que tem preço inicial de aproximadamente R$ 25,9 mil.\n\nContinua após a publicidade\n\nAs duas versões foram anunciadas como opções especiais para o Natal de 2026 e já estão disponíveis para encomenda.\n\n- 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas\n\nOs compradores podem escolher entre três acabamentos: ouro 24 quilates, ouro rosé e platina. Neste último caso, a empresa aplica ródio, um metal do mesmo grupo da platina.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nSegundo a Goldgenie, os aparelhos têm acabamento manual e aparência espelhada, com uma superfície bastante brilhante.\n\nA personalização muda o visual dos celulares, mas não traz melhorias nas câmeras, no desempenho ou em outros componentes internos.\n\n## **Galaxy S26 Ultra e Z Fold 8 Ultra têm acabamento de luxo**\n\nA **versão personalizada do Galaxy S26 Ultra** parte de £ 2.597, aproximadamente R$ 15.300, e pode ser encomendada com 256 GB, 512 GB ou 1 TB de armazenamento.\n\nContinua após a publicidade\n\nO aparelho mantém as características do modelo original da Samsung, incluindo caneta S Pen integrada, câmera principal de 200 MP, processador Snapdragon 8 Elite Gen 5 for Galaxy e bateria de 5.000 mAh.\n\nJá o **Galaxy Z Fold 8 Ultra** tem preço inicial de £ 4.395, cerca de R$ 25.900. O dobrável está disponível com 512 GB ou 1 TB de espaço interno.\n\nA Goldgenie preparou uma apresentação especial para os aparelhos. Cada compra inclui uma caixa de luxo, certificado de autenticidade e garantia vitalícia sobre o serviço de personalização.\n\nContinua após a publicidade\n\n## **Goldgenie já personalizou outros celulares da Samsung**\n\nA Goldgenie trabalha com personalização desde 2007, quando começou a oferecer versões especiais do iPhone. A empresa foi fundada em Londres por Laban Roomes e atualmente tem sede em Dubai, com centro de atendimento na capital britânica.\n\nA marca já lançou versões banhadas a ouro de diferentes gerações dos celulares Galaxy, incluindo a linha Galaxy S20 e modelos anteriores.\n\nA empresa também não está sozinha nesse mercado. Veja, por exemplo, 3 iPhones de ouro que custam mais que um carro.\n\n### Fonte\n\nGoldgenie Android Authority\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/8fzyboqUmtp2WjlupKdoFh6iEHI=/1200x675/smart/filters:format(webp):quality(85)/a796a2ad-90c5-4c5d-a06e-49a9f336a9ab.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/R54LN4-Kyqda5trTzpNzHyPbhfQ=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "S26",
-    "Ultra",
-    "R"
-   ],
-   "searches": []
-  },
-  {
-   "id": "itecomspenecapasaindpormenosder1500nopix",
-   "title": "Galaxy Tab S10 Lite com S Pen e capa saindo por menos de R$ 1.500 no PIX!",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/tablet/galaxy-tab-s10-lite-com-s-pen-e-capa-saind-por-menos-de-r-1500-no-pix/",
-   "published": "2026-11-26T13:12:59+00:00",
-   "summary": "Galaxy Tab S10 Lite com S Pen e capa saindo por menos de R$ 1.500 no PIX! Se você busca um tablet completo para estudar, trabalhar ou maratonar séries sem precisar gastar extra com acessórios, o Samsung Galaxy Tab S10 Lite (Wi-Fi, 128 GB, Vermelho) é uma das escolhas mais equilibradas do mercado. Ele reúne tela ampla e fluida, acabamento elegante em alumínio e o grande diferencial da linha: a cane",
-   "score": 4.91,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/RyHi1mfmNxF5bU79qJ1JSpZyC8I=/1200x675/smart/filters:format(webp):quality(85)/f9dbc13f-95e7-4292-93f7-b5a20f891413.png",
-   "text": "Parceiro\n\nHOJE 19HÉ hoje, não perca a nossa live da Black Friday!Hoje: live da Black Friday 2026Adicionar na agenda ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Tablet\n\n# Galaxy Tab S10 Lite com S Pen e capa saindo por menos de R$ 1.500 no PIX!\n\nPor Canaltech Ofertas \\| 26/11/2026 às 10:12\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/f9dbc13f-95e7-4292-93f7-b5a20f891413.png)Imagem gerada por IA\n\nSe você busca um tablet completo para estudar, trabalhar ou maratonar séries sem precisar gastar extra com acessórios, o **Samsung Galaxy Tab S10 Lite (Wi-Fi, 128 GB, Vermelho)** é uma das escolhas mais equilibradas do mercado. Ele reúne tela ampla e fluida, acabamento elegante em alumínio e o grande diferencial da linha: a **caneta S Pen** e a capa protetora já inclusas na caixa.\n\nContinua após a publicidade\n\nA oportunidade para garantir esse pacote completo com um desconto agressivo está na Amazon. Aplicando o **cupom exclusivo 25IMPERDIVEL (válido para assinantes Amazon Prime)** e optando pelo **pagamento à vista no PIX**, o valor despenca para **apenas R$ 1.485,46.** Considerando que esse modelo costuma circular na casa dos R$ 1.900 a R$ 2.100 mesmo em promoções, levá-lo por menos de R$ 1.500 é um achado raro.\n\nNão perca essa oportunidade e compre agora o seu Samsung Galaxy Tab S10 Lite\n\n## Como é o Samsung Galaxy Tab S10 Lite?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO destaque imediato do Galaxy Tab S10 Lite é a sua **tela de 10,9 polegadas com taxa de atualização de 90 Hz**, que garante rolagem mais suave na leitura de PDFs, navegação e consumo de vídeos. Para quem foca em produtividade e estudos, a S Pen inclusa transforma o tablet em um caderno digital preciso para anotações, desenhos e marcações em documentos, acompanhada de uma capa protetora para levar o aparelho na mochila com segurança.\n\nPor dentro, o conjunto traz o **processador Samsung Exynos 1380 aliado a 6 GB de RAM e 128 GB de armazenamento interno** (com expansão via cartão microSD), entregando fluidez sólida para tarefas do dia a dia, aulas online e apps de escritório. A **bateria de 8.000 mAh** garante longa autonomia, chegando a até 16 horas de reprodução de vídeo, enquanto a política de longevidade da Samsung assegura atualizações de sistema por 7 anos (até o Android 22).\n\n### Especificações Completas:\n\nContinua após a publicidade\n\n- Tela: 10,9 polegadas TFT LCD, resolução WUXGA+ (2112 x 1320 pixels) e taxa de atualização de 90 Hz\n- Processador: Samsung Exynos 1380\n- Memória RAM: 6 GB\n- Armazenamento: 128 GB (expansível via cartão microSD de até 2 TB)\n- Acessórios Inclusos: Caneta S Pen e capa protetora na caixa\n- Bateria: 8.000 mAh com suporte a carregamento rápido de 25 W\n- Câmeras: Traseira de 8 MP e frontal de 5 MP\n- Áudio: Som estéreo com suporte a Dolby Atmos\n- Conectividade: Wi-Fi 6, Bluetooth 5.3 e porta USB-C\n- Sistema Operacional: Android 15 (One UI) com 7 anos de atualizações garantidas\n- Design: Corpo em alumínio na cor Vermelho, espessura de 6,6 mm e peso de 524 g\n\n## Vale a pena comprar o Samsung Galaxy Tab S10 Lite?\n\nSim, especialmente nessa faixa de preço. Com avaliações altíssimas dos compradores (nota média de 4,8 de 5), o Galaxy Tab S10 Lite se consolida como um dos melhores tablets custo-benefício para estudantes e usuários que buscam versatilidade. O fato de já vir com S Pen e capa evita um gasto adicional de centenas de reais, e o suporte prolongado de atualizações garante um aparelho atual por muitos anos.\n\nO único ponto de atenção é o perfil de uso: com 6 GB de RAM e conectividade apenas Wi-Fi, ele não é voltado para edição profissional pesada ou para quem precisa de chip 5G fora de casa. Mas para estudos, leitura, anotações, trabalho leve e entretenimento, pagar R$ 1.485,46 no PIX com o cupom 25IMPERDIVEL + Amazon Prime é uma das melhores compras da categoria.\n\nContinua após a publicidade\n\nGaranta já seu Samsung Galaxy Tab S10 Lite no menor preço\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/RyHi1mfmNxF5bU79qJ1JSpZyC8I=/1200x675/smart/filters:format(webp):quality(85)/f9dbc13f-95e7-4292-93f7-b5a20f891413.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/9XGe6TEv40MsIwS0zaUuPVutYv8=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Tab",
-    "S10",
-    "Lite"
-   ],
-   "searches": []
-  },
-  {
-   "id": "laxys255gcom256gbbateomenorvalornaamazon",
-   "title": "Galaxy S25 5G com 256 GB bate o menor valor na Amazon",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/galaxy-s25-5g-com-256-gb-bate-o-menor-valor-na-amazon/",
-   "published": "2026-11-26T11:39:25+00:00",
-   "summary": "Galaxy S25 5G com 256 GB bate o menor valor na Amazon Chegou a hora de garantir um celular topo de linha sem comprometer o orçamento. O Samsung Galaxy S25 5G de 256 GB é a escolha certa para quem busca desempenho de sobra em um corpo compacto, entregando velocidade extrema, câmeras versáteis e recursos avançados de inteligência artificial para facilitar a rotina. Costumando ser vendido por R$ 3.49",
-   "score": 4.81,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/GVAq_2zd2s0blmLTBgW8EzlTwwc=/1200x675/smart/filters:format(webp):quality(85)/f3bd20f8-4576-468a-af7c-4ad2eca0f432.png",
-   "text": "Galaxy S25 5G com 256 GB bate o menor valor na Amazon Chegou a hora de garantir um celular topo de linha sem comprometer o orçamento. O Samsung Galaxy S25 5G de 256 GB é a escolha certa para quem busca desempenho de sobra em um corpo compacto, entregando velocidade extrema, câmeras versáteis e recursos avançados de inteligência artificial para facilitar a rotina. Costumando ser vendido por R$ 3.499,20, o smartphone acaba de aparecer na Amazon por R$ 2.999,20 no pagamento via PIX utilizando um cupom no aplicativo. Estamos falando de mais de 14% de desconto — uma economia direta de R$ 500 que coloca a versão de 256 GB em seu valor mais baixo já registrado . Se você já estava de olho no aparelho, não perca tempo: ofertas agressivas com cupom limitado costumam esgotar em poucas horas. Garanta o seu agora pelo link abaixo! 👉 Compre o Samsung Galaxy S25 5G (256 GB) por R$ 2.999,20 na Amazon via PIX com cupom Como é o Samsung Galaxy S25 5G? O Galaxy S25 prova que você não precisa de um aparelho gigante para ter potência máxima. Ele traz uma tela AMOLED Dinâmico 2X de 6,2 polegadas com resolução Full HD+ e taxa de atualização adaptável de até 120 Hz, garantindo navegação fluida, brilho intenso sob o sol e cores vibrantes para filmes e jogos, tudo em uma pegada confortável para usar com uma só mão. Por dentro, o conjunto impressiona com o processador Snapdragon 8 Elite for Galaxy aliado a 12 GB de memória RAM . Na prática, essa combinação abre aplicativos instantaneamente, segura dezenas de abas em segundo plano sem engasgos e roda os jogos mais pesados da Play Store com gráficos no máximo e integração total ao pacote Galaxy AI . Na fotografia, o conjunto triplo liderado pelo sensor principal de 50 MP com estabilização óptica (OIS) registra fotos nítidas mesmo à noite. Ele é acompanhado por uma lente ultrawide de 12 MP para paisagens amplas e uma teleobjetiva de 10 MP com zoom óptico de 3x que entrega aproximações limpas e cheias de detalhes. Ficha técnica completa do Samsung Galaxy S25 5G Tela: AMOLED Dinâmico 2X de 6,2 polegadas, resolução Full HD+ (2340 x 1080 pixels), taxa de atualização de 1 a 120 Hz Processador: Qualcomm Snapdragon 8 Elite for Galaxy (octa-core) Memória RAM: 12 GB Armazenamento interno: 256 GB Câmera traseira tripla: Principal de 50 MP (f/1.8, OIS) + Ultrawide de 12 MP (f/2.2) + Teleobjetiva de 10 MP (f/2.4, zoom óptico de 3x, OIS) Câmera frontal: 12 MP (f/2.2) Bateria: 4.000 mAh com carregamento rápido de 25 W e carregamento sem fio Sistema operacional: Android 15 sob a interface One UI 7 (com suporte a Galaxy AI) Conectividade: 5G, Wi-Fi 7, Bluetooth 5.4, NFC e USB-C Diferenciais: Certificação IP68 contra água e poeira, leitor de digitais ultrassônico sob a tela e acabamento em alumínio reforçado Vale a pena comprar o Samsung Galaxy S25 5G? O Galaxy S25 5G se consolida como o melhor custo-benefício entre os flagships compactos da atualidade, especialmente agora que atingiu o menor preço na variante de 256 GB — espaço essencial para quem grava vídeos em 4K e instala muitos apps sem querer depender de nuvem. Quem já comprou elogia bastante a velocidade impressionante no uso diário, a qualidade das câmeras e o alcance nítido do zoom óptico. O único ponto de atenção fica para a bateria de 4.000 mAh, que não é a maior da categoria, mas compradores destacam que a otimização do chip garante autonomia satisfatória para encarar o dia inteiro de trabalho longe da tomada. Levando em conta o desconto de R$ 500 e o pacote completo de hardware e inteligência artificial, é uma oportunidade imperdível para trocar de celular gastando bem menos. Corra para resgatar o cupom antes que acabe! 👉 Aproveite o menor preço do Galaxy S25 5G (256 GB) na Amazon com cupom + PIX",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/GVAq_2zd2s0blmLTBgW8EzlTwwc=/1200x675/smart/filters:format(webp):quality(85)/f3bd20f8-4576-468a-af7c-4ad2eca0f432.png",
-    "https://tl.ctcdn.com.br/mieUjcnrAinQa0N9BU7iH_SX1-Q=/0x0/filters:format(webp):quality(85)/e143d378-695f-4744-863e-1177c6cf6dc6.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "S25",
-    "256",
-    "GB"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ybudscoreoubuds4qualcomprarnablackfriday",
-   "title": "Galaxy Buds Core ou Buds 4: qual comprar na Black Friday?",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-core-ou-buds-4-qual-comprar-na-black-friday/",
-   "published": "2026-11-26T10:28:00+00:00",
-   "summary": "Galaxy Buds Core ou Buds 4: qual comprar na Black Friday? O Galaxy Buds Core e o Galaxy Buds 4 são duas opções de fones de ouvido da Samsung que atendem a públicos diferentes. Na Black Friday 2026 , a escolha depende principalmente do quanto você está disposto a gastar e dos recursos que pretende aproveitar. A diferença de preço é considerável. O Galaxy Buds Core pode ser encontrado por cerca de R",
-   "score": 4.74,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/kBQxmdr0GrWZc8-OV4-tlSlNXOc=/1200x675/smart/filters:format(webp):quality(85)/a3b85876-0790-4c47-beb6-4241198a50f2.jpg",
-   "text": "Galaxy Buds Core ou Buds 4: qual comprar na Black Friday? O Galaxy Buds Core e o Galaxy Buds 4 são duas opções de fones de ouvido da Samsung que atendem a públicos diferentes. Na Black Friday 2026 , a escolha depende principalmente do quanto você está disposto a gastar e dos recursos que pretende aproveitar. A diferença de preço é considerável. O Galaxy Buds Core pode ser encontrado por cerca de R$ 255, enquanto o Buds 4 aparece por R$ 989. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Galaxy Buds Core vale a pena para quem quer economizar O Galaxy Buds Core é uma alternativa interessante para quem procura um fone Bluetooth barato sem abrir mão de funcionalidades importantes. Seu principal atrativo é oferecer cancelamento ativo de ruído (ANC), recurso que ainda não é tão comum entre os modelos de entrada. O fone tem um driver de 6 mm com graves reforçados e uma reprodução equilibrada para sua faixa de mercado. Ele ainda oferece integração com a Galaxy AI, incluindo tradução simultânea, três microfones para chamadas e certificação IP54 contra poeira e respingos. O Buds Core não entrega a mesma experiência dos fones mais caros da Samsung . Seu conjunto de recursos é mais simples, mas atende bem quem deseja ouvir músicas, assistir a vídeos e fazer chamadas sem gastar muito. No histórico do Zoom, o Galaxy Buds Core apareceu por R$ 185 em junho de 2026 e chegou a R$ 229 em outubro. Atualmente, o Magalu vende o modelo por aproximadamente R$ 255. Para a Black Friday, vale ficar de olho em ofertas próximas de R$ 200. Se aparecer novamente por R$ 185, será uma excelente oportunidade de compra. Compre o Galaxy Buds Core no Magalu Compre o Galaxy Buds Core no Mercado Livre Compre o Galaxy Buds Core na Amazon Galaxy Buds 4 dá experiência premium O Galaxy Buds 4 é indicado para quem procura uma experiência mais completa e está disposto a investir mais em áudio e recursos inteligentes. Diferente da versão Pro (que chegou a ganhar até prêmio internacional pela qualidade do som ), o Buds 4 tradicional mantém o formato aberto, sem borrachinhas de isolamento acústico. A Samsung desenvolveu o encaixe considerando dados de milhões de formatos de orelhas, buscando oferecer conforto e estabilidade durante o uso prolongado. Um dos diferenciais está nos gestos de cabeça . Com eles, é possível aceitar ou recusar chamadas, controlar a reprodução de músicas e acionar assistentes virtuais sem precisar tocar no celular ou nos fones. A integração com inteligência artificial também é mais ampla, com suporte à Bixby, ao Google Gemini e ao Perplexity. Já no áudio, o modelo traz alto-falante de duas vias, suporte a Hi-Res de 24-bit/96kHz, modo Som Ambiente e cancelamento ativo de ruído aprimorado. Nas chamadas, a tecnologia Super Clear Call usa aprendizado de máquina para deixar a voz mais nítida, melhorando a experiência em comparação com conexões Bluetooth convencionais. O Buds 4 também é uma opção mais interessante para quem valoriza recursos avançados de áudio e chamadas. Por outro lado, seu formato aberto pode não agradar quem prefere o isolamento físico proporcionado pelas borrachinhas de silicone. Em relação ao preço, o fone aparece por R$ 1.439,10 no site oficial da Samsung, enquanto o Magalu oferece o produto por aproximadamente R$ 989. A segunda opção representa uma economia considerável em relação ao valor da fabricante. Compre o Galaxy Buds 4 no Magalu Compre o Galaxy Buds 4 no Mercado Livre Compre o Galaxy Buds 4 na Amazon Comparação: Galaxy Buds Core x Buds 4 Característica Galaxy Buds Core Galaxy Buds 4 Categoria Entrada Premium Design Intra-auricular Aberto Borrachinhas Sim Não Cancelamento de ruído ANC ANC aprimorado Som Ambiente Não informado Sim Áudio Driver de 6 mm Duas vias Áudio Hi-Res Não informado 24-bit/96kHz Inteligência artificial Galaxy AI Bixby, Gemini e Perplexity Recursos extras Tradução simultânea Gestos de cabeça Preço R$ 255 R$ 989 Afinal, qual Galaxy Buds comprar na Black Friday? A diferença entre os dois modelos é de aproximadamente R$ 734 considerando os preços encontrados no Magalu. Ou seja, o Buds 4 custa quase quatro vezes mais que o Buds Core. Por isso, a recomendação para quem quer economizar é priorizar o Galaxy Buds Core que oferece recursos inteligentes suficientes para o uso cotidiano. Por até R$ 200, é uma compra especialmente interessante. Já o Galaxy Buds 4 faz mais sentido para quem realmente pretende aproveitar os avanços em áudio , chamadas e integração com assistentes de inteligência artificial. Ou seja: considere o Buds 4 se a diferença para o Core cair para, no máximo, R$ 400. Nesse cenário, o investimento adicional começa a fazer mais sentido. Acima disso, o modelo de entrada apresenta uma relação custo-benefício mais interessante para a maioria dos consumidores. Na Black Friday 2026 , o Buds Core deve ser a escolha mais racional . O Buds 4 fica como alternativa para quem deseja um fone mais sofisticado e encontra uma promoção realmente atrativa. Quer saber se o Galaxy Buds Core é bom? Veja quanto vale a pena pagar na Black Friday .",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/kBQxmdr0GrWZc8-OV4-tlSlNXOc=/1200x675/smart/filters:format(webp):quality(85)/a3b85876-0790-4c47-beb6-4241198a50f2.jpg",
-    "https://tl.ctcdn.com.br/tPqlLNbaxaaGpvWQlazpTvfTlXo=/0x0/filters:format(webp):quality(85)/4111d2b6-607c-452e-b0ba-2d26e239d30b.png",
-    "https://tl.ctcdn.com.br/JGSA9bTYxdB2dwfA-9Q9H-sOYj4=/0x0/filters:format(webp):quality(85)/4c1baf46-b9bd-44c2-9f87-fcf363850072.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "Buds",
-    "Core",
-    "Buds"
-   ],
-   "searches": []
-  },
-  {
-   "id": "vidocomiaquetranscrevemligacoesereunioes",
-   "title": "Nothing prepara fones de ouvido com IA que transcrevem ligações e reuniões",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/fone-de-ouvido/nothing-prepara-fones-de-ouvido-com-ia-que-transcrevem-ligacoes-e-reunioes/",
-   "published": "2026-11-26T14:27:42+00:00",
-   "summary": "Nothing prepara fones de ouvido com IA que transcrevem ligações e reuniões A Nothing está preparando um novo tipo de fone de ouvido que vai além da reprodução de músicas e do atendimento de chamadas. Chamado Ear (note) , o dispositivo terá recursos de inteligência artificial (IA) para transcrever e resumir conversas presenciais, ligações telefônicas e reuniões on-line . A novidade foi apresentada ",
-   "score": 4.39,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/msnZXRGU-Gmq835pSIMGQHPYKpc=/1200x675/smart/filters:format(webp):quality(85)/b809f3ed-f7b7-4687-9f11-ec136b572606.png",
-   "text": "Nothing prepara fones de ouvido com IA que transcrevem ligações e reuniões A Nothing está preparando um novo tipo de fone de ouvido que vai além da reprodução de músicas e do atendimento de chamadas. Chamado Ear (note) , o dispositivo terá recursos de inteligência artificial (IA) para transcrever e resumir conversas presenciais, ligações telefônicas e reuniões on-line . A novidade foi apresentada pela própria fabricante em publicações feitas em seu perfil oficial no X (antigo Twitter). A empresa também divulgou as primeiras imagens do produto e confirmou que o lançamento acontecerá no dia 8 de dezembro . 🎧 Veja as melhores promoções de fones de ouvido no WhatsApp do CT Ofertas A proposta é permitir que o usuário utilize os recursos de IA sem precisar carregar um gravador separado ou mudar seus hábitos durante conversas e compromissos. Além da transcrição, o aparelho também poderá organizar os conteúdos em resumos para facilitar a consulta posterior. “O primeiro passo da nossa visão de IA vai mudar a forma como trabalhamos e nos divertimos. Este é o Ear (note), um assistente de anotações com IA e nosso melhor áudio intra-auricular até hoje.” Ear (note) também pode preparar resumos de reuniões Outro recurso antecipado pela Nothing é a possibilidade de receber informações importantes antes de reuniões e sugestões de próximos passos depois dos encontros. A ideia é transformar os fones em uma espécie de assistente pessoal , capaz de ajudar tanto na preparação quanto na organização das tarefas posteriores. O dispositivo também terá suporte a Hi-Res Audio , indicando que a fabricante pretende combinar as funções de produtividade com uma experiência convencional de reprodução musical. A empresa descreve o sistema de som como o melhor já desenvolvido para seus fones intra-auriculares. O visual também foge um pouco do padrão dos acessórios da categoria. O estojo tem construção em alumínio , acabamento metálico, formato mais quadrado e áreas transparentes que seguem a identidade visual característica da Nothing. Já na lateral, aparecem dois controles físicos chamados Talk e Record , inspirados nos comandos de aparelhos Walkman antigos. A fabricante ainda não revelou preços ou todas as especificações técnicas do Ear (note), mas prometeu apresentar mais detalhes durante o lançamento oficial, em 8 de dezembro. Ficou na expectativa para saber mais detalhes do novo fone da Nothing? Então você pode dar uma olhada nos recursos que a empresa adicionou ao Ear (3a) , lançado em julho deste ano.",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/msnZXRGU-Gmq835pSIMGQHPYKpc=/1200x675/smart/filters:format(webp):quality(85)/b809f3ed-f7b7-4687-9f11-ec136b572606.png",
-    "https://tl.ctcdn.com.br/ZtfC4N9iAnKfNClo5yrGnDugbvU=/0x0/filters:format(webp):quality(85)/bc57804c-656e-4f00-a588-088d0ec81aa4.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "IA"
-   ],
-   "searches": []
-  },
-  {
-   "id": "aomipodeganhartrescamerasde50mpezoomde3x",
-   "title": "\"Top barato\" da Xiaomi pode ganhar três câmeras de 50 MP e zoom de 3x",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/top-barato-da-xiaomi-pode-ganhar-tres-cameras-de-50-mp-e-zoom-de-3x/",
-   "published": "2026-11-26T13:51:00+00:00",
-   "summary": "\"Top barato\" da Xiaomi pode ganhar três câmeras de 50 MP e zoom de 3x A Xiaomi pode estar preparando uma atualização importante para seu próximo celular topo de linha com preço mais acessível. Isso porque rumores dão conta de que o Redmi K100 Ultra pode estrear com três câmeras traseiras de 50 MP e zoom óptico de aproximadamente 3x . As informações foram divulgadas pelo leaker Digital Chat Station",
-   "score": 4.35,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/UvlRyhxc6sMiRyGGoK-rKLtCwPk=/1200x675/smart/filters:format(webp):quality(85)/a8b4f567-012d-4731-9ff7-0f81a3faa9b6.jpg",
-   "text": "\"Top barato\" da Xiaomi pode ganhar três câmeras de 50 MP e zoom de 3x A Xiaomi pode estar preparando uma atualização importante para seu próximo celular topo de linha com preço mais acessível. Isso porque rumores dão conta de que o Redmi K100 Ultra pode estrear com três câmeras traseiras de 50 MP e zoom óptico de aproximadamente 3x . As informações foram divulgadas pelo leaker Digital Chat Station em uma publicação feita na rede social chinesa Weibo . Segundo ele, os detalhes vêm de uma unidade de engenharia do smartphone , que ainda passa por testes antes de chegar à versão final. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas O conjunto fotográfico deve incluir um sensor principal de aproximadamente 1/1,3 polegada, acompanhado por uma câmera ultrawide aprimorada e uma telefoto. Esta última ainda estaria sendo avaliada com sensores de tamanhos diferentes, mas já teria avançado para uma distância focal equivalente a cerca de 3x. Na parte frontal, o celular pode contar com uma câmera de selfies de 32 MP . A configuração representaria uma evolução significativa em relação ao Redmi K90 Ultra , que tem apenas uma câmera principal de 50 MP e uma ultrawide de 8 MP, sem sensor telefoto. Redmi K100 Ultra também pode ter bateria gigante As novidades nas câmeras se somam a outros possíveis avanços de hardware já associados ao aparelho. Vazamentos anteriores do mesmo informante apontaram para uma bateria com capacidade aproximada de 10.000 mAh , com carregamento de 100 W por cabo e 50 W sem fio. O dispositivo também teria um sistema de bypass , que permite alimentar o celular diretamente pelo carregador durante tarefas mais exigentes, reduzindo o uso da bateria. Outro detalhe mencionado anteriormente é a presença de um processador com arquitetura de 2 nanômetros , embora o modelo do chip ainda não tenha sido revelado. Em respostas a seguidores, Digital Chat Station também afirmou que a tela pode ser uma das mais interessantes já utilizadas pela Redmi , enquanto os alto-falantes e a resposta tátil não devem decepcionar. Vale ressaltar que a Xiaomi ainda não confirmou oficialmente o Redmi K100 Ultra, e as especificações podem mudar até a apresentação do produto. Enquanto a Xiaomi não revela os detalhes oficiais seu novo smartphone, você pode conferir o review do Canaltech do Redmi Note 17 Pro Max .",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/UvlRyhxc6sMiRyGGoK-rKLtCwPk=/1200x675/smart/filters:format(webp):quality(85)/a8b4f567-012d-4731-9ff7-0f81a3faa9b6.jpg",
-    "https://tl.ctcdn.com.br/NOjDUca18fUQ_HxK-bNzx1jRuy8=/0x0/filters:format(webp):quality(85)/2693d546-df2b-46e1-86de-35abab507fe0.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Xiaomi",
-    "50",
-    "MP"
    ],
    "searches": []
   }
