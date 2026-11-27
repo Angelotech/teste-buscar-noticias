@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-27T03:23:29.041779+00:00",
+ "generated_at": "2026-11-27T18:35:43.993883+00:00",
  "trends": [
   {
-   "term": "playstation 5",
+   "term": "seleção brasileira de futebol feminino",
+   "traffic": 200
+  },
+  {
+   "term": "sap",
+   "traffic": 200
+  },
+  {
+   "term": "al ittihad",
+   "traffic": 500
+  },
+  {
+   "term": "amancio ortega",
+   "traffic": 200
+  },
+  {
+   "term": "ingressos gremio",
+   "traffic": 500
+  },
+  {
+   "term": "coreia do norte",
+   "traffic": 500
+  },
+  {
+   "term": "belo horizonte",
+   "traffic": 200
+  },
+  {
+   "term": "chico buarque",
+   "traffic": 200
+  },
+  {
+   "term": "enfeitiçadas: bem-vindos a hexe",
+   "traffic": 100
+  },
+  {
+   "term": "auditor fiscal",
    "traffic": 2000
-  },
-  {
-   "term": "tv",
-   "traffic": 200
-  },
-  {
-   "term": "summerville",
-   "traffic": 100
-  },
-  {
-   "term": "black",
-   "traffic": 100
-  },
-  {
-   "term": "cupom mercado livre hoje",
-   "traffic": 100
-  },
-  {
-   "term": "r7",
-   "traffic": 1000
-  },
-  {
-   "term": "mercadolivre",
-   "traffic": 200
-  },
-  {
-   "term": "adriane galisteu",
-   "traffic": 100
-  },
-  {
-   "term": "quando começa a black friday",
-   "traffic": 100
-  },
-  {
-   "term": "azul passagens",
-   "traffic": 100
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 319,
-  "used_today": 8,
+  "used": 327,
+  "used_today": 16,
   "daily_allowance": 122
  },
  "sources": [
@@ -76,7 +76,7 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 14,
+   "count": 10,
    "ok": true
   },
   {
@@ -88,7 +88,7 @@
   {
    "name": "Popsci",
    "feed": "https://www.popsci.com/feed/",
-   "count": 19,
+   "count": 22,
    "ok": true
   },
   {
@@ -106,7 +106,7 @@
   {
    "name": "Techcrunch",
    "feed": "https://techcrunch.com/feed/",
-   "count": 20,
+   "count": 12,
    "ok": true
   },
   {
@@ -149,58 +149,40 @@
  "manual": [],
  "stories": [
   {
-   "id": "playstation5ounintendoswitch2qualcomprar",
-   "title": "PlayStation 5 ou Nintendo Switch 2: qual comprar na Black Friday 2026?",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/black-friday-2026-playstation-5-ou-nintendo-switch-2-qual-comprar/",
-   "published": "2026-11-27T01:00:00+00:00",
-   "summary": "PlayStation 5 ou Nintendo Switch 2: qual comprar na Black Friday 2026? Com a aproximação da Black Friday 2026 , muitos pensam em comprar um videogame para instalar na sala. Com o XBOX fora das lojas brasileiras, o público tem apenas duas opções da atual geração ao seu alcance: PlayStation 5 e o Nintendo Switch 2 . Seja para quem busca GTA 6 , seja para aqueles que preferem The Legend of Zelda: Oca",
-   "score": 19.2,
+   "id": "uetoothblackfridayofertasporfaixadepreco",
+   "title": "Do TWS barato ao over-ear com ANC: os melhores fones da Black Friday",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/27/reviews/fones-bluetooth-black-friday-ofertas-por-faixa-de-preco/",
+   "published": "2026-11-27T17:45:50+00:00",
+   "summary": "Se você quer trocar ou estrear um fone de ouvido Bluetooth aproveitando a Black Friday 2026, separamos oito modelos em promoção — do TWS mais barato que entrega o essencial ao headphone over-ear com cancelamento de ruído. Para facilitar sua escolha, organizamos por faixa de preço, com índice de atalhos no topo: você clica no […] O post Do TWS barato ao over-ear com ANC: os melhores fones da Black ",
+   "score": 11.95,
    "why": [
-    "4 sites cobrindo",
-    "Em alta no Google: playstation 5",
-    "Tema de alto interesse"
+    "4 sites cobrindo"
    ],
    "also_in": [
     {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/hardware/black-friday-2026-quanto-vale-a-pena-pagar-rtx-5070/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/games/nintendo-switch-original-ainda-vale-a-pena-comprar-2026/"
-    },
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/games/black-friday-quanto-vale-a-pena-pagar-playstation-5/"
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-shopee-as-melhores-ofertas/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/the-blood-of-dawnwalker-e-mais-games-com-ate-90-off-na-black-friday-do-playstation/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-magalu-as-melhores-ofertas/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-monitor-gamer-na-black-friday-2026-veja-dicas-do-que-avaliar/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-aliexpress-as-melhores-ofertas/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-roupas/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-amazon-as-melhores-ofertas/"
     },
     {
      "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/como-escolher-um-teclado-gamer-na-black-friday-2026-saiba-o-que-avaliar/"
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-mercado-livre-as-melhores-ofertas/"
     },
     {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale"
-    },
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
-    },
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026"
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/amazon-revela-itens-mais-vendidos-antes-da-black-friday-confira/"
     },
     {
      "source": "Popsci",
@@ -208,15 +190,7 @@
     },
     {
      "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-home-depot-power-tool-black-friday-deals-2026/"
-    },
-    {
-     "source": "Popsci",
      "url": "https://www.popsci.com/gear/best-black-friday-3d-printer-deals/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-black-friday-deals-2026/"
     },
     {
      "source": "Popsci",
@@ -224,382 +198,436 @@
     },
     {
      "source": "Popsci",
-     "url": "https://www.popsci.com/gear/huckberry-black-friday-deals/"
+     "url": "https://www.popsci.com/gear/best-dewalt-black-friday-deals/"
     },
     {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-dewalt-black-friday-deals/"
+     "source": "Forbes",
+     "url": "https://forbes.com.br/forbes-money/2026/11/black-friday-2026-endividamento-freia-consumo-mas-ia-e-regra-do-pix-ajudam-a-achar-ofertas-reais/"
     }
    ],
-   "image": "https://tl.ctcdn.com.br/AjL_F5jJZ-Ju2DU_8NFdHF-gQRM=/1200x675/smart/filters:format(webp):quality(85)/12a2018a-07e5-402e-8bd2-30d5d00965b3.jpg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Games\n\n# PlayStation 5 ou Nintendo Switch 2: qual comprar na Black Friday 2026?\n\nPor Diego Corumba • Editado por Jones Oliveira \\| 26/11/2026 às 22:00\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/12a2018a-07e5-402e-8bd2-30d5d00965b3.jpg)Eric Mockaitis/Canaltech\n\nCom a aproximação da **Black Friday 2026**, muitos pensam em comprar um videogame para instalar na sala. Com o XBOX fora das lojas brasileiras, o público tem apenas duas opções da atual geração ao seu alcance: **PlayStation 5** e o **Nintendo Switch 2**.\n\nContinua após a publicidade\n\nSeja para quem busca **GTA 6**, seja para aqueles que preferem **The Legend of Zelda: Ocarina of Time**, estes dispositivos são o sonho de consumo de muita gente. Porém, qual deles vale mais a pena investir e jogar quando os preços estiverem no chão?\n\nCom vantagens e desvantagens de cada um, **é importante analisar friamente para fazer o investimento certo**. Atrás da camada Mario vs. Kratos há muitos detalhes aos quais prestar atenção para garantir a diversão com os consoles nos próximos anos.\n\nEntre o PlayStation 5 ou Nintendo Switch 2, **qual comprar na Black Friday 2026?** Saiba o que cada um oferece, preços que podem aparecer e o que jogar de bom para se decidir:\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\n## O PS5 é um colosso\n\nO videogame da **Sony Interactive Entertainment** é um grande atrativo na atual geração, tanto por seus games quanto pelos recursos que oferece. O hardware conta com upscaling, resoluções altas, um forte desempenho e uma velocidade para executar games que é invejável.\n\nPor ter sido lançado em 2020, sua biblioteca também é riquíssima. Dos clássicos **God of War** e **Marvel’s Spider-Man** aos atuais **Marvel’s Wolverine** e **Astro Bot**, o usuário tem uma infinidade de experiências disponíveis. Somado ao catálogo retrocompatível do PlayStation 4, são alternativas variadas.\n\nOutro ponto alto do PS5 é o controle **DualSense.** Com microfone embutido e sensor háptico, ele é uma das opções mais avançadas do mercado. Em conjunto ao gatilho adaptável e touch, os jogadores agora têm múltiplas alternativas na palma de suas mãos.\n\nContudo, é importante prestar atenção no posicionamento da companhia perante os consumidores. Decisões questionáveis como a aplicação dos preços dinâmicos, falhas constantes de segurança e a promessa sobre o fim da mídia física tornaram o investimento certo em um risco.\n\n## O Nintendo Switch 2 impressiona\n\nAinda que muitos já se contentem com o primeiro Switch, o Nintendo Switch 2 se apresentou como o **console híbrido definitivo**. Com resoluções superiores, mais taxa de quadros, resfriamento adequado e uma tela enorme, ele supera seu antecessor em quase todos os quesitos.\n\nContinua após a publicidade\n\nO fator portátil é muito importante também, já que você pode jogá-lo na TV e depois levar para onde desejar. Tanto para curtir em casa quanto para levar consigo em uma viagem importante ou para se divertir com os amigos, ele é a opção que mais se adequa a todos os tipos de necessidades do usuário.\n\nEm sua biblioteca, além dos títulos retrocompatíveis do Switch, ele já traz pérolas como **Pokémon Pokopia**, **Donkey Kong Bananza** e **Splatoon Raiders**. Isso sem mencionar grandes obras que exigem o controle por movimento — como Switch Sports Resort, Fitness Boxing 3 e outros para quem não quer ficar parado.\n\nO Switch 2 é um investimento bom, contanto que tenha noção de que a sua tela LCD traz um certo atraso em comparação ao primeiro console híbrido. Além disso, sua bateria é o elo fraco do dispositivo, com duração que suporta até 4 horas de gameplay (a depender da experiência).\n\nContinua após a publicidade\n\n## Uma questão de preço\n\nEm relação aos valores, há o fator temporal a ser discutido. O PS5 foi lançado seis anos atrás, o que garante uma oferta maior para o bolso dos fãs. Para ter uma ideia, o menor preço dele em 2026 foi registrado em fevereiro — por **R$ 2.881,35 com o leitor de discos**.\n\nEntretanto, vale lembrar que estamos no meio de uma crise de memórias RAM e armazenamento. Na prática, se existia algo por um preço baixo no início do ano, não durou muito tempo. Se vir por menos de R$ 3.000 será um achado, mas prepare o bolso para mais.\n\nDo lado contrário, nota-se que o Switch 2 foi lançado em junho de 2025. É bem recente neste mercado, o que **torna o seu valor menos maleável em contrapartida dos demais**. Na prática, aguardar por custos baixos deste console híbrido seria utópico no cenário.\n\nContinua após a publicidade\n\nNo ano de 2026, o menor valor registrado do videogame mais recente da Big N foi de **R$ 3.485,79** — sem jogos ou itens adicionais. Na Black Friday de 2025, ele estava muito próximo a esse valor com jogos como **Pokémon Legends Z-A** ou **Mario Kart World**: R$ 3.511.\n\nSe levarmos em consideração a alta no preço dos eletrônicos, por conta da crise, ver preços similares para o Switch 2 já seria uma grande vantagem. Logo, não espere uma diferença gritante neste quesito (a não ser que exista alguma queda brusca ou uma oferta mais atrativa com métodos de pagamento como o PIX).\n\n## GTA 6 ou Ocarina of Time?\n\nÉ importante também que reflita o que você deseja jogar. Ilustramos os grandes lançamentos deste ano com The Legend of Zelda: Ocarina of Time e GTA 6, mas há grandes diferenças no catálogo de ambas as plataformas.\n\nContinua após a publicidade\n\nNo Nintendo você encontrará jogos como **Super Mario Bros**, **Pokémon, Splatoon,** **Fire Emblem**, **Donkey Kong** e outras franquias que se tornaram referência neste mercado. Além disso, grande parte da sua biblioteca é feita para toda a família aproveitar — como **Nintendo Switch Sports Resort** e **Super Mario Party Jamboree**.\n\nDo outro lado temos o PlayStation 5, com games variados. De ação e aventura a até histórias divertidas, como Astro Bot, você basicamente encontra de tudo no console da Sony. Entretanto, é importante ressaltar que parte do público-alvo do videogame é o jovem adulto (com tramas mais maduras ou agressivas).\n\nGrande parte dos títulos multiplataformas existem nos dois videogames. **EA Sports FC**, **Call of Duty**, **Cyberpunk 2077**, **The Witcher III: Wild Hunt**, **Assassin’s Creed** e outros games mais recentes podem ser encontrados em ambos. Se busca pelo “básico”, não terá dores de cabeça.\n\nContinua após a publicidade\n\nÉ notável que o Switch 2 não tem o desempenho do PlayStation 5, o que pode impedir você de encontrar os 60 FPS e gráficos impressionantes no console híbrido. Por outro lado, você tem nele a portabilidade para jogar onde quiser — o que não existe no videogame que tem de ficar preso à TV.\n\nGTA 6, que é considerado um dos jogos mais esperados de todos os tempos, não será lançado no dispositivo da Nintendo. Alguns outros passam pelo mesmo processo, como é o caso de **Ace Combat 8: Wings of Theve**, **The Blood of the Dawnwalker**, **Silent Hill: Townfall** e alguns outros de nicho.\n\n## O que comprar na Black Friday 2026?\n\nSe separarmos em perfis, se você busca reviver os “bons e velhos tempos” com o Ocarina of Time e tem interesse em jogar Pokémon, Mario e outros personagens clássicos em aventuras modernas, busque o Switch 2. Além de encontrar os exclusivos, também verá um vasto suporte multiplataforma — que aumenta cada vez mais.\n\nContinua após a publicidade\n\nPorém, se o seu objetivo é GTA 6 ou os grandes exclusivos da Sony, um PS5 vai te atender melhor. Ele não terá as facilidades e portabilidade do seu rival no mercado, no entanto ele (geralmente) entrega um desempenho superior e mais títulos voltados para o público adulto.\n\nEm questão de preço, **há potencial para o PlayStation 5 estar mais barato do que o console da Big N**. Não foi revelado como a crise dos componentes impactará a Black Friday 2026, porém há chances maiores de vê-lo com um valor abaixo do que teremos com o Switch 2.\n\nNo meio de todo este debate, também é importante refletir: qual você enxerga que vai se divertir mais? Videogame é entretenimento e lazer, logo, você precisa ligar o dispositivo para aproveitar o seu tempo livre — independentemente do gráfico, desempenho e outros fatores. Dito isso, pense nessa frente.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAT1109BK-TWS.avif",
+   "text": "# Do TWS barato ao over-ear com ANC: os melhores fones da Black Friday\n\nRedação Olhar Digital\n·\nAtualizado em 27/11/2026\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F&title=Do+TWS+barato+ao+over-ear+com+ANC%3A+os+melhores+fones+da+Black+Friday%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F&text=Do+TWS+barato+ao+over-ear+com+ANC%3A+os+melhores+fones+da+Black+Friday%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/reviews/fones-bluetooth-black-friday-ofertas-por-faixa-de-preco/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nSe você quer trocar ou estrear um **fone de ouvido Bluetooth** aproveitando a **Black Friday 2026**, separamos oito modelos em promoção — do TWS mais barato que entrega o essencial ao headphone over-ear com cancelamento de ruído. Para facilitar sua escolha, organizamos por faixa de preço, com índice de atalhos no topo: você clica no modelo da sua faixa e vai direto para o detalhe da oferta. Entre os destaques estão o **Philips TAT1109BK**, o **Huawei FreeBuds SE 2**, o **Soundcore P20i**, o **JBL Tune 530BT**, o **Soundcore P30i** com ANC, o **Samsung Galaxy Buds Core** e o **JBL Tune 780NC**.\n\n## Índice rápido: pule direto para a sua faixa\n\n- Até R$ 120 — TWS e over-ear de entrada\n  - Philips Fone de Ouvido Sem Fio TWS TAT1109BK\n  - Philips Headphone Bluetooth Over-Ear TAH2300BK/00\n  - Huawei FreeBuds SE 2\n  - Soundcore P20i da Anker — TWS com graves reforçados\n- Até R$ 250 — intermediários com ANC entrando na conversa\n  - JBL Tune 530BT Over-Ear\n  - Soundcore P30i da Anker — TWS com ANC\n  - Samsung Galaxy Buds Core\n- Acima de R$ 250 — premium com cancelamento de ruído\n  - JBL Tune 780NC Over-Ear com ANC\n- Como escolher seu fone de ouvido Bluetooth\n- Perguntas frequentes\n\n## Até R$ 120 — TWS e over-ear de entrada\n\n### Philips Fone de Ouvido Sem Fio TWS TAT1109BK\n\nEssa é a porta de entrada ideal para quem quer um TWS confiável sem gastar muito. O Philips TAT1109BK traz Bluetooth estável e microfone embutido para chamadas, além de autonomia de até 24 horas com o estojo — bastante para uma semana de uso rotineiro sem precisar carregar.\n\n- Formato intra-auricular (TWS)\n- Bluetooth com microfone integrado para chamadas\n- Autonomia de até 24 horas com o estojo de recarga\n- Comandos de toque em cada fone\n- Design compacto, com estojo de bolso\n\nPhilips TAT1109BK TWS\n\nR$ 144,00R$ 89,00\n\nAmazon\n\nIr à loja\n\n### Philips Headphone Bluetooth Over-Ear TAH2300BK/00\n\nPara quem prefere o formato over-ear (que fecha sobre a orelha) e busca autonomia estendida, este Philips entrega impressionantes 55 horas de bateria por menos de R$ 110. Ideal para quem passa o dia inteiro com o fone na cabeça ou vive esquecendo o cabo de carga no trabalho.\n\n- Formato over-ear com almofadas acolchoadas\n- Bluetooth com microfone integrado\n- Autonomia de até 55 horas\n- Design dobrável para transporte\n- Controles no próprio fone\n\nPhilips TAH2300BK/00\n\nR$ 149,00R$ 105,00\n\nAmazon\n\nIr à loja\n\n### Huawei FreeBuds SE 2\n\nUma das promoções mais agressivas da categoria: o FreeBuds SE 2 chega com mais de 50% de desconto no preço à vista. É um TWS compacto, confortável para uso prolongado, com bateria de até 40 horas junto do estojo. Ótima opção para quem quer a experiência da Huawei por um preço bem acessível.\n\n- Formato intra-auricular (TWS)\n- Bluetooth 5.3 com baixa latência\n- Autonomia de até 40 horas com estojo\n- Resistência à água (IP54)\n- Design compacto e leve\n\nHuawei FreeBuds SE 2\n\nR$ 239,00R$ 113,05\n\nAmazon\n\nIr à loja\n\n### Soundcore P20i da Anker — TWS com graves reforçados\n\nA linha Soundcore da Anker é referência em custo-benefício, e o P20i vem com desconto de mais da metade do preço original. Traz o modo BassUp para graves potentes, drivers de 10mm e 2 microfones com IA para chamadas claras. Com certificação IPX5, aguenta chuva e suor para quem usa na academia.\n\n- Formato intra-auricular (TWS)\n- Bluetooth 5.3 e drivers de 10 mm\n- Autonomia de até 30 horas com estojo\n- Resistência à água IPX5 para exercícios\n- 2 microfones com IA para chamadas\n- Personalização de som via app Soundcore\n\nSoundcore P20i da Anker\n\nR$ 249,00R$ 114,00\n\nAmazon\n\nIr à loja\n\n## Até R$ 250 — intermediários com ANC entrando na conversa\n\n### JBL Tune 530BT Over-Ear\n\nUm dos over-ear mais queridos da JBL, agora com desconto de 45% à vista. Tem a assinatura Pure Bass JBL, autonomia muito longa (até 57 horas) e peso leve para uso prolongado. Dobrável para caber na mochila, é ótimo para quem usa no trajeto diário.\n\n- Formato over-ear dobrável\n- Assinatura sonora JBL Pure Bass\n- Autonomia de até 57 horas\n- Carregamento rápido (5 min = 3h de música)\n- Microfone embutido para chamadas\n- Multiponto: conexão simultânea com dois dispositivos\n\nJBL Tune 530BT Over-Ear\n\nR$ 299,00R$ 163,30\n\nAmazon\n\nIr à loja\n\n### Soundcore P30i da Anker — TWS com ANC\n\nPara quem quer cancelamento ativo de ruído sem pagar o preço de um flagship, o P30i é um dos melhores custo-benefício do mercado. Traz ANC adaptativo que silencia o entorno em viagens e no transporte público, Bluetooth 5.4, drivers de 12mm com graves encorpados e autonomia de até 45 horas.\n\n- Formato intra-auricular (TWS) com ANC ativo\n- Bluetooth 5.4 com baixa latência\n- Drivers de 12 mm com som personalizável\n- Autonomia de até 45 horas com estojo\n- Resistência à água IPX5\n- Microfones com redução de ruído para chamadas\n\nSoundcore P30i Anker\n\nR$ 369,00R$ 179,55\n\nAmazon\n\nIr à loja\n\n### Samsung Galaxy Buds Core\n\nO TWS da Samsung também entra na Black Friday com mais de 38% de desconto. Oferece som equilibrado, encaixe confortável para uso prolongado e integração natural com dispositivos Galaxy (embora funcione normalmente em qualquer Android ou iPhone). Boa opção para quem já está no ecossistema Samsung.\n\n- Formato intra-auricular (TWS)\n- Bluetooth com integração natural com Galaxy\n- Microfones para chamadas em qualidade clara\n- Controles por toque personalizáveis via app Galaxy Wearable\n- Autonomia confortável para uso diário com estojo de recarga\n\nSamsung Galaxy Buds Core\n\nR$ 349,00R$ 214,37\n\nMercado Livre\n\nIr à loja\n\n## Acima de R$ 250 — premium com cancelamento de ruído\n\n### JBL Tune 780NC Over-Ear com ANC\n\nO topo da lista traz o JBL Tune 780NC, o over-ear ANC da linha Tune que combina cancelamento ativo de ruído, autonomia impressionante de 76 horas (ou 50h com ANC ligado) e o som assinatura Pure Bass. Para quem gosta de headphone fechado em viagens longas, trabalha em escritório barulhento ou precisa de concentração, é um dos melhores custo-benefício com ANC do mercado.\n\n- Formato over-ear fechado com ANC adaptativo\n- Autonomia de até 76 horas (até 50h com ANC)\n- Assinatura sonora JBL Pure Bass\n- Carregamento rápido (5 min = 3h de música)\n- Multiponto: conexão simultânea com dois dispositivos\n- Microfone embutido com cancelamento de ruído para chamadas\n\nJBL Tune 780NC Over-Ear ANC\n\nR$ 499,00R$ 348,84\n\nMercado Livre\n\nIr à loja\n\n## Como escolher seu fone de ouvido Bluetooth\n\nO primeiro ponto é definir o formato: **TWS** (intra-auricular sem fio, cada fone separado) é mais discreto e combina bem com academia e uso em movimento; **over-ear** (que cobre a orelha) oferece isolamento acústico natural, mais graves e mais conforto em uso prolongado. Para esportes, confira a certificação de resistência à água — IPX4 aguenta suor, IPX5 e superiores aguentam chuva e enxágue.\n\nSe você usa fone em ambientes barulhentos (ônibus, metrô, escritório aberto, avião), vale pagar pelo **cancelamento ativo de ruído (ANC)**, que silencia o entorno em tempo real. Para chamadas, verifique o número de microfones e se o modelo tem supressão de ruído na captação. Autonomia da bateria é outro diferencial: TWS entregam entre 20 e 45 horas com estojo; over-ear modernos vão de 50 a 80 horas.\n\n## Perguntas frequentes\n\n**Qual a diferença entre ANC e isolamento passivo?**\n\nO isolamento passivo é o abafamento físico que as almofadas ou as pontas de silicone fazem. O ANC (cancelamento ativo) usa microfones e processamento para gerar ondas que anulam o som externo — silencia o constante barulho de motor, ar-condicionado e multidão. Over-ear com ANC entrega o silêncio mais completo.\n\n**Vale a pena comprar um fone TWS mais barato?**\n\nSim, para uso casual ou como segundo par. A partir de R$ 90-120 já é possível ter conexão estável, microfone para chamadas e boa autonomia. Para áudio crítico (música em alta fidelidade, uso profissional), prefira modelos acima de R$ 300 com codecs de áudio avançados.\n\n**Qual Bluetooth é melhor: 5.3 ou 5.4?**\n\nO Bluetooth 5.4 traz melhorias em latência e eficiência energética, mas na prática o 5.3 ainda atende muito bem para música e chamadas. Mais importante é a qualidade do chipset e os codecs suportados (SBC, AAC e, em modelos premium, LDAC ou aptX).\n\nOs preços e a disponibilidade são atualizados conforme a loja e podem mudar sem aviso.\n\n_**Aviso:** esta página contém links de afiliados. Ao comprar através deles, o Olhar Digital pode receber uma comissão, sem custo adicional para você. Os preços e a disponibilidade são atualizados conforme a loja e podem mudar sem aviso._\n\nTags: produtos\n\n## Veja também\n\n\\\\\n**Do RTX 3050 ao RTX 5070: os melhores notebooks gamers da Black Friday** Guia de Compra \\\\\n**De R$ 839 a R$ 5.499: qual Smart TV comprar na Black Friday** Guia de Compra \\\\\n**Galaxy S25 Ultra com 54% off: as maiores promoções de celulares** Guia de Compra",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/AjL_F5jJZ-Ju2DU_8NFdHF-gQRM=/1200x675/smart/filters:format(webp):quality(85)/12a2018a-07e5-402e-8bd2-30d5d00965b3.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/7J_3JPIl_ck0gCo5SpaKR4RwRkU=/640x360/smart/filters:format(webp"
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/black-friday-fones-scaled.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAT1109BK-TWS.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAH2300BK00.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Huawei-FreeBuds-SE-2.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Soundcore-P20i-da-Anker.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/JBL-Tune-530BT-Over-Ear.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Soundcore-P30i-Anker.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Samsung-Galaxy-Buds-Core-1.webp",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/JBL-Tune-780NC-Over-Ear-ANC.webp",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/notebooks-gamer-300x134.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/smart-tvs-black-friday-300x123.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Samsung-Galaxy-S25-Ultra-5g-300x169.png"
    ],
    "videos": [],
    "keywords": [
-    "5",
-    "Nintendo",
-    "Switch"
+    "TWS",
+    "ANC",
+    "Black"
    ],
    "searches": [
-    "gta 5 nintendo switch",
-    "persona 5 nintendo switch",
-    "gta 5 nintendo switch lite",
-    "dmc 5 nintendo switch",
-    "persona 5 nintendo switch 2",
-    "gta 5 nintendo switch oled"
+    "tws marshall motif ii anc black",
+    "anc black tws earbuds",
+    "tws anc",
+    "tws 2023",
+    "tws anc enc"
    ]
   },
   {
-   "id": "dicascomoseprotegerdegolpesnablackfriday",
-   "title": "10 dicas: como se proteger de golpes na Black Friday",
-   "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/10-dicas-como-se-proteger-de-golpes-na-black-friday/",
-   "published": "2026-11-26T21:30:00+00:00",
-   "summary": "",
-   "score": 11.63,
+   "id": "centivacolaboradoresaparticipardeironman",
+   "title": "CEO Incentiva Colaboradores a Participar de Iron Man",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-life/forbes-sport/2026/11/ceo-incentiva-colaboradores-a-participar-de-iron-man/",
+   "published": "2026-11-27T16:53:37+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresa de Belo Horizonte vai pagar toda estrutura de treinamento e flexibilizar escala de trabalho O post CEO Incentiva Colaboradores a Participar de Iron Man apareceu primeiro em Forbes Brasil .",
+   "score": 9.05,
    "why": [
-    "2 sites cobrindo",
-    "Em alta no Google: black"
+    "Em alta no Google: belo horizonte"
+   ],
+   "also_in": [],
+   "image": "",
+   "text": "1. Início\n/3. Forbes Life\n/5. Forbes Sports\n/7. CEO Incentiva Colaboradores a Participar de Iron Man\n\nBuda Mendes / Equipe/Getty ImagesO Iron man reúne natação, ciclismo e corrida em uma das provas de resistência mais desafiadoras do esporte\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nUma empresa do ramo de proteção veicular de Belo Horizonte preparou uma estratégia inovadora para incentivar funcionários a participar de um **Iron Man**, uma das mais desafiadoras provas esportivas, que reúne natação, ciclismo e corrida. Com um detalhes: nenhum deles é atleta ou treina regularmente e alguns nem sequer sabem nadar.\n\nA ideia partiu de **Rodrigo Felipe, CEO da Prime Results**, empresa do ramo de proteção veicular. Ele é triatleta amador com mais de 30 provas no currículo, e pretende incentivar seus funcionários a praticarem a modalidade.\n\nA empresa abriu um programa de inscrições voluntárias e de um grupo inicial de 20, selecionou dez, cinco homens e cinco mulheres. Eles têm entre 26 e 34 e terão acompanhamento de triatletas profissionais, nutricionistas e médicos, tudo bancado pela empresa, com flexibilização de jornada de trabalho para facilitar os treinamentos.\n\nO projeto está integrado ao departamento de recursos humanos da empresa, mas não tem relação com desempenho profissional. O objetivo é promover saúde, esporte e bem-estar.\n\nO **Iron Man 70.3 de Florianópolis** será disputado em 24 de outubro do próximo ano, em Jurerê Internacional. As distâncias serão 1,9 km de natação, e 21,1 km de corrida.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Iron Man\n- Maurício Noriega\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Mulheres Chegam a 46% com Pós-graduação e 91% de Propriedade no Agro. Veja os Destaques do AgroRound**\n- \\\\\n\\\\\n**“Sabe Ouvir”: Entidades e Mercado Destacam Diálogo de Trabuco Ao Chegar À Fazenda**\n- \\\\\n\\\\\n**Dólar em Queda: Especialistas Comentam Trajetória do Câmbio com Escolha de Trabuco**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOForbes Radio",
+   "text_source": "firecrawl",
+   "images": [
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-tamanho-site-1920x1080-2026-11-27T134246.743-1200x675.png",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-tamanho-site-1920x1080-2026-11-27T134246.743-860x484.png",
+    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
+    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/agro_agroround_capa_27.11.2026-300x200.webp",
+    "https://forbes.com.br/wp-content/uploads/2026/11/money_trabuco_26.11.2026-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/ForbesMoneyNovoTamanhoSite1920x1080-16-300x200.png",
+    "https://forbes.com.br/wp-content/uploads/2026/10/146_CAPA_miniatura-225x300.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/09/145_CAPA-miniatura-225x300.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/capa-revista-edicao-144-225x300.jpeg",
+    "https://forbes.com.br/wp-content/uploads/2026/07/143_CAPA_miniatura-225x300.png"
+   ],
+   "videos": [],
+   "keywords": [
+    "Incentiva",
+    "Colaboradores",
+    "Participar"
+   ],
+   "searches": []
+  },
+  {
+   "id": "blackfridaybestcheaptechdealsunder302026",
+   "title": "Here are the best Black Friday deals you can grab for $30 or less",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
+   "published": "2026-11-27T16:41:19+00:00",
+   "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You […]",
+   "score": 8.88,
+   "why": [
+    "3 sites cobrindo"
    ],
    "also_in": [
     {
-     "source": "Olhar Digital",
-     "url": "https://olhardigital.com.br/2026/11/26/colunistas/seu-direito-digital-quem-responde-se-a-ia-errar-na-sua-compra-de-black-friday/"
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+    },
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+    },
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
+    },
+    {
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-tv-deals-oled-qled-lg-samsung/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-breville-kitchen-appliance-deals-smart-oven-espresso-machines/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/gear-best-walmart-black-friday-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-black-friday-power-tool-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-black-friday-deals-2026/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-cordless-yard-tool-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-home-depot-power-tool-black-friday-deals-2026/"
     }
    ],
-   "image": "https://www.estadao.com.br/resizer/v2/7ZMGX6GTZRF2HDJPUJL6DJF45Q.jpg?quality=80&auth=36b5822237d79d10344c1d79dd46f84759638b376c357f4d54d9864b14600ad8&width=710",
-   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Cibersegurança\n\nPor Amanda Fleure\n\n26/11/2026 \\| 18h30\n\nNotícia de presente\n\nVai aproveitar a Black Friday? O TecMundo preparou uma lista rápida para você não cair em golpes. Atenção, lá vai!\n\n- **Primeiro**: desconfie de links enviados por WhatsApp, SMS e redes sociais. Não clique em ofertas suspeitas;\n- **Segundo**: pesquise a reputação da loja, consulte o Reclame Aqui, o Procon e confira o CNPJ antes de comprar;\n- **Terceiro**: tenha cuidado com pagamentos via Pix. Descontos muito agressivos podem ser uma armadilha;\n- **Quarto**: prefira usar um cartão de crédito virtual temporário para proteger os dados do seu cartão físico;\n- **Quinto**: confira o endereço do site. Golpistas criam páginas falsas com nomes e letras parecidos com os de grandes lojas;\n- **Sexto**: acompanhe o histórico de preços em ferramentas como Zoom e Buscapé para fugir da famosa fraude da metade do dobro;\n- **Sétimo**: defina uma lista de compras e um limite de gastos antes de começar a procurar ofertas;\n- **Oitavo**: aproveite cupons e cashback, mas confira as condições antes de finalizar o pedido;\n- **Nono**: compare o preço total, incluindo o frete. Às vezes, o produto mais barato acaba saindo mais caro;\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nTecMundo e Estadão fazem a TecFriday! Foto: Redação TecMundo\n\nE **décimo**: acompanhe as lives do Estadão e TecMundo a partir desta quinta-feira a noite com cupons, promoções e especialistas! Te espero no YouTube e no site.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- tec friday\n- TecMundo\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nSmartwatch Samsung Galaxy Watch8 LTE, 44mm\\\\\n\\\\\nPreço anterior ~~R$ 3.499,00~~ Preço R$ 1.598,99-54%\\\\\n\\\\\nAcessórios · Amazon\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 3.999,90-15%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nLoRa: o que é e como funciona a comunicação sem internet? 2.\\\\\n\\\\\nLive da Virada: ofertas, cupons, promoções e desconto! 3.\\\\\n\\\\\n‘Difícil imaginar que a humanidade mantenha o controle’: executivo da Meta alerta sobre super IA 4.\\\\\n\\\\\nAmazon revela itens mais vendidos antes da Black Friday 2026; confira 5.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Gadgets\n\n- Verge Shopping\n\n- Black Friday\n\n# Here are the best Black Friday deals you can grab for $30 or less\n\nFrom smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget.\n\nFrom smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget.\n\nbySheena Vasani\n\nNov 27, 2026, 12:30 PM EST\n\n- Link\n\n- Share\n\nComments00Comments\n\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\n\nPart Of\\\\\n\\\\\nThe Verge’s guide to Black Friday 2026\\\\\n\\\\\nsee all\n\n[](https://www.theverge.com/authors/sheena-vasani)\n\nSheena Vasaniwrites about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for _The Verge_.\n\nWhat can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You can also grab a decent pair of ANC-equipped earbuds for under $20, or spend even less on a clever set of rechargeable AA batteries. And it’s not just gadgets that are on sale: you can even sign up for a year of Disney Plus and Hulu for $4.99 ($8 off) a month.\n\n### Related\n\n- The absolute best Black Friday deals we’ve found (so far)\n- The Verge’s guide to affordable holiday gifts under $25\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nBelow, we’ve rounded up the best Black Friday deals for $30 or less, from charging accessories and smart home tech to earbuds, streaming subscriptions, games, and more. Whether you’re looking for practical stocking stuffers or want to treat yourself without spending too much, these are the deals that won’t put a (huge) dent in your wallet.\n\n* * *\n\n[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__875308________________google.com)[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__875308________________google.com)\n\n### Apple AirTag (second-gen)\n\n$18$2938% off\n\n$18\n\nApple’s latest AirTags feature an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\n$18 at Amazon $18 at Walmart $18 at Best Buy\n\n[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1039645__909793__n______________google.com)[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1039645__909793__n______________google.com)\n\n### SwitchBot Bot Rechargeable\n\n$24$3429% off\n\n$24\n\nDo you ever wish you could turn on your coffee maker or hit the light switch without getting up? The SwitchBot Bot lets you do that. All you need to do is stick the inexpensive contraption on a standard button or rocker switch, which will allow you to control or schedule your pet feeder, garage door, and a wide range of other devices from your smartphone.\n\n$24 at Amazon (white) $24 at SwitchBot (with code BFCMX30) $24 at Amazon (black)\n\n[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1039645][626982][n][][][][][][][google.com])[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1039645][626982][n][][][][][][][google.com])\n\n### Disney Plus, Hulu Bundle\n\n$5$1362% off\n\n$5\n\nYou can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including _The Simpsons_, _Andor_, _Toy Story 5_, and _The Fantastic Four: First Steps_.\n\n$5 at Hulu (ad-supported, monthly) $15 at Hulu (ad-free, monthly)\n\n[](https://www.amazon.com/dp/B0GSCZJ6HK?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954836________________google.com)[](https://www.amazon.com/dp/B0GSCZJ6HK?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954836________________google.com)\n\n### Zepath USB-C Li-ion AA Batteries\n\n$16$2020% off\n\n$16\n\nRechargeable AA batteries are handy until it’s time to charge them. Most wall chargers let you refill four, maybe six, at once. Zepath’s clever solution is to ship them in an easy-to-use USB-C charging case that charges eight simultaneously. The batteries themselves are long-lasting, too.\n\n$16 at Amazon (8-pack, 3000mWh) $24 at Amazon (12-pack, 3000mWh)\n\n[](https://www.amazon.com/gp/product/B0BLMQ8BXB/ref=ewc_pr_img_1?smid=A2ZXT6R0FR7K6V&psc=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__807249________________google.com)[](https://www.amazon.com/gp/product/B0BLMQ8BXB/ref=ewc_pr_img_1?smid=A2ZXT6R0FR7K6V&psc=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__807249________________google.com)\n\n### Hoto 3.6V Electric Screwdriver Kit Pro\n\n$28$5044% off\n\n$28\n\nHoto’s rechargeable screwdriver is ideal for small repairs. It offers three torque modes, a rotational speed of up to 220RPM, and a helpful circular LED to illuminate dark spaces. The durable case also holds all 25 steel bits and an extension bar for getting into hard-to-reach places.\n\n$28 at Amazon $28 at Walmart\n\n[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)\n\n### HBO Max\n\n$5$1155% off\n\n$5\n\nAn HBO Max Basic subscription provides access to shows like _A Knight of the Seven Kingdoms, The Last of Us, and The Pitt_, as well as films like _Superman_ and _Weapons._ You can get a year of the monthly, ad-supported subscription for $5.49 a month (about $6 off) until December 1st.\n\n$5 at HBO Max (monthly, with ads) $79 at HBO Max (annual, basic) $133 at HBO Max (annual, standard)\n\n[](https://www.amazon.com/dp/B0F7Z4QZTT?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__865710________________google.com)[](https://www.amazon.com/dp/B0F7Z4QZTT?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__865710________________google.com)\n\n### Amazon Fire TV Stick 4K Plus\n\n$30$7057% off\n\n$30\n\nAmazon’s last-gen Fire TV Stick 4K Plus streams in 4K and supports Dolby Atmos, Dolby Vision, and Alexa Plus. It also ships with the redesigned Fire OS and, unlike more recent models, still lets you sideload Android TV apps.\n\n$30 at Amazon $30 at Best Buy\n\n[](https://www.amazon.com/LifeStraw-Sip-Stainless-Microplastics-Parasites/dp/B0DKTVV4CJ/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__810917________________google.com)[](https://www.amazon.com/LifeStraw-Sip-Stainless-Microplastics-Parasites/dp/B0DKTVV4CJ/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__810917________________google.com)\n\n### LifeStraw Sip\n\n$24$3531% off\n\n$24\n\nThe original LifeStraw was designed for those heading into the backcountry. The new LifeStraw Sip? Not so much. The reusable steel straw is geared more toward travelers than outdoor enthusiasts, though fortunately it still manages to remove about 99.99 percent of microplastics, bacteria, and parasites from your drinking water.\n\n$24 at Amazon $26 at LifeStraw\n\n[](https://www.amazon.com/TP-Link-Tapo-Compatible-Certified-P125M/dp/B0BNWGZ545?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__1036195________________google.com)[](https://www.amazon.com/TP-Link-Tapo-Compatible-Certified-P125M/dp/B0BNWGZ545?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__1036195________________google.com)\n\n### TP-Link Tapo Matter-Certified Smart Plug Mini\n\n$8$2060% off\n\n$8\n\nTP-Link’s Wi-Fi smart plug lets you remotely control lamps, fans, and other appliances using your phone or voice commands. It supports Matter, so it works with all major smart home platforms to set schedules and timers to automatically turn devices on or off.\n\n$8 at Amazon $15 at Amazon (two-pack)\n\n[](https://www.amazon.com/dp/B0F2M65H3S?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__793712________________google.com)[](https://www.amazon.com/dp/B0F2M65H3S?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__793712________________google.com)\n\n### CMF Buds 2A\n\n$18$4963% off\n\n$18\n\nWith 12.4mm drivers, active noise cancellation, and an IP54 rating, the CMF Buds 2A offer high-end features at an affordable price. You can also customize the sound, adjust ANC levels, and find the earbuds using the Nothing X app.\n\n$18 at Amazon (black) $20 at Amazon (orange) $20 at Amazon (light gray)\n\n[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1039645][667769][n][][][][][][][google.com])[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1039645][667769][n][][][][][][][google.com])\n\n### Peacock\n\n$3$967% off\n\n$3\n\nPeacock is a great way to catch up on a wealth of content from NBC’s various networks, whether you plan to rewatch _The Office_ or catch up on all things Bravo. A Premium subscription also grants access to films from studios like Universal Pictures and Dreamworks, along with live sports and a host of Peacock Originals.\n\n$3 at Peacock (monthly, Select) $9 at Peacock (monthly, Premium) $30 at Peacock (annual, Select)\n\n[](https://www.amazon.com/Twelve-South-Transmitter-Headphones-Airplanes/dp/B0BQZBMXD4/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__2411________________google.com)[](https://www.amazon.com/Twelve-South-Transmitter-Headphones-Airplanes/dp/B0BQZBMXD4/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__2411________________google.com)\n\n### Twelve South AirFly SE\n\n$26$3526% off\n\n$26\n\nTwelve South’s entry-level Bluetooth transmitter delivers up to 25 hours of continuous use and lets you connect up to two pairs of headphones to an in-flight entertainment system, making it a great travel companion no matter where you’re going.\n\n$26 at Amazon (white) $26 at Amazon (black) $26 at Twelve South\n\n[](https://www.amazon.com/KODAK-Recording-Simulation-Megapixels-Beginners/dp/B0FKBDT8FR/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__863478________________google.com)[](https://www.amazon.com/KODAK-Recording-Simulation-Megapixels-Beginners/dp/B0FKBDT8FR/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__863478________________google.com)\n\n### Kodak Charmera Keychain Digital Camera\n\n$30$3514% off\n\n$30\n\nThe Chamera is not a good camera, but that’s not the point. Kodak’s charming, keychain-friendly tchotchke lets you snap lo-fi memories on a whim, with an ultra-small 1.6-megapixel sensor, a built-in LED flash, and the tiniest amount of storage.\n\n$30 at Amazon $30 at B&H Photo\n\n[](https://www.amazon.com/dp/B0DYK1ZH2D?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__7341________________google.com)[](https://www.amazon.com/dp/B0DYK1ZH2D?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__7341________________google.com)\n\n### Catan (6th Edition)\n\n$25$5555% off\n\n$25\n\nIn _Catan_, up to four players strategically compete and trade for resources. The iconic board game ends when one player reaches 10 “victory points,” which is achieved by constructing a sprawling civilization of roads, settlements, and cities using sheep, ore, wheat, and wood.\n\n$25 at Amazon $25 at Target\n\n[](https://www.amazon.com/Strategy-Placement-Players-Average-Playtime/dp/B077MZ2MPW?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__701122________________google.com)[](https://www.amazon.com/Strategy-Placement-Players-Average-Playtime/dp/B077MZ2MPW?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__701122________________google.com)\n\n### Azul\n\n$22$4045% off\n\n$22\n\n_Azul_ is a game in which you arrange patterned tiles in order to create the most beautiful tapestry possible. Arranging tiles in a strategic sequence will help you build your score while limiting your opponents’ ability to grow theirs.\n\n$22 at Amazon $25 at Target\n\n[](https://store.playstation.com/en-us/product/UP6312-PPSA28038_00-0375433414453693)[](https://store.playstation.com/en-us/product/UP6312-PPSA28038_00-0375433414453693)\n\n### Halo: Campaign Evolved\n\n$30$5040% off\n\n$30\n\n_Halo: Campaign Evolved_ lets you revisit the original _Halo: Combat Evolved_ campaign with better graphics, updated controls, and improved sound. The well-crafted remake also adds three new missions starring Master Chief and Sgt. Johnson, which take place before the main campaign. Read our review.\n\n$30 at PlayStation Store $30 at Steam\n\n[](https://www.amazon.com/dp/B0DT6SS412?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954741________________google.com)[](https://www.amazon.com/dp/B0DT6SS412?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954741________________google.com)\n\n### Wuben G5 rechargeable flashlight\n\n$18$3040% off\n\n$18\n\nThe Wuben G5 flashlight is as small as a Zippo lighter, yet far more versatile, with a bright, rotatable light that can shine in numerous colors. It features USB-C charging and has an adjustable clip.\n\n$18 at Amazon $20 at Walmart $18 at Wuben\n\n[](https://www.amazon.com/dp/B0CRZ6JJ6D/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__848812________________google.com)[](https://www.amazon.com/dp/B0CRZ6JJ6D/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__848812________________google.com)\n\n### Anker 140W 2-in-1 USB-C to USB-C Cable\n\n$14$1822% off\n\n$14\n\nNo one should have to deal with a rat’s nest behind their desk when devices like Anker’s 2-in-1 USB-C cable exist. The handy USB-C cable splits at the end, giving you the ability to charge up to two devices from a single port. That means you can split power between a phone and tablet or juice a 16-inch MacBook Pro to 50 percent in just 20 minutes using a single port.\n\n$14 at Amazon (four-foot) $15 at Amazon (six-foot) $15 at Anker (four-foot)\n\n[](https://www.playstation.com/en-us/games/the-witcher-3-wild-hunt/)[](https://www.playstation.com/en-us/games/the-witcher-3-wild-hunt/)\n\n### The Witcher 3: Wild Hunt Remastered\n\n$20$5060% off\n\n$20\n\n_The Witcher 3_ lets you explore the war-torn Northern Kingdoms as Geralt of Rivia while preparing to face the mysterious Wild Hunt. ",
    "text_source": "firecrawl",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/7ZMGX6GTZRF2HDJPUJL6DJF45Q.jpg?quality=80&auth=36b5822237d79d10344c1d79dd46f84759638b376c357f4d54d9864b14600ad8&width=710",
-    "https://www.estadao.com.br/resizer/v2/7ZMGX6GTZRF2HDJPUJL6DJF45Q.jpg?quality=80&auth=36b5822237d79d10344c1d79dd46f84759638b376c357f4d54d9864b14600ad8&width=1200&height=630&focal=376,416",
-    "https://assets.estadao.com.br/plataforma-vendas/pw-images/news-friday_bota%CC%83o_home_72x32.png",
-    "https://www.estadao.com.br/resizer/v2/3YA45EDP5BM55DS2EEJFS7Q2GA.png?quality=80&auth=eccf00f56ec7177c41109ae3da8780b3b7f82356a648366c206483a03c931e75&width=60&height=60&smart=true",
-    "https://assets.estadao.com.br/pw/img/selo-news-friday-ultima-chance-banner.png",
-    "https://www.estadao.com.br/resizer/v2/7ZMGX6GTZRF2HDJPUJL6DJF45Q.jpg?quality=80&auth=36b5822237d79d10344c1d79dd46f84759638b376c357f4d54d9864b14600ad8&width=1200",
-    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
-    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/3fa4eef298f5771cb02e4c30e6ce810e9ad464b1cb2aff8e2a59624a811e5abf.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/b829335cdf4bf936b33ecb2225ded137ffa10dfa48029561d256c042659f5dc6.jpg",
-    "https://m.media-amazon.com/images/I/31ZoU0l69iL._SL500_.jpg",
-    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
-    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg"
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0057.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/switchbotbotrechargeable2.png?quality=90&strip=all&crop=16.611111111111%2C0%2C66.777777777778%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/switchbotbotrechargeable2.png?quality=90&strip=all&crop=0%2C0.083194675540767%2C100%2C99.833610648918&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=16.659090909091%2C0%2C66.681818181818%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=0%2C0.011361054305837%2C100%2C99.977277891388&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/hoto.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
    ],
-   "videos": [
-    "https://www.youtube.com/watch?v=m4tSM51T_ic"
-   ],
+   "videos": [],
    "keywords": [
     "Black",
-    "Friday"
-   ],
-   "searches": [
-    "black friday fishing deals",
-    "black friday",
-    "black friday live",
-    "black friday 2026 best buy",
-    "black friday houl",
-    "black friday usa"
-   ]
-  },
-  {
-   "id": "28gbentraemofertapormenosder3000nomagalu",
-   "title": "iPhone 16e de 128 GB entra em oferta por menos de R$ 3.000 no Magalu",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/iphone-16e-de-128-gb-entra-em-oferta-por-menos-de-r-3000-no-magalu/",
-   "published": "2026-11-27T03:08:44+00:00",
-   "summary": "iPhone 16e de 128 GB entra em oferta por menos de R$ 3.000 no Magalu O iPhone 16e de 128 GB apareceu por R$ 2.899 no Pix no Magazine Luiza, através do cupom CUPOMALO200 pelo aplicativo da loja. A oferta também conta com frete grátis e coloca o aparelho abaixo da faixa dos R$ 3 mil, um valor interessante para quem deseja entrar no ecossistema da Apple sem investir tanto nos modelos mais completos d",
-   "score": 10.99,
-   "why": [
-    "Em alta no Google: black",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/FSzJ6Mx2HYqb_TRBNYN7b54DJbY=/1200x675/smart/filters:format(webp):quality(85)/68198357-7c86-408a-8a34-ccc6f46ec03c.jpg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Smartphone\n\n# iPhone 16e de 128 GB entra em oferta por menos de R$ 3.000 no Magalu\n\nPor Redação \\| 27/11/2026 às 00:08 • Atualizado 27/11/2026 às 00:10\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/68198357-7c86-408a-8a34-ccc6f46ec03c.jpg)Ivo Meneghel Jr./ Canaltech\n\nO **iPhone 16e de 128 GB apareceu por R$ 2.899 no Pix** no Magazine Luiza, através do cupom **CUPOMALO200** pelo aplicativo da loja. A oferta também conta com frete grátis e coloca o aparelho abaixo da faixa dos R$ 3 mil, um valor interessante para quem deseja entrar no ecossistema da Apple sem investir tanto nos modelos mais completos da marca.\n\nContinua após a publicidade\n\nA promoção é especialmente atrativa porque o iPhone 16e utiliza o **processador A18**, o mesmo chip da família iPhone 16, e oferece suporte ao Apple Intelligence. O conjunto inclui ainda tela OLED, câmera principal de 48 MP e resistência à água e poeira.\n\n🥇 Compre o iPhone 16e com desconto no Magalu\n\n## **iPhone 16e aposta em desempenho e Apple Intelligence**\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO principal destaque do iPhone 16e é o **chip A18**, que oferece desempenho para aplicativos exigentes, jogos e recursos de inteligência artificial. O processador também contribui para a eficiência energética do aparelho e permite utilizar o Apple Intelligence, conjunto de ferramentas de IA da empresa.\n\nNa parte frontal, o celular tem uma tela **OLED Super Retina XDR de 6,1 polegadas**, com resolução de 2532 x 1170 pixels. O painel entrega bons níveis de contraste e reprodução de cores, embora tenha uma limitação importante para quem está acostumado com celulares Android intermediários: a taxa de atualização fica em 60 Hz.\n\nO conjunto fotográfico é mais simples do que o encontrado nos modelos mais caros da família. Na traseira, há apenas uma câmera Fusion de **48 MP**, que também oferece zoom de 2x com qualidade óptica por meio de recorte do sensor. Na frente, a câmera TrueDepth de 12 MP permite utilizar o Face ID para desbloquear o aparelho e autenticar pagamentos.\n\nOutro diferencial é a resistência IP68 contra água e poeira, além da proteção Ceramic Shield na parte frontal. O iPhone 16e também utiliza USB-C e tem suporte a redes 5G.\n\n## **iPhone 16e vale a pena por R$ 2.899?**\n\nPor menos de R$ 3.000, o iPhone 16e é uma ótima opção para quem deseja um celular da Apple com desempenho atual e pretende permanecer no ecossistema da marca por vários anos. O chip A18 é seu maior atrativo, especialmente para quem utiliza aplicativos pesados, joga no celular ou quer aproveitar os recursos de inteligência artificial.\n\nA câmera principal de 48 MP também entrega versatilidade para fotos do cotidiano, enquanto a tela OLED e a construção resistente completam um conjunto competente. É um aparelho que atende bem quem prioriza desempenho, experiência do iOS e qualidade de construção.\n\nContinua após a publicidade\n\nAs concessões também precisam entrar na conta. O modelo tem apenas uma câmera traseira, não oferece lente ultrawide e mantém a tela limitada a 60 Hz. Os **128 GB de armazenamento** também podem ficar apertados para quem grava muitos vídeos ou instala jogos grandes.\n\nAssim, o iPhone 16e faz mais sentido para quem quer um iPhone relativamente recente e não precisa das câmeras adicionais ou dos recursos avançados dos modelos Pro. **O preço anunciado é competitivo e difícil de encontrar fora da Black Friday.**\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/FSzJ6Mx2HYqb_TRBNYN7b54DJbY=/1200x675/smart/filters:format(webp):quality(85)/68198357-7c86-408a-8a34-ccc6f46ec03c.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/qZuhNYcBIbGZXxw1ANtgRmc49M4=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "128",
-    "GB",
-    "R"
-   ],
-   "searches": [
-    "128gb ram",
-    "128gb ram ddr3",
-    "128gb ram pc",
-    "128gb ram ddr2",
-    "128gb ram pc build",
-    "128 gb rtx 5090"
-   ]
-  },
-  {
-   "id": "amentoderuidopormenosder170nablackfriday",
-   "title": "Galaxy Buds Core traz cancelamento de ruído por menos de R$ 170 na Black Friday",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/fone-de-ouvido/galaxy-buds-core-traz-cancelamento-de-ruido-por-menos-de-r-170-na-black-friday/",
-   "published": "2026-11-27T00:57:00+00:00",
-   "summary": "Galaxy Buds Core traz cancelamento de ruído por menos de R$ 170 na Black Friday Quem procura um fone Bluetooth barato para ouvir música e atender chamadas pode aproveitar uma oferta do Samsung Galaxy Buds Core por R$ 166,06 no Pix com cupom . O desconto anunciado utiliza o código SOHOJE e está disponível no Mercado Livre com frete grátis. O modelo é uma das opções de entrada da Samsung, mas traz r",
-   "score": 10.85,
-   "why": [
-    "Em alta no Google: black",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/TZoWpM8HI8GM2hxw4WmlmsDxiuQ=/1200x675/smart/filters:format(webp):quality(85)/769f8436-d27b-4c48-92e8-e1545c070438.jpg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Fone de Ouvido\n\n# Galaxy Buds Core traz cancelamento de ruído por menos de R$ 170 na Black Friday\n\nPor Redação \\| 26/11/2026 às 21:57\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/769f8436-d27b-4c48-92e8-e1545c070438.jpg)Divulgação/Samsung\n\nQuem procura um fone Bluetooth barato para ouvir música e atender chamadas pode aproveitar uma oferta do **Samsung Galaxy Buds Core por R$ 166,06 no Pix com cupom**. O desconto anunciado utiliza o código **SOHOJE** e está disponível no Mercado Livre com frete grátis.\n\nContinua após a publicidade\n\nO modelo é uma das opções de entrada da Samsung, mas traz recursos que nem sempre aparecem nessa faixa de preço, como **cancelamento ativo de ruído (ANC), modo ambiente e resistência IP54**. A autonomia também chama atenção: a fabricante promete até 35 horas de reprodução considerando os fones e o estojo de carregamento.\n\n- 🥇 Compre o Galaxy Buds Core com cupom no Mercado Livre\n\n## Galaxy Buds Core tem cancelamento de ruído e bateria de até 35 horas\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO Galaxy Buds Core é um fone intra-auricular com pontas de silicone e design compacto. Cada unidade pesa apenas **5,3 gramas**, o que ajuda no conforto durante o uso prolongado. A Samsung também destaca o encaixe firme, pensado para acompanhar atividades físicas e deslocamentos.\n\nO destaque fica para o **cancelamento ativo de ruído (ANC)**, que utiliza microfones para reduzir sons externos. O recurso é acompanhado pelo modo ambiente, que permite ouvir parte dos ruídos ao redor sem precisar retirar os fones. Vale lembrar que o ANC é mais limitado que o encontrado nos modelos premium, especialmente em ambientes muito barulhentos.\n\nNa parte sonora, o aparelho utiliza alto-falantes de 6,5 mm e oferece graves reforçados. O conjunto também conta com três microfones por fone, voltados à captação da voz durante chamadas.\n\nOutro diferencial é a compatibilidade com recursos do Galaxy AI, incluindo o Intérprete e a Tradução Simultânea quando conectado a smartphones Samsung Galaxy compatíveis. A disponibilidade depende do aparelho, do idioma e das configurações utilizadas.\n\n## Vale a pena comprar o Galaxy Buds Core por R$ 166?\n\nPor **R$ 166**, o Galaxy Buds Core seria uma compra bem interessante para quem procura um fone Bluetooth de marca conhecida e não quer gastar muito. A presença de ANC, modo ambiente e resistência IP54 diferencia o modelo de diversos concorrentes básicos.\n\nO preço também fica abaixo de outras ofertas recentes do produto, que apareceram na faixa dos R$ 188 a R$ 212. A diferença reforça o apelo do desconto da Black Friday.\n\nContinua após a publicidade\n\nA principal ressalva é que o cancelamento de ruído não entrega o mesmo isolamento de modelos mais caros. Quem costuma utilizar fones em ônibus, metrôs ou ambientes muito movimentados pode sentir essa limitação. Ainda assim, para ouvir músicas, podcasts e atender chamadas no cotidiano, o conjunto oferece bons recursos pelo preço anunciado.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/TZoWpM8HI8GM2hxw4WmlmsDxiuQ=/1200x675/smart/filters:format(webp):quality(85)/769f8436-d27b-4c48-92e8-e1545c070438.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/BgQk-Bv3iilZMy6AMCLmGbKmWJA=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Buds",
-    "Core",
-    "R"
-   ],
-   "searches": []
-  },
-  {
-   "id": "ranunciosnasrespostasdeiadabuscanobrasil",
-   "title": "Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/internet-e-redes-sociais/google-comeca-a-mostrar-anuncios-nas-respostas-de-ia-da-busca-no-brasil/",
-   "published": "2026-11-26T22:34:00+00:00",
-   "summary": "Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil O Google começou a exibir anúncios nas respostas de inteligência artificial (IA) da Busca no Brasil. A novidade chegou ao Modo IA , em que o usuário conversa com o buscador, e às Visões gerais criadas por IA , os resumos que aparecem no topo de algumas pesquisas. A liberação começou por uma parcela pequena dos usuários, segund",
-   "score": 10.7,
-   "why": [
-    "Em alta no Google: black",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/yW9REiEKTE0RqRVvH6ZsEaqJuKE=/1200x675/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Internet e Redes Sociais\n\n# Google começa a mostrar anúncios nas respostas de IA da Busca no Brasil\n\nPor Marcelo Fischer \\| 26/11/2026 às 19:34\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png)Bruno De Blasi/Canaltech\n\nO Google começou a exibir anúncios nas respostas de inteligência artificial (IA) da Busca no Brasil. A novidade chegou ao **Modo IA**, em que o usuário conversa com o buscador, e às **Visões gerais criadas por IA**, os resumos que aparecem no topo de algumas pesquisas.\n\nContinua após a publicidade\n\nA liberação começou por uma parcela pequena dos usuários, segundo Gustavo Souza, diretor de produtos e soluções publicitárias do Google. O executivo anunciou a mudança nesta quinta-feira (26), durante um evento sobre a Black Friday em São Paulo.\n\n## Onde aparecem os anúncios do Google?\n\nNo Modo IA, o anúncio fica no fim da resposta à pergunta do usuário. Na pesquisa tradicional, ele pode aparecer quando a pessoa expande o resumo e chega ao fim do texto.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nAntes da mudança, o Google já exibia publicidade acima ou abaixo desses resumos no Brasil.\n\nOs novos espaços podem trazer anúncios de texto ou ofertas do **Google Shopping**, com produtos e preços informados pelas lojas. Em ambos os casos, o buscador identifica o conteúdo como patrocinado.\n\nNa demonstração em inglês apresentada no evento, por exemplo, uma pessoa perguntou como alimentar um cachorro exigente com a comida. Depois das orientações, o Modo IA exibiu o anúncio de uma empresa que prepara refeições para cães.\n\n“O anúncio só entra se a gente entender que aquela informação comercial é importante para o resultado do usuário”, explicou Souza.\n\nO executivo afirmou que o Google seleciona as recomendações orgânicas de forma independente da publicidade. Em outro exemplo apresentado no evento, o mesmo cartão de crédito apareceu entre as sugestões da IA para quem viaja e, novamente, no espaço patrocinado.\n\n**Veja também** Qual é a diferença entre o Modo IA e a Visão geral do Google?\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/yW9REiEKTE0RqRVvH6ZsEaqJuKE=/1200x675/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/hKuAzi0JAdDv42ZPFdHVI0jmg_o=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "IA",
-    "Busca",
-    "Brasil"
-   ],
-   "searches": []
-  },
-  {
-   "id": "onechodot5ficaporapenasr231nablackfriday",
-   "title": "Amazon Echo Dot 5 fica por apenas R$ 231 na Black Friday",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/produtos/amazon-echo-dot-5-fica-por-apenas-r-231-na-black-friday/",
-   "published": "2026-11-26T23:49:23+00:00",
-   "summary": "Amazon Echo Dot 5 fica por apenas R$ 231 na Black Friday Quem quer colocar a Alexa em casa sem gastar muito tem uma excelente oportunidade em mãos. O smart speaker aparece por R$ 231,80 no Pix com cupom de R$ 30 OFF na loja oficial do Magazine Luiza na Shopee. A caixinha inteligente da Amazon é uma opção compacta para ouvir músicas, consultar informações por voz e controlar aparelhos compatíveis c",
-   "score": 10.18,
-   "why": [
-    "Em alta no Google: black",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/vHBSpP76KLp9kGGSwefLIrDnDYA=/1200x675/smart/filters:format(webp):quality(85)/71889466-1ae9-4fa0-9374-c1c8a33ad68c.jpg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nArtigos\n\nTudo sobre Produtos\n\n# Amazon Echo Dot 5 fica por apenas R$ 231 na Black Friday\n\nPor Redação \\| 26/11/2026 às 20:49\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/71889466-1ae9-4fa0-9374-c1c8a33ad68c.jpg)Divulgação/Amazon\n\nQuem quer colocar a Alexa em casa sem gastar muito tem uma excelente oportunidade em mãos. O smart speaker aparece por **R$ 231,80 no Pix** com **cupom de R$ 30 OFF** na loja oficial do Magazine Luiza na Shopee.\n\nContinua após a publicidade\n\nA caixinha inteligente da Amazon é uma opção compacta para ouvir músicas, consultar informações por voz e controlar aparelhos compatíveis com a Alexa. Além disso, o modelo conta com sensor de temperatura integrado, que permite criar automações para deixar a rotina doméstica mais prática.\n\n- 🥇 Compre a Echo Dot 5º Geração na Shopee\n\n## **O que a Echo Dot de 5ª geração oferece?**\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nA Echo Dot de 5ª geração é uma caixa de som inteligente bem compacta que utiliza a assistente virtual Alexa. Com comandos de voz, é possível pedir músicas, consultar a previsão do tempo, acompanhar notícias, configurar alarmes ou tirar dúvidas sem precisar pegar o celular.\n\nO dispositivo também funciona como central de controle para uma casa conectada. Ele permite acionar lâmpadas, tomadas, televisores e outros aparelhos compatíveis com a Alexa. Com o suporte ao protocolo Matter, a comunicação com dispositivos inteligentes compatíveis também fica mais simples.\n\nOutro recurso interessante é o **sensor de temperatura integrado**. Ele pode ser utilizado para criar rotinas automáticas, como ligar um ventilador ou ar-condicionado quando o ambiente atingir certa temperatura, desde que os equipamentos utilizados sejam compatíveis.\n\nNa parte sonora, a Echo Dot conta com um alto-falante de 1,73 polegada com direcionamento frontal. O aparelho reproduz músicas de serviços como Spotify, Apple Music e Amazon Music, além de podcasts e outros conteúdos de áudio.\n\nA conexão Bluetooth também permite utilizar o dispositivo para reproduzir o som de um celular, tablet ou computador compatível. Já os controles por toque na parte superior facilitam ações como pausar músicas e adiar alarmes.\n\n## **Vale a pena comprar a Echo Dot por R$ 231?**\n\nPor **R$ 231,80 no Pix**, a Echo Dot de 5ª geração é uma excelente opção para quem deseja começar a montar uma casa inteligente ou adicionar a Alexa a um cômodo específico. O preço fica abaixo de ofertas recentes do modelo, ou seja: é uma promoção realmente vantajosa.\n\nContinua após a publicidade\n\nO maior atrativo é reunir reprodução de áudio, comandos de voz e automação residencial em um aparelho pequeno. O sensor de temperatura também amplia as possibilidades de uso, especialmente para quem pretende configurar rotinas com outros dispositivos inteligentes.\n\nÉ importante lembrar que a Echo Dot **não possui bateria interna**. Ela precisa ficar conectada à tomada e depende de uma rede Wi-Fi para acessar a Alexa e executar a maioria das funções inteligentes.\n\nSe o objetivo é ter uma assistente virtual para controlar a casa, ouvir músicas e facilitar pequenas tarefas, a oferta anunciada representa uma oportunidade interessante.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/vHBSpP76KLp9kGGSwefLIrDnDYA=/1200x675/smart/filters:format(webp):quality(85)/71889466-1ae9-4fa0-9374-c1c8a33ad68c.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/rBXpAGEkPlcAH0AtZy-NKvFYOa4=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Echo",
-    "Dot",
-    "5"
-   ],
-   "searches": [
-    "echo dot 5 geração",
-    "echo dot 5",
-    "echo dot 5th generation",
-    "echo dot 5 alexa plus",
-    "echo dot 5th gen",
-    "echo dot 5 geração como configurar"
-   ]
-  },
-  {
-   "id": "ramaiortestedeestressedops5apontatecnico",
-   "title": "GTA 6 triplica consumo de energia e vira maior teste de estresse do PS5, aponta técnico",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/gta-6-triplica-consumo-de-energia-e-vira-maior-teste-de-estresse-do-ps5-aponta-tecnico/",
-   "published": "2026-11-26T22:08:00+00:00",
-   "summary": "GTA 6 triplica consumo de energia e vira maior teste de estresse do PS5, aponta técnico Se tem uma coisa que jogo pesado faz bem, é estressar o hardware a ponto de gerar altas temperaturas e causar outros problemas. Alguns jogadores têm enfrentado instabilidades com o PlayStation 5 ao rodar GTA 6 , um jogo claramente pesado, com travamentos e até desligamento do console acontecendo, já que o títul",
-   "score": 10.02,
-   "why": [
-    "Em alta no Google: playstation 5",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/-Jbwaeubjne1UWRxg-OmgBDe0jI=/1200x675/smart/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# GTA 6 triplica consumo de energia e vira maior teste de estresse do PS5, aponta técnico\n\nPor Raphael Giannotti \\| 26/11/2026 às 19:08\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg)Reprodução/Rockstar Games\n\nSe tem uma coisa que jogo pesado faz bem, é estressar o hardware a ponto de gerar altas temperaturas e causar outros problemas. Alguns jogadores têm enfrentado **instabilidades com o PlayStation 5 ao rodar GTA 6**, um jogo claramente pesado, com travamentos e até desligamento do console acontecendo, já que **o título da Rockstar tem levado o console da Sony ao limite**.\n\nContinua após a publicidade\n\nSegundo o técnico polonês especializado em reparo de consoles, o jogo se tornou o teste de estresse real mais severo já enfrentado pelo aparelho e deve ser até o fim desta geração. Em medições realizadas na tomada, o técnico registrou o PS5 puxando **cerca de 220 W apenas com o personagem parado ao lado de um carro**, sem quase nenhuma ação na tela. **Ao fechar o jogo, o consumo cai imediatamente para 67 W**, ou seja, o game mais do que triplica a demanda energética mesmo em cenas paradas.\n\n## Problema pode ser maior em PS5 mais antigos\n\nEm um teste separado sob carga máxima, **o console atingiu picos de 274,2 W**. Embora esses números ainda fiquem abaixo do limite nominal das fontes do aparelho ( **350 W no modelo padrão e 340 W na edição digital**), o especialista explica que essa demanda contínua eleva consideravelmente a temperatura interna da placa e dos componentes, agravando problemas crônicos de dissipação, como o deslocamento do metal líquido e o acúmulo de poeira.\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nNa análise de uma unidade com pouco mais de 235 dias de tempo total de uso acumulado, os registros internos apontaram **40 erros de acesso no chip principal e sete falhas relacionadas ao regulador de tensão da APU e ao controlador do SSD**. Mesmo antes de atingir um desligamento térmico completo, o estresse elétrico próximo dos 270 W provoca quedas de tensão que resultam em artefatos gráficos, travamentos e, **em casos extremos, danos permanentes ao hardware**.\n\nApesar do cenário preocupante para versões mais antigas ou mal conservadas, **modelos mais recentes do** PlayStation 5 **não têm apresentado dificuldades para lidar com a exigência energética de GTA 6**. O caso reforça a importância da manutenção preventiva, como limpeza interna regular e revisão do sistema de refrigeração para garantir a longevidade do console diante de jogos cada vez mais exigentes.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/-Jbwaeubjne1UWRxg-OmgBDe0jI=/1200x675/smart/filters:format(webp):quality(85)/969f6b21-8c57-488b-b9a8-576053c44e36.jpg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/9Por12dqM1kDIaC3o8_eLbObHlI=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "6",
-    "PS5"
-   ],
-   "searches": []
-  },
-  {
-   "id": "anadegta6egooglevesegundaondadeinteresse",
-   "title": "Buscas por PS5 dobram na semana de GTA 6, e Google vê segunda onda de interesse",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/mercado/buscas-por-ps5-dobram-na-semana-de-gta-6-e-google-ve-segunda-onda-de-interesse/",
-   "published": "2026-11-26T21:30:06+00:00",
-   "summary": "Buscas por PS5 dobram na semana de GTA 6, e Google vê segunda onda de interesse As buscas por PlayStation 5 no Google dobraram no Brasil na semana de lançamento de GTA 6 . Entre 18 e 24 de novembro, a procura pelo jogo da Rockstar cresceu 320% em relação aos sete dias anteriores, segundo dados apresentados nesta quinta-feira (26), em São Paulo. Segundo o Google, o primeiro pico de interesse foi o ",
-   "score": 9.98,
-   "why": [
-    "Em alta no Google: playstation 5",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/dXVrfuGPwZ5g2SjldemPCpl4MuQ=/1200x675/smart/filters:format(webp):quality(85)/fd5c5d8a-02df-42c4-9040-3ed488593fb9.jpeg",
-   "text": "Parceiro\n\nAO VIVOEstamos ao vivo: Black Friday Canaltech 2026!Ao vivo: Black Friday Canaltech 2026!Assistir à live ×\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Mercado\n\n# Buscas por PS5 dobram na semana de GTA 6, e Google vê segunda onda de interesse\n\nPor Marcelo Fischer \\| 26/11/2026 às 18:30\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/fd5c5d8a-02df-42c4-9040-3ed488593fb9.jpeg)Reprodução/Rockstar Games\n\nAs buscas por **PlayStation 5** no Google dobraram no Brasil na semana de lançamento de **GTA 6**. Entre 18 e 24 de novembro, a procura pelo jogo da Rockstar cresceu **320%** em relação aos sete dias anteriores, segundo dados apresentados nesta quinta-feira (26), em São Paulo.\n\nContinua após a publicidade\n\nSegundo o Google, o primeiro pico de interesse foi o mais forte e veio dos fãs que já aguardavam a estreia do jogo. Às vésperas da Black Friday, a empresa identificou um segundo grupo que pesquisa a compra ou a troca de um console para jogar GTA 6.\n\nA procura por videogames continuou em alta nos dias seguintes à estreia. Durante o evento, a equipe contou que passou a acompanhar também as pesquisas por cadeiras gamer para avaliar se o interesse do público se estende aos acessórios.\n\n## Quanto cresceram as buscas por PS5 Pro e Xbox Series S?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nAs pesquisas por **PS5 Pro** e **Xbox Series S** cresceram em ritmos parecidos na semana de lançamento. O modelo da Sony teve alta de 171% nas buscas em relação aos sete dias anteriores. A procura pelo videogame da Microsoft subiu 169% no mesmo intervalo.\n\nNa comparação com 2025, a procura pelo Xbox Series S mais que quadruplicou, com alta de **337%**. Para manter a mesma distância até a Black Friday, o Google comparou as buscas de 8 a 21 de novembro de 2026 com as de 9 a 22 de novembro de 2025.\n\n|     |     |     |\n| --- | --- | --- |\n| **Console** | **Semana de lançamento de GTA 6 ante a semana anterior** | **Em relação ao período equivalente de 2025** |\n| PS5 Pro | +171% | +303% |\n| Xbox Series S | +169% | +337% |\n\nO Google também acompanha os cliques em anúncios para avaliar a intenção de compra. Questionada durante a coletiva sobre quantas pesquisas já tinham virado compras, a empresa disse que não tinha dados de vendas dos consoles no varejo.\n\n## Como o público de tecnologia escolhe onde comprar na Black Friday?\n\nEm outubro, antes da estreia de GTA 6, o Google ouviu 2 mil pessoas sobre seus planos para a Black Friday. Entre os interessados em tecnologia e games, 57% já pesquisavam o que comprar. Esse grupo inclui quem procurava celulares, computadores e TVs, além de consoles.\n\nA marca já estava definida para 47% dos interessados na categoria, mas **80% ainda não tinham escolhido a loja**. “Quem ofertar o melhor desconto é com quem o público vai fechar”, disse Antonella Weyler, líder de insights para o varejo do Google, ao descrever como esse público escolhe onde comprar.\n\nContinua após a publicidade\n\nAlém da confiança no varejista, os entrevistados levaram em conta o desconto no Pix (31%), a retirada em loja (22%) e o cashback (20%). Segundo Weyler, a opção de buscar o pedido pessoalmente pode pesar na escolha de quem compra pela internet e quer economizar no frete.\n\n**Veja também:** Como o XBOX Series S roda GTA 6?\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/dXVrfuGPwZ5g2SjldemPCpl4MuQ=/1200x675/smart/filters:format(webp):quality(85)/fd5c5d8a-02df-42c4-9040-3ed488593fb9.jpeg",
-    "https://canaltech.com.br/images/bf2026/black-friday.png",
-    "https://tl.ctcdn.com.br/nKRqZc9eQHggrniYP3lyeld_ULg=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "PS5",
-    "GTA",
-    "6"
-   ],
-   "searches": []
-  },
-  {
-   "id": "rrubamaisde3milportsdegta6parapcnogithub",
-   "title": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/take-two-derruba-mais-de-3-mil-ports-de-gta-6-para-pc-no-github/",
-   "published": "2026-11-26T20:46:00+00:00",
-   "summary": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub A Take-Two Interactive emitiu uma ordem para a derrubada de mais de 3 mil ports de GTA 6 para PC feitos por fãs . A solicitação para o GitHub visa garantir os direitos autorais da obra, principalmente neste momento, logo após o seu lançamento. Ainda que a Rockstar não tenha uma previsão para disponibilizar uma versão para os computado",
-   "score": 9.94,
-   "why": [
-    "Em alta no Google: playstation 5",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/bSEs1YoXy4rNxCfLsR9rBqyaAeo=/1200x675/smart/filters:format(webp):quality(85)/72ba323b-89e3-4220-b503-8e729bc53923.jpg",
-   "text": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub A Take-Two Interactive emitiu uma ordem para a derrubada de mais de 3 mil ports de GTA 6 para PC feitos por fãs . A solicitação para o GitHub visa garantir os direitos autorais da obra, principalmente neste momento, logo após o seu lançamento. Ainda que a Rockstar não tenha uma previsão para disponibilizar uma versão para os computadores, muitos projetos que usam a ferramenta de IA “Reverse Engineer Anything” surgiram, permitindo que o público explore Leonida sem um PS5 ou XBOX. Porém, isso não impede a comunidade de seguir adiante com as suas adaptações. Neste momento, a página PortWatchVI mostra um progresso superior a 90% — o que demonstra que, até o fim de semana, a experiência será liberada para o Windows. GTA 6 já possui diversas versões não-oficiais em produção, mas a Take-Two Interactive está de olho na maioria delas. O “ Project Leonida ”, criado por um adolescente de 15 anos, foi derrubado e ele sofreu sanções, como o banimento e a queda do servidor no Discord. Como a hidra, quando se corta uma cabeça, surgem duas: apenas no PortWatchVI há mais de 30 ports em desenvolvimento. No Reddit, uma versão com a taxa de quadros de 30 FPS é almejada por desenvolvedores independentes . O objetivo é trazer 60 FPS para o título e disponibilizar o código-fonte em breve. A ausência de GTA 6 nos PCs Enquanto a versão para PS5 e XBOX Series de Grand Theft Auto VI é vista como “capada” — pelo travamento em 30 FPS e ausência de vários recursos presentes nos computadores —, a Rockstar mantém em segredo quando o título chegará a plataformas como o seu próprio launcher e o Steam . Rumores indicam que isso ocorrerá em 2027, para otimizar a aventura e trazer suporte a recursos como o DLSS, FSR 4.1 e até a telas UltraWide. Tudo isso será possível com os ports não-oficiais, por isso a Take-Two está tão empenhada para tirá-los do ar. Se por um lado a produtora se aperta para impedir prejuízos, por outro ela celebra o sucesso atingido na última semana. GTA 6 é o maior lançamento da história do PlayStation; veja números do quanto o título foi impulsionado no console da Sony.",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/bSEs1YoXy4rNxCfLsR9rBqyaAeo=/1200x675/smart/filters:format(webp):quality(85)/72ba323b-89e3-4220-b503-8e729bc53923.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "3",
-    "GTA",
-    "6"
-   ],
-   "searches": []
-  },
-  {
-   "id": "osdosjovix300feeultracomcupomdeater15mil",
-   "title": "Black Friday derruba preços dos JOVI X300 FE e Ultra com cupom de até R$ 15 mil",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/black-friday-derruba-precos-dos-jovi-x300-fe-e-ultra-com-cupom-de-ate-r-15-mil/",
-   "published": "2026-11-26T23:09:35+00:00",
-   "summary": "Black Friday derruba preços dos JOVI X300 FE e Ultra com cupom de até R$ 15 mil Quem procura um celular premium com foco em fotografia pode aproveitar as ofertas de Black Friday da linha JOVI X300 no Mercado Livre. Os modelos X300 FE e X300 Ultra aparecem com descontos com o cupom TECHVIP e pagamento via Pix , com preços anunciados de R$ 3.959,10 e R$ 15.029,10, respectivamente. A diferença de val",
-   "score": 9.44,
-   "why": [
-    "Em alta no Google: black",
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/pvXC_nm09bk1T1ocoI-qCe-UTfM=/1200x675/smart/filters:format(webp):quality(85)/11dd9d4f-1dc5-46b5-b832-1f71f181b6ae.jpg",
-   "text": "Black Friday derruba preços dos JOVI X300 FE e Ultra com cupom de até R$ 15 mil Quem procura um celular premium com foco em fotografia pode aproveitar as ofertas de Black Friday da linha JOVI X300 no Mercado Livre. Os modelos X300 FE e X300 Ultra aparecem com descontos com o cupom TECHVIP e pagamento via Pix , com preços anunciados de R$ 3.959,10 e R$ 15.029,10, respectivamente. A diferença de valores acompanha as propostas de cada aparelho. Enquanto o X300 FE oferece um conjunto avançado de câmeras ZEISS e processador Snapdragon 8 Gen 5 por um preço mais acessível, o X300 Ultra aposta em sensores de até 200 MP, mais memória e recursos fotográficos profissionais. 🥇 Mais acessível: JOVI X300 FE — R$ 3.959,10 no Pix com cupom 🥈 Mais completo para fotografia: JOVI X300 Ultra — R$ 15.029,10 no Pix com cupom JOVI X300 FE é opção mais acessível para fotografia O JOVI X300 FE é a alternativa para quem deseja um celular premium sem chegar ao preço elevado do modelo Ultra. Na configuração anunciada, ele oferece 12 GB de RAM (mais 12 GB de RAM expansível) e 256 GB de armazenamento , além do processador Snapdragon 8 Gen 5. O conjunto fotográfico também é um dos destaques. A parceria com a ZEISS acompanha a câmera principal de 50 MP, enquanto a bateria de 6.500 mAh promete boa autonomia para quem passa bastante tempo longe da tomada. Outro atrativo é o carregamento rápido de 90 W , que reduz o tempo necessário para recuperar a carga. O aparelho também acompanha um carregador na caixa, conforme a descrição do anúncio. Por R$ 3.959,10, o X300 FE seria a escolha mais interessante para quem prioriza desempenho, fotografia e bateria, mas não precisa dos recursos mais avançados do Ultra. JOVI X300 Ultra aposta em câmeras de 200 MP O JOVI X300 Ultra é o modelo mais avançado da família e foi desenvolvido para quem coloca fotografia entre as principais prioridades na escolha de um smartphone. Seu principal diferencial está no sistema de câmeras ZEISS, que inclui sensor principal de 200 MP e teleobjetiva periscópica também de 200 MP . O aparelho utiliza o Snapdragon 8 Elite Gen 5, acompanhado de 16 GB de RAM e 512 GB de armazenamento . A tela AMOLED LTPO de 6,82 polegadas tem resolução 2K e taxa de atualização adaptativa de até 144 Hz, enquanto a bateria de 6.600 mAh oferece suporte a carregamento de 100 W com fio e 40 W sem fio. O Ultra também pode ser combinado a acessórios fotográficos específicos, como extensores de telefoto, que ampliam as possibilidades de captura. Esse conjunto faz dele uma opção voltada a entusiastas de fotografia e usuários que desejam explorar recursos mais avançados de imagem e vídeo. Qual JOVI X300 vale mais a pena? A escolha depende principalmente do quanto você pretende investir e da importância das câmeras na rotina. O JOVI X300 FE é a opção mais equilibrada para a maioria dos usuários , já que combina processador potente, câmera ZEISS de 50 MP, 256 GB de armazenamento e bateria de 6.500 mAh por uma fração do preço do Ultra. Já o X300 Ultra é indicado para quem realmente pretende aproveitar os recursos fotográficos mais avançados. Os sensores de 200 MP, a teleobjetiva periscópica e a compatibilidade com acessórios especializados justificam o posicionamento mais caro do aparelho. Na Black Friday, o X300 FE chama atenção pelo conjunto mais acessível, enquanto o X300 Ultra atende a um público mais nichado, disposto a investir pesado em fotografia móvel de alto nível.",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/pvXC_nm09bk1T1ocoI-qCe-UTfM=/1200x675/smart/filters:format(webp):quality(85)/11dd9d4f-1dc5-46b5-b832-1f71f181b6ae.jpg",
-    "https://tl.ctcdn.com.br/EZZbP5Bv8BzgL5NsI65ILXst7w0=/0x0/filters:format(webp):quality(85)/760df0ea-162f-4ec3-bde4-0dfa959d6f7d.png"
-   ],
-   "videos": [],
-   "keywords": [
     "Friday",
-    "JOVI",
-    "X300"
+    "30"
    ],
-   "searches": []
+   "searches": [
+    "black friday 30 september",
+    "black friday 30 september 2005",
+    "black friday 3000 coin"
+   ]
   },
   {
-   "id": "errubaprecodesmarttvtclde85comtelaqled4k",
-   "title": "Magalu derruba preço de Smart TV TCL de 85” com tela QLED 4K",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/tv/magalu-derruba-preco-de-smart-tv-tcl-de-85-com-tela-qled-4k/",
-   "published": "2026-11-26T20:43:25+00:00",
-   "summary": "Magalu derruba preço de Smart TV TCL de 85” com tela QLED 4K Quem quer transformar a sala de casa em um verdadeiro cinema pode aproveitar a Black Friday para comprar a Smart TV TCL P8L de 85 polegadas . Com tela QLED 4K e taxa de atualização de 144 Hz, o modelo está com quase R$ 1 mil de desconto no Magalu. A televisão, anunciada por R$ 6.499, sai por R$ 5.549,10 com o cupom INFLU300 e pagamento v",
-   "score": 9.44,
+   "id": "realestate202611imoveisjensenhuangnvidia",
+   "title": "Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia",
+   "source": "Forbes",
+   "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/imoveis-jensen-huang-nvidia/",
+   "published": "2026-11-27T08:00:00+00:00",
+   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A residência mais cara do CEO da Nvidia fica em São Francisco e foi comprada por US$ 38 milhões em 2017, valor equivalente a R$ 218 milhões no câmbio atual O post Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia apareceu primeiro em Forbes Brasil .",
+   "score": 6.04,
    "why": [
-    "Em alta no Google: tv",
+    "2 sites cobrindo",
     "Tema de alto interesse"
    ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/Gnj4ANK9MW7QJwUyRh5zBQF-Jl0=/1200x675/smart/filters:format(webp):quality(85)/21a36658-0567-4824-8c70-90f7572fa892.png",
-   "text": "Magalu derruba preço de Smart TV TCL de 85” com tela QLED 4K Quem quer transformar a sala de casa em um verdadeiro cinema pode aproveitar a Black Friday para comprar a Smart TV TCL P8L de 85 polegadas . Com tela QLED 4K e taxa de atualização de 144 Hz, o modelo está com quase R$ 1 mil de desconto no Magalu. A televisão, anunciada por R$ 6.499, sai por R$ 5.549,10 com o cupom INFLU300 e pagamento via Pix. Quem preferir pagar com cartão de crédito pode comprá-la por R$ 6.199, divididos em até 10 parcelas de R$ 619,90 sem juros. 🛒 Compre a Smart TV TCL P8L de 85” por R$ 5.549,10 no Magalu Como é a Smart TV TCL P8L? Além da enorme tela de 85 polegadas, um dos principais diferenciais da TCL P8L é a tecnologia QLED. O painel utiliza pontos quânticos para reproduzir uma variedade maior de cores, favorecendo a qualidade de imagem em filmes, séries e jogos. A televisão também é uma excelente opção para quem pretende conectá-la a um videogame . O modelo tem taxa de atualização nativa de 144 Hz e suporte ao VRR, tecnologia que sincroniza a frequência da tela com a quantidade de quadros gerados pelo console ou computador para evitar cortes na imagem durante a jogatina. Outro destaque é o sistema de som Onkyo de 2.1 canais, que conta com um subwoofer integrado à parte traseira da TV para reforçar os graves. O conjunto é compatível com Dolby Atmos e pode tornar cenas de ação e shows mais envolventes mesmo sem uma soundbar. A TCL P8L ainda vem equipada com o Google TV, sistema que reúne aplicativos como Netflix, Prime Video, YouTube e Disney+ e permite buscar conteúdos por comandos de voz. Vale a pena comprar a Smart TV TCL P8L? A TCL P8L é uma opção interessante para quem tem uma sala espaçosa e procura uma televisão grande para assistir a filmes, acompanhar partidas de futebol ou aproveitar os recursos gráficos dos consoles de última geração. O principal ponto de atenção é justamente seu tamanho. Com quase 1,9 metro de largura, a TV exige espaço considerável para instalação, seja na parede ou sobre um móvel. Por R$ 5.549,10, o modelo oferece um conjunto atrativo de recursos de imagem e som para uma televisão desse porte. A combinação do cupom com o desconto no Pix garante uma economia de R$ 949,90 em relação ao valor anunciado antes da aplicação dos benefícios. 🛒 Aproveite o desconto de Black Friday na Smart TV TCL P8L de 85”",
-   "text_source": "rss",
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    }
+   ],
+   "image": "https://forbes.com.br/wp-content/uploads/2026/11/gold-coast-Christies-Real-Estate-768x960.webp",
+   "text": "1. Início\n/3. Forbes Money\n/5. Forbes Real Estate\n/7. Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia\n\nGetty Images & Google MapsCEO e fundador da Nvidia tem fortuna estimada em US$ 130 bilhões, mas possui apenas três imóveis que somam menos de US$ 60 milhões — relativamente poucom, se comparado a outros bilionários americanos\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nDiferentemente de outros bilionários, **Jensen Huang** tem uma relação menos estreita com a aquisição de imóveis e o mercado imobiliário de forma geral.\n\nO **fundador e CEO da Nvidia** tem uma fortuna avaliada em US$ 130 bilhões, dos quais apenas 0,04% — cerca de US$ 50 milhões — estão alocados em imóveis. Ou seja, Jensen Huang não coleciona propriedades ao redor do mundo como outros **bilionários**.\n\nOs **imóveis de Jensen Huang** que são mapeados e conhecidos publicamente são apenas três: uma propriedade em Los Altos Hills (Califórnia), perto da sede da empresa, uma **mansão em São Francisco** (Califórnia) e uma **casa pé na areia em Maui** (Havaí).\n\nEle já teve outras duas propriedades em San Jose, na Califórnia, mas ambas foram vendidos.\n\nAbaixo, veja os detalhes sobre seu portfólio de imóveis atual.\n\n## Mansão em São Francisco\n\nChristies Real Estate\n\nA residência mais cara do portfólio de Huang fica na região de **Gold Coast**, em São Francisco.\n\nO fundador da Nvidia pagou US$ 38 milhões pela propriedade em meados de 2017, segundo registros públicos — cifra que equivale a R$ 218 milhões no câmbio atual.\n\nO imóvel tem pouco mais de 1 mil metros quadrados de área construída. A casa foi feita de pedra calcária e levou quase quatro anos para ter sua obra finalizada, segundo Bill Campbell, da incorporadora Marble Management, em entrevista ao The Wall Street Journal.\n\nLocalizada em Pacific Heights, a propriedade tinha a seguinte configuração quando foi colocada no mercado em 2017: sete quartos, cozinha ao ar livre, duas adegas, elevador, sala de cinema e academia.\n\n## A residência oficial de Jensen Huang, em Santa Clara\n\nGoogle Maps\n\nA casa onde o executivo e fundador da Nvidia passa a maior parte do tempo fica em Los Altos Hills, uma vila localizada no estado da Califórnia, no condado de **Santa Clara**.\n\nTrata-se do imóvel que fica mais próximo da **sede da Nvidia**, que também está no condado de Santa Clara. São cerca de 30 quilômetros de distância entre a propriedade de Huang e a sede corporativa.\n\nO imóvel foi comprado recém-construído pelo empresário. A transação foi de US$ 6,9 milhões, em meados de 2003.\n\nSão mais de 650 metros quadrados, com seis quartos distribuídos em dois pavimentos, paisagismo extenso e piscina estilo resort.\n\nO terreno tem mais de quatro mil metros quadrados — que é o piso estabelecido pelas regras de zoneamento da cidade para novas construções residenciais.\n\n## Casa de frente para o mar no Havaí\n\nGoogle Maps\n\nA última propriedade mapeada e com registros públicos do portfólio de Jensen Huang fica em Wailea — um complexo turístico e balneário de alto padrão na costa sudoeste de Maui, no **Havaí**. O local fica a cerca de 35 minutos do Aeroporto de Kahului.\n\nO imóvel de Huang está localizado em um condomínio fechado de frente para o mar, que tem 14 casas no total.\n\nO condomínio se chama **Wailea Resort**, tem 42 mil metros quadrados e é administrado pela CoralTree Residence Collection. Por lá há praias de areia branca, campos de golfe, restaurantes e lojas de luxo. As propriedades têm piscinas, banheiras de hidromassagem, cozinhas equipadas, terraços privativos e serviços de concierge.\n\nCoralTree Residence Collection\n\nA região também conta com hotéis cinco estrelas, três campos de golfe e atrações como a Wailea Beach Path, trilha litorânea de aproximadamente 2,4 km.\n\nOs registros apontam que Huang teria pago entre US$ 7,5 milhões e US$ 7,8 milhões pela propriedade. No entanto, a casa ficou pronta cerca de quatro anos depois da compra, ou seja, o preço pode ter sofrido alguma variação.\n\nO seu imóvel possui mais de 740 metros quadrados e sete quartos no total.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Bilionários\n- Jensen Huang\n- mercado imobiliário\n- Nvidia\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Oito em Cada Dez Lojistas Esperam Aumentar o Faturamento na Black Friday, Aponta Pesquisa**\n- \\\\\n\\\\\n**“O Atacante Não Está Arrombando a Porta, Está Roubando Credencial”, Diz VP da CrowdStrike**\n- \\\\\n\\\\\n**Do Café “Venenoso” a Referência no Agro Regenerativo no Espírito Santo**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOYOU ARE THE SUNSHINE OF MY LIFEYOU ARE THE SUNSHINE OF MY LIFESTEVIE WONDER",
+   "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/Gnj4ANK9MW7QJwUyRh5zBQF-Jl0=/1200x675/smart/filters:format(webp):quality(85)/21a36658-0567-4824-8c70-90f7572fa892.png",
-    "https://tl.ctcdn.com.br/XJNq2SQYvaFShHkj2pmSlTeooB0=/0x0/filters:format(webp):quality(85)/32127e07-283a-40fe-b2c1-dec830ff0782.png"
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-87-1200x675.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-87-860x484.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/gold-coast-Christies-Real-Estate-768x960.webp",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Los-Altos-Hills-google-maps.webp",
+    "https://forbes.com.br/wp-content/uploads/2026/11/da8ab7a256640b5c93aabe67f26fb31d41f90df8.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/RESORT-HAVAI-768x512.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
+    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-26T170730.269-300x200.png",
+    "https://forbes.com.br/wp-content/uploads/2026/11/Jeferson-Propheta-vice-presidente-da-CrowdStrike-para-a-America-do-Sul-300x200.jpg",
+    "https://forbes.com.br/wp-content/uploads/2026/11/agro_forbes_farmers_Tiago_Camiletti_27.11.2026-300x200.jpg"
    ],
    "videos": [],
    "keywords": [
-    "Smart",
-    "TV",
-    "TCL"
+    "São",
+    "Imóveis",
+    "Jensen"
    ],
    "searches": []
   },
   {
-   "id": "cialdeblackfridaycomofertasecuponsaovivo",
-   "title": "Canaltech faz live especial de Black Friday com ofertas e cupons ao vivo",
+   "id": "remenudemodsemportnaooficialdegta6parapc",
+   "title": "Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/produtos/canaltech-faz-live-especial-de-black-friday-com-ofertas-e-cupons-ao-vivo/",
-   "published": "2026-11-26T22:28:59+00:00",
-   "summary": "Canaltech faz live especial de Black Friday com ofertas e cupons ao vivo O Canaltech está ao vivo nesta quinta-feira (26) com uma transmissão especial dedicada à Black Friday 2026 . Nossa equipe está reunida no YouTube para apresentar ofertas em tempo real, divulgar cupons exclusivos e ajudar o público a identificar os melhores descontos durante o período de promoções. Batizada de Super Live da Bl",
-   "score": 8.7,
+   "url": "https://canaltech.com.br/games/modders-colocam-multiplayer-e-menu-de-mods-em-port-nao-oficial-de-gta-6-para-pc/",
+   "published": "2026-11-27T15:13:00+00:00",
+   "summary": "Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC A emulação de GTA 6 para PC continua e já avançou de ontem para hoje. Os gráficos estão melhores, a taxa de quadros por segundo aumentou e mods já estão em desenvolvimento . A comunidade já adicionou um modo multiplayer, multiplicando os personagens com direito a chat de aproximação . Agora é questão de tempo para o CJ",
+   "score": 5.79,
    "why": [
-    "Em alta no Google: black"
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-versao-pirata-estavel-no-pc-e-modders-testam-ate-multiplayer/"
+    }
+   ],
+   "image": "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC\n\nPor Raphael Giannotti \\| 27/11/2026 às 12:13\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg)Reprodução/Rockstar Games\n\nA emulação de GTA 6 para PC continua e já avançou de ontem para hoje. Os gráficos estão melhores, a taxa de quadros por segundo aumentou e **mods já estão em desenvolvimento**. A comunidade já adicionou um **modo multiplayer, multiplicando os personagens com direito a chat de aproximação**. Agora é questão de tempo para o CJ fazer uma ponta não oficial no jogo.\n\nContinua após a publicidade\n\nUm dos principais avanços veio com o ScarlettPort, que se tornou a primeira adaptação não oficial de GTA 6 para PC a receber um **lançamento público com executável**, dispensando a necessidade de compilar o código manualmente. Em sua versão 0.5.2, o projeto corrigiu falhas de compilação de shaders em placas AMD, ativou o carregamento de cenários sob demanda e alcançou **médias entre 18,9 e 22 FPS em uma Radeon RX 9060 XT**, além de já suportar controles DualSense, DualShock 4 e comandos nativos de teclado e mouse.\n\n## Multiplayer antes da Rockstar e ferramentas de modificação\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nEnquanto o ScarlettPort abre as portas ao público geral, outras iniciativas fechadas avançam ainda mais rápido. O projeto CGBJ, o que mais avança, já virou alvo de modders. Foi justamente sobre essa versão que o modder TeK demonstrou um **modo multiplayer funcional rodando entre 25 e 30 FPS, sincronizando personagens e veículos no mesmo mapa com chat de voz por proximidade**, algo que não deve chegar tão cedo oficialmente pela Rockstar.\n\nEnquanto isso, o primeiro mod de menu funcional dentro do jogo, com interface inspirada nos clássicos trainers de GTA 5, e launcher dedicado para gerenciar o título no PC também já foram lançados. Como a Take-Two, dona da Rockstar, está indo com tudo para cima desses projetos, alguns vídeos demonstrando essas modificações estão sendo derrubados rapidamente.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
+    "https://tl.ctcdn.com.br/LdB9yP5Q92-cs3mhTWWrVoQhKGc=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "GTA",
+    "6",
+    "PC"
+   ],
+   "searches": [
+    "gta 6 pc port",
+    "gta 6 pc",
+    "gta 6 pc ao vivo",
+    "gta 6 pc online",
+    "gta 6 pc port gameplay",
+    "gta 6 pc como baixar"
+   ]
+  },
+  {
+   "id": "aziaabadogeminidevorarmemoriaramnochrome",
+   "title": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
+   "published": "2026-11-27T18:02:00+00:00",
+   "summary": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória RAM no Chrome. O problema era relatado por usuários havia mais de um ano, com registros de consumo de até 8,4 GB de RAM em uma única aba do navegador. A correção foi confirmada pelo perfil oficial de suporte do Google no ",
+   "score": 4.97,
+   "why": [
+    "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/V6iAH3LPC1VCG8mdsuCwPpZqfTc=/1200x675/smart/filters:format(webp):quality(85)/cfaac74f-57d0-40fb-bec4-54082a071aa3.png",
-   "text": "Canaltech faz live especial de Black Friday com ofertas e cupons ao vivo O Canaltech está ao vivo nesta quinta-feira (26) com uma transmissão especial dedicada à Black Friday 2026 . Nossa equipe está reunida no YouTube para apresentar ofertas em tempo real, divulgar cupons exclusivos e ajudar o público a identificar os melhores descontos durante o período de promoções. Batizada de Super Live da Black Friday , a transmissão reúne os chamados Guardiões da Black Friday, com Adriano Ponte, Amanda Abreu, Gabriel Rimi e Pedro Cipoli. Durante a programação, os apresentadores acompanham os preços e verificam as ofertas de diferentes categorias, incluindo smartphones, notebooks, smart TVs, consoles, eletrodomésticos e gadgets . 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A proposta é ir além da simples divulgação de promoções: a equipe também analisa os preços para ajudar os consumidores a evitar ofertas falsas e descontos maquiados. O público pode participar pelo chat, tirar dúvidas e sugerir produtos para os apresentadores procurarem. Como acompanhar a live do Canaltech? A transmissão já está no ar e pode ser acompanhada pelo canal oficial do Canaltech no YouTube. A programação também prevê cupons exclusivos para quem estiver assistindo e ofertas verificadas durante a transmissão. A cobertura especial continua na madrugada de sexta-feira (27), até às 3h. Os interessados podem acessar a transmissão desta quinta-feira pelo YouTube do Canaltech ou acompanhar as ofertas e informações adicionais na página especial de Black Friday do site .",
+   "image": "https://tl.ctcdn.com.br/B0h8i8hw0Rlgfya0-54BGPTG_7o=/1200x675/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome\n\nPor Marcelo Fischer \\| 27/11/2026 às 15:02\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg)Zulfugar Karimov/Unsplash\n\nO Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória RAM no Chrome. O problema era relatado por usuários havia mais de um ano, com registros de consumo de **até 8,4 GB de RAM em uma única aba** do navegador.\n\nContinua após a publicidade\n\nA correção foi confirmada pelo perfil oficial de suporte do Google no Reddit, em resposta a um usuário que publicou uma imagem na qual **a aba do Gemini consumia 5,4 GB de memória RAM**.\n\nA empresa não explicou o que causava o problema e pediu que os usuários informem caso continuem enfrentando dificuldades relacionadas ao consumo de memória.\n\nDe acordo com um levantamento do portal Android Authority, publicado nesta quinta-feira (26), o problema também afetava conversas curtas com a inteligência artificial (IA).\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nEm um dos relatos, o consumo de RAM passou de aproximadamente 250 MB para 900 MB em apenas 15 minutos de conversa com o Gemini.\n\n## Por que o Chrome consome tanta memória RAM?\n\nA memória RAM armazena temporariamente informações utilizadas pelos programas em execução no computador. Quando há pouca memória disponível, o desempenho de outros aplicativos pode ser prejudicado.\n\nUm dos motivos para o elevado consumo de RAM pelo Chrome é a divisão de suas atividades em diferentes processos. Páginas da web, extensões e outros componentes do navegador podem ocupar parcelas independentes da memória.\n\nEssa arquitetura aumenta a segurança e a estabilidade do navegador, pois reduz as chances de uma falha em uma página comprometer todo o Chrome. O consumo de RAM, contudo, tende a aumentar conforme mais abas e extensões são utilizadas.\n\nPara reduzir esse consumo, o Chrome conta com o recurso **Economia de memória**, que desativa temporariamente abas que não estão em uso.\n\n## Como saber quanta memória RAM uma aba do Chrome consome?\n\nContinua após a publicidade\n\nO Chrome possui um gerenciador de tarefas próprio que permite verificar o consumo de memória de abas, extensões e outros processos. Para acessá-lo:\n\n1. Abra o Google Chrome;\n\n2. Clique nos três pontos no canto superior direito;\n\n3. Selecione \"Mais ferramentas\";\n\n4. Clique em \"Gerenciador de tarefas\";\n\n5. Consulte a coluna de memória.\n\nNo Windows, também é possível acessar a ferramenta pelo atalho \"Shift + Esc\".\n\n**Você também confere no Canaltech:** Por que o Chrome come tanta memória RAM? Entenda se fama ainda é justa\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/B0h8i8hw0Rlgfya0-54BGPTG_7o=/1200x675/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+    "https://tl.ctcdn.com.br/OwN0ymbUX7ack4IAXsB_p4WBtXA=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Gemini",
+    "RAM",
+    "Chrome"
+   ],
+   "searches": []
+  },
+  {
+   "id": "tividadeparagerenciartarefaserotinasdaia",
+   "title": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
+   "published": "2026-11-27T17:02:00+00:00",
+   "summary": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualização para o Gemini Live que permitirá acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhará uma seção chamada \"Atividade\", que reunirá tarefas pontuais e programadas pelo usuário. A novidade foi identificada pelo p",
+   "score": 4.9,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA\n\nPor Marcelo Fischer \\| 27/11/2026 às 14:02\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png)Marcelo Salvatico/Canaltech\n\nO Google trabalha em uma atualização para o Gemini Live que permitirá **acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano**. O modo de conversas por voz do Gemini ganhará uma seção chamada \"Atividade\", que reunirá tarefas pontuais e programadas pelo usuário.\n\nContinua após a publicidade\n\nA novidade foi identificada pelo portal Android Authority nesta sexta-feira (27), durante uma análise do código da versão 17.78.14 do aplicativo do Google para Android.\n\nAtualmente, já é possível solicitar a execução de tarefas por meio do Gemini Live. A atualização permitirá acompanhar essas atividades sem precisar retornar à interface principal do aplicativo.\n\n## Como funcionará a aba de Atividade do Gemini Live?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nLocalizada na parte superior da interface do Gemini Live, a nova seção será dividida em duas categorias:\n\n- **Tarefas:** atividades atribuídas à IA para serem executadas em segundo plano;\n\n- **Agendadas:** tarefas que devem ser realizadas periodicamente, conforme as instruções do usuário.\n\nNos testes do Android Authority, foi possível acessar as duas abas, mas nenhuma delas exibiu as tarefas criadas pelo portal.\n\n## Quais tarefas podem ser agendadas no Gemini?\n\nO Gemini permite programar atividades para serem executadas diariamente, semanalmente ou em outros intervalos definidos pelo usuário.\n\nEntre as possibilidades de uso da ferramenta, estão:\n\n- Receber um resumo das principais notícias todas as manhãs;\n\n- Consultar os compromissos do dia no Google Agenda;\n\n- Receber relatórios semanais sobre determinado assunto;\n\n- Monitorar o recebimento de e-mails importantes.\n\nSegundo a documentação do Google, assinantes dos planos Google AI Pro e Ultra podem manter até 50 agendamentos de tarefas ativos simultaneamente. No Brasil, o acesso à ferramenta de tarefas autônomas depende da assinatura de um desses planos.\n\nContinua após a publicidade\n\n## Gemini Live também ganhará campo de texto\n\nOutra novidade identificada pelo Android Authority é a inclusão de um campo de texto na interface do Gemini Live.\n\nA ferramenta substituirá o elemento visual que acompanha as conversas por voz e permitirá digitar comandos sem encerrar a sessão. Os botões de câmera e microfone também deverão ser incorporados ao novo campo.\n\nContinua após a publicidade\n\nA mudança será útil em situações nas quais o usuário não pode falar em voz alta, como em ambientes de trabalho ou no transporte público.\n\nO Google ainda não anunciou oficialmente as duas novidades e não há previsão de lançamento.\n\n**Você também confere no Canaltech:** O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+    "https://tl.ctcdn.com.br/gAgQk-TnVOnZ6gkzX4TrkyqHCNU=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Live",
+    "Atividade",
+    "IA"
+   ],
+   "searches": []
+  },
+  {
+   "id": "neairde256gbdesabaemofertadomercadolivre",
+   "title": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/smartphone/preco-do-iphone-air-de-256-gb-desaba-em-oferta-do-mercado-livre/",
+   "published": "2026-11-27T15:53:34+00:00",
+   "summary": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre Quem acompanha promoções de celulares sabe que encontrar um iPhone com mais de 50% de desconto é raridade, mesmo na Black Friday. Pois o Apple iPhone Air de 256 GB acaba de atingir o menor preço histórico registrado pelo CT Ofertas , saindo por R$ 5.399,10 no Pix no Mercado Livre. Para colocar esse corte em perspectiva, o mesmo aparel",
+   "score": 4.83,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/IvZONm7l_GrrusFyVKA5j6araV4=/1200x675/smart/filters:format(webp):quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Smartphone\n\n# Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre\n\nPor Canaltech Ofertas \\| 27/11/2026 às 12:53\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg)Ivo Meneghel Jr./ Canaltech\n\nQuem acompanha promoções de celulares sabe que encontrar um iPhone com mais de 50% de desconto é raridade, mesmo na Black Friday. Pois o **Apple iPhone Air de 256 GB** acaba de atingir o **menor preço histórico registrado pelo CT Ofertas**, saindo por **R$ 5.399,10 no Pix** no Mercado Livre.\n\nContinua após a publicidade\n\nPara colocar esse corte em perspectiva, o mesmo aparelho custa **R$ 10.999 na loja oficial da Apple** sem desconto. Estamos falando de uma economia de **quase R$ 5.600** em um dos celulares mais desejados do momento. Como ofertas agressivas de iPhone costumam durar poucas horas — ou minutos —, vale agir rápido para não perder o estoque.\n\n👉 **Compre o Apple iPhone Air 256 GB por R$ 5.399,10 no Pix pelo Mercado Livre**\n\n## Como é o Apple iPhone Air\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO grande diferencial do iPhone Air está na **sensação de leveza e no conforto ao usar**. Se você cansou de carregar tijolos pesados no bolso ou de sentir a mão cansada depois de alguns minutos navegando nas redes sociais, o design ultrafino e compacto entrega uma experiência muito mais prática no dia a dia.\n\nMesmo sendo extremamente fino, o aparelho não passa fragilidade. Ele se destaca pela **alta resistência**, dando mais tranquilidade para a rotina corrida. Somado a isso, a versão em oferta já vem com **256 GB de armazenamento interno**, espaço de sobra para guardar milhares de fotos, vídeos e aplicativos sem ficar apagando arquivos toda semana.\n\nContinua após a publicidade\n\nNa hora de registrar momentos, a **câmera entrega fotos muito boas para o uso cotidiano**, com a praticidade de apontar e clicar sem precisar mexer em ajustes profissionais complexos. O conjunto de áudio também cumpre bem o papel para vídeos, chamadas e músicas.\n\nQuer conferir todos os testes de desempenho, tela e câmera antes de fechar o pedido? Leia o review completo do iPhone Air no **CT**.\n\n## Vale a pena comprar o Apple iPhone Air?\n\nAs avaliações de quem já comprou o modelo ajudam a definir exatamente para quem ele é feito. Usuários que migraram até de versões maiores, como o Pro Max, relatam que **a leveza na mão e no bolso é insuperável** e que não sentem falta dos recursos avançados de câmera que raramente usavam no dia a dia.\n\nContinua após a publicidade\n\nPor outro lado, a transparência conta muito nessa escolha: **a bateria é o principal ponto de atenção**. Para quem tem uma rotina moderada, uma carga segura o dia todo sem sustos. Já para quem passa o dia inteiro na rua ou produz muito conteúdo, pode ser necessário ter um reforço — algo que os próprios compradores resolvem facilmente com uma **bateria externa MagSafe**. Vale lembrar também que esta versão funciona **somente com eSIM** (chip virtual).\n\nNo preço cheio de R$ 10.999, o iPhone Air faz qualquer um pensar duas vezes. Mas caindo para **R$ 5.399,10 no Pix**, ele se transforma em uma das compras mais vantajosas desta Black Friday para quem busca um iPhone moderno, resistente, com 256 GB e extremamente confortável de usar.\n\n👉 **Garanta o Apple iPhone Air 256 GB no menor preço histórico pelo Mercado Livre**\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/IvZONm7l_GrrusFyVKA5j6araV4=/1200x675/smart/filters:format(webp):quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg",
+    "https://tl.ctcdn.com.br/WUb2Jmmd33wlGtMdGHX10ajdiR0=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Air",
+    "256",
+    "GB"
+   ],
+   "searches": []
+  },
+  {
+   "id": "emininoandroidfazendoligacoeselendoatela",
+   "title": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+   "published": "2026-11-27T15:02:00+00:00",
+   "summary": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android . As novidades aproximariam a inteligência artificial (IA) da empresa das funcionalidades oferecidas atualmente pelo Gemini, do Google. As ferramentas foram identif",
+   "score": 4.78,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+   "text": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android . As novidades aproximariam a inteligência artificial (IA) da empresa das funcionalidades oferecidas atualmente pelo Gemini, do Google. As ferramentas foram identificadas pelo portal Android Authority nesta sexta-feira (27) no código da versão 1.2026.328 do app do ChatGPT para Android. Atualmente, já é possível configurar o ChatGPT como assistente padrão do sistema operacional do Google. Sua integração com as funções nativas do celular, entretanto, ainda é limitada. O que o ChatGPT poderá fazer no Android? Os códigos identificados pelo portal fazem referência a permissões de acesso a diferentes informações e funcionalidades do celular. Entre os recursos em desenvolvimento, estão: Realizar chamadas telefônicas; Ler e enviar mensagens SMS; Consultar contatos e histórico de ligações; Pausar, retomar e avançar músicas; Interpretar o conteúdo exibido na tela do celular. A leitura de tela permitirá fazer perguntas sobre o conteúdo de outros aplicativos sem precisar descrevê-lo ao ChatGPT ou enviar capturas de tela manualmente. Segundo o Android Authority, a IA poderá obter uma nova captura a cada pergunta do usuário para acompanhar mudanças no conteúdo exibido. Boa parte dessas funcionalidades já está disponível no Gemini. O assistente do Google também consegue realizar chamadas pelo WhatsApp, configurar alarmes e alterar algumas configurações do celular. Dots do ChatGPT poderão ser assistentes do Android Outra novidade identificada no código do aplicativo envolve os Dots , agentes de IA personalizáveis da OpenAI que conseguem executar tarefas mesmo quando o usuário não está conversando com o ChatGPT. Lançados em setembro, os agentes podem, por exemplo, monitorar preços de produtos, acompanhar notícias sobre determinado assunto e enviar lembretes ao usuário. As referências encontradas pelo Android Authority indicam que será possível configurar um Dot como assistente pessoal do Android. Há também indícios de que os agentes poderão ser acionados mesmo com a tela do celular bloqueada. Ainda não está claro quais funções do smartphone poderão ser acessadas pelos Dots e quais permissões serão necessárias para utilizá-las. A OpenAI não anunciou oficialmente os novos recursos. Como as funcionalidades foram identificadas no código do aplicativo, ainda não há garantia de que todas serão disponibilizadas ao público. Você também confere no Canaltech: 8 maneiras de usar os dots do ChatGPT",
    "text_source": "rss",
    "images": [
-    "https://tl.ctcdn.com.br/V6iAH3LPC1VCG8mdsuCwPpZqfTc=/1200x675/smart/filters:format(webp):quality(85)/cfaac74f-57d0-40fb-bec4-54082a071aa3.png"
+    "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
+    "https://tl.ctcdn.com.br/02gMzZ13-ru4ePC1pTZQgz9DhW8=/0x0/filters:format(webp):quality(85)/68a62ae2-6523-4cec-9d7f-ff9e1979f4e9.png"
    ],
-   "videos": [
-    "https://www.youtube.com/watch?v=16vBYK2ySz0"
-   ],
+   "videos": [],
    "keywords": [
-    "Black",
-    "Friday"
+    "Gemini",
+    "Android"
+   ],
+   "searches": []
+  },
+  {
+   "id": "tradosemdatacenterchinesligadoamegaspeed",
+   "title": "Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/27/pro/chips-avancados-da-nvidia-sao-encontrados-em-data-center-chines-ligado-a-megaspeed/",
+   "published": "2026-11-27T17:38:53+00:00",
+   "summary": "Descoberta foi feita a partir de documentos apresentados por empresas chinesas para conseguir empréstimos bancários O post Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed apareceu primeiro em Olhar Digital .",
+   "score": 4.34,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-4-1-1024x672.jpg",
+   "text": "Chips avançados da Nvidia foram identificados em um data center localizado em Xangai (China) que tem ligação com a empresária Alice Huang , fundadora da Megaspeed. A descoberta foi feita a partir de documentos apresentados por empresas chinesas para conseguir empréstimos bancários, segundo informações da Bloomberg . Entre os equipamentos identificados está um rack GB300 NVL72, que reúne 72 chips Blackwell Ultra e 36 processadores Grace. A tecnologia está entre as mais avançadas da Nvidia e sua exportação para a China está sujeita a restrições impostas pelo governo dos Estados Unidos . O data center tem conexões com a Megaspeed por meio de um projeto. A companhia foi fundada por Alice Huang e está sob investigação de autoridades estadunidenses, sob suspeita de envolvimento no desvio de semicondutores da Nvidia para o mercado chinês. Tecnologia está entre as mais avançadas da Nvidia e sua exportação para a China está sujeita a restrições impostas pelo governo dos Estados Unidos – Imagem: Antonio Bordunovi/iStock Nesta semana, a empresa também entrou em uma lista de restrições comerciais dos Estados Unidos. Leia mais: Pentágono discutiu usar lei de 1950 para pressionar a Nvidia a reconduzir CEO Nvidia proíbe envio de servidores para quatro países asiáticos Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia Origem dos equipamentos ainda é desconhecida A identificação dos servidores foi possível graças aos números de série presentes nos documentos analisados pela Bloomberg . Apesar disso, a agência não conseguiu determinar quem comprou originalmente os equipamentos nem como eles chegaram à China. Também não há comprovação de que a própria Megaspeed tenha enviado os chips ao data center. A possível participação da companhia no caso ainda está no campo das suspeitas, e a empresa nega ter cometido irregularidades. O episódio amplia as preocupações das autoridades estadunidenses sobre possíveis brechas nas restrições à exportação de semicondutores avançados. Esses componentes são considerados fundamentais para o desenvolvimento de sistemas de inteligência artificial (IA). O post Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed apareceu primeiro em Olhar Digital .",
+   "text_source": "rss",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-4-1-1024x672.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Nvidia",
+    "Megaspeed"
+   ],
+   "searches": []
+  },
+  {
+   "id": "lvendonuvemprivadapararecursosdogalaxyai",
+   "title": "Samsung está desenvolvendo nuvem privada para recursos do Galaxy AI",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-esta-desenvolvendo-nuvem-privada-para-recursos-do-galaxy-ai/",
+   "published": "2026-11-27T17:00:00+00:00",
+   "summary": "",
+   "score": 4.3,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://www.estadao.com.br/resizer/v2/5UXJPMS2OJEPTPVO72YAHM4XLM.jpg?quality=80&auth=010e0ca54b1512758d6b1451b2dda02dd3329d0f0d179cfe86117d35d4cbd5ad&width=710",
+   "text": "A Samsung está desenvolvendo uma infraestrutura de nuvem privada destinada ao processamento de recursos de inteligência artificial integrados ao ecossistema Galaxy AI, conforme revelou o site Android Authority na quinta-feira (26). Detalhes da novidade foram encontrados durante a análise de códigos presentes na One UI 9.5 Beta 1 . Denominado “SPAC”, o sistema aparentemente vai funcionar de maneira semelhante ao Private Cloud Compute (PCC) da Apple , lançado em 2024 para funções do Apple Intelligence, representando uma mudança importante na maneira como a empresa lida com a privacidade do usuário. Por enquanto, a gigante sul-coreana não comentou sobre a tecnologia. Protegendo informações pessoais Atualmente, funções simples do Galaxy AI são executadas no próprio dispositivo, mas isso muda quando ferramentas avançadas são acionadas, exigindo maior capacidade computacional. A partir daí, os dados das solicitações chegam aos servidores externos da Samsung . Processando esses recursos na nuvem da big tech, os dados do usuário são enviados para lá, também, embora a companhia afirme não armazenar tais informações ; Há a opção de ativar somente o processamento local, mas isso impede o uso de recursos avançados de IA; O sistema recém-descoberto surgirá para resolver esse problema, oferecendo uma camada adicional de proteção para o processamento remoto dos dados sem revelar a identidade do usuário ; Neste sentido, a reportagem especula que o nome SPAC signifique algo como “Samsung Private AI Cloud”, o que não não foi confirmado pela gigante da tecnologia. O novo sistema foi descoberto e testado em um Galaxy S26 Ultra. Foto: Wellington Arruda/Estadão/TecMundo Ainda conforme a publicação, a nuvem privada da Samsung deverá ser usada para funções como tradução de conversas, assistência à escrita (redação de texto, resumos e mudança de tom) e edição aprimorada de fotos . Now Brief e AI Select também estão entre os recursos mencionados no beta da One UI 9.5. Outro detalhe encontrado nos arquivos é a referência a diferentes modelos que poderão ser executados na nova infraestrutura. Qwen 3.6 da Alibaba e Gemma 4 do Google são alguns deles, assim como sistemas da OpenAI e da Meta . Quando estará disponível? Apesar de o site ter conseguido ativar e testar o SPAC em um Galaxy S26 Ultra com a função AI Select, o sistema ainda está em desenvolvimento. No momento, não há uma previsão oficial de lançamento da nuvem privada da Samsung para o Galaxy AI . Vale lembrar que Google e Meta também possuem soluções semelhantes, além da já citada Apple. Outro vazamento recente relacionado à Samsung envolve a One UI 10. Confira, nesta matéria , o que a próxima geração da interface poderá trazer de diferente. Com informações de Android Authority .",
+   "text_source": "rss",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/5UXJPMS2OJEPTPVO72YAHM4XLM.jpg?quality=80&auth=010e0ca54b1512758d6b1451b2dda02dd3329d0f0d179cfe86117d35d4cbd5ad&width=710"
+   ],
+   "videos": [],
+   "keywords": [
+    "Galaxy",
+    "AI"
+   ],
+   "searches": []
+  },
+  {
+   "id": "inidespencaparar299nopixdomagalucomcupom",
+   "title": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/telecom/antena-starlink-mini-despenca-para-r-299-no-pix-do-magalu-com-cupom/",
+   "published": "2026-11-27T16:53:50+00:00",
+   "summary": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom Levar internet de alta velocidade e baixa latência para sítios, chácaras, viagens de carro ou áreas rurais onde a fibra óptica não chega nunca esteve tão barato. A antena de internet via satélite Starlink Mini é a versão ultracompacta e portátil da SpaceX, projetada para caber facilmente na mochila e entregar conexão estável em q",
+   "score": 4.29,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Canaltech",
+     "url": "https://canaltech.com.br/telecom/starlink-mini-x-com-roteador-wi-fi-6-por-apenas-r-71233-no-pix/"
+    }
+   ],
+   "image": "https://tl.ctcdn.com.br/DT1-OLvNA0ZqTtlN8hQqmZgU51Y=/1200x675/smart/filters:format(webp):quality(85)/b8d138c0-5e48-4d28-bbf4-01dff49052f6.jpg",
+   "text": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom Levar internet de alta velocidade e baixa latência para sítios, chácaras, viagens de carro ou áreas rurais onde a fibra óptica não chega nunca esteve tão barato. A antena de internet via satélite Starlink Mini é a versão ultracompacta e portátil da SpaceX, projetada para caber facilmente na mochila e entregar conexão estável em questão de minutos, já com roteador Wi-Fi integrado na própria placa. A oportunidade imperdível está no Magazine Luiza. Aplicando o cupom LU100 no carrinho e optando pelo pagamento à vista no PIX , o valor da antena despenca para R$ 299,00 . Para um equipamento que costuma custar muito mais no varejo nacional, essa é uma das quedas de preço mais agressivas já registradas para entrar no ecossistema da Starlink. Compre agora sua antena da Starlink para ter internet em qualquer lugar Como é a antena Starlink Mini? O grande diferencial da Starlink Mini é a combinação de portabilidade extrema e praticidade. Pesando cerca de 1,1 kg e com dimensões parecidas com as de um notebook ( aproximadamente 30 x 26 cm ), ela dispensa o roteador externo tradicional porque já traz um roteador Wi-Fi 5 integrado diretamente no corpo da antena . Basta posicioná-la com visão livre para o céu, conectar à energia e configurar tudo pelo aplicativo oficial em poucos minutos. Pensada para encarar qualquer ambiente, a antena possui certificação IP67, o que garante resistência contra poeira e chuva forte. Além disso, ela se destaca pelo baixo consumo de energia (média entre 25 W e 40 W), permitindo o uso inclusive com fontes portáteis e sistemas de energia solar compatíveis, e suporta até 128 dispositivos conectados simultaneamente com cobertura de até 112 m². Especificações Completas: Modelo: Antena de Internet via Satélite Starlink Mini (Cor: Branco) Tipo de Antena: Matriz faseada eletrônica (alinhamento guiado via aplicativo) Roteador Integrado: Sim, Wi-Fi 5 (Dual Band) embutido na antena Capacidade: Conecta até 128 dispositivos simultaneamente Cobertura estimada: Até 112 m² (variando conforme obstáculos) Resistência: Certificação IP67 (proteção contra água e poeira) Dimensões e Peso: Aproximadamente 30 x 26 cm e peso em torno de 1,1 kg Consumo Médio: 25 W a 40 W (alimentação via tomada ou fonte portátil compatível; não possui bateria interna) Vale a pena comprar a Antena Starlink Mini? Nos principais sites de vendas, a Starlink Mini mantém avaliações muito altas, com os compradores elogiando principalmente a facilidade absurda de instalação (basta ligar e apontar para o céu com ajuda do app), a portabilidade para levar em viagens ou trabalhos em campo e a estabilidade da velocidade em regiões remotas onde o 4G/5G mal funciona. Quem utiliza o aparelho em propriedades rurais ou para home office na estrada costuma destacar que o roteador integrado já resolve bem a conexão para ambientes próximos. Entre os pontos de atenção mais citados nos comentários dos usuários estão a necessidade de contratar um plano mensal da Starlink separadamente e a importância de evitar barreiras físicas como árvores densas ou telhados, que podem causar oscilações no sinal. Não perca esse desconto e compre sua antena da Starlink",
+   "text_source": "rss",
+   "images": [
+    "https://tl.ctcdn.com.br/DT1-OLvNA0ZqTtlN8hQqmZgU51Y=/1200x675/smart/filters:format(webp):quality(85)/b8d138c0-5e48-4d28-bbf4-01dff49052f6.jpg",
+    "https://tl.ctcdn.com.br/F3tw5ombYh8ngmv3_XAqjbdyvvE=/0x0/filters:format(webp):quality(85)/c47d9573-10fb-434c-903e-fb9b7689eca8.jpeg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Starlink",
+    "Mini",
+    "R"
    ],
    "searches": []
   }
