@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-11-27T18:35:43.993883+00:00",
+ "generated_at": "2026-11-28T03:00:37.841306+00:00",
  "trends": [
   {
-   "term": "seleção brasileira de futebol feminino",
+   "term": "jazz x nuggets",
    "traffic": 200
   },
   {
-   "term": "sap",
+   "term": "knicks",
    "traffic": 200
   },
   {
-   "term": "al ittihad",
-   "traffic": 500
-  },
-  {
-   "term": "amancio ortega",
-   "traffic": 200
-  },
-  {
-   "term": "ingressos gremio",
-   "traffic": 500
-  },
-  {
-   "term": "coreia do norte",
-   "traffic": 500
-  },
-  {
-   "term": "belo horizonte",
-   "traffic": 200
-  },
-  {
-   "term": "chico buarque",
-   "traffic": 200
-  },
-  {
-   "term": "enfeitiçadas: bem-vindos a hexe",
+   "term": "nathan fielder",
    "traffic": 100
   },
   {
-   "term": "auditor fiscal",
+   "term": "dominick barlow",
+   "traffic": 100
+  },
+  {
+   "term": "spurs x lakers",
    "traffic": 2000
+  },
+  {
+   "term": "trail blazers x warriors",
+   "traffic": 2000
+  },
+  {
+   "term": "suns x mavericks",
+   "traffic": 500
+  },
+  {
+   "term": "76ers",
+   "traffic": 1000
+  },
+  {
+   "term": "santa casa de araraquara",
+   "traffic": 200
+  },
+  {
+   "term": "millonarios x américa de cali",
+   "traffic": 1000
   }
  ],
  "usage": {
   "month_limit": 800,
-  "used": 327,
-  "used_today": 16,
+  "used": 335,
+  "used_today": 24,
   "daily_allowance": 122
  },
  "sources": [
@@ -76,13 +76,13 @@
   {
    "name": "Ars Technica",
    "feed": "https://feeds.arstechnica.com/arstechnica/index",
-   "count": 10,
+   "count": 7,
    "ok": true
   },
   {
    "name": "ScienceDaily",
    "feed": "https://www.sciencedaily.com/rss/top/technology.xml",
-   "count": 5,
+   "count": 4,
    "ok": true
   },
   {
@@ -106,7 +106,7 @@
   {
    "name": "Techcrunch",
    "feed": "https://techcrunch.com/feed/",
-   "count": 12,
+   "count": 5,
    "ok": true
   },
   {
@@ -136,7 +136,7 @@
   {
    "name": "Spaceflightnow",
    "feed": "https://spaceflightnow.com/feed/",
-   "count": 1,
+   "count": 0,
    "ok": true
   },
   {
@@ -149,15 +149,272 @@
  "manual": [],
  "stories": [
   {
-   "id": "uetoothblackfridayofertasporfaixadepreco",
-   "title": "Do TWS barato ao over-ear com ANC: os melhores fones da Black Friday",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/27/reviews/fones-bluetooth-black-friday-ofertas-por-faixa-de-preco/",
-   "published": "2026-11-27T17:45:50+00:00",
-   "summary": "Se você quer trocar ou estrear um fone de ouvido Bluetooth aproveitando a Black Friday 2026, separamos oito modelos em promoção — do TWS mais barato que entrega o essencial ao headphone over-ear com cancelamento de ruído. Para facilitar sua escolha, organizamos por faixa de preço, com índice de atalhos no topo: você clica no […] O post Do TWS barato ao over-ear com ANC: os melhores fones da Black ",
-   "score": 11.95,
+   "id": "lackfridaybestcheaptechdealsunder1002026",
+   "title": "We found 60-odd Black Friday deals we love for $100 or less",
+   "source": "The Verge",
+   "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+   "published": "2026-11-28T00:42:02+00:00",
+   "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff […]",
+   "score": 8.86,
    "why": [
-    "4 sites cobrindo"
+    "3 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
+    },
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
+    },
+    {
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026"
+    },
+    {
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-black-friday-power-tool-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-cordless-yard-tool-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-home-depot-power-tool-black-friday-deals-2026/"
+    }
+   ],
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Gadgets\n\n- Verge Shopping\n\n- Black Friday\n\n# We found 60-odd Black Friday deals we love for $100 or less\n\nThere are still great deals on everything from noise-canceling earbuds and e-readers to the latest smart mugs.\n\nThere are still great deals on everything from noise-canceling earbuds and e-readers to the latest smart mugs.\n\nbySheena Vasani\n\nNov 27, 2026, 8:30 PM EST\n\n- Link\n\n- Share\n\nComments00Comments\n\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\n\n_The translucent Beats Studio Buds Plus are down to $89.95, matching their lowest price to date._Photo: Chris Welch / The Verge\n\nPart Of\\\\\n\\\\\nThe Verge’s guide to Black Friday 2026\\\\\n\\\\\nsee all\n\n[](https://www.theverge.com/authors/sheena-vasani)\n\nSheena Vasaniwrites about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for _The Verge_.\n\nBetween holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen.\n\n### Related\n\n- The absolute best Black Friday deals we’ve found\n- The Verge’s guide to the best gifts under $100\n- Here are the best Black Friday deals you can grab for $30 or less\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nBelow, we’ve rounded up a range of great stuff currently on sale for $100 or less, from noise-canceling earbuds and portable Bluetooth speakers to pocket-sized e-readers, photo printers, games, and more. You’ll also find deals on Ember’s temperature-controlled mug, Kodak’s tiny keychain camera, and a variety of Lego sets, all of which would make great holiday gifts or simply a nice treat for yourself.\n\n* * *\n\nHow much do you want to spend?\n\nUnder $25$26 to $50$51 to $150$151 to $400$401+\n\n[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1043445][626982][n][][][][][][][google.com])[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1043445][626982][n][][][][][][][google.com])\n\n### Disney Plus, Hulu Bundle\n\n$5$1362% off\n\n$5\n\nYou can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including _The Simpsons_, _Andor_, _Toy Story 5_, and _The Fantastic Four: First Steps_.\n\n$5 at Hulu (ad-supported, monthly) $15 at Hulu (ad-free, monthly)\n\n[](https://www.amazon.com/dp/B0GG1YNSPD?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1019789________________google.com)[](https://www.amazon.com/dp/B0GG1YNSPD?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1019789________________google.com)\n\n### Amazon Echo Time\n\n$100$20050% off\n\n$100\n\nAlthough it’s not Amazon’s first bedside alarm clock, the Echo Time is focused on helping you sleep better. The camera-less Alexa speaker can detect your sleep stage via ultrasound and use smart alarms to ease you into the day, but only if you want it to.\n\n$100 at Amazon $100 at Best Buy $100 at Target\n\n[](https://www.amazon.com/Anker-Universal-Charger-Compact-Charging/dp/B0GS5M96KD/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1039273________________google.com)[](https://www.amazon.com/Anker-Universal-Charger-Compact-Charging/dp/B0GS5M96KD/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1039273________________google.com)\n\n### Anker Universal Charger (100W)\n\n$60$8025% off\n\n$60\n\nAnker’s durable travel adapter delivers up to 100W of power and works in over 200 countries. It doesn’t support AC plugs, but it does offer a trio of USB-C ports and a nifty LCD display to keep tabs on the charge percentage.\n\n$60 at Amazon $64 at Anker\n\n[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)\n\n### HBO Max\n\n$5$1155% off\n\n$5\n\nAn HBO Max Basic subscription provides access to shows like _A Knight of the Seven Kingdoms_, _The Last of Us_, and _The Pitt_, as well as films like _Superman_ and _Weapons_. You can get a year of the monthly ad-supported subscription for $5.49 a month (about $6 off) until December 1st.\n\n$5 at HBO Max (monthly, with ads) $79 at HBO Max (annual, basic) $133 at HBO Max (annual, standard)\n\n[](https://www.amazon.com/gp/aw/d/B015TKUPIC?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__943387________________google.com)[](https://www.amazon.com/gp/aw/d/B015TKUPIC?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__943387________________google.com)\n\n### Noco GB40 UltraSafe Jumpstarter\n\n$100\n\n$100\n\nNoco’s Boost GB40 is a rechargeable battery with jumper cables to start six-liter gas or three-liter diesel engines. It also has USB ports so you can charge your phone, ensuring you always have a backup plan.\n\n$100 at Amazon $100 at Home Depot $100 at AutoZone\n\n[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__875308________________google.com)[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__875308________________google.com)\n\n### Apple AirTag (second-gen)\n\n$18$2938% off\n\n$18\n\nApple’s latest AirTags feature an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\n$18 at Amazon $18 at Walmart $18 at Best Buy\n\n[](https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__26735________________google.com)[](https://www.amazon.com/Beats-Cancelling-Compatibility-Microphone-Headphones/dp/B0BZK2Z2TC/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__26735________________google.com)\n\n### Beats Studio Buds Plus\n\n$90$17047% off\n\n$90\n\nThe Beats Studio Buds Plus sport an eye-catching translucent option and build upon the original with improved sound, better voice quality, and more effective ANC. They also include swappable silicone ear tips and support for native iOS and Android features. Read our review.\n\n$90 at Amazon $90 at Walmart $90 at Best Buy\n\n[](https://www.amazon.com/dp/B0G6DBSCY6?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1044321________________google.com)[](https://www.amazon.com/dp/B0G6DBSCY6?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1044321________________google.com)\n\n### Liene Pearl N200 Pro photo printer\n\n$95$12021% off\n\n$95\n\nThe Liene Pearl N200 Pro is a dye-sublimation photo printer that produces vivid, colorful prints for journals, scrapbooks, and more, with an easy-to-use companion app for customization. This particular bundle includes 50 sheets of photo paper and five ink cartridges, though refills are relatively affordable at around $25 for 50 sheets.\n\n$95 at Amazon $95 at Liene\n\n[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1043445][667769][n][][][][][][][google.com])[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1043445][667769][n][][][][][][][google.com])\n\n### Peacock\n\n$3$967% off\n\n$3\n\nPeacock is a great way to catch up on a wealth of content from NBC’s various networks, whether you plan to rewatch _The Office_ or catch up on all things Bravo. A Premium subscription also grants access to films from studios like Universal Pictures and DreamWorks, along with live sports and a host of Peacock Originals.\n\n$3 at Peacock (monthly, Select) $9 at Peacock (monthly, Premium) $30 at Peacock (annual, Select)\n\n[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1043445__909793__n______________google.com)[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1043445__909793__n______________google.com)\n\n### SwitchBot Bot Rechargeable\n\n$24$3429% off\n\n$24\n\nDo you ever wish you could turn on your coffee maker or hit the light switch without getting up? The SwitchBot Bot lets you do that. All you need to do is stick the inexpensive contraption on a standard button or rocker switch, which will allow you to control or schedule your pet feeder, garage door, and a wide range of other devices from your smartphone.\n\n$24 at Amazon (white) $24 at SwitchBot (with code BFCMX30) $24 at Amazon (black)\n\n[](https://www.amazon.com/Ember-Temperature-Stainless-dishwasher-temperature/dp/B0HJ92GF5B/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1029163________________google.com)[](https://www.amazon.com/Ember-Temperature-Stainless-dishwasher-temperature/dp/B0HJ92GF5B/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1029163________________google.com)\n\n### Ember Mug 3 (14-ounce)\n\n$95$15037% off\n\n$95\n\nEmber’s latest smart mug is designed to keep your coffee at the ideal temperature for up to three hours, with five temp settings between 120 and 145 degrees Fahrenheit. The third-gen version is similar to prior models; however, you can now adjust the heat settings directly on the mug and throw it in the dishwasher, which wasn’t the case before.\n\n$95 at Amazon $95 at Best Buy $95 at Ember\n\n[](https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Faccount%2Fsignup%2Fpickplan%2F&subId2=[vg1127awD][1043445][17978][n][][][][][][][google.com])[](https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Faccount%2Fsignup%2Fpickplan%2F&subId2=[vg1127awD][1043445][17978][n][][][][][][][google.com])\n\n### Paramount Plus (monthly subscription)\n\n$3$967% off\n\n$3\n\nParamount Plus Premium provides access to live sports as well as movies and shows from both platforms, including _Tales of the Teenage Mutant Ninja Turtles_, a host of _Yellowston_ e spinoffs, _Star Trek_ shows, _Sonic the Hedgehog 3,_ _Twin Peaks_, _Dexter_, and more.\n\n$3 at Paramount (Essential) $3 at Paramount (Premium)\n\n[](https://www.amazon.com/Apple-MUWA3AM-A-Pencil-USB-C/dp/B0CL7J12YK?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__12477________________google.com)[](https://www.amazon.com/Apple-MUWA3AM-A-Pencil-USB-C/dp/B0CL7J12YK?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__12477________________google.com)\n\n### Apple Pencil (USB-C)\n\n$49$7938% off\n\n$49\n\nApple’s entry-level stylus attaches magnetically to supported iPads, though it doesn’t support magnetic charging. Instead, you pair and charge it by connecting it to your device’s USB-C port. It includes tilt sensitivity and Apple Pencil Hover support, but it doesn’t offer double-tap gestures or pressure sensitivity.\n\n$49 at Amazon $49 at Walmart $49 at Best Buy\n\n[](https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBeats-Studio-Pro-Wireless-Headphones-Deep-Brown%2F20630967817&subId2=[vg1127awD][1043445][34280][n][][][][][][][google.com])[](https://goto.walmart.com/c/482924/565706/9383?u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBeats-Studio-Pro-Wireless-Headphones-Deep-Brown%2F20630967817&subId2=[vg1127awD][1043445][34280][n][][][][][][][google.com])\n\n### Beats Studio Pro\n\n$99$35072% off\n\n$99\n\nThe latest Beats Studio Pro feature improved noise cancellation, sound quality, and comfort. They also support lossless audio over USB-C and offer native support for a range of iOS and Android features like other Beats headphones. Read our review.\n\n$99 at Walmart\n\n[](https://www.amazon.com/Nothing-Ear-3a-Cancelling-Recording/dp/B0GZW1BYJF/?th=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__972258________________google.com)[](https://www.amazon.com/Nothing-Ear-3a-Cancelling-Recording/dp/B0GZW1BYJF/?th=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__972258________________google.com)\n\n### Nothing Ear 3A earbuds\n\n$69$9930% off\n\n$69\n\nYou likely won’t find wireless earbuds with a more striking appearance than Nothing’s Ear 3A. They also sound fantastic, boast active noise cancellation, and offer robust EQ settings, making them a great pick for the price. Read our review.\n\n$69 at Amazon $69 at Walmart $69 at Best Buy\n\n[](https://www.amazon.com/Zepath-Rechargeable-Batteries-Capacity-12Pack-3000mWH/dp/B0DDXN6SSP?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__954836________________google.com)[](https://www.amazon.com/Zepath-Rechargeable-Batteries-Capacity-12Pack-3000mWH/dp/B0DDXN6SSP?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__954836________________google.com)\n\n### Zepath USB-C Li-ion AA Batteries\n\n$24$3225% off\n\n$24\n\nRechargeable AA batteries are handy until it’s time to charge them. Most wall chargers let you refill four, maybe six, at once. Zepath’s clever solution is to ship them in an easy-to-use USB-C charging case that charges eight simultaneously. The batteries themselves are long-lasting, too.\n\n$24 at Amazon (12-pack, 3000mWh)\n\n[](https://www.amazon.com/dp/B0FT99KCV8?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__815951________________google.com)[](https://www.amazon.com/dp/B0FT99KCV8?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__815951________________google.com)\n\n### Samsung P9 microSD Express card\n\n$45$8044% off\n\n$45\n\nThe P9 is great if you need more storage for your Nintendo Switch 2. The microSD Express card offers sequential read speeds of up to 800MB/s, but only gadgets with a microSD Express card slot can take full advantage of the highest speeds. That includes certain cameras, tablets, and drones with a microSD USH-I slot.\n\n$45 at Amazon (256GB) $93 at Amazon (512GB)\n\n[](https://www.amazon.com/dp/B0H8SZ945Y/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1039289________________google.com)[](https://www.amazon.com/dp/B0H8SZ945Y/?tag=theverge02-20&ascsubtag=__vg0000zwD__1043445__1039289________________google.com)\n\n### Xteink X4 Classic pocket e-reader\n\n$55$10950% off\n\n$55\n\nWith a 4.3-inch E Ink screen, the Xteink X4 is smaller and more pocketable than any Kindle and Kobo model currently available. It has some drawbacks — it’s limited to TXT",
+   "text_source": "firecrawl",
+   "images": [
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0016.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0016.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Anker-Universal-Charger-Lifestyle-Image.jpg?quality=90&strip=all&crop=16.708701134931%2C0%2C66.582597730139%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Anker-Universal-Charger-Lifestyle-Image.jpg?quality=90&strip=all&crop=0.063051702395967%2C0%2C99.873896595208%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK055_HBOMAX_2_C.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK055_HBOMAX_2_C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Noco-GB40-UltraSafe-Jumpstarter-Lifestyle-Image.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+   ],
+   "videos": [],
+   "keywords": [
+    "Black",
+    "Friday",
+    "100"
+   ],
+   "searches": [
+    "black friday 100 shot barrage candle",
+    "black friday 100 shot firework",
+    "black friday janitor 100",
+    "black friday 100k infinito"
+   ]
+  },
+  {
+   "id": "acaeacusaapplederoubarsegredoscomerciais",
+   "title": "OpenAI contra-ataca e acusa Apple de roubar segredos comerciais",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/27/pro/openai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais/",
+   "published": "2026-11-27T20:21:04+00:00",
+   "summary": "Iniciativa é uma contraofensiva depois que a Apple processou a OpenAI e dois ex-funcionários O post OpenAI contra-ataca e acusa Apple de roubar segredos comerciais apareceu primeiro em Olhar Digital .",
+   "score": 6.98,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Forbes",
+     "url": "https://forbes.com.br/geral/2026/11/openai-processa-apple-por-roubo-de-segredos-comerciais/"
+    }
+   ],
+   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/apple_openai_2-1024x682.jpg",
+   "text": "- Pro\n\n# OpenAI contra-ataca e acusa Apple de roubar segredos comerciais\n\nIniciativa é uma contraofensiva depois que a Apple processou a OpenAI e dois ex-funcionários\n\n[](https://olhardigital.com.br/author/rodrigo-mozelli/)\n\nRodrigo Mozelli27/11/2026 17:21, atualizada em 27/11/2026 21:19\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\n00:00/02:20\n\nChips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed\n\nLeia mais\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F&title=OpenAI+contra-ataca+e+acusa+Apple+de+roubar+segredos+comerciais%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F&text=OpenAI+contra-ataca+e+acusa+Apple+de+roubar+segredos+comerciais%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/pro/openai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nTudo sobre Apple\n\nver mais\n\nTudo sobre OpenAI\n\nver mais\n\nA OpenAI abriu uma nova frente na disputa judicial com a Apple. Nesta sexta-feira (27), a empresa responsável pelo ChatGPT apresentou uma ação contra a fabricante do iPhone, acusando-a de roubar segredos comerciais e dificultar seu acesso a fornecedores de hardware.\n\nContinua após a publicidade\n\nA iniciativa é uma contraofensiva depois que a Apple processou a OpenAI e dois ex-funcionários, alegando apropriação indevida de informações confidenciais para beneficiar os planos da criadora do ChatGPT no mercado de dispositivos eletrônicos.\n\nAs novas alegações foram apresentadas em um tribunal federal da Califórnia (EUA). Segundo a OpenAI, as práticas de contratação da Apple foram planejadas para “prender” funcionários e impedir que trabalhassem no desenvolvimento de tecnologias concorrentes.\n\nLeia também\n\n- \\\\\n**China encontra maneira de acessar chips de IA dos EUA mesmo com sanções** \\\\\n\\\\\nPro5 min\n- \\\\\n**Análise: Dell 14 é o notebook de 14 polegadas para quem quer trabalhar e estudar sem complicação** \\\\\n\\\\\nLounge Dell8 min\n- \\\\\n**Google é obrigado a interromper construção de data center na Bélgica** \\\\\n\\\\\nPro2 min\n\n## Disputa começou com acusações da Apple\n\nA tensão entre as empresas aumentou depois que a Apple entrou com uma ação judicial contra a OpenAI e dois antigos funcionários. A fabricante acusou a concorrente de se apropriar de segredos comerciais para favorecer sua entrada no mercado de hardware para consumidores. A OpenAI negou as acusações. Agora, a empresa apresenta suas próprias alegações, ampliando o confronto jurídico entre as duas gigantes da tecnologia.\n\nSegundo a OpenAI, as práticas de contratação da Apple foram planejadas para “prender” funcionários e impedir que trabalhassem no desenvolvimento de tecnologias concorrentes – Imagem: Thrive Studios ID/Shutterstock\n\nA disputa ocorre em meio à intensificação da corrida pelo desenvolvimento de produtos de inteligência artificial (IA), que também envolve a competição por profissionais especializados e tecnologias proprietárias.\n\n**Leia mais:**\n\n- Apple prepara iPhone 18e, novo iPad e MacBook Neo para 2027\n- Ex-funcionário da OpenAI acusado de espionagem será solto com fiança milionária\n- OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos\n\n## Briga pode envolver o futuro dos dispositivos de IA\n\nAlém das acusações sobre segredos comerciais e contratação de funcionários, o processo coloca em evidência uma disputa estratégica pelo controle dos futuros dispositivos de IA.\n\nEsses aparelhos poderão funcionar sem depender dos aplicativos e sistemas operacionais tradicionais que dominam atualmente o mercado de tecnologia.\n\nSegundo a _Reuters_, analistas acreditam que a OpenAI está trabalhando no desenvolvimento de um telefone ou outro dispositivo próprio. Caso produtos desse tipo tenham sucesso, poderão desviar parte da atenção dos consumidores do iPhone, principal produto da Apple.\n\nA disputa judicial, portanto, vai além de uma divergência entre duas empresas. Ela também envolve a concorrência por tecnologias e plataformas que poderão definir a próxima geração de dispositivos eletrônicos.\n\nRodrigo Mozelli\n\nRodrigo Mozelli é jornalista formado pela Universidade Metodista de São Paulo (UMESP) e, atualmente, é redator do Olhar Digital.\n\nVer todos os artigos →\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\nTags: Apple OpenAI processo judicial\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F&title=OpenAI+contra-ataca+e+acusa+Apple+de+roubar+segredos+comerciais%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fpro%2Fopenai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais%2F&text=OpenAI+contra-ataca+e+acusa+Apple+de+roubar+segredos+comerciais%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/pro/openai-contra-ataca-e-acusa-apple-de-roubar-segredos-comerciais/ \"Compartilhar por email\")\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nProConta de luz terá bandeira verde em dezembro; veja o que mudaRodrigo Mozelli \\\\\n\\\\\nProGoogle é obrigado a interromper construção de data center na BélgicaRodrigo Mozelli \\\\\n\\\\\nProA era do Google acabou? Como a IA está mudando as compras onlinePedro Spadoni \\\\\n\\\\\nProChips avançados da Nvidia são encontrados em data center chinês ligado à MegaspeedRodrigo Mozelli",
+   "text_source": "firecrawl",
+   "images": [
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/apple_openai_2-1024x682.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/apple_openai.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/03/mozelli-150x150.jpg",
+    "https://src.trvdp.com/images/f5ce6d6898a845159ab00ea88f98e486ec2b45aa_2.jpg",
+    "https://ib.adnxs.com/getuid?https%3A%2F%2Fv6.truvidplayer.com%2Flive%2Fusersync.php%3Fprovider_id%3Dxandr%26user_id%3D%24UID%26agreed%3Dfalse%26gdpr%3D0%26gdprApplies%3D0%26gdpr_consent%3D",
+    "https://image8.pubmatic.com/AdServer/ImgSync?p=167031&gdpr=0&gdpr_consent=&pu=https%3A%2F%2Fv6.truvidplayer.com%2Flive%2Fusersync.php%3Fprovider_id%3Dpubmatic%26user_id%3D%23PMUID%26agreed%3Dfalse%26gdprApplies%3D0",
+    "https://fast.nexx360.io/usermatchredir/redirect?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fv6.truvidplayer.com%2Flive%2Fusersync.php%3Fprovider_id%3Dunruly%26user_id%3D%24UID%26agreed%3Dfalse%26gdprApplies%3D0",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/eua_china_chips.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Dell_14-3-4-695x500.jpg",
+    "https://olhardigital.com.br/wp-content/uploads/2026/11/google-2.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/apple_openai_2-1024x682.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2025/08/iStock-1055302558-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/google-2-365x232.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Apple"
+   ],
+   "searches": [
+    "apple",
+    "apple event",
+    "apple watch black friday",
+    "apple watch ultra 3",
+    "apple watch series 11",
+    "apple watch ultra 4"
+   ]
+  },
+  {
+   "id": "ecememdatacenternachinaligadoaalicehuang",
+   "title": "Chips de IA da Nvidia aparecem em data center na China ligado a Alice Huang",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/chips-de-ia-da-nvidia-aparecem-em-data-center-na-china-ligado-a-alice-huang/",
+   "published": "2026-11-27T19:00:00+00:00",
+   "summary": "",
+   "score": 6.9,
+   "why": [
+    "2 sites cobrindo",
+    "Tema de alto interesse"
+   ],
+   "also_in": [
+    {
+     "source": "Techcrunch",
+     "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    }
+   ],
+   "image": "https://www.estadao.com.br/resizer/v2/MDZX65INUBFWTAVQSJXEAY2B7M.jpg?quality=80&auth=43623d83b8852e15b70ad332f38ef49c12b928be0a426d32b6cb62b295a99963&width=710",
+   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Big Techs \n\nPUBLICIDADE\n\nPor André Luiz Dias Gonçalves\n\n27/11/2026 \\| 16h00\n\nNotícia de presente\n\nUS$ 5 BILHÕES em chips da NVIDIA desviados para a China?!\n\n2:59\n\nO caso NVIDIA acaba de ganhar proporções ainda maiores e acendeu um alerta máximo de segurança nacional nos Estados Unidos. Crédito: Pedro Castro\n\nUm data center instalado em Xangai, na China, e ligado a empresas associadas a Alice Huang, executiva que está no centro das polêmicas envolvendo a Nvidia, utiliza chips avançados de inteligência artificial da série Blackwell, da gigante dos semicondutores, **com restrições de remessa para o país asiático**. A informação foi revelada pela _Bloomberg_ nesta sexta-feira (27).\n\nEvidências da presença dos componentes, cuja exportação exige licenças especiais do governo dos Estados Unidos, foram encontradas em documentos de empréstimos solicitados pelas empresas Shanghai Shuoyao e Shanghai Kezhan. **Eles estariam em uso no complexo de supercomputação Yangtze River Delta Project**.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\nPUBLICIDADE\n\n### Números de série ajudaram na identificação\n\nConforme a reportagem, um dos equipamentos é o rack **Nvidia GB300 NVL72**, considerado um dos mais potentes da marca. Ele foi oferecido pela Shanghai Shuoyao como garantia para um empréstimo de US$ 14 milhões (R$ 77,5 milhões pela cotação atual) contratado junto ao Banco de Inovação de Xangai.\n\n- A identificação do dispositivo aconteceu por meio do número de série mencionado no documento financeiro registrado em um banco de dados público de garantias;\n- Por meio dele, a investigação também descobriu que o rack foi fabricado pela Gigabyte, sediada em Taiwan;\n- Questionada, a empresa que monta servidores e racks com componentes da Nvidia **se recusou a dizer para quem vendeu o equipamento, alegando políticas internas**;\n- No mesmo sistema de informações públicas, foi encontrado o número de série referente ao **servidor GB200 da Nvidia**, igualmente baseado na arquitetura Blackwell.\n\nPUBLICIDADE\n\nO servidor Nvidia GB300 NVL72 reúne dezenas de GPUs com a arquitetura Blackwell. Foto: Nvidia/Divulgação\n\nPUBLICIDADE\n\nEle foi listado pela Shanghai Kezhan após a solicitação de um empréstimo equivalente a US$ 13,5 milhões (R$ 74,7 milhões). A operação ocorreu em dezembro do ano passado, por meio de uma empresa de leasing vinculada a uma agência do governo local.\n\n**Não ficou claro como os equipamentos Nvidia Blackwell chegaram ao país**. Como destaca a publicação, geralmente eles passam por várias mãos antes de serem instalados nos data centers, incluindo distribuidores locais, ou são inicialmente vendidos a pessoas em mercados sem restrições e levados para a China por meio de contrabando.\n\nAssine com o **MENOR**\\\\\n\\\\\n**PREÇO DO ANO**ASSINE AGORACancele quando quiser\n\nPUBLICIDADE\n\n### Conexão com a Megaspeed\n\nFundada em 2023 por Alice Huang, que teve um caso extraconjugal com o CEO da Nvidia, Jensen Huang, a **Megaspeed possui parceria com a Shuoyao**. Ela teria usado uma representação do Yangtze River Delta Project para mostrar aos investidores seu maior data center, conforme a publicação.\n\nAlém disso, a executiva, investigada por autoridades americanas devido à suspeita de espionagem, possui ligação com várias empresas que investiram no projeto. **Uma delas seria a NeXPower Japan, que detém 83,3% da Kezhan**.\n\nPUBLICIDADE\n\nEm meio às polêmicas sobre o caso, a Megaspeed afirmou, recentemente, que Alice deixou a empresa no ano passado. Saiba mais detalhes nesta matéria.\n\nCom informações de _Bloomberg_.\n\nPUBLICIDADE\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- NVIDIA\n- [China \\[Ásia\\]](https://www.estadao.com.br/tudo-sobre/china-asia/)\n- inteligência artificial\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 3.999,90-15%\\\\\n\\\\\nGamer · Amazon\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nApple, Samsung e Xiaomi devem cortar produção de celulares para 2027 2.\\\\\n\\\\\nBlack Friday tenta ‘driblar’ aumento de preços nos smartphones: descontos são reais? 3.\\\\\n\\\\\nBlack Friday Shopee: as melhores ofertas 4.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 5.\\\\\n\\\\\nSaiba como calcular o tamanho ideal de uma TV 4K de acordo com a sua sala\n\nPUBLICIDADE\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
+   "text_source": "firecrawl",
+   "images": [
+    "https://www.estadao.com.br/resizer/v2/MDZX65INUBFWTAVQSJXEAY2B7M.jpg?quality=80&auth=43623d83b8852e15b70ad332f38ef49c12b928be0a426d32b6cb62b295a99963&width=710",
+    "https://www.estadao.com.br/resizer/v2/MNBMQHSPERA25EIJJNNXPBEYHM.jpeg?quality=80&auth=d27df9d04f1c4fba3ef11506bb8c904c1a430b79e1e6b24edef9d0149c3e5128&width=1200&height=630&focal=2459,1418",
+    "https://www.estadao.com.br/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Festadao%2FUEXZ4KUAO5FGNLP4MV7EF2GHYI.png?quality=80&auth=fd23adfe9245fb8376aeb2b8e0626809beda900f1711bdd1703675ab2f447060&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/pw/img/selo-news-friday-ultima-chance-banner.png",
+    "https://www.estadao.com.br/resizer/v2/MDZX65INUBFWTAVQSJXEAY2B7M.jpg?quality=80&auth=43623d83b8852e15b70ad332f38ef49c12b928be0a426d32b6cb62b295a99963&width=1200",
+    "https://assets.estadao.com.br/plataforma-vendas/pw-images/selo-news-friday-testeira.png",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
+    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg",
+    "https://m.media-amazon.com/images/I/41yRUnIzngL._SL500_.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/e57db2c9ec9f44ea0d4658869535729b8870e9665cc35954872e66e0e8a12252.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3fa4eef298f5771cb02e4c30e6ce810e9ad464b1cb2aff8e2a59624a811e5abf.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "IA",
+    "Nvidia",
+    "China"
+   ],
+   "searches": []
+  },
+  {
+   "id": "olescomoescolhernotebookgamerblackfriday",
+   "title": "Notebook gamer na Black Friday: 5 dicas para escolher sem gastar além do necessário",
+   "source": "Olhar Digital",
+   "url": "https://olhardigital.com.br/2026/11/27/games-e-consoles/como-escolher-notebook-gamer-black-friday/",
+   "published": "2026-11-27T21:00:00+00:00",
+   "summary": "Especialista da Avell explica como avaliar placa de vídeo e TGP, equilibrar processador e GPU, checar upgrades, refrigeração e tela, e olhar o custo-benefício para além do desconto O post Notebook gamer na Black Friday: 5 dicas para escolher sem gastar além do necessário apareceu primeiro em Olhar Digital .",
+   "score": 5.62,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/ciberseguranca/10-dicas-como-se-proteger-de-golpes-na-black-friday/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/black-friday-confira-dicas-para-comprar-um-notebook-gamer-com-boas-configuracoes/"
+    }
+   ],
+   "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/RecCameraStock-Shutterstock-1024x576.png",
+   "text": "- Games e Consoles\n\n# Notebook gamer na Black Friday: 5 dicas para escolher sem gastar além do necessário\n\nEspecialista da Avell explica como avaliar placa de vídeo e TGP, equilibrar processador e GPU, checar upgrades, refrigeração e tela, e olhar o custo-benefício para além do desconto\n\n[](https://olhardigital.com.br/author/eduarda-saturnino/)\n\nEduarda Saturnino27/11/2026 18:00\n\nPrefira o OD no Google\n\n0 WhatsApp WhatsApp Instagram Facebook LinkedIn\n\nKardasov Films/ Shutterstock - Kardasov Films/ Shutterstock\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F&title=Notebook+gamer+na+Black+Friday%3A+5+dicas+para+escolher+sem+gastar+al%C3%A9m+do+necess%C3%A1rio%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F&text=Notebook+gamer+na+Black+Friday%3A+5+dicas+para+escolher+sem+gastar+al%C3%A9m+do+necess%C3%A1rio%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/games-e-consoles/como-escolher-notebook-gamer-black-friday/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nHoje, sexta-feira (27), é Black Friday, e quem procura um notebook gamer encontra variedade de configurações e de faixas de preço, além dos descontos. Só que o percentual na etiqueta não deveria ser o primeiro critério da compra.\n\nContinua após a publicidade\n\nNem sempre o equipamento mais caro, ou com os componentes mais recentes, é o mais adequado. O perfil de uso, a compatibilidade com os jogos e a possibilidade de atualizações futuras pesam tanto quanto o preço. Para ajudar nessa decisão, Vinícius Francioni, coordenador de Desenvolvimento de Produtos da Avell, fabricante brasileira de notebooks de alta performance, reuniu cinco recomendações.\n\n## 1\\. Placa de vídeo e TGP: escolha de acordo com os jogos\n\nAntes de investir, vale consultar os requisitos recomendados dos jogos que você pretende rodar. Títulos competitivos podem apresentar demandas gráficas diferentes das de jogos de mundo aberto.\n\nLeia também\n\n- \\\\\n**Por que GTA 6 não permite repetir missões? Rockstar explica decisão** \\\\\n\\\\\nGames e Consoles2 min\n- \\\\\n**Dell 14 ou Dell 15: qual notebook escolher em 2026?** \\\\\n\\\\\nLounge Dell5 min\n- \\\\\n**Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna** \\\\\n\\\\\nGames e Consoles3 min\n\nAlém do modelo da placa de vídeo (GPU), é preciso olhar a potência gráfica, identificada pela sigla TGP (Total Graphics Power). Francioni explica por quê:\n\n“Dois notebooks equipados com o mesmo modelo de placa de vídeo não necessariamente entregam o mesmo desempenho. A potência disponibilizada para esse componente e a capacidade de dissipação de calor do equipamento influenciam diretamente sua performance. Por isso, comparar apenas o nome da GPU pode levar a uma avaliação equivocada.”\n\n## 2\\. Priorize o equilíbrio entre processador e placa de vídeo\n\nImagem: RecCameraStock/ Shutterstock\n\nA GPU cuida principalmente do processamento gráfico. Já o processador (CPU) executa a lógica dos jogos, as simulações e outras operações do sistema.\n\nIsso não significa que você precisa do processador mais potente do mercado. Segundo Francioni, dependendo dos jogos e da resolução utilizada, destinar uma parcela maior do orçamento à placa de vídeo pode render um ganho de desempenho mais perceptível. “O importante é buscar uma configuração equilibrada e adequada ao perfil de uso”, orienta o especialista.\n\n## 3\\. Verifique se dá para ampliar memória e armazenamento\n\nPara muitos jogos atuais, 16 GB de memória RAM são um ponto de partida adequado. Os 32 GB podem beneficiar quem joga títulos mais exigentes ou usa outros programas ao mesmo tempo.\n\nO armazenamento também merece atenção: alguns jogos ocupam mais de 100 GB, então a capacidade do SSD faz diferença. Conferir se o notebook permite ampliar memória e armazenamento ajuda a distribuir o investimento ao longo do tempo.\n\n## 4\\. Não subestime a refrigeração e a qualidade da tela\n\nImagem: MSI/ Divulgação\n\nEm sessões prolongadas, componentes de alto desempenho geram calor. Se a refrigeração for insuficiente, o equipamento pode reduzir a frequência de operação dos componentes para controlar a temperatura, o que compromete o desempenho.\n\nA tela entra na conta da mesma forma. Painéis de 165 Hz ou 300 Hz proporcionam mais fluidez, desde que o hardware entregue taxas de quadros compatíveis. Consultar avaliações técnicas independentes ajuda a identificar diferenças entre equipamentos com especificações semelhantes.\n\n## 5\\. Avalie o custo-benefício do notebook gamer para além do desconto\n\nAlém de consultar o histórico de preços e as condições de pagamento, considere o período de garantia, a disponibilidade de assistência técnica e as condições para futuras atualizações.\n\nContinua após a publicidade\n\n“Um notebook gamer é um investimento que precisa ser avaliado a longo prazo. A possibilidade de ampliar determinados componentes e contar com suporte técnico pode prolongar a vida útil do equipamento. Uma boa compra não é necessariamente aquela que apresenta o maior desconto, mas a que atende às necessidades do usuário pelo maior tempo possível”, conclui Francioni.\n\n**Amazon Prime também é feito para jogadores!**\n\nTodo mês, obtenha itens exclusivos, jogos grátis,\numa assinatura gratuita na Twitch.tv e muito mais\ncom sua assinatura **Prime**.\nClique **aqui** para um teste gratuito de 30 dias.\n\nEduarda Saturnino\n\nÉ técnica em audiovisual e community manager com 7 anos de experiência no universo gamer.\n\nVer todos os artigos →\n\n### Comentários (0)\n\nVer comentários\n\nVer todos os 0 comentários →\n\nComentários (0)\n\nCarregar maiscomentário(s)\n\nCancelar Enviar\n\nTags: alta performance armazenamento atualização black friday Componentes cooler desconto garantia memoria notebook notebook gamer notebook gamer 2026 placa de vídeo preço processador Refrigeração tela\n\n**Gostou? Compartilhe!** Ajude mais pessoas a ficarem informadas.\n\nPrefira o OD no Google\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F&title=Notebook+gamer+na+Black+Friday%3A+5+dicas+para+escolher+sem+gastar+al%C3%A9m+do+necess%C3%A1rio%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Fgames-e-consoles%2Fcomo-escolher-notebook-gamer-black-friday%2F&text=Notebook+gamer+na+Black+Friday%3A+5+dicas+para+escolher+sem+gastar+al%C3%A9m+do+necess%C3%A1rio%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/games-e-consoles/como-escolher-notebook-gamer-black-friday/ \"Compartilhar por email\")\n\n## Notícias relacionadas\n\n\\\\\n\\\\\nGames e ConsolesPC lento? 5 pontos para avaliar antes de investir em um computador novoEduarda Saturnino \\\\\n\\\\\nGames e ConsolesReview: Pikmin 4 Nintendo Switch 2 Edition + Dandori AcademyChibi Martins \\\\\n\\\\\nGames e ConsolesGTA 6 estaria causando falhas graves no PS5 e Xbox Series; entendaRachele Victoria \\\\\n\\\\\nGames e ConsolesPor que GTA 6 não permite repetir missões? Rockstar explica decisãoRachele Victoria",
+   "text_source": "firecrawl",
+   "images": [
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Kardasov-Films-Shutterstock.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/06/Eduarda-Saturnino-150x150.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Jason_and_Lucia_15-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/dell-15-vs-dell-14-1-695x500.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Ubisoft-Ubisoft-1.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/RecCameraStock-Shutterstock-1024x576.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Divulgao-MSI-1024x576.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Shutterstock-Studio-Romantic-365x232.png",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/0e8a57a44ab39c4f8e48ff0e28e4beb28658f2b99b40dd53ed1a2d95e1c6b5d7-365x232.avif",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Montagem-Minimalista-Estilo-Steam-3-1-1-365x232.jpg",
+    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Jason_and_Lucia_15-1-365x232.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Black",
+    "Friday",
+    "5"
+   ],
+   "searches": [
+    "black friday 525 devi",
+    "black friday gta 5 online",
+    "black friday 2026 playstation 5"
+   ]
+  },
+  {
+   "id": "ravadosaposjogargta6preocupaassistencias",
+   "title": "Onda de Xbox Series X e S travados após jogar GTA 6 preocupa assistências",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/games/onda-de-xbox-series-x-e-s-travados-apos-jogar-gta-6-preocupa-assistencias/",
+   "published": "2026-11-27T20:17:00+00:00",
+   "summary": "Onda de Xbox Series X e S travados após jogar GTA 6 preocupa assistências O técnico de videogames polonês modyfikatorcasper relatou um aumento de unidades do XBOX Series chegando para assistência desde o lançamento de GTA 6 em 19 de novembro . Consoles PlayStation 5 também têm sofrido com desligamentos repentinos e superaquecimento ao rodar o título da Rockstar. As observações partem de uma public",
+   "score": 5.58,
+   "why": [
+    "2 sites cobrindo"
+   ],
+   "also_in": [
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/como-jogar-gta-6-no-celular/"
+    },
+    {
+     "source": "TecMundo",
+     "url": "https://www.estadao.com.br/tecmundo/voxel/atriz-de-lucia-em-gta-6-manni-l-perez-confirma-que-esta-trabalhando-no-jogo-ha-quase-uma-decada/"
+    }
+   ],
+   "image": "https://tl.ctcdn.com.br/nAjTO4A8ZLcDakX0FPHLGuYCjDc=/1200x675/smart/filters:format(webp):quality(85)/d4f4f7f2-4951-41b7-b688-6098b9b96991.png",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Onda de Xbox Series X e S travados após jogar GTA 6 preocupa assistências\n\nPor Gabriel Cavalheiro \\| 27/11/2026 às 17:17\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/d4f4f7f2-4951-41b7-b688-6098b9b96991.png)Edição/Gabriel Cavalheiro, Microsoft\n\nO técnico de videogames polonês modyfikatorcasper **relatou um aumento de unidades do XBOX Series chegando para assistência desde o lançamento de GTA 6 em 19 de novembro**. Consoles PlayStation 5 também têm sofrido com desligamentos repentinos e superaquecimento ao rodar o título da Rockstar. As observações partem de uma publicação desta quarta-feira (25) no X.\n\nContinua após a publicidade\n\nDe acordo com modyfikatorcasper, consoles XBOX Series são \"relativamente incomuns\" na Polônia, mas agora **representam cerca de 2 em cada 10 consoles que chegam para assistência técnica em sua oficina \"todos os dias\"**. O polonês destaca que, antes de GTA 6, ele recebia cerca de 10 unidades no mês.\n\n**Entre os principais problemas que o XBOX Series tem apresentado estão superaquecimento**, desligamentos no meio do jogo e crashes que levam os jogadores para o dashboard. Alguns clientes também relataram lentidão extrema, dificuldade para instalar atualizações e travamentos após o update que a Rockstar lançou.\n\nO técnico destacou um caso específico e mais crítico envolvendo um XBOX Series X: \"Depois de apenas alguns dias jogando GTA 6, ele parou de dar boot corretamente. Ele liga, mas não há saída de vídeo. Então a fan para de girar e o console se desliga sozinho.\"\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nJogadores no Reddit também relataram problemas com suas unidades de XBOX. O usuário u/Top\\_Nothing\\_3145 contou que seu console simplesmente **morreu um dia depois de uma longa sessão em GTA 6**. A suspeita é de que o problema esteja na fonte. Já u/Jastafool afirmou que seu hardware morreu após apenas 10 minutos de GTA 6. Uma assistência local apontou falha na placa-mãe.\n\n## **PlayStation 5 também sofre com problemas relacionados a GTA 6**\n\nDe acordo com modyfikatorcasper, o console da Sony também tem sofrido com problemas ao rodar GTA 6. \"Relatos estão chegando do mundo todo, e estamos vendo mais PS5s na oficina com desligamentos repentinos\", escreveu o técnico.\n\nO vazamento de metal líquido, que substitui a pasta térmica tradicional, tem sido o principal culpado pelos problemas de superaquecimento no PS5. Antes de GTA 6, Final Fantasy XVI também apresentou problemas parecidos em 2023. Um técnico apontou que GTA 6 triplica o consumo de energia e vira o maior teste de estresse do PS5.\n\n### Fonte\n\nNotebook Check\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "text_source": "firecrawl",
+   "images": [
+    "https://tl.ctcdn.com.br/nAjTO4A8ZLcDakX0FPHLGuYCjDc=/1200x675/smart/filters:format(webp):quality(85)/d4f4f7f2-4951-41b7-b688-6098b9b96991.png",
+    "https://tl.ctcdn.com.br/fq8FxROGPd3kY47_gVWseETl-UI=/640x360/smart/filters:format(webp"
+   ],
+   "videos": [],
+   "keywords": [
+    "Xbox",
+    "Series",
+    "X"
+   ],
+   "searches": [
+    "xbox series x",
+    "xbox series x vs ps5",
+    "xbox series x unboxing",
+    "xbox series x vs ps5 pro",
+    "xbox series x gameplay",
+    "xbox series x ou ps5"
+   ]
+  },
+  {
+   "id": "comprasblackfridaykabumasmelhoresofertas",
+   "title": "Black Friday KaBuM!: as melhores ofertas",
+   "source": "TecMundo",
+   "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-kabum-as-melhores-ofertas/",
+   "published": "2026-11-27T19:07:00+00:00",
+   "summary": "",
+   "score": 5.51,
+   "why": [
+    "2 sites cobrindo"
    ],
    "also_in": [
     {
@@ -181,8 +438,24 @@
      "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-mercado-livre-as-melhores-ofertas/"
     },
     {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/amazon-revela-itens-mais-vendidos-antes-da-black-friday-confira/"
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/amazon-black-friday-2026-ember-mug-apple-airpods-everyday-desk-home-office-deals/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/best-black-friday-deals-2026/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-tv-deals-oled-qled-lg-samsung/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/black-friday-breville-kitchen-appliance-deals-smart-oven-espresso-machines/"
+    },
+    {
+     "source": "Popsci",
+     "url": "https://www.popsci.com/gear/gear-best-walmart-black-friday-deals/"
     },
     {
      "source": "Popsci",
@@ -199,248 +472,114 @@
     {
      "source": "Popsci",
      "url": "https://www.popsci.com/gear/best-dewalt-black-friday-deals/"
-    },
-    {
-     "source": "Forbes",
-     "url": "https://forbes.com.br/forbes-money/2026/11/black-friday-2026-endividamento-freia-consumo-mas-ia-e-regra-do-pix-ajudam-a-achar-ofertas-reais/"
     }
    ],
-   "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAT1109BK-TWS.avif",
-   "text": "# Do TWS barato ao over-ear com ANC: os melhores fones da Black Friday\n\nRedação Olhar Digital\n·\nAtualizado em 27/11/2026\n\nCompartilhe:\n\n[](whatsapp://send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Whatsapp\")[](https://api.whatsapp.com/send?text=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Whatsapp Web\")[](https://www.instagram.com/olhardigital \"Olhar Digital no Instagram\")[](https://www.facebook.com/dialog/share?app_id=1882213598731962&display=popup&href=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F \"Compartilhar no Facebook\")[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F&title=Do+TWS+barato+ao+over-ear+com+ANC%3A+os+melhores+fones+da+Black+Friday%20-%20Olhar%20Digital&source=Olhar%20Digital \"Compartilhar no Linkedin\")[](https://t.me/share/url?url=https%3A%2F%2Folhardigital.com.br%2F2026%2F11%2F27%2Freviews%2Ffones-bluetooth-black-friday-ofertas-por-faixa-de-preco%2F&text=Do+TWS+barato+ao+over-ear+com+ANC%3A+os+melhores+fones+da+Black+Friday%20-%20Olhar%20Digital&to= \"Compartilhar no Telegram\")[](mailto://?subject=Gostaria%20de%20compartilhar%20este%20link%20do%20Olhar%20Digital%20com%20voc%C3%AA&body=https://olhardigital.com.br/2026/11/27/reviews/fones-bluetooth-black-friday-ofertas-por-faixa-de-preco/ \"Compartilhar por email\")\n\nPrefira o OD no Google\n\nSe você quer trocar ou estrear um **fone de ouvido Bluetooth** aproveitando a **Black Friday 2026**, separamos oito modelos em promoção — do TWS mais barato que entrega o essencial ao headphone over-ear com cancelamento de ruído. Para facilitar sua escolha, organizamos por faixa de preço, com índice de atalhos no topo: você clica no modelo da sua faixa e vai direto para o detalhe da oferta. Entre os destaques estão o **Philips TAT1109BK**, o **Huawei FreeBuds SE 2**, o **Soundcore P20i**, o **JBL Tune 530BT**, o **Soundcore P30i** com ANC, o **Samsung Galaxy Buds Core** e o **JBL Tune 780NC**.\n\n## Índice rápido: pule direto para a sua faixa\n\n- Até R$ 120 — TWS e over-ear de entrada\n  - Philips Fone de Ouvido Sem Fio TWS TAT1109BK\n  - Philips Headphone Bluetooth Over-Ear TAH2300BK/00\n  - Huawei FreeBuds SE 2\n  - Soundcore P20i da Anker — TWS com graves reforçados\n- Até R$ 250 — intermediários com ANC entrando na conversa\n  - JBL Tune 530BT Over-Ear\n  - Soundcore P30i da Anker — TWS com ANC\n  - Samsung Galaxy Buds Core\n- Acima de R$ 250 — premium com cancelamento de ruído\n  - JBL Tune 780NC Over-Ear com ANC\n- Como escolher seu fone de ouvido Bluetooth\n- Perguntas frequentes\n\n## Até R$ 120 — TWS e over-ear de entrada\n\n### Philips Fone de Ouvido Sem Fio TWS TAT1109BK\n\nEssa é a porta de entrada ideal para quem quer um TWS confiável sem gastar muito. O Philips TAT1109BK traz Bluetooth estável e microfone embutido para chamadas, além de autonomia de até 24 horas com o estojo — bastante para uma semana de uso rotineiro sem precisar carregar.\n\n- Formato intra-auricular (TWS)\n- Bluetooth com microfone integrado para chamadas\n- Autonomia de até 24 horas com o estojo de recarga\n- Comandos de toque em cada fone\n- Design compacto, com estojo de bolso\n\nPhilips TAT1109BK TWS\n\nR$ 144,00R$ 89,00\n\nAmazon\n\nIr à loja\n\n### Philips Headphone Bluetooth Over-Ear TAH2300BK/00\n\nPara quem prefere o formato over-ear (que fecha sobre a orelha) e busca autonomia estendida, este Philips entrega impressionantes 55 horas de bateria por menos de R$ 110. Ideal para quem passa o dia inteiro com o fone na cabeça ou vive esquecendo o cabo de carga no trabalho.\n\n- Formato over-ear com almofadas acolchoadas\n- Bluetooth com microfone integrado\n- Autonomia de até 55 horas\n- Design dobrável para transporte\n- Controles no próprio fone\n\nPhilips TAH2300BK/00\n\nR$ 149,00R$ 105,00\n\nAmazon\n\nIr à loja\n\n### Huawei FreeBuds SE 2\n\nUma das promoções mais agressivas da categoria: o FreeBuds SE 2 chega com mais de 50% de desconto no preço à vista. É um TWS compacto, confortável para uso prolongado, com bateria de até 40 horas junto do estojo. Ótima opção para quem quer a experiência da Huawei por um preço bem acessível.\n\n- Formato intra-auricular (TWS)\n- Bluetooth 5.3 com baixa latência\n- Autonomia de até 40 horas com estojo\n- Resistência à água (IP54)\n- Design compacto e leve\n\nHuawei FreeBuds SE 2\n\nR$ 239,00R$ 113,05\n\nAmazon\n\nIr à loja\n\n### Soundcore P20i da Anker — TWS com graves reforçados\n\nA linha Soundcore da Anker é referência em custo-benefício, e o P20i vem com desconto de mais da metade do preço original. Traz o modo BassUp para graves potentes, drivers de 10mm e 2 microfones com IA para chamadas claras. Com certificação IPX5, aguenta chuva e suor para quem usa na academia.\n\n- Formato intra-auricular (TWS)\n- Bluetooth 5.3 e drivers de 10 mm\n- Autonomia de até 30 horas com estojo\n- Resistência à água IPX5 para exercícios\n- 2 microfones com IA para chamadas\n- Personalização de som via app Soundcore\n\nSoundcore P20i da Anker\n\nR$ 249,00R$ 114,00\n\nAmazon\n\nIr à loja\n\n## Até R$ 250 — intermediários com ANC entrando na conversa\n\n### JBL Tune 530BT Over-Ear\n\nUm dos over-ear mais queridos da JBL, agora com desconto de 45% à vista. Tem a assinatura Pure Bass JBL, autonomia muito longa (até 57 horas) e peso leve para uso prolongado. Dobrável para caber na mochila, é ótimo para quem usa no trajeto diário.\n\n- Formato over-ear dobrável\n- Assinatura sonora JBL Pure Bass\n- Autonomia de até 57 horas\n- Carregamento rápido (5 min = 3h de música)\n- Microfone embutido para chamadas\n- Multiponto: conexão simultânea com dois dispositivos\n\nJBL Tune 530BT Over-Ear\n\nR$ 299,00R$ 163,30\n\nAmazon\n\nIr à loja\n\n### Soundcore P30i da Anker — TWS com ANC\n\nPara quem quer cancelamento ativo de ruído sem pagar o preço de um flagship, o P30i é um dos melhores custo-benefício do mercado. Traz ANC adaptativo que silencia o entorno em viagens e no transporte público, Bluetooth 5.4, drivers de 12mm com graves encorpados e autonomia de até 45 horas.\n\n- Formato intra-auricular (TWS) com ANC ativo\n- Bluetooth 5.4 com baixa latência\n- Drivers de 12 mm com som personalizável\n- Autonomia de até 45 horas com estojo\n- Resistência à água IPX5\n- Microfones com redução de ruído para chamadas\n\nSoundcore P30i Anker\n\nR$ 369,00R$ 179,55\n\nAmazon\n\nIr à loja\n\n### Samsung Galaxy Buds Core\n\nO TWS da Samsung também entra na Black Friday com mais de 38% de desconto. Oferece som equilibrado, encaixe confortável para uso prolongado e integração natural com dispositivos Galaxy (embora funcione normalmente em qualquer Android ou iPhone). Boa opção para quem já está no ecossistema Samsung.\n\n- Formato intra-auricular (TWS)\n- Bluetooth com integração natural com Galaxy\n- Microfones para chamadas em qualidade clara\n- Controles por toque personalizáveis via app Galaxy Wearable\n- Autonomia confortável para uso diário com estojo de recarga\n\nSamsung Galaxy Buds Core\n\nR$ 349,00R$ 214,37\n\nMercado Livre\n\nIr à loja\n\n## Acima de R$ 250 — premium com cancelamento de ruído\n\n### JBL Tune 780NC Over-Ear com ANC\n\nO topo da lista traz o JBL Tune 780NC, o over-ear ANC da linha Tune que combina cancelamento ativo de ruído, autonomia impressionante de 76 horas (ou 50h com ANC ligado) e o som assinatura Pure Bass. Para quem gosta de headphone fechado em viagens longas, trabalha em escritório barulhento ou precisa de concentração, é um dos melhores custo-benefício com ANC do mercado.\n\n- Formato over-ear fechado com ANC adaptativo\n- Autonomia de até 76 horas (até 50h com ANC)\n- Assinatura sonora JBL Pure Bass\n- Carregamento rápido (5 min = 3h de música)\n- Multiponto: conexão simultânea com dois dispositivos\n- Microfone embutido com cancelamento de ruído para chamadas\n\nJBL Tune 780NC Over-Ear ANC\n\nR$ 499,00R$ 348,84\n\nMercado Livre\n\nIr à loja\n\n## Como escolher seu fone de ouvido Bluetooth\n\nO primeiro ponto é definir o formato: **TWS** (intra-auricular sem fio, cada fone separado) é mais discreto e combina bem com academia e uso em movimento; **over-ear** (que cobre a orelha) oferece isolamento acústico natural, mais graves e mais conforto em uso prolongado. Para esportes, confira a certificação de resistência à água — IPX4 aguenta suor, IPX5 e superiores aguentam chuva e enxágue.\n\nSe você usa fone em ambientes barulhentos (ônibus, metrô, escritório aberto, avião), vale pagar pelo **cancelamento ativo de ruído (ANC)**, que silencia o entorno em tempo real. Para chamadas, verifique o número de microfones e se o modelo tem supressão de ruído na captação. Autonomia da bateria é outro diferencial: TWS entregam entre 20 e 45 horas com estojo; over-ear modernos vão de 50 a 80 horas.\n\n## Perguntas frequentes\n\n**Qual a diferença entre ANC e isolamento passivo?**\n\nO isolamento passivo é o abafamento físico que as almofadas ou as pontas de silicone fazem. O ANC (cancelamento ativo) usa microfones e processamento para gerar ondas que anulam o som externo — silencia o constante barulho de motor, ar-condicionado e multidão. Over-ear com ANC entrega o silêncio mais completo.\n\n**Vale a pena comprar um fone TWS mais barato?**\n\nSim, para uso casual ou como segundo par. A partir de R$ 90-120 já é possível ter conexão estável, microfone para chamadas e boa autonomia. Para áudio crítico (música em alta fidelidade, uso profissional), prefira modelos acima de R$ 300 com codecs de áudio avançados.\n\n**Qual Bluetooth é melhor: 5.3 ou 5.4?**\n\nO Bluetooth 5.4 traz melhorias em latência e eficiência energética, mas na prática o 5.3 ainda atende muito bem para música e chamadas. Mais importante é a qualidade do chipset e os codecs suportados (SBC, AAC e, em modelos premium, LDAC ou aptX).\n\nOs preços e a disponibilidade são atualizados conforme a loja e podem mudar sem aviso.\n\n_**Aviso:** esta página contém links de afiliados. Ao comprar através deles, o Olhar Digital pode receber uma comissão, sem custo adicional para você. Os preços e a disponibilidade são atualizados conforme a loja e podem mudar sem aviso._\n\nTags: produtos\n\n## Veja também\n\n\\\\\n**Do RTX 3050 ao RTX 5070: os melhores notebooks gamers da Black Friday** Guia de Compra \\\\\n**De R$ 839 a R$ 5.499: qual Smart TV comprar na Black Friday** Guia de Compra \\\\\n**Galaxy S25 Ultra com 54% off: as maiores promoções de celulares** Guia de Compra",
+   "image": "https://www.estadao.com.br/resizer/v2/MB6P6CW5QROZNIAY5NEW3UO3CM.png?quality=80&auth=6e5ba5ce9269649d7b511cc29508c1b1a09aa93d0967c5cc0a5e6036a8f1e09b&width=710",
+   "text": "Home Estadão\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nRádio Eldorado Em Alta Opinião - Colunas do dia \nEntrar\n\nTecMundo Jornal do Carro E-Investidor Pulsa Paladar Descubra Assine\n\nHoje TecMundo JC E-Investidor Pulsa Paladar Descubra Assine\n\nHome - Guia de compras\n\nPor Redação TecMundo\n\n27/11/2026 \\| 16h07\n\nNotícia de presente\n\nA **Black das Blacks do Kabum** está no ar com descontos expressivos e frete grátis para **renovar o setup** e equipar espaço de trabalho, estudos ou jogos sem estourar o orçamento.\n\nPara deixar os itens ainda mais baratos, há página de cupons do KaBuM! com várias oportunidades em placas de vídeo, consoles, notebooks e outros itens, mas por tempo limitado.\n\nCredibilidade que cabe no bolso:\n\nAcesso ilimitado com 95% OFF\n\nGaranta 95% OFF na sua assinatura antes que a oferta termine.\n\nASSINE O ESTADÃO\n\nCancele quando quiser\n\n### Destaques da Black Friday no KaBuM!\n\nRobô aspirador Smart K800 Pro é um dos destaques entre as ofertas de BF deste ano no Kabum. (Imagem: Kabum/Reprodução) Foto: Kabum/Reprodução\n\nConfira agora as **melhores ofertas da Black Friday do KaBuM!**, com processadores e memórias RAM e até MacBooks a preços bem mais em conta:\n\n01. Processador Intel Core Ultra 5 250KF, 4.2GHz por R$ 1.149,99\n02. Processador AMD Ryzen 7 5700, 3.7 GHz por R$ 839,99\n03. Memória RAM SQUAD Pace, 8GB, 1600MHz, DDR3, CL11 por R$ 106,99\n04. Ar Condicionado Portátil KABUM! smart 100 por R$ 1.799,99\n05. Climatizador de Ar Philco PCL05A, Frio, 5 Litros por R$ 299,99\n06. Robô Aspirador KABUM! smart K800 Pro por R$ 1.139,99\n07. Memória XPG Spectrix D35G, 8GB, RGB, DDR4, 3200 Mhz, CL16 por R$ 492,99\n08. MacBook Neo Apple 13″ Chip A18 Pro, 256GB por R$ 5.999,99\n09. Fonte MSI MAG BN65A, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo por R$ 249,99\n10. Memória XPG Spectrix D35G, 8GB, RGB, DDR4, 3200 Mhz, CL16 por R$ 492,99\n11. Controle DualSense PlayStation 5, Starlight Blue por R$ 371,07\n12. Placa-Mãe Gigabyte B550M Aorus Elite Rev. 1.3, AMD AM4, Micro ATX, DDR4 por R$ 649,99\n13. Placa De Vídeo Husky Alpha RX 580, AMD, 8GB, GDDR5, 256-Bit por R$ 739,49 com o cupom ZAFADINHO13\n14. SSD Kingston NV3, 1TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 6000 MB/s, Gravação: 4000 MB/s por R$ 999,99\n15. Teclado Mecânico Gamer Machenike K500B-B87, Switch Brown, Abnt por R$ 89,99\n\nAproveite esta chance, acesse os links acima e garanta seus eletrônicos, periféricos e acessórios mais baratos com as **ofertas de Black Friday do KaBuM!**. Mas corra: os descontos de BF são por tempo limitado.\n\n! **Conteúdo**\n\nEssa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links.\n\nReiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores.\n\n! **Sobre as promoções**\n\nSempre verifique códigos e descontos. Lojas e marcas podem alterar ou encerrar ofertas a qualquer momento.\n\nCompartilhar\n\nSiga nas redes\n\nSiga o Estadão no Google\n\nEncontrou algum erro? Entre em contato\n\nTudo sobre\n\n- Kabum!\n- Black Friday\n\n0 Comentário\n\n10 debatedores online10 online\n\n‌\n\n‌\n\n‌\n\n‌\n\n‌\n\nGostaria de dar sua opinião sobre este artigo?\n\n### Ofertas\n\n- \\\\\n\\\\\nCooktop de indução Philco PCT05IFP, 5 bocas\\\\\n\\\\\nR$ 2.399,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nMáquina de lavar Philco PLR12A, 12Kg\\\\\n\\\\\nR$ 2.559,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nAr-Condicionado LG Dual Inverter AI VOICE, 9.000 BTUs\\\\\n\\\\\nR$ 2.399,00\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 100LG\n- \\\\\n\\\\\n3 meses grátis de Amazon Music\\\\\n\\\\\nAssinatura · Amazon Music\\\\\n\\\\* Experimente por 90 dias o Amazon Music e confira os últimos lançamentos!\\\\\n\\\\\nGRÁTIS AQUI\n- \\\\\n\\\\\nSmart TV LG 48\" OLED evo AI 4K C648\\\\\n\\\\\nR$ 6.159,00\\\\\n\\\\\nSmart TVs · LG BR\\\\\n\\\\* 12% OFF no Pix + 10% extras com cupom LGESTADAO10\n- \\\\\n\\\\\nAspirador Robô Philco PAS29A\\\\\n\\\\\nR$ 649,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nGeladeira LG Duplex Inverter, 476L\\\\\n\\\\\nR$ 3.329,10\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Magazine Luiza\\\\\n\\\\* Aplique o cupom 150LG\n- \\\\\n\\\\\nSmart Speaker Echo Dot\\\\\n\\\\\nR$ 259,00 no PixPreço anterior ~~R$ 649,00~~ Preço R$ 289,00-55%\\\\\n\\\\\nCasa Inteligente · Amazon\\\\\n\\\\* Aplique o cupom PRIMEDOT5\n- \\\\\n\\\\\nFrigobar Philco PFGE01, 68L\\\\\n\\\\\nR$ 809,90\\\\\n\\\\\nEletrodomésticos e Eletroportáteis · Philco\n- \\\\\n\\\\\nBundle Nintendo Switch 2 + EA Sports FC 27\\\\\n\\\\\nPreço anterior ~~R$ 4.699,90~~ Preço R$ 3.999,90-15%\\\\\n\\\\\nGamer · Amazon\n\n‹›\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nLoading...Loading...\n\nVeja mais\n\nMais lidas\n\n1.\\\\\n\\\\\nApple, Samsung e Xiaomi devem cortar produção de celulares para 2027 2.\\\\\n\\\\\nPornô gerado por IA: entenda os perigos por trás do DeepNude 3.\\\\\n\\\\\nCupom Booking Black Friday \\| 15% off - Novembro 2026 4.\\\\\n\\\\\nFigurinhas do WhatsApp com áudio chegam também ao iPhone 5.\\\\\n\\\\\nBanco de dados desprotegido expõe quase 2 bilhões de senhas na internet\n\nHoje\n\nEm Alta\n\nOpinião\n\nDescubra",
    "text_source": "firecrawl",
    "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/black-friday-fones-scaled.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAT1109BK-TWS.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Philips-TAH2300BK00.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Huawei-FreeBuds-SE-2.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Soundcore-P20i-da-Anker.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/JBL-Tune-530BT-Over-Ear.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Soundcore-P30i-Anker.avif",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Samsung-Galaxy-Buds-Core-1.webp",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/JBL-Tune-780NC-Over-Ear-ANC.webp",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/notebooks-gamer-300x134.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/smart-tvs-black-friday-300x123.jpg",
-    "https://img.odcdn.com.br/wp-content/uploads/2026/11/Samsung-Galaxy-S25-Ultra-5g-300x169.png"
+    "https://www.estadao.com.br/resizer/v2/MB6P6CW5QROZNIAY5NEW3UO3CM.png?quality=80&auth=6e5ba5ce9269649d7b511cc29508c1b1a09aa93d0967c5cc0a5e6036a8f1e09b&width=710",
+    "https://www.estadao.com.br/resizer/v2/OFU7KWJW5JEUVKSUUUCP7PC624.jpg?quality=80&auth=5b04e3d2ce30374b7ffd8a70a6348cd714644eeaa7bb4fdf743fbbf0b51a7f28&width=1200&height=630&smart=true",
+    "https://www.estadao.com.br/resizer/v2/IT3AP4MEDZJGXLPMPMNMYXVWBA.png?quality=80&auth=1b971b5e1daa208acc264413bcbe9ffb3717fc92b7c206712417f9ef9b6f7bce&width=60&height=60&smart=true",
+    "https://assets.estadao.com.br/pw/img/selo-news-friday-ultima-chance-banner.png",
+    "https://www.estadao.com.br/resizer/v2/MB6P6CW5QROZNIAY5NEW3UO3CM.png?quality=80&auth=6e5ba5ce9269649d7b511cc29508c1b1a09aa93d0967c5cc0a5e6036a8f1e09b&width=1200",
+    "https://e-afiliacao.estadao.com.br/storage/products/37108d0bff0cb815b4539b22524aa55b63ec258ec9f4aea7a68caa0dd108f739.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/e57db2c9ec9f44ea0d4658869535729b8870e9665cc35954872e66e0e8a12252.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3fa4eef298f5771cb02e4c30e6ce810e9ad464b1cb2aff8e2a59624a811e5abf.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/2feb78deefec1211fb4a4558549c993142be5a3b8bc832d865384e778005bfd4.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/3d384b72b0d70d7b2a8c85bb335187b01146e1b6e859001e3e766dd941ffd4a4.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/6dbbef1f98bdf05648f89d7ab2b103167e4baa082dafc99fa27e6cb1868974ac.jpg",
+    "https://e-afiliacao.estadao.com.br/storage/products/20ba7f65ce88ea67e6dc90cdb869c02f02e562f16599a1a0b31b92623dbde5ef.png",
+    "https://m.media-amazon.com/images/I/515WXCl5jJL._SL500_.jpg"
    ],
    "videos": [],
    "keywords": [
-    "TWS",
-    "ANC",
-    "Black"
-   ],
-   "searches": [
-    "tws marshall motif ii anc black",
-    "anc black tws earbuds",
-    "tws anc",
-    "tws 2023",
-    "tws anc enc"
-   ]
-  },
-  {
-   "id": "centivacolaboradoresaparticipardeironman",
-   "title": "CEO Incentiva Colaboradores a Participar de Iron Man",
-   "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-life/forbes-sport/2026/11/ceo-incentiva-colaboradores-a-participar-de-iron-man/",
-   "published": "2026-11-27T16:53:37+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresa de Belo Horizonte vai pagar toda estrutura de treinamento e flexibilizar escala de trabalho O post CEO Incentiva Colaboradores a Participar de Iron Man apareceu primeiro em Forbes Brasil .",
-   "score": 9.05,
-   "why": [
-    "Em alta no Google: belo horizonte"
-   ],
-   "also_in": [],
-   "image": "",
-   "text": "1. Início\n/3. Forbes Life\n/5. Forbes Sports\n/7. CEO Incentiva Colaboradores a Participar de Iron Man\n\nBuda Mendes / Equipe/Getty ImagesO Iron man reúne natação, ciclismo e corrida em uma das provas de resistência mais desafiadoras do esporte\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nUma empresa do ramo de proteção veicular de Belo Horizonte preparou uma estratégia inovadora para incentivar funcionários a participar de um **Iron Man**, uma das mais desafiadoras provas esportivas, que reúne natação, ciclismo e corrida. Com um detalhes: nenhum deles é atleta ou treina regularmente e alguns nem sequer sabem nadar.\n\nA ideia partiu de **Rodrigo Felipe, CEO da Prime Results**, empresa do ramo de proteção veicular. Ele é triatleta amador com mais de 30 provas no currículo, e pretende incentivar seus funcionários a praticarem a modalidade.\n\nA empresa abriu um programa de inscrições voluntárias e de um grupo inicial de 20, selecionou dez, cinco homens e cinco mulheres. Eles têm entre 26 e 34 e terão acompanhamento de triatletas profissionais, nutricionistas e médicos, tudo bancado pela empresa, com flexibilização de jornada de trabalho para facilitar os treinamentos.\n\nO projeto está integrado ao departamento de recursos humanos da empresa, mas não tem relação com desempenho profissional. O objetivo é promover saúde, esporte e bem-estar.\n\nO **Iron Man 70.3 de Florianópolis** será disputado em 24 de outubro do próximo ano, em Jurerê Internacional. As distâncias serão 1,9 km de natação, e 21,1 km de corrida.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Iron Man\n- Maurício Noriega\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Mulheres Chegam a 46% com Pós-graduação e 91% de Propriedade no Agro. Veja os Destaques do AgroRound**\n- \\\\\n\\\\\n**“Sabe Ouvir”: Entidades e Mercado Destacam Diálogo de Trabuco Ao Chegar À Fazenda**\n- \\\\\n\\\\\n**Dólar em Queda: Especialistas Comentam Trajetória do Câmbio com Escolha de Trabuco**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOForbes Radio",
-   "text_source": "firecrawl",
-   "images": [
-    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-tamanho-site-1920x1080-2026-11-27T134246.743-1200x675.png",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-tamanho-site-1920x1080-2026-11-27T134246.743-860x484.png",
-    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
-    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/agro_agroround_capa_27.11.2026-300x200.webp",
-    "https://forbes.com.br/wp-content/uploads/2026/11/money_trabuco_26.11.2026-300x200.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/ForbesMoneyNovoTamanhoSite1920x1080-16-300x200.png",
-    "https://forbes.com.br/wp-content/uploads/2026/10/146_CAPA_miniatura-225x300.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/09/145_CAPA-miniatura-225x300.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/capa-revista-edicao-144-225x300.jpeg",
-    "https://forbes.com.br/wp-content/uploads/2026/07/143_CAPA_miniatura-225x300.png"
-   ],
-   "videos": [],
-   "keywords": [
-    "Incentiva",
-    "Colaboradores",
-    "Participar"
-   ],
-   "searches": []
-  },
-  {
-   "id": "blackfridaybestcheaptechdealsunder302026",
-   "title": "Here are the best Black Friday deals you can grab for $30 or less",
-   "source": "The Verge",
-   "url": "https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026",
-   "published": "2026-11-27T16:41:19+00:00",
-   "summary": "What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You […]",
-   "score": 8.88,
-   "why": [
-    "3 sites cobrindo"
-   ],
-   "also_in": [
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas"
-    },
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026"
-    },
-    {
-     "source": "The Verge",
-     "url": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale"
-    },
-    {
-     "source": "Ars Technica",
-     "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/black-friday-tv-deals-oled-qled-lg-samsung/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/black-friday-breville-kitchen-appliance-deals-smart-oven-espresso-machines/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/gear-best-walmart-black-friday-deals/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-black-friday-power-tool-deals/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-black-friday-deals-2026/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/black-friday-cordless-yard-tool-deals/"
-    },
-    {
-     "source": "Popsci",
-     "url": "https://www.popsci.com/gear/best-home-depot-power-tool-black-friday-deals-2026/"
-    }
-   ],
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "text": "Skip to main content\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe Sign In\n\nThe homepageThe VergeThe Verge logo.\n\nSubscribe\n\nNotifications\n\nNotifications\n\nHamburger Navigation Button\n\nNavigation Drawer\n\nThe VergeThe Verge logo.\n\n- Login\n/\nSign Up\n\ncloseClose\n\nSearch\n\nLightSystemDark\n\nSubscribe\n\n- Facebook\n- Threads\n- Instagram\n- Youtube\n- RSS\n\nComments Drawer\n\nNotifications\n\nComments\n\n- Gadgets\n\n- Verge Shopping\n\n- Black Friday\n\n# Here are the best Black Friday deals you can grab for $30 or less\n\nFrom smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget.\n\nFrom smart plugs to noise-canceling earbuds, there’s plenty of discounted tech for those on a tighter budget.\n\nbySheena Vasani\n\nNov 27, 2026, 12:30 PM EST\n\n- Link\n\n- Share\n\nComments00Comments\n\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\n\nPart Of\\\\\n\\\\\nThe Verge’s guide to Black Friday 2026\\\\\n\\\\\nsee all\n\n[](https://www.theverge.com/authors/sheena-vasani)\n\nSheena Vasaniwrites about tech news, reviews gadgets, and helps readers save money by highlighting deals and product recommendations for _The Verge_.\n\nWhat can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You can also grab a decent pair of ANC-equipped earbuds for under $20, or spend even less on a clever set of rechargeable AA batteries. And it’s not just gadgets that are on sale: you can even sign up for a year of Disney Plus and Hulu for $4.99 ($8 off) a month.\n\n### Related\n\n- The absolute best Black Friday deals we’ve found (so far)\n- The Verge’s guide to affordable holiday gifts under $25\n\n## Add Verge on Google\n\nAdd Verge as a preferred source to see more of our reporting on Google.\n\nAdd us on Google\n\nBelow, we’ve rounded up the best Black Friday deals for $30 or less, from charging accessories and smart home tech to earbuds, streaming subscriptions, games, and more. Whether you’re looking for practical stocking stuffers or want to treat yourself without spending too much, these are the deals that won’t put a (huge) dent in your wallet.\n\n* * *\n\n[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__875308________________google.com)[](https://www.amazon.com/dp/B0GJTFXNRX?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__875308________________google.com)\n\n### Apple AirTag (second-gen)\n\n$18$2938% off\n\n$18\n\nApple’s latest AirTags feature an upgraded ultra-wideband chip for more precise location tracking, a noticeably louder speaker, and an expanded Bluetooth range. Read our review.\n\n$18 at Amazon $18 at Walmart $18 at Best Buy\n\n[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1039645__909793__n______________google.com)[](https://go.skimresources.com/?id=87443X1797501&xs=1&url=https%3A%2F%2Fwww.switch-bot.com%2Fproducts%2Fswitchbot-bot-rechargeable&xcust=__vg1127awD__1039645__909793__n______________google.com)\n\n### SwitchBot Bot Rechargeable\n\n$24$3429% off\n\n$24\n\nDo you ever wish you could turn on your coffee maker or hit the light switch without getting up? The SwitchBot Bot lets you do that. All you need to do is stick the inexpensive contraption on a standard button or rocker switch, which will allow you to control or schedule your pet feeder, garage door, and a wide range of other devices from your smartphone.\n\n$24 at Amazon (white) $24 at SwitchBot (with code BFCMX30) $24 at Amazon (black)\n\n[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1039645][626982][n][][][][][][][google.com])[](https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.hulu.com%2Fstart&subId2=[vg1127awD][1039645][626982][n][][][][][][][google.com])\n\n### Disney Plus, Hulu Bundle\n\n$5$1362% off\n\n$5\n\nYou can get an ad-supported Disney Plus and Hulu bundle for $4.99 a month ($8 off) for an entire year. Both streaming services feature a deep catalog of new and classic TV shows and movies, including _The Simpsons_, _Andor_, _Toy Story 5_, and _The Fantastic Four: First Steps_.\n\n$5 at Hulu (ad-supported, monthly) $15 at Hulu (ad-free, monthly)\n\n[](https://www.amazon.com/dp/B0GSCZJ6HK?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954836________________google.com)[](https://www.amazon.com/dp/B0GSCZJ6HK?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954836________________google.com)\n\n### Zepath USB-C Li-ion AA Batteries\n\n$16$2020% off\n\n$16\n\nRechargeable AA batteries are handy until it’s time to charge them. Most wall chargers let you refill four, maybe six, at once. Zepath’s clever solution is to ship them in an easy-to-use USB-C charging case that charges eight simultaneously. The batteries themselves are long-lasting, too.\n\n$16 at Amazon (8-pack, 3000mWh) $24 at Amazon (12-pack, 3000mWh)\n\n[](https://www.amazon.com/gp/product/B0BLMQ8BXB/ref=ewc_pr_img_1?smid=A2ZXT6R0FR7K6V&psc=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__807249________________google.com)[](https://www.amazon.com/gp/product/B0BLMQ8BXB/ref=ewc_pr_img_1?smid=A2ZXT6R0FR7K6V&psc=1&tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__807249________________google.com)\n\n### Hoto 3.6V Electric Screwdriver Kit Pro\n\n$28$5044% off\n\n$28\n\nHoto’s rechargeable screwdriver is ideal for small repairs. It offers three torque modes, a rotational speed of up to 220RPM, and a helpful circular LED to illuminate dark spaces. The durable case also holds all 25 steel bits and an extension bar for getting into hard-to-reach places.\n\n$28 at Amazon $28 at Walmart\n\n[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)[](https://www.hbomax.com/?utm_id=sa%7C22341445177%7C177853044913%7C791169408881&gclsrc=aw.ds&gad_source=1&gad_campaignid=22341445177&gbraid=0AAAAApH9fnqw-yvB4X4pbHPI_tF1Ou5xU&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7ZaY9oEJ3vQkhHdoRe8uoRdEkONNSklTqLSBaNQffa5EyGRBkw_YAhoC978QAvD_BwE)\n\n### HBO Max\n\n$5$1155% off\n\n$5\n\nAn HBO Max Basic subscription provides access to shows like _A Knight of the Seven Kingdoms, The Last of Us, and The Pitt_, as well as films like _Superman_ and _Weapons._ You can get a year of the monthly, ad-supported subscription for $5.49 a month (about $6 off) until December 1st.\n\n$5 at HBO Max (monthly, with ads) $79 at HBO Max (annual, basic) $133 at HBO Max (annual, standard)\n\n[](https://www.amazon.com/dp/B0F7Z4QZTT?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__865710________________google.com)[](https://www.amazon.com/dp/B0F7Z4QZTT?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__865710________________google.com)\n\n### Amazon Fire TV Stick 4K Plus\n\n$30$7057% off\n\n$30\n\nAmazon’s last-gen Fire TV Stick 4K Plus streams in 4K and supports Dolby Atmos, Dolby Vision, and Alexa Plus. It also ships with the redesigned Fire OS and, unlike more recent models, still lets you sideload Android TV apps.\n\n$30 at Amazon $30 at Best Buy\n\n[](https://www.amazon.com/LifeStraw-Sip-Stainless-Microplastics-Parasites/dp/B0DKTVV4CJ/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__810917________________google.com)[](https://www.amazon.com/LifeStraw-Sip-Stainless-Microplastics-Parasites/dp/B0DKTVV4CJ/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__810917________________google.com)\n\n### LifeStraw Sip\n\n$24$3531% off\n\n$24\n\nThe original LifeStraw was designed for those heading into the backcountry. The new LifeStraw Sip? Not so much. The reusable steel straw is geared more toward travelers than outdoor enthusiasts, though fortunately it still manages to remove about 99.99 percent of microplastics, bacteria, and parasites from your drinking water.\n\n$24 at Amazon $26 at LifeStraw\n\n[](https://www.amazon.com/TP-Link-Tapo-Compatible-Certified-P125M/dp/B0BNWGZ545?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__1036195________________google.com)[](https://www.amazon.com/TP-Link-Tapo-Compatible-Certified-P125M/dp/B0BNWGZ545?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__1036195________________google.com)\n\n### TP-Link Tapo Matter-Certified Smart Plug Mini\n\n$8$2060% off\n\n$8\n\nTP-Link’s Wi-Fi smart plug lets you remotely control lamps, fans, and other appliances using your phone or voice commands. It supports Matter, so it works with all major smart home platforms to set schedules and timers to automatically turn devices on or off.\n\n$8 at Amazon $15 at Amazon (two-pack)\n\n[](https://www.amazon.com/dp/B0F2M65H3S?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__793712________________google.com)[](https://www.amazon.com/dp/B0F2M65H3S?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__793712________________google.com)\n\n### CMF Buds 2A\n\n$18$4963% off\n\n$18\n\nWith 12.4mm drivers, active noise cancellation, and an IP54 rating, the CMF Buds 2A offer high-end features at an affordable price. You can also customize the sound, adjust ANC levels, and find the earbuds using the Nothing X app.\n\n$18 at Amazon (black) $20 at Amazon (orange) $20 at Amazon (light gray)\n\n[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1039645][667769][n][][][][][][][google.com])[](https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Foffer%2Fblackfriday&subId2=[vg1127awD][1039645][667769][n][][][][][][][google.com])\n\n### Peacock\n\n$3$967% off\n\n$3\n\nPeacock is a great way to catch up on a wealth of content from NBC’s various networks, whether you plan to rewatch _The Office_ or catch up on all things Bravo. A Premium subscription also grants access to films from studios like Universal Pictures and Dreamworks, along with live sports and a host of Peacock Originals.\n\n$3 at Peacock (monthly, Select) $9 at Peacock (monthly, Premium) $30 at Peacock (annual, Select)\n\n[](https://www.amazon.com/Twelve-South-Transmitter-Headphones-Airplanes/dp/B0BQZBMXD4/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__2411________________google.com)[](https://www.amazon.com/Twelve-South-Transmitter-Headphones-Airplanes/dp/B0BQZBMXD4/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__2411________________google.com)\n\n### Twelve South AirFly SE\n\n$26$3526% off\n\n$26\n\nTwelve South’s entry-level Bluetooth transmitter delivers up to 25 hours of continuous use and lets you connect up to two pairs of headphones to an in-flight entertainment system, making it a great travel companion no matter where you’re going.\n\n$26 at Amazon (white) $26 at Amazon (black) $26 at Twelve South\n\n[](https://www.amazon.com/KODAK-Recording-Simulation-Megapixels-Beginners/dp/B0FKBDT8FR/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__863478________________google.com)[](https://www.amazon.com/KODAK-Recording-Simulation-Megapixels-Beginners/dp/B0FKBDT8FR/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__863478________________google.com)\n\n### Kodak Charmera Keychain Digital Camera\n\n$30$3514% off\n\n$30\n\nThe Chamera is not a good camera, but that’s not the point. Kodak’s charming, keychain-friendly tchotchke lets you snap lo-fi memories on a whim, with an ultra-small 1.6-megapixel sensor, a built-in LED flash, and the tiniest amount of storage.\n\n$30 at Amazon $30 at B&H Photo\n\n[](https://www.amazon.com/dp/B0DYK1ZH2D?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__7341________________google.com)[](https://www.amazon.com/dp/B0DYK1ZH2D?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__7341________________google.com)\n\n### Catan (6th Edition)\n\n$25$5555% off\n\n$25\n\nIn _Catan_, up to four players strategically compete and trade for resources. The iconic board game ends when one player reaches 10 “victory points,” which is achieved by constructing a sprawling civilization of roads, settlements, and cities using sheep, ore, wheat, and wood.\n\n$25 at Amazon $25 at Target\n\n[](https://www.amazon.com/Strategy-Placement-Players-Average-Playtime/dp/B077MZ2MPW?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__701122________________google.com)[](https://www.amazon.com/Strategy-Placement-Players-Average-Playtime/dp/B077MZ2MPW?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__701122________________google.com)\n\n### Azul\n\n$22$4045% off\n\n$22\n\n_Azul_ is a game in which you arrange patterned tiles in order to create the most beautiful tapestry possible. Arranging tiles in a strategic sequence will help you build your score while limiting your opponents’ ability to grow theirs.\n\n$22 at Amazon $25 at Target\n\n[](https://store.playstation.com/en-us/product/UP6312-PPSA28038_00-0375433414453693)[](https://store.playstation.com/en-us/product/UP6312-PPSA28038_00-0375433414453693)\n\n### Halo: Campaign Evolved\n\n$30$5040% off\n\n$30\n\n_Halo: Campaign Evolved_ lets you revisit the original _Halo: Combat Evolved_ campaign with better graphics, updated controls, and improved sound. The well-crafted remake also adds three new missions starring Master Chief and Sgt. Johnson, which take place before the main campaign. Read our review.\n\n$30 at PlayStation Store $30 at Steam\n\n[](https://www.amazon.com/dp/B0DT6SS412?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954741________________google.com)[](https://www.amazon.com/dp/B0DT6SS412?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__954741________________google.com)\n\n### Wuben G5 rechargeable flashlight\n\n$18$3040% off\n\n$18\n\nThe Wuben G5 flashlight is as small as a Zippo lighter, yet far more versatile, with a bright, rotatable light that can shine in numerous colors. It features USB-C charging and has an adjustable clip.\n\n$18 at Amazon $20 at Walmart $18 at Wuben\n\n[](https://www.amazon.com/dp/B0CRZ6JJ6D/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__848812________________google.com)[](https://www.amazon.com/dp/B0CRZ6JJ6D/?tag=theverge02-20&ascsubtag=__vg0000zwD__1039645__848812________________google.com)\n\n### Anker 140W 2-in-1 USB-C to USB-C Cable\n\n$14$1822% off\n\n$14\n\nNo one should have to deal with a rat’s nest behind their desk when devices like Anker’s 2-in-1 USB-C cable exist. The handy USB-C cable splits at the end, giving you the ability to charge up to two devices from a single port. That means you can split power between a phone and tablet or juice a 16-inch MacBook Pro to 50 percent in just 20 minutes using a single port.\n\n$14 at Amazon (four-foot) $15 at Amazon (six-foot) $15 at Anker (four-foot)\n\n[](https://www.playstation.com/en-us/games/the-witcher-3-wild-hunt/)[](https://www.playstation.com/en-us/games/the-witcher-3-wild-hunt/)\n\n### The Witcher 3: Wild Hunt Remastered\n\n$20$5060% off\n\n$20\n\n_The Witcher 3_ lets you explore the war-torn Northern Kingdoms as Geralt of Rivia while preparing to face the mysterious Wild Hunt. ",
-   "text_source": "firecrawl",
-   "images": [
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SHEENA_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=96",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0057.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268280_AirTags_2_AKrales_0057.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/switchbotbotrechargeable2.png?quality=90&strip=all&crop=16.611111111111%2C0%2C66.777777777778%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/switchbotbotrechargeable2.png?quality=90&strip=all&crop=0%2C0.083194675540767%2C100%2C99.833610648918&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/acastro_STK061_hulu_03.webp?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=16.659090909091%2C0%2C66.681818181818%2C100&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/usb-aa-sean-hollister-verge-331A1632.jpg?quality=90&strip=all&crop=0%2C0.011361054305837%2C100%2C99.977277891388&w=2400",
-    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/hoto.jpg?quality=90&strip=all&crop=16.666666666667%2C0%2C66.666666666667%2C100&w=2400"
-   ],
-   "videos": [],
-   "keywords": [
-    "Black",
     "Friday",
-    "30"
+    "KaBuM"
    ],
    "searches": [
-    "black friday 30 september",
-    "black friday 30 september 2005",
-    "black friday 3000 coin"
+    "black friday kabum"
    ]
   },
   {
-   "id": "realestate202611imoveisjensenhuangnvidia",
-   "title": "Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia",
-   "source": "Forbes",
-   "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/11/imoveis-jensen-huang-nvidia/",
-   "published": "2026-11-27T08:00:00+00:00",
-   "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A residência mais cara do CEO da Nvidia fica em São Francisco e foi comprada por US$ 38 milhões em 2017, valor equivalente a R$ 218 milhões no câmbio atual O post Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia apareceu primeiro em Forbes Brasil .",
-   "score": 6.04,
+   "id": "esparaomodoiaficarmaisparecidocomogemini",
+   "title": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/internet-e-redes-sociais/google-prepara-novidades-para-o-modo-ia-ficar-mais-parecido-com-o-gemini/",
+   "published": "2026-11-27T20:02:00+00:00",
+   "summary": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini O Google trabalha em três novidades para o Modo IA de seu buscador que já estão presentes no Gemini. A ferramenta ganhará uma biblioteca de conteúdos gerados pela inteligência artificial (IA), além de opções para fixar e renomear conversas no histórico de pesquisas. Os recursos foram identificados pelo portal Android Authorit",
+   "score": 4.56,
    "why": [
-    "2 sites cobrindo",
     "Tema de alto interesse"
    ],
-   "also_in": [
-    {
-     "source": "Techcrunch",
-     "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
-    }
-   ],
-   "image": "https://forbes.com.br/wp-content/uploads/2026/11/gold-coast-Christies-Real-Estate-768x960.webp",
-   "text": "1. Início\n/3. Forbes Money\n/5. Forbes Real Estate\n/7. Quais São os Imóveis de Jensen Huang, CEO e Fundador da Nvidia\n\nGetty Images & Google MapsCEO e fundador da Nvidia tem fortuna estimada em US$ 130 bilhões, mas possui apenas três imóveis que somam menos de US$ 60 milhões — relativamente poucom, se comparado a outros bilionários americanos\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n- Alterar fonte do conteúdo\n- Alterar fonte do conteúdo\n- Aumentar o tamanho do texto\n- Diminuir o tamanho do texto\n\nDiferentemente de outros bilionários, **Jensen Huang** tem uma relação menos estreita com a aquisição de imóveis e o mercado imobiliário de forma geral.\n\nO **fundador e CEO da Nvidia** tem uma fortuna avaliada em US$ 130 bilhões, dos quais apenas 0,04% — cerca de US$ 50 milhões — estão alocados em imóveis. Ou seja, Jensen Huang não coleciona propriedades ao redor do mundo como outros **bilionários**.\n\nOs **imóveis de Jensen Huang** que são mapeados e conhecidos publicamente são apenas três: uma propriedade em Los Altos Hills (Califórnia), perto da sede da empresa, uma **mansão em São Francisco** (Califórnia) e uma **casa pé na areia em Maui** (Havaí).\n\nEle já teve outras duas propriedades em San Jose, na Califórnia, mas ambas foram vendidos.\n\nAbaixo, veja os detalhes sobre seu portfólio de imóveis atual.\n\n## Mansão em São Francisco\n\nChristies Real Estate\n\nA residência mais cara do portfólio de Huang fica na região de **Gold Coast**, em São Francisco.\n\nO fundador da Nvidia pagou US$ 38 milhões pela propriedade em meados de 2017, segundo registros públicos — cifra que equivale a R$ 218 milhões no câmbio atual.\n\nO imóvel tem pouco mais de 1 mil metros quadrados de área construída. A casa foi feita de pedra calcária e levou quase quatro anos para ter sua obra finalizada, segundo Bill Campbell, da incorporadora Marble Management, em entrevista ao The Wall Street Journal.\n\nLocalizada em Pacific Heights, a propriedade tinha a seguinte configuração quando foi colocada no mercado em 2017: sete quartos, cozinha ao ar livre, duas adegas, elevador, sala de cinema e academia.\n\n## A residência oficial de Jensen Huang, em Santa Clara\n\nGoogle Maps\n\nA casa onde o executivo e fundador da Nvidia passa a maior parte do tempo fica em Los Altos Hills, uma vila localizada no estado da Califórnia, no condado de **Santa Clara**.\n\nTrata-se do imóvel que fica mais próximo da **sede da Nvidia**, que também está no condado de Santa Clara. São cerca de 30 quilômetros de distância entre a propriedade de Huang e a sede corporativa.\n\nO imóvel foi comprado recém-construído pelo empresário. A transação foi de US$ 6,9 milhões, em meados de 2003.\n\nSão mais de 650 metros quadrados, com seis quartos distribuídos em dois pavimentos, paisagismo extenso e piscina estilo resort.\n\nO terreno tem mais de quatro mil metros quadrados — que é o piso estabelecido pelas regras de zoneamento da cidade para novas construções residenciais.\n\n## Casa de frente para o mar no Havaí\n\nGoogle Maps\n\nA última propriedade mapeada e com registros públicos do portfólio de Jensen Huang fica em Wailea — um complexo turístico e balneário de alto padrão na costa sudoeste de Maui, no **Havaí**. O local fica a cerca de 35 minutos do Aeroporto de Kahului.\n\nO imóvel de Huang está localizado em um condomínio fechado de frente para o mar, que tem 14 casas no total.\n\nO condomínio se chama **Wailea Resort**, tem 42 mil metros quadrados e é administrado pela CoralTree Residence Collection. Por lá há praias de areia branca, campos de golfe, restaurantes e lojas de luxo. As propriedades têm piscinas, banheiras de hidromassagem, cozinhas equipadas, terraços privativos e serviços de concierge.\n\nCoralTree Residence Collection\n\nA região também conta com hotéis cinco estrelas, três campos de golfe e atrações como a Wailea Beach Path, trilha litorânea de aproximadamente 2,4 km.\n\nOs registros apontam que Huang teria pago entre US$ 7,5 milhões e US$ 7,8 milhões pela propriedade. No entanto, a casa ficou pronta cerca de quatro anos depois da compra, ou seja, o preço pode ter sofrido alguma variação.\n\nO seu imóvel possui mais de 740 metros quadrados e sete quartos no total.\n\nSiga o canal da Forbes no WhatsApp e receba as principais notícias de empreendedorismo, carreira, tecnologia, agro e lifestyle.\n\n#### Acompanhe a Forbes no Google\n\nAdicione a Forbes como fonte preferida no Google e encontre nossas notícias com mais facilidade.\n\nAdicionar a Fontes Preferidas\n\nTópicos\n\n- Bilionários\n- Jensen Huang\n- mercado imobiliário\n- Nvidia\n\n- Compartilhe pelo X\n- Compartilhe pelo Facebook\n- Compartilhe pelo LinkedIn\n- Compartilhe pelo WhatsApp\n- Compartilhe pelo Telegram\n\n**Escolhas do Editor**\n\n- **Elon Musk Tem 2,4 Vezes a Fortuna dos 255 Bilionários Brasileiros Juntos**\n- **Luana Lopes Lara É a Bilionária Self-Made Mais Jovem do Brasil Pela Lista Forbes Bilionários 2026**\n- **Lista Forbes Bilionários Brasileiros 2026 é Destaque da Nova Edição da Revista**\n\n**Últimas Notícias**\n\n- \\\\\n\\\\\n**Oito em Cada Dez Lojistas Esperam Aumentar o Faturamento na Black Friday, Aponta Pesquisa**\n- \\\\\n\\\\\n**“O Atacante Não Está Arrombando a Porta, Está Roubando Credencial”, Diz VP da CrowdStrike**\n- \\\\\n\\\\\n**Do Café “Venenoso” a Referência no Agro Regenerativo no Espírito Santo**\n\nAssine Forbes. Inspire-se, lidere, conquiste.AssinarAo se cadastrar, você concorda com nossa Política de Privacidade e com o uso de seus dados para fins de comunicação.\n\n- [](https://forbes.com.br/listas/2026/10/lista-forbes-agro100-e-destaque-da-nova-edicao-da-forbes-brasil-2/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/09/lista-forbes-melhores-ceos-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/08/lista-forbes-bilionarios-brasileiros-2026-e-destaque-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n- [](https://forbes.com.br/listas/2026/07/lista-forbes-melhores-cios-e-especial-sobre-ia-sao-destaques-da-nova-edicao-da-revista/ \"Faça sua assinatura da revista impressa de Forbes\")\n\n\\\\\n\\\\\nForbes Radio - AO VIVOYOU ARE THE SUNSHINE OF MY LIFEYOU ARE THE SUNSHINE OF MY LIFESTEVIE WONDER",
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/yW9REiEKTE0RqRVvH6ZsEaqJuKE=/1200x675/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
+   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Internet e Redes Sociais\n\n# Google prepara novidades para o Modo IA ficar mais parecido com o Gemini\n\nPor Marcelo Fischer \\| 27/11/2026 às 17:02\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png)Bruno De Blasi/Canaltech\n\nO Google trabalha em três novidades para o Modo IA de seu buscador que já estão presentes no Gemini. A ferramenta ganhará uma biblioteca de conteúdos gerados pela inteligência artificial (IA), além de opções para **fixar e renomear conversas** no histórico de pesquisas.\n\nContinua após a publicidade\n\nOs recursos foram identificados pelo portal Android Authority nesta sexta-feira (27), durante uma análise do código da versão 17.78.14 do aplicativo do Google para Android.\n\nEmbora tenha sido possível ativar as três funcionalidades manualmente, elas ainda não estão disponíveis ao público.\n\n## Modo IA ganhará novas ferramentas de organização\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nA biblioteca ficará localizada no menu lateral do Modo IA e reunirá conteúdos criados pela inteligência artificial, como imagens. O usuário poderá visualizá-los em tela cheia, baixá-los ou compartilhá-los sem precisar acessar as conversas nas quais foram gerados.\n\nO gerenciamento do histórico de pesquisas também ficará mais parecido com o do Gemini. Ao pressionar uma conversa, o usuário terá acesso às opções de fixação e renomeação.\n\nAs conversas fixadas aparecerão no topo do histórico, facilitando o acesso a pesquisas consultadas frequentemente.\n\n## Qual a diferença entre o Modo IA e o Gemini?\n\nEmbora utilizem os modelos de inteligência artificial do Google, as duas ferramentas possuem propostas diferentes.\n\nIntegrado ao buscador, o Modo IA é voltado principalmente à pesquisa de informações na internet. O recurso permite fazer perguntas complementares sobre determinado assunto e apresenta links para as fontes consultadas.\n\nO Gemini, por sua vez, funciona como um assistente de IA, com ferramentas para criação de documentos, programação, geração de imagens e execução de tarefas agendadas.\n\nContinua após a publicidade\n\n## Aplicativo do Google também terá mudanças visuais\n\nO Android Authority identificou alterações nos ícones das abas \"Início\", \"Pesquisa\" e \"Imagens\", localizadas na barra inferior do aplicativo do Google.\n\nAlém de contornos mais arredondados, os ícones terão uma tonalidade mais escura de azul quando estiverem selecionados. A aba de atividades também deverá ser substituída por uma seção chamada \"Você\".\n\nO Google ainda não anunciou oficialmente as novidades nem informou quando elas serão disponibilizadas.\n\nContinua após a publicidade\n\n**Você também confere no Canaltech:** Modo IA vs Visão geral: veja o que muda entre as ferramentas do Google\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-87-1200x675.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Novo-Tamanho-Site-87-860x484.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/gold-coast-Christies-Real-Estate-768x960.webp",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Los-Altos-Hills-google-maps.webp",
-    "https://forbes.com.br/wp-content/uploads/2026/11/da8ab7a256640b5c93aabe67f26fb31d41f90df8.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/RESORT-HAVAI-768x512.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/Novo-Tamanho-Site-2026-08-01T103509.423-1-420x315.png",
-    "https://forbes.com.br/wp-content/uploads/2026/08/luana-lopes-lara-kalshi-1-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/08/bilionarios-2026-420x315.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Larissa-tamanho-site-2026-11-26T170730.269-300x200.png",
-    "https://forbes.com.br/wp-content/uploads/2026/11/Jeferson-Propheta-vice-presidente-da-CrowdStrike-para-a-America-do-Sul-300x200.jpg",
-    "https://forbes.com.br/wp-content/uploads/2026/11/agro_forbes_farmers_Tiago_Camiletti_27.11.2026-300x200.jpg"
+    "https://tl.ctcdn.com.br/yW9REiEKTE0RqRVvH6ZsEaqJuKE=/1200x675/smart/filters:format(webp):quality(85)/f2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png",
+    "https://tl.ctcdn.com.br/hKuAzi0JAdDv42ZPFdHVI0jmg_o=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "São",
-    "Imóveis",
-    "Jensen"
+    "Modo",
+    "IA",
+    "Gemini"
    ],
    "searches": []
   },
   {
-   "id": "remenudemodsemportnaooficialdegta6parapc",
-   "title": "Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC",
+   "id": "appleairtagparavocelocalizarpetseobjetos",
+   "title": "Amazon tem descontão no Apple AirTag para você localizar pets e objetos",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/games/modders-colocam-multiplayer-e-menu-de-mods-em-port-nao-oficial-de-gta-6-para-pc/",
-   "published": "2026-11-27T15:13:00+00:00",
-   "summary": "Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC A emulação de GTA 6 para PC continua e já avançou de ontem para hoje. Os gráficos estão melhores, a taxa de quadros por segundo aumentou e mods já estão em desenvolvimento . A comunidade já adicionou um modo multiplayer, multiplicando os personagens com direito a chat de aproximação . Agora é questão de tempo para o CJ",
-   "score": 5.79,
+   "url": "https://canaltech.com.br/produtos/amazon-tem-descontao-no-apple-airtag-para-voce-localizar-pets-e-objetos/",
+   "published": "2026-11-27T19:24:45+00:00",
+   "summary": "Amazon tem descontão no Apple AirTag para você localizar pets e objetos Perder as chaves antes de sair de casa, passar sufoco com uma mala extraviada no aeroporto ou ficar preocupado com o paradeiro do seu pet são dores de cabeça que ninguém quer enfrentar. Para resolver esse problema de vez, a Black Friday da Amazon derrubou o preço do Apple AirTag de 2ª geração para R$ 278,99 no pagamento via Pi",
+   "score": 4.53,
    "why": [
-    "2 sites cobrindo"
+    "Tema de alto interesse"
    ],
-   "also_in": [
-    {
-     "source": "TecMundo",
-     "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-versao-pirata-estavel-no-pc-e-modders-testam-ate-multiplayer/"
-    }
-   ],
-   "image": "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
-   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Games\n\n# Modders colocam multiplayer e menu de mods em port não oficial de GTA 6 para PC\n\nPor Raphael Giannotti \\| 27/11/2026 às 12:13\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCTUP\n\n:quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg)Reprodução/Rockstar Games\n\nA emulação de GTA 6 para PC continua e já avançou de ontem para hoje. Os gráficos estão melhores, a taxa de quadros por segundo aumentou e **mods já estão em desenvolvimento**. A comunidade já adicionou um **modo multiplayer, multiplicando os personagens com direito a chat de aproximação**. Agora é questão de tempo para o CJ fazer uma ponta não oficial no jogo.\n\nContinua após a publicidade\n\nUm dos principais avanços veio com o ScarlettPort, que se tornou a primeira adaptação não oficial de GTA 6 para PC a receber um **lançamento público com executável**, dispensando a necessidade de compilar o código manualmente. Em sua versão 0.5.2, o projeto corrigiu falhas de compilação de shaders em placas AMD, ativou o carregamento de cenários sob demanda e alcançou **médias entre 18,9 e 22 FPS em uma Radeon RX 9060 XT**, além de já suportar controles DualSense, DualShock 4 e comandos nativos de teclado e mouse.\n\n## Multiplayer antes da Rockstar e ferramentas de modificação\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nEnquanto o ScarlettPort abre as portas ao público geral, outras iniciativas fechadas avançam ainda mais rápido. O projeto CGBJ, o que mais avança, já virou alvo de modders. Foi justamente sobre essa versão que o modder TeK demonstrou um **modo multiplayer funcional rodando entre 25 e 30 FPS, sincronizando personagens e veículos no mesmo mapa com chat de voz por proximidade**, algo que não deve chegar tão cedo oficialmente pela Rockstar.\n\nEnquanto isso, o primeiro mod de menu funcional dentro do jogo, com interface inspirada nos clássicos trainers de GTA 5, e launcher dedicado para gerenciar o título no PC também já foram lançados. Como a Take-Two, dona da Rockstar, está indo com tudo para cima desses projetos, alguns vídeos demonstrando essas modificações estão sendo derrubados rapidamente.\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/aeZk-tAWjkxGP_ol2DwT6SxAvlA=/1200x675/smart/filters:format(webp):quality(85)/322ae029-7cd7-4a94-b9d9-29d984edc38f.png",
+   "text": "Publicidade\n\nHome\n\nNotícias\n\nTudo sobre Produtos\n\n# Amazon tem descontão no Apple AirTag para você localizar pets e objetos\n\nPor Canaltech Ofertas \\| 27/11/2026 às 16:24\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/322ae029-7cd7-4a94-b9d9-29d984edc38f.png)Imagem gerada por IA/ChatGPT\n\nPerder as chaves antes de sair de casa, passar sufoco com uma mala extraviada no aeroporto ou ficar preocupado com o paradeiro do seu pet são dores de cabeça que ninguém quer enfrentar. Para resolver esse problema de vez, a **Black Friday da Amazon derrubou o preço do Apple AirTag de 2ª geração para R$ 278,99 no pagamento via Pix**.\n\nContinua após a publicidade\n\nO valor chama atenção porque coloca o localizador bem abaixo dos **R$ 369 cobrados oficialmente pela Apple** e ainda supera a concorrência direta neste período promocional — para efeito de comparação, o mesmo modelo está saindo por **R$ 299 na KaBuM**. Como ofertas desse tipo costumam durar pouco ou esgotar o estoque rapidamente na Black Friday, vale aproveitar o desconto agora mesmo.\n\n👉 **Garanta o Apple AirTag de 2ª geração por R$ 278,99 no Pix na Amazon**\n\n## Como é o Apple AirTag de 2ª geração\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nA segunda geração do rastreador manteve o design compacto e discreto que cabe em qualquer bolso ou chaveiro, mas trouxe evoluções práticas no que realmente importa: encontrar seus pertences mais rápido. O primeiro grande destaque é o novo chip de banda ultralarga combinado a um Bluetooth aprimorado, que entrega uma **Busca Precisa com alcance até 50% maior** . Na prática, o seu iPhone — e agora também modelos recentes do Apple Watch — guia você com setas e distância exata de muito mais longe.\n\nOutro avanço que faz diferença imediata na rotina é o **alto-falante 50% mais potente**. Se a carteira escorregou para o fundo da mochila ou as chaves ficaram escondidas entre as almofadas do sofá, basta acionar o alerta sonoro para ouvir o acessório com facilidade, mesmo em ambientes com barulho.\n\nContinua após a publicidade\n\nPor fim, o AirTag foi feito para aguentar o ritmo do dia a dia sem exigir manutenção constante. Ele conta com **certificação IP67 de resistência contra água, respingos e poeira**, além de funcionar por **mais de um ano com uma bateria comum CR2032** que você mesmo troca em segundos quando o iPhone avisar.\n\n## Onde usar o AirTag e como funciona a integração com o iPhone\n\nA versatilidade é o maior trunfo do acessório. Você pode prender o localizador nas **chaves de casa ou do carro**, colocar dentro da **carteira ou mochila**, despachar dentro da **mala de viagem** e até acoplar na **coleira do seu pet**. Para quem viaja de avião, o sistema ainda permite compartilhar temporariamente a localização do item com companhias aéreas parceiras caso a bagagem seja extraviada.\n\nA mágica para quem tem iPhone está na **integração nativa com o app Buscar**, sem necessidade de baixar aplicativos extras ou pagar mensalidades. A configuração acontece em segundos por aproximação e o acompanhamento do mapa é direto e intuitivo.\n\nContinua após a publicidade\n\nUm detalhe importante que muita gente não sabe é que o **AirTag não se conecta à internet e nem precisa de chip de operadora**. Ele usa o sinal Bluetooth de forma anônima de outros dispositivos Apple que passam por perto para triangular a posição e enviar o local apenas para o dono, com criptografia de ponta a ponta. Além disso, por segurança, o rastreador **não pode ser recadastrado por terceiros:** só é possível vinculá-lo a outra conta se o proprietário original fizer a remoção.\n\n## Vale a pena comprar o Apple AirTag de 2ª geração?\n\nSe você já utiliza iPhone e quer mais tranquilidade na rotina, o Apple AirTag de 2ª geração é um dos acessórios mais úteis que você pode colocar no carrinho nesta Black Friday. Compradores nas lojas destacam que o produto se torna **indispensável para quem viaja com frequência ou tem pets**, elogiando o funcionamento simples, a precisão na localização e a praticidade do som na hora de achar objetos perdidos dentro de casa.\n\nAlém da experiência amigável dentro do ecossistema Apple, a condição atual deixa a compra ainda mais fácil de justificar. Pagando **R$ 278,99 no Pix na Amazon**, você economiza em relação aos R$ 299 da KaBuM e leva para casa a versão mais recente e potente do rastreador com um ótimo desconto de Black Friday. Clique no link abaixo e garanta o seu antes que o preço volte ao normal.\n\nContinua após a publicidade\n\n👉 **Compre o Apple AirTag de 2ª geração por R$ 278,99 no Pix na Amazon**\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
    "text_source": "firecrawl",
    "images": [
-    "https://tl.ctcdn.com.br/NyCIVnH5Ew-pQPcpH01fylZOiQ0=/1200x675/smart/filters:format(webp):quality(85)/b2e77bb2-3dcf-48cf-beb1-fd7afa405384.jpg",
-    "https://tl.ctcdn.com.br/LdB9yP5Q92-cs3mhTWWrVoQhKGc=/640x360/smart/filters:format(webp"
+    "https://tl.ctcdn.com.br/aeZk-tAWjkxGP_ol2DwT6SxAvlA=/1200x675/smart/filters:format(webp):quality(85)/322ae029-7cd7-4a94-b9d9-29d984edc38f.png",
+    "https://tl.ctcdn.com.br/t_8dM-2VaOtSbxH5NcukNvepRvA=/640x360/smart/filters:format(webp"
    ],
    "videos": [],
    "keywords": [
-    "GTA",
-    "6",
-    "PC"
+    "Apple",
+    "AirTag"
    ],
-   "searches": [
-    "gta 6 pc port",
-    "gta 6 pc",
-    "gta 6 pc ao vivo",
-    "gta 6 pc online",
-    "gta 6 pc port gameplay",
-    "gta 6 pc como baixar"
-   ]
+   "searches": []
+  },
+  {
+   "id": "reteprecodoiphoneairde1tbcom58dedesconto",
+   "title": "Mercado Livre derrete preço do iPhone Air de 1 TB com 58% de desconto",
+   "source": "Canaltech",
+   "url": "https://canaltech.com.br/smartphone/mercado-livre-derrete-preco-do-iphone-air-de-1-tb-com-58-de-desconto/",
+   "published": "2026-11-27T18:40:21+00:00",
+   "summary": "Mercado Livre derrete preço do iPhone Air de 1 TB com 58% de desconto Quem estava esperando o preço do iPhone Air baixar para trocar de celular pode aproveitar uma das grandes ofertas desta Black Friday. A versão com 1 TB de armazenamento interno está disponível por apenas R$ 5.579,10 no Mercado Livre. O smartphone chegou ao Brasil por R$ 13.499 nesta configuração, o que representa uma economia de",
+   "score": 4.48,
+   "why": [
+    "Tema de alto interesse"
+   ],
+   "also_in": [],
+   "image": "https://tl.ctcdn.com.br/Equ4aYBlLuKCzuIICVD3zoJ712Q=/1200x675/smart/filters:format(webp):quality(85)/2d695d40-d3c2-47e3-9bcd-11f93335bb16.jpg",
+   "text": "Mercado Livre derrete preço do iPhone Air de 1 TB com 58% de desconto Quem estava esperando o preço do iPhone Air baixar para trocar de celular pode aproveitar uma das grandes ofertas desta Black Friday. A versão com 1 TB de armazenamento interno está disponível por apenas R$ 5.579,10 no Mercado Livre. O smartphone chegou ao Brasil por R$ 13.499 nesta configuração, o que representa uma economia de R$ 7.919,90 em relação ao preço de lançamento. Para garantir o desconto, basta selecionar a cor azul-céu e realizar o pagamento via Pix. Quem preferir pagar com cartão de crédito pode adquirir o celular por R$ 6.199, em até 10 parcelas de R$ 619,90 sem juros. 🛒 Compre o iPhone Air de 1 TB por R$ 5.579,10 no Mercado Livre Como é o iPhone Air? Com apenas 5,64 mm de espessura e 165 gramas , o iPhone Air é o celular mais fino já produzido pela Apple. O aparelho tem estrutura em titânio, proteção Ceramic Shield na parte frontal e traseira e certificação IP68 de resistência à água e à poeira. Mesmo com suas dimensões reduzidas, o smartphone conta com uma tela OLED de 6,5 polegadas e taxa de atualização adaptativa de até 120 Hz, que proporciona maior fluidez ao jogar, acessar redes sociais e alternar entre aplicativos. O desempenho fica a cargo do processador A19 Pro, também presente no iPhone 17 Pro, embora com um núcleo gráfico a menos. Já o armazenamento de 1 TB oferece espaço de sobra para instalar jogos pesados e guardar fotos e gravações em 4K. O celular possui uma única câmera traseira de 48 MP, capaz de capturar imagens com aproximação de 2x a partir do sensor principal. Na parte frontal, há uma câmera de 18 MP com enquadramento automático. Vale a pena comprar o iPhone Air? O iPhone Air é indicado principalmente para quem busca um celular potente, mas não gosta de carregar aparelhos grandes e pesados no bolso. Na análise do iPhone Air feita pelo Canaltech , o smartphone se destacou pelo conforto durante o uso, pelo desempenho e pela qualidade das fotos capturadas com sua única câmera traseira. A autonomia de bateria e a ausência de câmeras auxiliares são os principais pontos negativos do modelo. Além disso, o aparelho funciona exclusivamente com eSIM, sem entrada para chips físicos. No Mercado Livre, o smartphone possui nota média de 4,8 de 5 estrelas, com mais de 800 avaliações. Por pouco mais de R$ 5.500, a versão com maior capacidade de armazenamento do iPhone Air custa quase R$ 5 mil a menos do que o modelo de 256 GB custava no lançamento. 🛒 Aproveite a Black Friday e garanta o iPhone Air de 1 TB com 58% de desconto",
+   "text_source": "rss",
+   "images": [
+    "https://tl.ctcdn.com.br/Equ4aYBlLuKCzuIICVD3zoJ712Q=/1200x675/smart/filters:format(webp):quality(85)/2d695d40-d3c2-47e3-9bcd-11f93335bb16.jpg",
+    "https://tl.ctcdn.com.br/6V0eTJoz8-80MTyKSwUuqV4EQj4=/0x0/filters:format(webp):quality(85)/2e27fd5a-a274-4256-8b2a-bb725df156b2.jpg"
+   ],
+   "videos": [],
+   "keywords": [
+    "Livre",
+    "Air",
+    "1"
+   ],
+   "searches": []
   },
   {
    "id": "aziaabadogeminidevorarmemoriaramnochrome",
@@ -449,7 +588,7 @@
    "url": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
    "published": "2026-11-27T18:02:00+00:00",
    "summary": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a versão web do Gemini consumir quantidades excessivas de memória RAM no Chrome. O problema era relatado por usuários havia mais de um ano, com registros de consumo de até 8,4 GB de RAM em uma única aba do navegador. A correção foi confirmada pelo perfil oficial de suporte do Google no ",
-   "score": 4.97,
+   "score": 4.44,
    "why": [
     "Tema de alto interesse"
    ],
@@ -470,164 +609,52 @@
    "searches": []
   },
   {
-   "id": "tividadeparagerenciartarefaserotinasdaia",
-   "title": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
+   "id": "r4comecamacairealiviamcrisederampara2027",
+   "title": "Preços da memória DDR4 começam a cair e aliviam crise de RAM para 2027",
    "source": "Canaltech",
-   "url": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
-   "published": "2026-11-27T17:02:00+00:00",
-   "summary": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualização para o Gemini Live que permitirá acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhará uma seção chamada \"Atividade\", que reunirá tarefas pontuais e programadas pelo usuário. A novidade foi identificada pelo p",
-   "score": 4.9,
+   "url": "https://canaltech.com.br/hardware/precos-da-memoria-ddr4-comecam-a-cair-e-aliviam-crise-de-ram-para-2027/",
+   "published": "2026-11-27T21:07:00+00:00",
+   "summary": "Preços da memória DDR4 começam a cair e aliviam crise de RAM para 2027 Após meses de aumentos nos preços de memória RAM , o mercado finalmente começa a dar os primeiros sinais de respiro. De acordo com um novo relatório da consultoria TrendForce, os preços dos módulos DDR4 e DDR3 iniciaram uma trajetória de queda , levando a empresa de pesquisa a revisar para baixo suas projeções de aumento nos co",
+   "score": 4.03,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Apps\n\n# Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA\n\nPor Marcelo Fischer \\| 27/11/2026 às 14:02\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Link\n\n:quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png)Marcelo Salvatico/Canaltech\n\nO Google trabalha em uma atualização para o Gemini Live que permitirá **acompanhar tarefas executadas pela inteligência artificial (IA) em segundo plano**. O modo de conversas por voz do Gemini ganhará uma seção chamada \"Atividade\", que reunirá tarefas pontuais e programadas pelo usuário.\n\nContinua após a publicidade\n\nA novidade foi identificada pelo portal Android Authority nesta sexta-feira (27), durante uma análise do código da versão 17.78.14 do aplicativo do Google para Android.\n\nAtualmente, já é possível solicitar a execução de tarefas por meio do Gemini Live. A atualização permitirá acompanhar essas atividades sem precisar retornar à interface principal do aplicativo.\n\n## Como funcionará a aba de Atividade do Gemini Live?\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nLocalizada na parte superior da interface do Gemini Live, a nova seção será dividida em duas categorias:\n\n- **Tarefas:** atividades atribuídas à IA para serem executadas em segundo plano;\n\n- **Agendadas:** tarefas que devem ser realizadas periodicamente, conforme as instruções do usuário.\n\nNos testes do Android Authority, foi possível acessar as duas abas, mas nenhuma delas exibiu as tarefas criadas pelo portal.\n\n## Quais tarefas podem ser agendadas no Gemini?\n\nO Gemini permite programar atividades para serem executadas diariamente, semanalmente ou em outros intervalos definidos pelo usuário.\n\nEntre as possibilidades de uso da ferramenta, estão:\n\n- Receber um resumo das principais notícias todas as manhãs;\n\n- Consultar os compromissos do dia no Google Agenda;\n\n- Receber relatórios semanais sobre determinado assunto;\n\n- Monitorar o recebimento de e-mails importantes.\n\nSegundo a documentação do Google, assinantes dos planos Google AI Pro e Ultra podem manter até 50 agendamentos de tarefas ativos simultaneamente. No Brasil, o acesso à ferramenta de tarefas autônomas depende da assinatura de um desses planos.\n\nContinua após a publicidade\n\n## Gemini Live também ganhará campo de texto\n\nOutra novidade identificada pelo Android Authority é a inclusão de um campo de texto na interface do Gemini Live.\n\nA ferramenta substituirá o elemento visual que acompanha as conversas por voz e permitirá digitar comandos sem encerrar a sessão. Os botões de câmera e microfone também deverão ser incorporados ao novo campo.\n\nContinua após a publicidade\n\nA mudança será útil em situações nas quais o usuário não pode falar em voz alta, como em ambientes de trabalho ou no transporte público.\n\nO Google ainda não anunciou oficialmente as duas novidades e não há previsão de lançamento.\n\n**Você também confere no Canaltech:** O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
-    "https://tl.ctcdn.com.br/gAgQk-TnVOnZ6gkzX4TrkyqHCNU=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Live",
-    "Atividade",
-    "IA"
-   ],
-   "searches": []
-  },
-  {
-   "id": "neairde256gbdesabaemofertadomercadolivre",
-   "title": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/smartphone/preco-do-iphone-air-de-256-gb-desaba-em-oferta-do-mercado-livre/",
-   "published": "2026-11-27T15:53:34+00:00",
-   "summary": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre Quem acompanha promoções de celulares sabe que encontrar um iPhone com mais de 50% de desconto é raridade, mesmo na Black Friday. Pois o Apple iPhone Air de 256 GB acaba de atingir o menor preço histórico registrado pelo CT Ofertas , saindo por R$ 5.399,10 no Pix no Mercado Livre. Para colocar esse corte em perspectiva, o mesmo aparel",
-   "score": 4.83,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/IvZONm7l_GrrusFyVKA5j6araV4=/1200x675/smart/filters:format(webp):quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg",
-   "text": "Parceiro\n\nPublicidade\n\nHome\n\nNotícias\n\nTudo sobre Smartphone\n\n# Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre\n\nPor Canaltech Ofertas \\| 27/11/2026 às 12:53\n\nCompartilhe:\n\nCompartilhar com WhatsappCompartilhar com FacebookCompartilhar com E-mail\n\nPrefira o CT no Google\n\nCT Mobile\n\n:quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg)Ivo Meneghel Jr./ Canaltech\n\nQuem acompanha promoções de celulares sabe que encontrar um iPhone com mais de 50% de desconto é raridade, mesmo na Black Friday. Pois o **Apple iPhone Air de 256 GB** acaba de atingir o **menor preço histórico registrado pelo CT Ofertas**, saindo por **R$ 5.399,10 no Pix** no Mercado Livre.\n\nContinua após a publicidade\n\nPara colocar esse corte em perspectiva, o mesmo aparelho custa **R$ 10.999 na loja oficial da Apple** sem desconto. Estamos falando de uma economia de **quase R$ 5.600** em um dos celulares mais desejados do momento. Como ofertas agressivas de iPhone costumam durar poucas horas — ou minutos —, vale agir rápido para não perder o estoque.\n\n👉 **Compre o Apple iPhone Air 256 GB por R$ 5.399,10 no Pix pelo Mercado Livre**\n\n## Como é o Apple iPhone Air\n\nReceba as melhores ofertas de tecnologiaCupons e alertas de preço selecionados pela equipe do Canaltech, direto no seu WhatsApp.\n\nWhatsApp\n\nContinua após a publicidade\n\nO grande diferencial do iPhone Air está na **sensação de leveza e no conforto ao usar**. Se você cansou de carregar tijolos pesados no bolso ou de sentir a mão cansada depois de alguns minutos navegando nas redes sociais, o design ultrafino e compacto entrega uma experiência muito mais prática no dia a dia.\n\nMesmo sendo extremamente fino, o aparelho não passa fragilidade. Ele se destaca pela **alta resistência**, dando mais tranquilidade para a rotina corrida. Somado a isso, a versão em oferta já vem com **256 GB de armazenamento interno**, espaço de sobra para guardar milhares de fotos, vídeos e aplicativos sem ficar apagando arquivos toda semana.\n\nContinua após a publicidade\n\nNa hora de registrar momentos, a **câmera entrega fotos muito boas para o uso cotidiano**, com a praticidade de apontar e clicar sem precisar mexer em ajustes profissionais complexos. O conjunto de áudio também cumpre bem o papel para vídeos, chamadas e músicas.\n\nQuer conferir todos os testes de desempenho, tela e câmera antes de fechar o pedido? Leia o review completo do iPhone Air no **CT**.\n\n## Vale a pena comprar o Apple iPhone Air?\n\nAs avaliações de quem já comprou o modelo ajudam a definir exatamente para quem ele é feito. Usuários que migraram até de versões maiores, como o Pro Max, relatam que **a leveza na mão e no bolso é insuperável** e que não sentem falta dos recursos avançados de câmera que raramente usavam no dia a dia.\n\nContinua após a publicidade\n\nPor outro lado, a transparência conta muito nessa escolha: **a bateria é o principal ponto de atenção**. Para quem tem uma rotina moderada, uma carga segura o dia todo sem sustos. Já para quem passa o dia inteiro na rua ou produz muito conteúdo, pode ser necessário ter um reforço — algo que os próprios compradores resolvem facilmente com uma **bateria externa MagSafe**. Vale lembrar também que esta versão funciona **somente com eSIM** (chip virtual).\n\nNo preço cheio de R$ 10.999, o iPhone Air faz qualquer um pensar duas vezes. Mas caindo para **R$ 5.399,10 no Pix**, ele se transforma em uma das compras mais vantajosas desta Black Friday para quem busca um iPhone moderno, resistente, com 256 GB e extremamente confortável de usar.\n\n👉 **Garanta o Apple iPhone Air 256 GB no menor preço histórico pelo Mercado Livre**\n\nSeu resumo inteligente do mundo tech!\n\nAssine a newsletter do Canaltech e receba notícias e reviews sobre tecnologia em primeira mão.\n\nE-mail\n\ninscreva-se\n\nConfirmo que li, aceito e concordo com os **Termos de Uso e Política de Privacidade do Canaltech.**",
-   "text_source": "firecrawl",
-   "images": [
-    "https://tl.ctcdn.com.br/IvZONm7l_GrrusFyVKA5j6araV4=/1200x675/smart/filters:format(webp):quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg",
-    "https://tl.ctcdn.com.br/WUb2Jmmd33wlGtMdGHX10ajdiR0=/640x360/smart/filters:format(webp"
-   ],
-   "videos": [],
-   "keywords": [
-    "Air",
-    "256",
-    "GB"
-   ],
-   "searches": []
-  },
-  {
-   "id": "emininoandroidfazendoligacoeselendoatela",
-   "title": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
-   "published": "2026-11-27T15:02:00+00:00",
-   "summary": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android . As novidades aproximariam a inteligência artificial (IA) da empresa das funcionalidades oferecidas atualmente pelo Gemini, do Google. As ferramentas foram identif",
-   "score": 4.78,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
-   "text": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma série de recursos que permitirão ao ChatGPT realizar ligações, enviar mensagens e interpretar o conteúdo da tela de celulares Android . As novidades aproximariam a inteligência artificial (IA) da empresa das funcionalidades oferecidas atualmente pelo Gemini, do Google. As ferramentas foram identificadas pelo portal Android Authority nesta sexta-feira (27) no código da versão 1.2026.328 do app do ChatGPT para Android. Atualmente, já é possível configurar o ChatGPT como assistente padrão do sistema operacional do Google. Sua integração com as funções nativas do celular, entretanto, ainda é limitada. O que o ChatGPT poderá fazer no Android? Os códigos identificados pelo portal fazem referência a permissões de acesso a diferentes informações e funcionalidades do celular. Entre os recursos em desenvolvimento, estão: Realizar chamadas telefônicas; Ler e enviar mensagens SMS; Consultar contatos e histórico de ligações; Pausar, retomar e avançar músicas; Interpretar o conteúdo exibido na tela do celular. A leitura de tela permitirá fazer perguntas sobre o conteúdo de outros aplicativos sem precisar descrevê-lo ao ChatGPT ou enviar capturas de tela manualmente. Segundo o Android Authority, a IA poderá obter uma nova captura a cada pergunta do usuário para acompanhar mudanças no conteúdo exibido. Boa parte dessas funcionalidades já está disponível no Gemini. O assistente do Google também consegue realizar chamadas pelo WhatsApp, configurar alarmes e alterar algumas configurações do celular. Dots do ChatGPT poderão ser assistentes do Android Outra novidade identificada no código do aplicativo envolve os Dots , agentes de IA personalizáveis da OpenAI que conseguem executar tarefas mesmo quando o usuário não está conversando com o ChatGPT. Lançados em setembro, os agentes podem, por exemplo, monitorar preços de produtos, acompanhar notícias sobre determinado assunto e enviar lembretes ao usuário. As referências encontradas pelo Android Authority indicam que será possível configurar um Dot como assistente pessoal do Android. Há também indícios de que os agentes poderão ser acionados mesmo com a tela do celular bloqueada. Ainda não está claro quais funções do smartphone poderão ser acessadas pelos Dots e quais permissões serão necessárias para utilizá-las. A OpenAI não anunciou oficialmente os novos recursos. Como as funcionalidades foram identificadas no código do aplicativo, ainda não há garantia de que todas serão disponibilizadas ao público. Você também confere no Canaltech: 8 maneiras de usar os dots do ChatGPT",
+   "image": "https://tl.ctcdn.com.br/MBCSYefnAs-JCmIqMNoSF435QaI=/1200x675/smart/filters:format(webp):quality(85)/7f885bd8-b4d8-4968-823e-435db324c948.JPEG",
+   "text": "Preços da memória DDR4 começam a cair e aliviam crise de RAM para 2027 Após meses de aumentos nos preços de memória RAM , o mercado finalmente começa a dar os primeiros sinais de respiro. De acordo com um novo relatório da consultoria TrendForce, os preços dos módulos DDR4 e DDR3 iniciaram uma trajetória de queda , levando a empresa de pesquisa a revisar para baixo suas projeções de aumento nos contratos de DRAM para 2027 . Embora o cenário não indique que os componentes ficarão baratos imediatamente , os dados apontam para uma leve diminuição na crise de abastecimento. A retração na demanda aliada a uma postura mais cautelosa dos compradores é um dos motivos. No segmento corporativo, incertezas geopolíticas e indefinições sobre políticas de data centers nos EUA tornaram o planejamento mais conservador, enquanto servidores de serviços em nuvem da China reduziram parte de seus pedidos de memória para servidores. No varejo tradicional, os valores historicamente elevados afastaram os consumidores finais, forçando distribuidores e lojistas a diminuírem novas encomendas para priorizar a desova dos estoques atuais. DDR5 ainda deve subir Apesar do alívio nos padrões mais antigos, a TrendForce destaca que os preços contratuais das memórias DDR5 ainda devem registrar alta ao longo de 2027, mas em um ritmo bem menos agressivo do que o previsto anteriormente . Esse equilíbrio será favorecido pela reorganização da cadeia produtiva: enquanto gigantes como Samsung, SK hynix e Micron direcionaram grande parte de sua capacidade de produção para memórias HBM para aceleradores de IA, fabricantes menores têm ampliado sua atuação para suprir a lacuna no mercado de consumo. A expectativa da consultoria é de que a produção de DRAM voltada ao consumidor cresça significativamente na comparação anual em 2027 . Mesmo permanecendo abaixo do volume registrado em 2024, essa expansão da oferta deve reduzir a pressão sobre a cadeia de suprimentos. Ainda assim, executivos da indústria continuam afirmando que 2027 será o pior ano da crise .",
    "text_source": "rss",
    "images": [
-    "https://tl.ctcdn.com.br/MQLxUZjp6ylPSPJMwmKLobWZKQ4=/1200x675/smart/filters:format(webp):quality(85)/eff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg",
-    "https://tl.ctcdn.com.br/02gMzZ13-ru4ePC1pTZQgz9DhW8=/0x0/filters:format(webp):quality(85)/68a62ae2-6523-4cec-9d7f-ff9e1979f4e9.png"
+    "https://tl.ctcdn.com.br/MBCSYefnAs-JCmIqMNoSF435QaI=/1200x675/smart/filters:format(webp):quality(85)/7f885bd8-b4d8-4968-823e-435db324c948.JPEG"
    ],
    "videos": [],
    "keywords": [
-    "Gemini",
-    "Android"
+    "DDR4",
+    "RAM",
+    "2027"
    ],
    "searches": []
   },
   {
-   "id": "tradosemdatacenterchinesligadoamegaspeed",
-   "title": "Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed",
-   "source": "Olhar Digital",
-   "url": "https://olhardigital.com.br/2026/11/27/pro/chips-avancados-da-nvidia-sao-encontrados-em-data-center-chines-ligado-a-megaspeed/",
-   "published": "2026-11-27T17:38:53+00:00",
-   "summary": "Descoberta foi feita a partir de documentos apresentados por empresas chinesas para conseguir empréstimos bancários O post Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed apareceu primeiro em Olhar Digital .",
-   "score": 4.34,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [],
-   "image": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-4-1-1024x672.jpg",
-   "text": "Chips avançados da Nvidia foram identificados em um data center localizado em Xangai (China) que tem ligação com a empresária Alice Huang , fundadora da Megaspeed. A descoberta foi feita a partir de documentos apresentados por empresas chinesas para conseguir empréstimos bancários, segundo informações da Bloomberg . Entre os equipamentos identificados está um rack GB300 NVL72, que reúne 72 chips Blackwell Ultra e 36 processadores Grace. A tecnologia está entre as mais avançadas da Nvidia e sua exportação para a China está sujeita a restrições impostas pelo governo dos Estados Unidos . O data center tem conexões com a Megaspeed por meio de um projeto. A companhia foi fundada por Alice Huang e está sob investigação de autoridades estadunidenses, sob suspeita de envolvimento no desvio de semicondutores da Nvidia para o mercado chinês. Tecnologia está entre as mais avançadas da Nvidia e sua exportação para a China está sujeita a restrições impostas pelo governo dos Estados Unidos – Imagem: Antonio Bordunovi/iStock Nesta semana, a empresa também entrou em uma lista de restrições comerciais dos Estados Unidos. Leia mais: Pentágono discutiu usar lei de 1950 para pressionar a Nvidia a reconduzir CEO Nvidia proíbe envio de servidores para quatro países asiáticos Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia Origem dos equipamentos ainda é desconhecida A identificação dos servidores foi possível graças aos números de série presentes nos documentos analisados pela Bloomberg . Apesar disso, a agência não conseguiu determinar quem comprou originalmente os equipamentos nem como eles chegaram à China. Também não há comprovação de que a própria Megaspeed tenha enviado os chips ao data center. A possível participação da companhia no caso ainda está no campo das suspeitas, e a empresa nega ter cometido irregularidades. O episódio amplia as preocupações das autoridades estadunidenses sobre possíveis brechas nas restrições à exportação de semicondutores avançados. Esses componentes são considerados fundamentais para o desenvolvimento de sistemas de inteligência artificial (IA). O post Chips avançados da Nvidia são encontrados em data center chinês ligado à Megaspeed apareceu primeiro em Olhar Digital .",
-   "text_source": "rss",
-   "images": [
-    "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-4-1-1024x672.jpg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Nvidia",
-    "Megaspeed"
-   ],
-   "searches": []
-  },
-  {
-   "id": "lvendonuvemprivadapararecursosdogalaxyai",
-   "title": "Samsung está desenvolvendo nuvem privada para recursos do Galaxy AI",
+   "id": "appleaposseracusadadeespionagemcomercial",
+   "title": "OpenAI processa Apple após ser acusada de espionagem comercial",
    "source": "TecMundo",
-   "url": "https://www.estadao.com.br/tecmundo/produto-e-review/samsung-esta-desenvolvendo-nuvem-privada-para-recursos-do-galaxy-ai/",
-   "published": "2026-11-27T17:00:00+00:00",
+   "url": "https://www.estadao.com.br/tecmundo/big-techs/openai-processa-apple-apos-ser-acusada-de-espionagem-comercial/",
+   "published": "2026-11-27T20:30:00+00:00",
    "summary": "",
-   "score": 4.3,
+   "score": 3.99,
    "why": [
     "Tema de alto interesse"
    ],
    "also_in": [],
-   "image": "https://www.estadao.com.br/resizer/v2/5UXJPMS2OJEPTPVO72YAHM4XLM.jpg?quality=80&auth=010e0ca54b1512758d6b1451b2dda02dd3329d0f0d179cfe86117d35d4cbd5ad&width=710",
-   "text": "A Samsung está desenvolvendo uma infraestrutura de nuvem privada destinada ao processamento de recursos de inteligência artificial integrados ao ecossistema Galaxy AI, conforme revelou o site Android Authority na quinta-feira (26). Detalhes da novidade foram encontrados durante a análise de códigos presentes na One UI 9.5 Beta 1 . Denominado “SPAC”, o sistema aparentemente vai funcionar de maneira semelhante ao Private Cloud Compute (PCC) da Apple , lançado em 2024 para funções do Apple Intelligence, representando uma mudança importante na maneira como a empresa lida com a privacidade do usuário. Por enquanto, a gigante sul-coreana não comentou sobre a tecnologia. Protegendo informações pessoais Atualmente, funções simples do Galaxy AI são executadas no próprio dispositivo, mas isso muda quando ferramentas avançadas são acionadas, exigindo maior capacidade computacional. A partir daí, os dados das solicitações chegam aos servidores externos da Samsung . Processando esses recursos na nuvem da big tech, os dados do usuário são enviados para lá, também, embora a companhia afirme não armazenar tais informações ; Há a opção de ativar somente o processamento local, mas isso impede o uso de recursos avançados de IA; O sistema recém-descoberto surgirá para resolver esse problema, oferecendo uma camada adicional de proteção para o processamento remoto dos dados sem revelar a identidade do usuário ; Neste sentido, a reportagem especula que o nome SPAC signifique algo como “Samsung Private AI Cloud”, o que não não foi confirmado pela gigante da tecnologia. O novo sistema foi descoberto e testado em um Galaxy S26 Ultra. Foto: Wellington Arruda/Estadão/TecMundo Ainda conforme a publicação, a nuvem privada da Samsung deverá ser usada para funções como tradução de conversas, assistência à escrita (redação de texto, resumos e mudança de tom) e edição aprimorada de fotos . Now Brief e AI Select também estão entre os recursos mencionados no beta da One UI 9.5. Outro detalhe encontrado nos arquivos é a referência a diferentes modelos que poderão ser executados na nova infraestrutura. Qwen 3.6 da Alibaba e Gemma 4 do Google são alguns deles, assim como sistemas da OpenAI e da Meta . Quando estará disponível? Apesar de o site ter conseguido ativar e testar o SPAC em um Galaxy S26 Ultra com a função AI Select, o sistema ainda está em desenvolvimento. No momento, não há uma previsão oficial de lançamento da nuvem privada da Samsung para o Galaxy AI . Vale lembrar que Google e Meta também possuem soluções semelhantes, além da já citada Apple. Outro vazamento recente relacionado à Samsung envolve a One UI 10. Confira, nesta matéria , o que a próxima geração da interface poderá trazer de diferente. Com informações de Android Authority .",
+   "image": "https://www.estadao.com.br/resizer/v2/UQDAMT2TENBRLD6U7APUI4X4UQ.jpg?quality=80&auth=5bb058cd12c3cf4dc289491f0eeb16ebc21451bed1f3767f34a25e5828230491&width=710",
+   "text": "A empresa de inteligência artificial (IA) OpenAI abriu um processo contra a Apple sob a acusação de espionagem comercial . A própria Maçã está movendo uma ação judicial contra a dona do ChatGPT por motivos similares. De acordo com o Financial Times , o processo da companhia de IA acusa a Apple de roubo de segredos corporativos e bloquear o acesso da OpenAI a fornecedores de hardware , o que configura também uma ação anticompetitiva de mercado. Na primeira acusação, segundo a reportagem, um funcionário que saiu da OpenAI teria voltado para a Apple, sua antiga empregadora, e compartilhado detalhes sobre planos de produtos e cadeias de suprimentos. Pressão para evitar concorrência Os documentos submetidos pela companhia em um tribunal da Califórnia alegam ainda que a Apple estaria adotando “uma ampla variedade de condutas ilícitas, desleais e tortuosas” para evitar competição. Mais especificamente, ela estaria se aproveitando do “ tamanho e patrimônio ” para coagir e ameaçar fornecedores que eventualmente seriam contratados para fornecer componentes e outros serviços para a OpenAI. A dona do ChatGPT atualmente desenvolve eletrônicos que devem ser lançados nos próximos anos — inclusive sob a supervisão de Jony Ive , ex-guru de design da Apple, que teve a startup adquirida pela empresa de Sam Altman. A Apple abriu o processo contra a OpenAI em julho , por supostamente roubar segredos sobre produtos ainda em desenvolvimento. Isso teria sido feito a partir do download ilegal de documentos e por informações obtidas de candidatos a vagas de emprego . Ver esse post no Instagram Um post compartilhado por TecMundo (@tecmundo) O caso original segue em andamento e, em outubro deste ano , a Apple conseguiu via decisão judicial o acesso a registros de entrevistas de contratação da OpenAI para buscar evidências. Até o momento, as empresas não comentaram oficialmente a notícia do novo processo. Acesse a seção sobre IA em nosso site e continue informado sobre as novidades desse setor. /Com informações de Financial Times .",
    "text_source": "rss",
    "images": [
-    "https://www.estadao.com.br/resizer/v2/5UXJPMS2OJEPTPVO72YAHM4XLM.jpg?quality=80&auth=010e0ca54b1512758d6b1451b2dda02dd3329d0f0d179cfe86117d35d4cbd5ad&width=710"
+    "https://www.estadao.com.br/resizer/v2/UQDAMT2TENBRLD6U7APUI4X4UQ.jpg?quality=80&auth=5bb058cd12c3cf4dc289491f0eeb16ebc21451bed1f3767f34a25e5828230491&width=710"
    ],
    "videos": [],
    "keywords": [
-    "Galaxy",
-    "AI"
-   ],
-   "searches": []
-  },
-  {
-   "id": "inidespencaparar299nopixdomagalucomcupom",
-   "title": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom",
-   "source": "Canaltech",
-   "url": "https://canaltech.com.br/telecom/antena-starlink-mini-despenca-para-r-299-no-pix-do-magalu-com-cupom/",
-   "published": "2026-11-27T16:53:50+00:00",
-   "summary": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom Levar internet de alta velocidade e baixa latência para sítios, chácaras, viagens de carro ou áreas rurais onde a fibra óptica não chega nunca esteve tão barato. A antena de internet via satélite Starlink Mini é a versão ultracompacta e portátil da SpaceX, projetada para caber facilmente na mochila e entregar conexão estável em q",
-   "score": 4.29,
-   "why": [
-    "Tema de alto interesse"
-   ],
-   "also_in": [
-    {
-     "source": "Canaltech",
-     "url": "https://canaltech.com.br/telecom/starlink-mini-x-com-roteador-wi-fi-6-por-apenas-r-71233-no-pix/"
-    }
-   ],
-   "image": "https://tl.ctcdn.com.br/DT1-OLvNA0ZqTtlN8hQqmZgU51Y=/1200x675/smart/filters:format(webp):quality(85)/b8d138c0-5e48-4d28-bbf4-01dff49052f6.jpg",
-   "text": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom Levar internet de alta velocidade e baixa latência para sítios, chácaras, viagens de carro ou áreas rurais onde a fibra óptica não chega nunca esteve tão barato. A antena de internet via satélite Starlink Mini é a versão ultracompacta e portátil da SpaceX, projetada para caber facilmente na mochila e entregar conexão estável em questão de minutos, já com roteador Wi-Fi integrado na própria placa. A oportunidade imperdível está no Magazine Luiza. Aplicando o cupom LU100 no carrinho e optando pelo pagamento à vista no PIX , o valor da antena despenca para R$ 299,00 . Para um equipamento que costuma custar muito mais no varejo nacional, essa é uma das quedas de preço mais agressivas já registradas para entrar no ecossistema da Starlink. Compre agora sua antena da Starlink para ter internet em qualquer lugar Como é a antena Starlink Mini? O grande diferencial da Starlink Mini é a combinação de portabilidade extrema e praticidade. Pesando cerca de 1,1 kg e com dimensões parecidas com as de um notebook ( aproximadamente 30 x 26 cm ), ela dispensa o roteador externo tradicional porque já traz um roteador Wi-Fi 5 integrado diretamente no corpo da antena . Basta posicioná-la com visão livre para o céu, conectar à energia e configurar tudo pelo aplicativo oficial em poucos minutos. Pensada para encarar qualquer ambiente, a antena possui certificação IP67, o que garante resistência contra poeira e chuva forte. Além disso, ela se destaca pelo baixo consumo de energia (média entre 25 W e 40 W), permitindo o uso inclusive com fontes portáteis e sistemas de energia solar compatíveis, e suporta até 128 dispositivos conectados simultaneamente com cobertura de até 112 m². Especificações Completas: Modelo: Antena de Internet via Satélite Starlink Mini (Cor: Branco) Tipo de Antena: Matriz faseada eletrônica (alinhamento guiado via aplicativo) Roteador Integrado: Sim, Wi-Fi 5 (Dual Band) embutido na antena Capacidade: Conecta até 128 dispositivos simultaneamente Cobertura estimada: Até 112 m² (variando conforme obstáculos) Resistência: Certificação IP67 (proteção contra água e poeira) Dimensões e Peso: Aproximadamente 30 x 26 cm e peso em torno de 1,1 kg Consumo Médio: 25 W a 40 W (alimentação via tomada ou fonte portátil compatível; não possui bateria interna) Vale a pena comprar a Antena Starlink Mini? Nos principais sites de vendas, a Starlink Mini mantém avaliações muito altas, com os compradores elogiando principalmente a facilidade absurda de instalação (basta ligar e apontar para o céu com ajuda do app), a portabilidade para levar em viagens ou trabalhos em campo e a estabilidade da velocidade em regiões remotas onde o 4G/5G mal funciona. Quem utiliza o aparelho em propriedades rurais ou para home office na estrada costuma destacar que o roteador integrado já resolve bem a conexão para ambientes próximos. Entre os pontos de atenção mais citados nos comentários dos usuários estão a necessidade de contratar um plano mensal da Starlink separadamente e a importância de evitar barreiras físicas como árvores densas ou telhados, que podem causar oscilações no sinal. Não perca esse desconto e compre sua antena da Starlink",
-   "text_source": "rss",
-   "images": [
-    "https://tl.ctcdn.com.br/DT1-OLvNA0ZqTtlN8hQqmZgU51Y=/1200x675/smart/filters:format(webp):quality(85)/b8d138c0-5e48-4d28-bbf4-01dff49052f6.jpg",
-    "https://tl.ctcdn.com.br/F3tw5ombYh8ngmv3_XAqjbdyvvE=/0x0/filters:format(webp):quality(85)/c47d9573-10fb-434c-903e-fb9b7689eca8.jpeg"
-   ],
-   "videos": [],
-   "keywords": [
-    "Starlink",
-    "Mini",
-    "R"
+    "Apple"
    ],
    "searches": []
   }
